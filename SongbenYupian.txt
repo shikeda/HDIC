@@ -25,6 +25,8 @@
 #	KSY_diff	: Differences of SYID with Kunaicho Shoryobu edition
 #	SY_remarks	: Editor's notes
 #
+#	This work was supported by JSPS KAKENHI Grant Number 25370506.
+#
 SYID	SY_vol_radical	SY_radical	Entry	Entry_original	UCShex	SY_def	KSY_diff
 a005a101	v1#1	一	一		&#x4E00;	於逸切。《說文》曰：惟初太始、道立於一、造分天地、化成萬物。《道德經》云：昔之得一者、天得一以清、地得一以寧、神得一以靈、谷得一以盈、萬物得一以生、侯王得一以為天下正。王弼曰：一者數之始也、物之極也。又同也、少也、初也。或作壹。	
 a005b011	v1#1	一	弌		&#x5F0C;	古文。	

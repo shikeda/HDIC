@@ -1,8 +1,8 @@
 #	HDIC Project
 #	HDIC is an abbreviation of the Integrated Database of Hanzi Dictionaries in Early Japan
 #	SYP: Songben Yupian database
-#	Version: 1.0
-#	Date: 10 October 2015
+#	Version: 1.0.1
+#	Date: 20 October 2015
 #
 #	Copyright (c) 2014-2015 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)

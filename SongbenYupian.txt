@@ -1,8 +1,11 @@
 #	HDIC Project
-#	HDIC is an abbreviation of the Integrated Database of Hanzi Dictionaries in Early Japan
+#	Integrated Database of Hanzi Dictionaries in Early Japan
+#
 #	SYP: Songben Yupian database
-#	Version: 1.0.1
+#
+#	Version: 1.0.2
 #	Date: 20 October 2015
+#	Last update : 24 October 2015
 #
 #	Copyright (c) 2014-2015 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -21560,7 +21563,7 @@ c059b101	v27#427	素	素		&#x7D20;	先故切。白也本也、廉也、白緻繒
 c059b102	v27#427	素	𦃚		&#xD858;&#xDCDA;	同上。出《説文》。	
 c059b103	v27#427	素	𦁘		&#xD858;&#xDC58;	同上。	
 c059b104	v27#427	素	𦅽		&#xD858;&#xDD7D;	几足切。素屬。	
-c060a011	v27#427	素	䋤		&#x42E4;	戈灼切。縞也。又練也。	
+c060a011	v27#427	素	䋤		&#x42E4;	弋灼切。縞也。又練也。	
 c060a012	v27#427	素	𦆾		&#xD858;&#xDDBE;	力出切。紼也、索也、或作𦆽繂。	
 c060a013	v27#427	素	繛		&#x7E5B;	尺約切。緩也。今作綽。	
 c060a014	v27#427	素	𦅻		&#xD858;&#xDD7B;	乎管切。綽也。今作緩。	

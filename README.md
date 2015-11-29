@@ -11,12 +11,13 @@ Daguang yihui Yupian 大広益会玉篇, Song print 宋本. Chen Pengnian of the
 
 ## File name
 SonbenYupian.txt  
-Date: 20 October 2015
+Date: 20 October 2015  
+初版公開日
 
 ## Project Members
-平安時代漢字字書総合データベース編纂委員会
-Ikeda Shoju 池田　証壽, Chair 委員長
-Li Yuan 李　媛, person in Carge 担当  
+平安時代漢字字書総合データベース編纂委員会  
+Ikeda Shoju 池田　証壽, Chair 委員長  
+Li Yuan 李　媛, person in Carge 担当    
 Shirasu Hiroyuki, 巻第一校正協力
 
 ## Contact

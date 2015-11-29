@@ -27,4 +27,4 @@ Contact: hdic_info@let.hokudai.ac.jp
 
 ## Licence
 Feel free to copy and distribute.  
-Send bug reports and feature requests via email
+Send bug reports and feature requests via email.

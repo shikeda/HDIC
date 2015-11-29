@@ -6,6 +6,6 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 ---
 
 ## Members
-Ikeda Shoju (池田　証壽)
+Ikeda Shoju (池田　証壽)　　
 Li Yuan (李　媛)
 

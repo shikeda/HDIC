@@ -17,7 +17,7 @@ Date: 20 October 2015
 ## Project Members
 平安時代漢字字書総合データベース編纂委員会  
 Ikeda Shoju 池田　証壽, Chair 委員長  
-Li Yuan 李　媛, person in Carge 担当    
+Li Yuan 李　媛, person in Charge 担当    
 Shirasu Hiroyuki, 巻第一校正協力
 
 ## Contact

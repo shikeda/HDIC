@@ -23,7 +23,7 @@
 #	SY_radical	: Chinese character of radical 
 #	Entry		: Headword
 #	Entry_original	: Original headword (option)
-#	UCShex		: Numeric character reference in hexadecimal format
+#	Unicode		: Unicode scalar value
 #	SY_def		: Definition of pronunciation, meaning and variant(s)
 #	KSY_diff	: Differences of SYID with Kunaicho Shoryobu edition
 #	SY_remarks	: Editor's notes

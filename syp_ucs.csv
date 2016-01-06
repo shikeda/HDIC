@@ -23,14 +23,14 @@
 #	SY_radical	: Chinese character of radical 
 #	Entry		: Headword
 #	Entry_original	: Original headword (option)
-#	UCShex		: Numeric character reference in hexadecimal format
+#	Unicode		: Unicode scalar value
 #	SY_def		: Definition of pronunciation, meaning and variant(s)
 #	KSY_diff	: Differences of SYID with Kunaicho Shoryobu edition
 #	SY_remarks	: Editor's notes
 #
 #	This work was supported by JSPS KAKENHI Grant Number 25370506.
 #
-SYID	SY_vol_radical	SY_radical	Entry	Entry_original	UTF	SY_def	KSY_diff
+SYID	SY_vol_radical	SY_radical	Entry	Entry_original	Unicode	SY_def	KSY_diff
 a005a101	v1#1	一	一		U+4E00	於逸切。《說文》曰：惟初太始、道立於一、造分天地、化成萬物。《道德經》云：昔之得一者、天得一以清、地得一以寧、神得一以靈、谷得一以盈、萬物得一以生、侯王得一以為天下正。王弼曰：一者數之始也、物之極也。又同也、少也、初也。或作壹。	
 a005b011	v1#1	一	弌		U+5F0C	古文。	
 a005b012	v1#1	一	天		U+5929	他前切。《說文》曰：天顛也、至高無上、从一大。《爾雅》曰：春爲蒼天、夏爲昊天、秋爲旻天、冬爲上天。《詩傳》云：尊而君之則稱皇天、元氣廣大則稱昊天、仁覆閔下則稱旻天、自上降監則稱上天、據遠視之蒼蒼然則稱蒼天。《呂氏春秋》云：天有九野、東方蒼、東南方陽、南方炎、西南方朱、西方顥、西北方幽、北方玄、東北方變、中央鈞。《太玄經》曰：九天、一爲中、二爲羡、三爲從、四爲更、五爲睟、六爲廓、七爲減、八爲沈、九爲成。《釋名》曰：天豫司兖冀以舌腹言之。天顯也、在上高顯也。青徐以舌頭言之。天坦也、坦然高而遠也。	

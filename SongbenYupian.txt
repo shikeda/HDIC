@@ -3,9 +3,9 @@
 #
 #	SYP: Songben Yupian database
 #
-#	Version: 1.0.3
+#	Version: 1.0.4
 #	Date: 20 October 2015
-#	Last update : 28 November 2015
+#	Last update : 29 March 2016
 #
 #	Copyright (c) 2014-2015 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -4507,7 +4507,7 @@ a063a085	v6#66	手	㨴		&#x3A34;	居偃切。屋上㨴也。	a063a082
 a063a086	v6#66	手	拃		&#x62C3;	側板切。摸拃也。	a063a084
 a063a091	v6#66	手	𢪋		&#xD84A;&#xDE8B;	芳隴切。𢪋掬也。	a063a085
 a063a092	v6#66	手	㩳		&#x3A73;	先勇切。執也。	a063a086
-a063a093	v6#66	手	拆		&#x62C6;	歯隻切。擊也。	a063a091
+a063a093	v6#66	手	拆		&#x62C6;	齒隻切。擊也。	a063a091
 a063a094	v6#66	手	㩈		&#x3A48;	巨隕切。㩈束。	a063a092
 a063a095	v6#66	手	拄		&#x62C4;	張庾切。指拄也。	a063a093
 a063a096	v6#66	手	抧		&#x62A7;	側買切。擊也。	a063a094

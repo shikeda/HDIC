@@ -32,8 +32,7 @@ Daguang yihui Yupian 大広益会玉篇, Song print 宋本. Chen Pengnian of the
 #### File
 * SonbenYupian.txt (= SYP.txt)  
 Date: 20 October 2015  
-初版公開日
-
+初版公開日  
 Li Yuan 李　媛, Person in Charge 担当    
 Shirasu Hiroyuki 白須　裕之, 校正協力者 (Songben Yupian Vol.1)
 
@@ -87,7 +86,7 @@ Ruiju myogi sho 類聚名義抄, Kanchi’in copy 観智院本, reorganized edit
 under construction.
 
 * KRM_ndl.txt  
-Kanchiinbon Ruiju-myogi-sho (KRM) : Kazama-shobo edition, Tenri-zenpon-sosho edition and NDL's Digital Library from the Meiji Era
+Kanchiinbon Ruiju-myogi-sho (KRM) : Kazama-shobo edition, Tenri-zenpon-sosho edition and NDL's Digital Library from the Meiji Era.  
 
 ## Project Members
 The Editorial Committee of HDIC Database Project

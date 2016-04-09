@@ -13,14 +13,15 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 Yupian 玉篇, original edition 原本. Gu Yewang of the Liang dynasty 梁・顧野王, 543.  
 
 #### Files
-* YYP.txt YuanbenYupian.txt
+* YYP.txt
+
 under construction.
 
 Yuanben Yupian Fragments of vol.8, 9, 18, 19, 22, 24 and 27.  
 原本玉篇残巻（巻第8、9、18、19、22、24、27）
 
-* YuanbenYupianQuotedFragments.txt
-under construction.
+* YQF.txt
+under construction.  
 
 Yuanben Yupian Quoted Fragments in other books.
 原本玉篇逸文
@@ -33,7 +34,7 @@ Daguang yihui Yupian 大広益会玉篇, Song print 宋本. Chen Pengnian of the
 
 #### File
 SonbenYupian.txt  
-= SYP.txt
+(= SYP.txt)  
 Date: 20 October 2015  
 初版公開日
 
@@ -47,7 +48,7 @@ Shirasu Hiroyuki 白須　裕之, 校正協力者 (Songben Yupian Vol.1)
 Longkan shoujing 龍龕手鏡, Koryo print 高麗本. monk Xingjun of the the Liao Dynasty 遼・行均, 997.
 
 #### File
-LongkanShoujing.txt  
+GLS.txt  
 under construction.  
 
 ------------------------
@@ -59,10 +60,8 @@ under construction.
 
 Tenrei bansho meigi 篆隷萬象名義, Kozanji copy 高山寺本. monk Kukai of the Heian Period 空海, c. 827-835.
 #### Files
-###### TenreiBanshoMeigiHeadWord.txt
+* KTB_HeadWord.txt
 under construction.
-
-######
 
 ### Shinsen Jikyo 新撰字鏡
 #### TSJ : Tenjibon Shinsen Jikyo database

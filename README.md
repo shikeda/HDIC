@@ -13,13 +13,13 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 Yupian 玉篇, original edition 原本. Gu Yewang of the Liang dynasty 梁・顧野王, 543.  
 
 #### Files
-##### YuanbenYupian.txt
+* YYP.txt YuanbenYupian.txt
 under construction.
 
 Yuanben Yupian Fragments of vol.8, 9, 18, 19, 22, 24 and 27.  
 原本玉篇残巻（巻第8、9、18、19、22、24、27）
 
-##### YuanbenYupianQuotedFragments.txt
+* YuanbenYupianQuotedFragments.txt
 under construction.
 
 Yuanben Yupian Quoted Fragments in other books.
@@ -33,6 +33,7 @@ Daguang yihui Yupian 大広益会玉篇, Song print 宋本. Chen Pengnian of the
 
 #### File
 SonbenYupian.txt  
+= SYP.txt
 Date: 20 October 2015  
 初版公開日
 

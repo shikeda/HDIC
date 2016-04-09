@@ -7,20 +7,90 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 ---
 ## Medieval China dictionaries
 
-### SYP : Songben YuPian database 宋本玉篇データベース
-#### About Songben YuPian
+### Yuanben Yupian 原本玉篇
+#### YYP : Yuanben YuPian database
+
+Yupian 玉篇, original edition 原本. Gu Yewang of the Liang dynasty 梁・顧野王, 543.  
+
+#### Files
+##### YuanbenYupian.txt
+under construction.
+
+Yuanben Yupian Fragments of vol.8, 9, 18, 19, 22, 24 and 27.  
+原本玉篇残巻（巻第8、9、18、19、22、24、27）
+
+##### YuanbenYupianQuotedFragments.txt
+under construction.
+
+Yuanben Yupian Quoted Fragments in other books.
+原本玉篇逸文
+
+### Songben YuPian 宋本玉篇
+
+#### SYP : Songben YuPian database
+
 Daguang yihui Yupian 大広益会玉篇, Song print 宋本. Chen Pengnian of the Song dynasty 宋・陳彭年, 1013.
 
-### File
+#### File
 SonbenYupian.txt  
 Date: 20 October 2015  
 初版公開日
 
+Li Yuan 李　媛, Person in Charge 担当    
+Shirasu Hiroyuki 白須　裕之, 校正協力者 (Songben Yupian Vol.1)
+
+### Longkan Shoujing 龍龕手鏡
+#### GLS : Gaoliben Longkan Shoujing database
+
+
+Longkan shoujing 龍龕手鏡, Koryo print 高麗本. monk Xingjun of the the Liao Dynasty 遼・行均, 997.
+
+#### File
+LongkanShoujing.txt  
+under construction.  
+------------------------
+
+## Early Japan dictionaries
+
+### Tenrei Bansho meigi 篆隷万象名義
+#### KTB : Kozanjibon Tenrei Bansho meigi database 
+
+Tenrei bansho meigi 篆隷萬象名義, Kozanji copy 高山寺本. monk Kukai of the Heian Period 空海, c. 827-835.
+#### Files
+###### TenreiBanshoMeigiHeadWord.txt
+under construction.
+
+######
+
+### Shinsen Jikyo 新撰字鏡
+#### TSJ : Tenjibon Shinsen Jikyo database
+
+Shinsen Jikyo 新撰字鏡, Tenji copy 天治本. Buddhist monk Shoju 昌住, c. 898-901.
+
+#### Files
+under construction.
+
+### Zushoryobon Ruiju Myogi sho 図書寮本類聚名義抄
+#### ZRM : Zushoryobon Ruiju Myogi sho database
+
+Ruiju myogi sho 類聚名義抄, Zushoryo copy 図書寮本, original edition 原撰本. anonymous Buddhist monk, about 1100.
+
+#### Files
+under construction.
+
+### Kanchi’inbon Ruiju Myogi sho 観智院本類聚名義抄
+#### KRM : Kanchi’inbon Ruiju Myogi sho database
+
+Ruiju myogi sho 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. anonymous Buddhist monk, the latter half of the 12th century.
+
+#### Files
+under construction.
+
 ## Project Members
+The Editorial Committee of HDIC Database Project
 平安時代漢字字書総合データベース編纂委員会  
 Ikeda Shoju 池田　証壽, Chair 委員長  
-Li Yuan 李　媛, Person in Charge 担当    
-Shirasu Hiroyuki 白須　裕之, 巻第一校正協力者
+
 
 ## Contact
 Department of Linguistic Sciences, Hokkaido University Graduate School of Letters  

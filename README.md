@@ -1,15 +1,17 @@
-HDIC Database Project
-====
+# HDIC Database Project
+
 Integrated Database of Hanzi Dictionaries in Early Japan  
 平安時代漢字字書総合データベース  
 平安時代漢字字書綜合數據庫  
 
 ---
-## SYP : Songben YuPian database 宋本玉篇データベース
+## Medieval China dictionaries
 
+### SYP : Songben YuPian database 宋本玉篇データベース
+#### About Songben YuPian
 Daguang yihui Yupian 大広益会玉篇, Song print 宋本. Chen Pengnian of the Song dynasty 宋・陳彭年, 1013.
 
-## File name
+### File
 SonbenYupian.txt  
 Date: 20 October 2015  
 初版公開日

@@ -48,6 +48,7 @@ Longkan shoujing 龍龕手鏡, Koryo print 高麗本. monk Xingjun of the the Li
 #### File
 LongkanShoujing.txt  
 under construction.  
+
 ------------------------
 
 ## Early Japan dictionaries

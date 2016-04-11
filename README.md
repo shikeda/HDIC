@@ -8,26 +8,26 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 ## Medieval China dictionaries
 
 ### Yuanben Yupian 原本玉篇
-#### YYP : Yuanben YuPian database
+#### YYP : Yuanben Yupian database
 
 Yupian 玉篇, original edition 原本. Gu Yewang of the Liang dynasty 梁・顧野王, 543.  
 
 #### Files
 * YYP.txt  
 under construction.  
-Yuanben Yupian Fragments of vol.8, 9, 18, 19, 22, 24 and 27.  
+Yuanben Yupian fragments of vol.8, 9, 18, 19, 22, 24 and 27.  
 原本玉篇残巻  
 
 * YQF.txt  
 under construction.  
-Yuanben Yupian Quoted Fragments in other books  
+Yuanben Yupian quoted fragments in other books  
 原本玉篇逸文
 
 ### Songben YuPian 宋本玉篇
 
-#### SYP : Songben YuPian database
+#### SYP : Songben Yupian database
 
-Daguang yihui Yupian 大広益会玉篇, Song print 宋本. Chen Pengnian of the Song dynasty 宋・陳彭年, 1013.
+Daguang Yihui Yupian 大広益会玉篇, Song print 宋本. Chen Pengnian of the Song dynasty 宋・陳彭年, 1013.
 
 #### File
 * SYP.txt (= SonbenYupian.txt)  
@@ -40,7 +40,7 @@ Shirasu Hiroyuki 白須　裕之, 校正協力者 (Songben Yupian Vol.1)
 #### GLS : Gaoliben Longkan Shoujing database
 
 
-Longkan shoujing 龍龕手鏡, Koryo print 高麗本. monk Xingjun of the the Liao Dynasty 遼・行均, 997.
+Longkan Shoujing 龍龕手鏡, Koryo print 高麗本. monk Xingjun of the the Liao Dynasty 遼・行均, 997.
 
 #### File
 * GLS.txt  
@@ -50,10 +50,10 @@ under construction.
 
 ## Early Japan dictionaries
 
-### Tenrei Bansho meigi 篆隷万象名義
-#### KTB : Kozanjibon Tenrei Bansho meigi database 
+### Tenrei Bansho Meigi 篆隷万象名義
+#### KTB : Kozanjibon Tenrei Bansho Meigi database 
 
-Tenrei bansho meigi 篆隷萬象名義, Kozanji copy 高山寺本. monk Kukai of the Heian Period 空海, c. 827-835.
+Tenrei Bansho Meigi 篆隷萬象名義, Kozanji copy 高山寺本. monk Kukai of the Heian Period 空海, c. 827-835.
 #### Files
 * KTB_entries.txt  
 under construction.
@@ -67,26 +67,26 @@ Shinsen Jikyo 新撰字鏡, Tenji copy 天治本. Buddhist monk Shoju 昌住, c.
 * TSJ.txt  
 under construction.
 
-### Zushoryobon Ruiju Myogi sho 図書寮本類聚名義抄
-#### ZRM : Zushoryobon Ruiju Myogi sho database
+### Zushoryobon Ruiju Myogi Sho 図書寮本類聚名義抄
+#### ZRM : Zushoryobon Ruiju Myogi Sho database
 
-Ruiju myogi sho 類聚名義抄, Zushoryo copy 図書寮本, original edition 原撰本. anonymous Buddhist monk, about 1100.
+Ruiju Myogi Sho 類聚名義抄, Zushoryo copy 図書寮本, original edition 原撰本. anonymous Buddhist monk, about 1100.
 
 #### Files
 * ZRM.txt  
 under construction.
 
-### Kanchi’inbon Ruiju Myogi sho 観智院本類聚名義抄
+### Kanchi’inbon Ruiju Myogi Sho 観智院本類聚名義抄
 #### KRM : Kanchi’inbon Ruiju Myogi sho database
 
-Ruiju myogi sho 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. anonymous Buddhist monk, the latter half of the 12th century.
+Ruiju Myogi Sho 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. anonymous Buddhist monk, the latter half of the 12th century.
 
 #### Files
 * KRM.txt  
 under construction.
 
 * KRM_ndl.txt  
-Kanchiinbon Ruiju-myogi-sho (KRM) : Kazama-shobo edition, Tenri-zenpon-sosho edition and NDL's Digital Library from the Meiji Era.  
+Kanchiinbon Ruiju Myogi Sho (KRM) : Kazama Shobo edition, Tenri Zenpon Sosho edition and NDL's Digital Library from the Meiji Era.  
 
 ## Project Members
 The Editorial Committee of HDIC Database Project

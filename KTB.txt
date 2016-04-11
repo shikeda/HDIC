@@ -35,7 +35,7 @@
 #	TB_remarks	: Editor's notes
 #
 #	Abbreviations:
-#
+# 
 #	TB	: Tenrei Bansho Meigi 篆隷万象名義, Kozanji copy 高山寺本
 #	YY	: Yuanben Yupian 原本玉篇, Fragments of vol.8, 9, 18, 19, 22, 24 and 27
 #	SY	: Songben Yupian 宋本玉篇, Zecuntang edition 沢存堂本
@@ -50,7 +50,7 @@
 #	Shirafuji	: Shirafuji Noriyuki 白藤禮幸, An Index of Headwords in the Tenrei Bansho Meigi 掲出字索引, Materials from Ancient Glossaries in the Kozanji Temple Collection 1 高山寺古辞書資料第一, Tokyo: Uiversity of Tokyo Press 東京大学出版会, 1977.
 #	Miyazawa	: Miyazawa Toshimasa 宮澤俊雅, A List of Headwords with notes in the Tenrei Bansho Meigi 掲出字一覧表, Materials from Ancient Glossaries in the Kozanji Temple Collection 1 高山寺古辞書資料第一, Tokyo: University of Tokyo Press 東京大学出版会, 1977.
 #	Ueda		: Ueda Tadashi 上田正, A Complete List of Fanqie in the Original Yupian 玉篇反切総覧, Kobe: Private edition, 1986.
-#	Lu			: Lu Hao 呂浩, Zhuanli Wanxiang Mingyi: A Transliteration and Text-critical Notes 篆隸萬象名義校釋, Shanghai: Xuelin Press 學林出版社, 2007.
+#	Lu		: Lu Hao 呂浩, Zhuanli Wanxiang Mingyi: A Transliteration and Text-critical Notes 篆隸萬象名義校釋, Shanghai: Xuelin Press 學林出版社, 2007.
 #
 #	This work was supported by JSPS KAKENHI Grant Number 25370506.
 #

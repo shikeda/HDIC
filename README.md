@@ -67,26 +67,26 @@ Shinsen Jikyo 新撰字鏡, Tenji copy 天治本. Buddhist monk Shoju 昌住, c.
 * TSJ.txt  
 under construction.
 
-### Zushoryobon Ruiju Myogi Sho 図書寮本類聚名義抄
-#### ZRM : Zushoryobon Ruiju Myogi Sho database
+### Zushoryobon Ruiju Myogisho 図書寮本類聚名義抄
+#### ZRM : Zushoryobon Ruiju Myogisho database
 
-Ruiju Myogi Sho 類聚名義抄, Zushoryo copy 図書寮本, original edition 原撰本. anonymous Buddhist monk, about 1100.
+Ruiju Myogisho 類聚名義抄, Zushoryo copy 図書寮本, original edition 原撰本. anonymous Buddhist monk, about 1100.
 
 #### Files
 * ZRM.txt  
 under construction.
 
-### Kanchi’inbon Ruiju Myogi Sho 観智院本類聚名義抄
-#### KRM : Kanchi’inbon Ruiju Myogi sho database
+### Kanchi’inbon Ruiju Myogisho 観智院本類聚名義抄
+#### KRM : Kanchi’inbon Ruiju Myogisho database
 
-Ruiju Myogi Sho 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. anonymous Buddhist monk, the latter half of the 12th century.
+Ruiju Myogisho 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. anonymous Buddhist monk, the latter half of the 12th century.
 
 #### Files
 * KRM.txt  
 under construction.
 
 * KRM_ndl.txt  
-Kanchiinbon Ruiju Myogi Sho (KRM) : Kazama Shobo edition, Tenri Zenpon Sosho edition and NDL's Digital Library from the Meiji Era.  
+Kanchiinbon Ruiju Myogisho (KRM) : Kazama Shobo edition, Tenri Zenpon Sosho edition and NDL's Digital Library from the Meiji Era.  
 
 ## Project Members
 The Editorial Committee of HDIC Database Project

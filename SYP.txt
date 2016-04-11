@@ -18,7 +18,7 @@
 #
 #	CSV Format information:
 #
-#	SYID	: Book, leaf, a(recto) or b(verso), line and number (Zecuntang edition)
+#	SYID	: Book, leaf, recto-verso, line and number (Zecuntang edition)
 #	SY_vol_radical	: Volume and radical number
 #	SY_radical	: Chinese character of radical 
 #	Entry		: Headword

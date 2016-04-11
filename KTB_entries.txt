@@ -1,0 +1,57 @@
+#	HDIC Project
+#
+#	Integrated Database of Hanzi Dictionaries in Early Japan
+#
+#	KTB_entries : Kozanjibon Tenrei Bansho Meigi database
+#
+#	Kozanjibon Tenrei Bansho Meigi 篆隷萬象名義, Kozanji copy 高山寺本.
+#	monk Kukai of the Heian Period 空海, c. 827-835.
+#	A Hanzi (Chinese character) dictionary.
+#
+#	Version: 1.3.0
+#	Date: 25 September 1994
+#	Last update : 11 April 2016
+#
+#	Copyright (c) 1994-2016 HDIC project, IKEDA Shoju (Chair)
+#	LI Yuan (Person in Charge)
+#	Department of Linguistic Sciences, Hokkaido University Graduate School of Letters
+#	North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan
+#	Contact: hdic_info@let.hokudai.ac.jp
+#
+#	Feel free to copy and distribute.
+#	Send bug reports and feature requests via email.
+#
+#	CSV Format information:
+#
+#	TBID (v_wwwxyz) 	: Book(v), leaf(www), recto-verso(x), line(y) and number(z)
+#	TB_vol_radical (xx#yyy)	: Volume(xx) and radical number(yyy)
+#	TB_radical	: Chinese character of radical 
+#	Entry		: Headword
+#	Entry_original	: Original headword (option)
+#	Unicode		: Unicode scalar value
+#	TB_diff		: Differences of transliteration with other scholars
+#	SYID (vwwwxyyyzz)	: Book(v), leaf(www), recto-verso(x), line(yy) and number(z)
+#	YYID (Ywwxxxyy-z)	: Volume(ww), leaf(xxx), line(yy) and number(z)
+#	TB_remarks	: Editor's notes
+#
+#	Abbreviations:
+# 
+#	TB	: Tenrei Bansho Meigi 篆隷万象名義, Kozanji copy 高山寺本
+#	YY	: Yuanben Yupian 原本玉篇, Fragments of vol.8, 9, 18, 19, 22, 24 and 27
+#	SY	: Songben Yupian 宋本玉篇, Zecuntang edition 沢存堂本
+#
+# 	白	: Shirfuji's transliteration 
+# 	宮	: Miyazawa's transliteration
+#	上	: Ueda's transliteration
+#	呂	: Lu's transliteration
+#
+#	References:
+#
+#	Shirafuji	: Shirafuji Noriyuki 白藤禮幸, An Index of Headwords in the Tenrei Bansho Meigi 掲出字索引, Materials from Ancient Glossaries in the Kozanji Temple Collection 1 高山寺古辞書資料第一, Tokyo: Uiversity of Tokyo Press 東京大学出版会, 1977.
+#	Miyazawa	: Miyazawa Toshimasa 宮澤俊雅, A List of Headwords with notes in the Tenrei Bansho Meigi 掲出字一覧表, Materials from Ancient Glossaries in the Kozanji Temple Collection 1 高山寺古辞書資料第一, Tokyo: University of Tokyo Press 東京大学出版会, 1977.
+#	Ueda		: Ueda Tadashi 上田正, A Complete List of Fanqie in the Original Yupian 玉篇反切総覧, Kobe: Private edition, 1986.
+#	Lu		: Lu Hao 呂浩, Zhuanli Wanxiang Mingyi: A Transliteration and Text-critical Notes 篆隸萬象名義校釋, Shanghai: Xuelin Press 學林出版社, 2007.
+#
+#	This work was supported by JSPS KAKENHI Grant Number 25370506.
+#
+under construction.

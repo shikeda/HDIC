@@ -27,7 +27,7 @@
 #	TB_vol_radical (xx#yyy)	: Volume(xx) and radical number(yyy)
 #	TB_radical	: Chinese character of radical 
 #	Entry		: Headword
-#	Entry_type	: Embetted, omitted or added headword
+#	Entry_type	: Embedded, omitted or added headword
 #	Entry_diff	: Differences of transliteration with other scholars
 #	Unicode		: Unicode scalar value
 #	SYID (vwwwxyyyzz)	: Book(v), leaf(www), recto-verso(x), line(yy) and number(z)

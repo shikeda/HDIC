@@ -40,7 +40,7 @@ Shirasu Hiroyuki 白須　裕之, 校正協力者 (Songben Yupian Vol.1)
 #### GLS : Gaoliben Longkan Shoujing database
 
 
-Longkan Shoujing 龍龕手鏡, Koryo print 高麗本. monk Xingjun of the the Liao Dynasty 遼・行均, 997.
+Longkan Shoujing 龍龕手鏡, Koryo print 高麗本. monk Xingjun of the Liao Dynasty 遼・行均, 997.
 
 #### File
 * GLS.txt  

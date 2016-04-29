@@ -56,7 +56,9 @@ under construction.
 Tenrei Bansho Meigi 篆隷萬象名義, Kozanji copy 高山寺本. monk Kukai of the Heian Period 空海, c. 827-835.
 #### Files
 * KTB_entries.txt  
-under construction.
+Date: 29 April 2016  
+初版公開日  
+Li Yuan 李　媛, Person in Charge 担当    
 
 ### Shinsen Jikyo 新撰字鏡
 #### TSJ : Tenjibon Shinsen Jikyo database

@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.3.1
+#	Version: 1.3.2
 #	Date: 25 September 1994
-#	Last update : 29 April 2016
+#	Last update : 30 April 2016
 #
 #	Copyright (c) 1994-2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -25,7 +25,7 @@
 #	----------------------
 #	TBID (v_wwwxyz) 	: Book(v), leaf(www), recto-verso(x), line(y) and number(z)
 #	TB_vol_radical (xx#yyy)	: Volume(xx) and radical number(yyy)
-#	TB_radical	: Chinese character of radical 
+#	TB_radical	: Radical of Chinese character 
 #	Entry		: Headword
 #	Entry_type	: For details, refer to the following section
 #	Entry_diff	: Differences of transliteration with other scholars

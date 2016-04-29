@@ -29,7 +29,7 @@
 #	Entry		: Headword
 #	Entry_type	: For details, refer to the following section
 #	Entry_diff	: Differences of transliteration with other scholars
-#	Unicode		: Unicode scalar value
+#	UCShex		: Numeric character reference in hexadecimal format
 #	SYID (vwwwxyyyzz)	: Book(v), leaf(www), recto-verso(x), line(yy) and number(z)
 #	YYID (Ywwxxxyy-z)	: Volume(ww), leaf(xxx), line(yy) and number(z)
 #	TB_remarks	: Editor's notes
@@ -68,7 +68,7 @@
 #
 #	This work was supported by JSPS KAKENHI Grant Number 25370506.
 #
-TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	Unicode	SYID	YYID	TB_remarks
+TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_remarks
 1_016_A51	v1#1	一	一	seal_regular		&#x4E00;	a005a101		有埋字B。G01首
 1_016_A52	v1#1	一	弌	embedded_regular		&#x5F0C;	a005b011		埋字B。
 1_016_A53	v1#1	一	天	seal_regular		&#x5929;	a005b012		有埋字B。

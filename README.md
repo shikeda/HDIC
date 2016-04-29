@@ -33,6 +33,7 @@ Daguang Yihui Yupian 大広益会玉篇, Song print 宋本. Chen Pengnian of the
 * SYP.txt (= SonbenYupian.txt)  
 Date: 20 October 2015  
 初版公開日  
+Ikeda Shoju 池田　証壽  
 Li Yuan 李　媛, Person in Charge 担当    
 Shirasu Hiroyuki 白須　裕之, 校正協力者 (Songben Yupian Vol.1)
 
@@ -58,6 +59,7 @@ Tenrei Bansho Meigi 篆隷萬象名義, Kozanji copy 高山寺本. monk Kukai of
 * KTB_entries.txt  
 Date: 29 April 2016  
 初版公開日  
+Ikeda Shoju 池田　証壽  
 Li Yuan 李　媛, Person in Charge 担当    
 
 ### Shinsen Jikyo 新撰字鏡

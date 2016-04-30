@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.3.3
+#	Version: 1.3.4
 #	Date: 25 September 1994
 #	Last update : 30 April 2016
 #
@@ -745,7 +745,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_036_A421	v2#9	土	𧷎β	embedded_regular		&#xD85F;&#xDDCE;&#x3B2;	a015b073		埋字B。
 1_036_A51	v2#9	土	㘳	regular		&#x3633;	▽		有埋字A・脱字A。
 1_036_A52	v2#9	土	墟	embedded_regular		&#x589F;	a015b074		埋字A。
-1_036_A521	v2#9	土	㘳	regular-omitted		&#x3633;			脱字A。
+1_036_A521	v2#9	土	㘳	Regular-omitted		&#x3633;			脱字A。
 1_036_A61	v2#9	土	垂	regular		&#x5782;	a015b075		有埋字B。
 1_036_A62	v2#9	土	𡍮	embedded_regular		&#xD844;&#xDF6E;	a015b081		埋字B。
 1_036_A63	v2#9	土	堆	regular		&#x5806;	a015b083		有埋字B。
@@ -754,7 +754,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_036_B11	v2#9	土	𡒊	regular		&#xD845;&#xDC8A;	a015b092		
 1_036_B12	v2#9	土	壖	regular		&#x58D6;	a015b093		
 1_036_B12	v2#9	土	堧	regular	宮	&#x5827;	a015b093		
-1_036_B21	v2#9	土	坹	regular-omitted		&#x5779;	a015b101		掲出字脱。反切上字大字。
+1_036_B21	v2#9	土	坹	Regular-omitted		&#x5779;	a015b101		掲出字脱。反切上字大字。
 1_036_B22	v2#9	土	𡓣	regular		&#xD845;&#xDCE3;	a015b103		穫：原文似䕌。
 1_036_B31	v2#9	土	堜	regular		&#x581C;	a015b104		有埋字A。
 1_036_B311	v2#9	土	𡏮	embedded_regular		&#xD844;&#xDFEE;	a016a011		埋字A。
@@ -813,7 +813,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_038_A22	v2#11	𡏳	𡆒	regular	宮	&#xD844;&#xDD92;	a017a092		
 1_038_A23	v2#11	𡏳	𩁬	regular		&#xD864;&#xDC6C;	a017a081		
 1_038_A24	v2#11	𡏳	難	regular		&#x96E3;	a017a082		上字義注字（義注扱い字）
-1_038_A31	v2#12	里	里	regular-omitted		&#x91CC;	a017a101		掲出字脱字。池田按、反切存「里部」直下。
+1_038_A31	v2#12	里	里	Regular-omitted		&#x91CC;	a017a101		掲出字脱字。池田按、反切存「里部」直下。
 1_038_A41	v2#12	里	野	regular		&#x91CE;	a017a102		有埋字B。
 1_038_A411	v2#12	里	𡐨	embedded_seal		&#xD845;&#xDC28;			埋字B。篆書字形。
 1_038_A412	v2#12	里	釐	omitted		&#x91D0;	a017b011		
@@ -5530,7 +5530,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 3_015_B52	v9#91	言	訆	regular		&#x8A06;	a084b075	Y09101113-1	掲出字：原作䚯。叫：原作𠮧。
 3_015_B61	v9#91	言	諕	regular	白	&#x8AD5;	a087a054	Y09101113-2	
 3_015_B61	v9#91	言	謕	regular		&#x8B15;	a085a044	Y09101113-2	掲出字：白藤作諕。
-3_015_B62	v9#91	言	譁	regular-omitted		&#x8B41;	a084b071	Y09101114-1	掲出字脱。反切上字大字。
+3_015_B62	v9#91	言	譁	Regular-omitted		&#x8B41;	a084b071	Y09101114-1	掲出字脱。反切上字大字。
 3_016_A11	v9#91	言	𧪮	regular		&#xD85E;&#xDEAE;	a084b072	Y09101115-1	譁字：原本《玉篇》作「《說文》：亦𧪮字也」。
 3_016_A12	v9#91	言	譌	regular		&#x8B4C;	a084b081	Y09101115-2	
 3_016_A21	v9#91	言	訛	regular		&#x8A1B;	a084b082	Y09101117-1	
@@ -6237,7 +6237,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 3_041_A12	v10#128	辵	遦	regular		&#x9066;	a098a013		
 3_041_A21	v10#128	辵	䢱	regular		&#x48B1;	a098a014		媟也：宋本《玉篇》字体注。
 3_041_A22	v10#128	辵	進	regular		&#x9032;	a098a021		
-3_041_A31	v10#128	辵	𨙟	regular-omitted		&#xD861;&#xDE5F;	a098a022		掲出字脱。原作進。呂《校釋》前項注文合併。《新撰字鏡》玉篇群「進」「𨙟」連続掲出。
+3_041_A31	v10#128	辵	𨙟	Regular-omitted		&#xD861;&#xDE5F;	a098a022		掲出字脱。原作進。呂《校釋》前項注文合併。《新撰字鏡》玉篇群「進」「𨙟」連続掲出。
 3_041_A32	v10#128	辵	造	regular		&#x9020;	a098a023		
 3_041_A41	v10#128	辵	逾	regular		&#x903E;	a098a031		
 3_041_A42	v10#128	辵	䢔	regular		&#x4894;	a098a024		
@@ -7890,7 +7890,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 4_014_B42	v12#158	木	桮	regular		&#x686E;	b017b065		注文大字
 4_014_B421	v12#158	木	杯	Songben Yupian		&#x676F;	b017b066		
 4_014_B51	v12#158	木	槃	regular		&#x69C3;	b017b071		薄肝反、承:大字
-4_014_B52	v12#158	木	柈	regular-omitted		&#x67C8;	b017b072		掲出字脱。注文大字。
+4_014_B52	v12#158	木	柈	Regular-omitted		&#x67C8;	b017b072		掲出字脱。注文大字。
 4_014_B61	v12#158	木	檈	regular		&#x6A88;	b017b073		注文大字
 4_014_B62	v12#158	木	梋	regular		&#x688B;	b017b074		注文大字
 4_015_A11	v12#158	木	椷	regular		&#x6937;	b017b081		注文中空
@@ -7910,7 +7910,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 4_015_B21	v12#158	木	㭙	regular		&#x3B59;	b018a012		注文大字。有埋字B。
 4_015_B211	v12#158	木	棏	embedded_regular		&#x68CF;	b018a013		埋字B。
 4_015_B212	v12#158	木	𣚅	omitted		&#xD84D;&#xDE85;	b018a014		
-4_015_B22	v12#158	木	样	regular-omitted		&#x6837;	b018a015		掲出字脱。注文大字。
+4_015_B22	v12#158	木	样	Regular-omitted		&#x6837;	b018a015		掲出字脱。注文大字。
 4_015_B31	v12#158	木	㮳	regular		&#x3BB3;	b018a016		
 4_015_B31	v12#158	木	栚	regular	宮	&#x681A;	b018a016		
 4_015_B32	v12#158	木	㯂	regular		&#x3BC2;	△		注文大字
@@ -9257,7 +9257,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 4_060_A42	v14#166	竹	䈾	regular	白	&#x423E;	b035a096		
 4_060_A42	v14#166	竹	䈰	regular		&#x4230;	b035a096		掲出字：白藤・呂作䈾。
 4_060_A51	v14#166	竹	𥳓	regular		&#xD857;&#xDCD3;	b037a073		掲出字：宮澤作筲。
-4_060_A52	v14#166	竹	筲	regular-omitted		&#x7B72;	b035a097		掲出字脱。宮澤作𥳓。注文大字。
+4_060_A52	v14#166	竹	筲	Regular-omitted		&#x7B72;	b035a097		掲出字脱。宮澤作𥳓。注文大字。
 4_060_A52	v14#166	竹	䈾	regular	白	&#x423E;	b037a073		
 4_060_A61	v14#166	竹	𥰠	regular		&#xD857;&#xDC20;	b035a101		
 4_060_A611	v14#166	竹	𥱾	regular		&#xD857;&#xDC7E;	b035a102		埋字B歟。
@@ -15610,7 +15610,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 6_058_A42	v24#390	鳥	𪇸	regular		&#xD868;&#xDDF8;	c033b042		掲出字：原作鸕。呂同作。
 6_058_A51	v24#390	鳥	鶖	regular		&#x9D96;	c033b051		
 6_058_A511	v24#390	鳥	𪀖	regular		&#xD868;&#xDC16;	c033b052		掲出字：原作𪁌。注文脱。呂《校釋》未掲載。
-6_058_A52	v24#390	鳥	鴈	regular-omitted		&#x9D08;	c033b057		掲出字脱。
+6_058_A52	v24#390	鳥	鴈	Regular-omitted		&#x9D08;	c033b057		掲出字脱。
 6_058_A61	v24#390	鳥	鳫	regular		&#x9CEB;	c033b061		
 6_058_A62	v24#390	鳥	鴻	regular		&#x9D3B;	c033b062		掲出字：原作⿰弘鳥。
 6_058_B11	v24#390	鳥	鴚	regular		&#x9D1A;	c033b053		
@@ -18245,7 +18245,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 6_158_A31	v28#435	衣	袜	regular		&#x889C;	c064a102		
 6_158_A32	v28#435	衣	袠	regular		&#x88A0;	c064a103		
 6_158_A41	v28#435	衣	袟	regular		&#x889F;	c064a104		
-6_158_A42	v28#435	衣	𧛤	regular-omitted		&#xD85D;&#xDEE4;	c064a105		掲出字脱。
+6_158_A42	v28#435	衣	𧛤	Regular-omitted		&#xD85D;&#xDEE4;	c064a105		掲出字脱。
 6_158_A43	v28#435	衣	裳	regular		&#x88F3;	c064b011		
 6_158_A51	v28#435	衣	裀	regular		&#x88C0;	c064b012		
 6_158_A511	v28#435	衣	𧛑	Songben Yupian		&#xD85D;&#xDED1;	c064b013		

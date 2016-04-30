@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.3.4
+#	Version: 1.3.5
 #	Date: 25 September 1994
 #	Last update : 30 April 2016
 #
@@ -38,8 +38,8 @@
 #	----------
 #	Regular		: 隷書(=楷書)掲出字
 #	Regular-omitted		: 隷書掲出字脱
-#	Seal_regular		: 篆書掲出字 + 隷書掲出字
-#	Seal_regular-omitted	: 篆書掲出字, 隷書掲出字脱
+#	Regular_seal		: 篆書掲出字 + 隷書掲出字
+#	Regular_seal-omitted	: 篆書掲出字, 隷書掲出字脱
 #	Embedded_regular	: 埋字(隷書掲出字)
 #	Embedded_regular-omitted	: 埋字(隷書掲出字脱)
 #	Embedded_seal		: 埋字(篆書掲出字)
@@ -68,102 +68,102 @@
 #	This work was supported by JSPS KAKENHI Grant Number 25370506.
 #
 TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_remarks
-1_016_A51	v1#1	一	一	seal_regular		&#x4E00;	a005a101		有埋字B。G01首
+1_016_A51	v1#1	一	一	Regular_seal		&#x4E00;	a005a101		有埋字B。G01首
 1_016_A52	v1#1	一	弌	embedded_regular		&#x5F0C;	a005b011		埋字B。
-1_016_A53	v1#1	一	天	seal_regular		&#x5929;	a005b012		有埋字B。
+1_016_A53	v1#1	一	天	Regular_seal		&#x5929;	a005b012		有埋字B。
 1_016_A54	v1#1	一	𠀡	embedded_regular		&#xD840;&#xDC21;	a005b051		埋字B。
 1_016_A55	v1#1	一	𠀘	embedded_regular		&#xD840;&#xDC18;	a005b052		埋字B。
 1_016_A56	v1#1	一	兲	embedded_regular		&#x5172;	△		埋字B。
 1_016_A57	v1#1	一	𠕹	embedded_regular		&#xD841;&#xDD79;	△		埋字B。
-1_016_A61	v1#1	一	元	seal_regular		&#x5143;	a005b053		有埋字B。
+1_016_A61	v1#1	一	元	Regular_seal		&#x5143;	a005b053		有埋字B。
 1_016_A611	v1#1	一	元	embedded_seal		&#x5143;			埋字B。篆書字形。
-1_016_A62	v1#1	一	丕	seal_regular		&#x4E15;	a005b071		
-1_016_B11	v1#1	一	吏	seal_regular		&#x540F;	a005b072		有埋字B。
+1_016_A62	v1#1	一	丕	Regular_seal		&#x4E15;	a005b071		
+1_016_B11	v1#1	一	吏	Regular_seal		&#x540F;	a005b072		有埋字B。
 1_016_B111	v1#1	一	吏	embedded_seal		&#x540F;			埋字B。篆書字形。
-1_016_B31	v1#2	上	上	seal_regular		&#x4E0A;	a005b101		有埋字B。
+1_016_B31	v1#2	上	上	Regular_seal		&#x4E0A;	a005b101		有埋字B。
 1_016_B32	v1#2	上	丄	embedded_regular		&#x4E04;	a006a011		埋字B。
-1_016_B33	v1#2	上	帝	seal_regular		&#x5E1D;	a006a012		有埋字B。
+1_016_B33	v1#2	上	帝	Regular_seal		&#x5E1D;	a006a012		有埋字B。
 1_016_B34	v1#2	上	𢂇	embedded_seal		&#xD848;&#xDC87;	a006a031		埋字B。篆書字形。
 1_016_B35	v1#2	上	𠫦	embedded_seal		&#xD842;&#xDEE6;	△		埋字B。篆書字形。
-1_016_B41	v1#2	上	旁	seal_regular		&#x65C1;	a006a032		有埋字B六字。𢂇：帝之異体、衍字。
+1_016_B41	v1#2	上	旁	Regular_seal		&#x65C1;	a006a032		有埋字B六字。𢂇：帝之異体、衍字。
 1_016_B44	v1#2	上	㫄	embedded_regular		&#x3AC4;			埋字B。呂作⿳二冖方。
 1_016_B43	v1#2	上	㝑	embedded_regular		&#x3751;	b004a083		埋字B。掲出字：據呂《校釋》。宋本《玉篇》宀部。
 1_016_B42	v1#2	上	雱	embedded_regular		&#x96F1;	a006a041		埋字B。掲出字：原作⿱罒刀、呂作⿱八方。
 1_016_B46	v1#2	上	𣃟	embedded_regular		&#xD84C;&#xDCDF;	a006a042		埋字B。掲出字：據呂《校釋》。
 1_016_B47	v1#2	上	⿳宀二方	embedded_regular		&#x2FF3;&#x5B80;&#x4E8C;&#x65B9;			埋字B。掲出字：據呂《校釋》。
 1_016_B45	v1#2	上	𣃙	embedded_regular		&#xD84C;&#xDCD9;	a006a043		埋字B。掲出字：據呂《校釋》。
-1_016_B51	v1#2	上	下	seal_regular		&#x4E0B;	a006a044		有埋字B二字。
+1_016_B51	v1#2	上	下	Regular_seal		&#x4E0B;	a006a044		有埋字B二字。
 1_016_B52	v1#2	上	丅	embedded_regular		&#x4E05;	△		埋字B。
-1_017_A11	v1#3	示	示	seal_regular		&#x793A;	a006a071		有埋字B。
+1_017_A11	v1#3	示	示	Regular_seal		&#x793A;	a006a071		有埋字B。
 1_017_A12	v1#3	示	𥘅	embedded_regular		&#xD855;&#xDE05;	a006a081		埋字B。
-1_017_A13	v1#3	示	神	seal_regular		&#x795E;	a006a082		有埋字B二字。宮澤無此二字。
+1_017_A13	v1#3	示	神	Regular_seal		&#x795E;	a006a082		有埋字B二字。宮澤無此二字。
 1_017_A14	v1#3	示	神β	embedded_regular		&#x795E;&#x3B2;			埋字B。
 1_017_A15	v1#3	示	神γ	embedded_regular		&#x795E;&#x3B3;			埋字B。
-1_017_A21	v1#3	示	祇	seal_regular		&#x7947;	a006a091		
-1_017_A22	v1#3	示	齋	seal_regular		&#x9F4B;	a006a101		有埋字Bニ字。
+1_017_A21	v1#3	示	祇	Regular_seal		&#x7947;	a006a091		
+1_017_A22	v1#3	示	齋	Regular_seal		&#x9F4B;	a006a101		有埋字Bニ字。
 1_017_A23	v1#3	示	𪗒	embedded_regular		&#xD869;&#xDDD2;	a006a102		埋字B。
 1_017_A24	v1#3	示	⿰𧆞眞	embedded_regular		&#x2FF0;&#xD85C;&#xDD9E;&#x771E;			埋字B。齋文也：呂作「籀文也」。
-1_017_A31	v1#3	示	祕	seal_regular		&#x7955;	a006b001		
-1_017_A32	v1#3	示	祗	seal_regular		&#x7957;	a006b002		有埋字B。
+1_017_A31	v1#3	示	祕	Regular_seal		&#x7955;	a006b001		
+1_017_A32	v1#3	示	祗	Regular_seal		&#x7957;	a006b002		有埋字B。
 1_017_A33	v1#3	示	祗β	embedded_regular		&#x7957;&#x3B2;			埋字B。宮澤無此字。
-1_017_A41	v1#3	示	祭	seal_regular		&#x796D;	a006b013		有埋字B。反切下字：據呂《校釋》。
+1_017_A41	v1#3	示	祭	Regular_seal		&#x796D;	a006b013		有埋字B。反切下字：據呂《校釋》。
 1_017_A411	v1#3	示	祭λ	embedded_regular		&#x796D;&#x3BB;			埋字B。祭λ：呂作肧。
-1_017_A43	v1#3	示	祀	seal_regular		&#x7940;	a006b022		有埋字A・B。裸衣(禩β)、祼大(禩γ):一字誤作二字歟。祼大(禩γ)。
+1_017_A43	v1#3	示	祀	Regular_seal		&#x7940;	a006b022		有埋字A・B。裸衣(禩β)、祼大(禩γ):一字誤作二字歟。祼大(禩γ)。
 1_017_A44	v1#3	示	禩	embedded_regular		&#x79A9;	a006b023		埋字B(禩β)。裸衣：禩之誤。
 1_017_A45	v1#3	示	䃾	embedded_regular		&#x40FE;	a006b021		埋字A。次項同。宮澤無△印。
 1_017_A46	v1#3	示	禩	Embedded_regular		&#x79A9;	a006b023		埋字B(禩γ)。裸大：禩之誤。
-1_017_A51	v1#3	示	䃾	seal_regular		&#x40FE;	△(a006b021)		
-1_017_A52	v1#3	示	祏	seal_regular		&#x794F;	a006b024		
-1_017_A61	v1#3	示	禋	seal_regular		&#x798B;	a006b025		有埋字B。
+1_017_A51	v1#3	示	䃾	Regular_seal		&#x40FE;	△(a006b021)		
+1_017_A52	v1#3	示	祏	Regular_seal		&#x794F;	a006b024		
+1_017_A61	v1#3	示	禋	Regular_seal		&#x798B;	a006b025		有埋字B。
 1_017_A62	v1#3	示	𥛛	Embedded_regular		&#xD855;&#xDEDB;	a006b031		埋字B。
 1_017_A62	v1#3	示	𡫚	regular	白	&#xD846;&#xDEDA;	a006b031		
-1_017_A63	v1#3	示	祡	seal_regular		&#x7961;	a006b032		有埋字A・B。柴文：呂按「即指柴字又作𥚨」。
+1_017_A63	v1#3	示	祡	Regular_seal		&#x7961;	a006b032		有埋字A・B。柴文：呂按「即指柴字又作𥚨」。
 1_017_A631	v1#3	示	柴	embedded_regular		&#x67F4;	▽		埋字A。
 1_017_A64	v1#3	示	𥚨	Embedded_regular		&#xD855;&#xDEA8;	a006b033		埋字B。
-1_017_B11	v1#3	示	祖	seal_regular		&#x7956;	a006b041		
-1_017_B12	v1#3	示	祊	seal_regular		&#x794A;	a006b043		有埋字B二字。𥛱、[上文]。𥛻、[上文]。
+1_017_B11	v1#3	示	祖	Regular_seal		&#x7956;	a006b041		
+1_017_B12	v1#3	示	祊	Regular_seal		&#x794A;	a006b043		有埋字B二字。𥛱、[上文]。𥛻、[上文]。
 1_017_B13	v1#3	示	𥛱	embedded_regular		&#xD855;&#xDEF1;	a006b042		埋字B。
 1_017_B14	v1#3	示	𥛻	embedded_regular		&#xD855;&#xDEFB;	△		埋字B。
 1_017_B14	v1#3	示	𥚧	regular	白	&#xD855;&#xDEA7;	△		
-1_017_B21	v1#3	示	祠	seal_regular		&#x7960;	a006b044		
-1_017_B22	v1#3	示	礿	seal_regular		&#x793F;	a006b051		有埋字B。
+1_017_B21	v1#3	示	祠	Regular_seal		&#x7960;	a006b044		
+1_017_B22	v1#3	示	礿	Regular_seal		&#x793F;	a006b051		有埋字B。
 1_017_B23	v1#3	示	禴	embedded_regular		&#x79B4;	a006b052		埋字B。
 1_017_B23	v1#3	示	𧆆	regular	白	&#xD85C;&#xDD86;	a006b052		
-1_017_B31	v1#3	示	祫	seal_regular		&#x796B;	a006b053		
-1_017_B32	v1#3	示	禘	seal_regular		&#x7998;	a006b054		有埋字B。
+1_017_B31	v1#3	示	祫	Regular_seal		&#x796B;	a006b053		
+1_017_B32	v1#3	示	禘	Regular_seal		&#x7998;	a006b054		有埋字B。
 1_017_B321	v1#3	示	禘β	embedded_regular		&#x7998;&#x3B2;			埋字B。禘β：呂作祶。
-1_017_B41	v1#3	示	祜	seal_regular		&#x795C;	a006b055		
-1_017_B42	v1#3	示	禧	seal_regular		&#x79A7;	a006b062		
-1_017_B51	v1#3	示	祐	seal_regular		&#x7950;	a006b063		有埋字B。
+1_017_B41	v1#3	示	祜	Regular_seal		&#x795C;	a006b055		
+1_017_B42	v1#3	示	禧	Regular_seal		&#x79A7;	a006b062		
+1_017_B51	v1#3	示	祐	Regular_seal		&#x7950;	a006b063		有埋字B。
 1_017_B511	v1#3	示	𨳾	embedded_regular		&#xD863;&#xDCFE;			埋字B。𨳾：據呂《校釋》。
-1_017_B52	v1#3	示	祺	seal_regular		&#x797A;	a006b064		有埋字B二字。祺β：篆書字形。
+1_017_B52	v1#3	示	祺	Regular_seal		&#x797A;	a006b064		有埋字B二字。祺β：篆書字形。
 1_017_B53	v1#3	示	禥	Embedded_regular		&#x79A5;	a006b071		埋字B。
-1_017_B61	v1#3	示	福	seal_regular		&#x798F;	a006b061		有埋字B。注文上下二段。
+1_017_B61	v1#3	示	福	Regular_seal		&#x798F;	a006b061		有埋字B。注文上下二段。
 1_017_B611	v1#3	示	福λ	embedded_regular		&#x798F;&#x3BB;			埋字B。
-1_018_A11	v1#3	示	祿	seal_regular		&#x797F;	a006b072		有埋字B。
+1_018_A11	v1#3	示	祿	Regular_seal		&#x797F;	a006b072		有埋字B。
 1_018_A111	v1#3	示	祿β	embedded_seal		&#x797F;&#x3B2;			埋字B。篆書字形。
-1_018_A12	v1#3	示	禛	seal_regular		&#x799B;	a006b073		
-1_018_A21	v1#3	示	祉	seal_regular		&#x7949;	a006b074		
-1_018_A22	v1#3	示	禔	seal_regular		&#x7994;	a006b075		
-1_018_A31	v1#3	示	祥	seal_regular		&#x7965;	a006b081		有埋字B。
+1_018_A12	v1#3	示	禛	Regular_seal		&#x799B;	a006b073		
+1_018_A21	v1#3	示	祉	Regular_seal		&#x7949;	a006b074		
+1_018_A22	v1#3	示	禔	Regular_seal		&#x7994;	a006b075		
+1_018_A31	v1#3	示	祥	Regular_seal		&#x7965;	a006b081		有埋字B。
 1_018_A311	v1#3	示	祥β	embedded_regular		&#x7965;&#x3B2;			埋字B。祥β：原作⿱⿰入入⿱干勿、呂作⿰羊示。似𢒑字。
-1_018_A32	v1#3	示	禎	seal_regular		&#x798E;	a006b082		
-1_018_A41	v1#3	示	禨	seal_regular		&#x79A8;	a006b084		有埋字A。次項同。
+1_018_A32	v1#3	示	禎	Regular_seal		&#x798E;	a006b082		
+1_018_A41	v1#3	示	禨	Regular_seal		&#x79A8;	a006b084		有埋字A。次項同。
 1_018_A42	v1#3	示	禠	embedded_regular		&#x79A0;	△(a006b083)		埋字A、参看次項。
-1_018_A43	v1#3	示	禠	seal_regular		&#x79A0;	a006b083		
-1_018_A51	v1#3	示	祪	seal_regular		&#x796A;	a006b085		
-1_018_A52	v1#3	示	禰	seal_regular		&#x79B0;	a006b086		
-1_018_A61	v1#3	示	祰	seal_regular		&#x7970;	a006b092		
-1_018_A62	v1#3	示	祼	seal_regular		&#x797C;	a006b093		有埋字B。
+1_018_A43	v1#3	示	禠	Regular_seal		&#x79A0;	a006b083		
+1_018_A51	v1#3	示	祪	Regular_seal		&#x796A;	a006b085		
+1_018_A52	v1#3	示	禰	Regular_seal		&#x79B0;	a006b086		
+1_018_A61	v1#3	示	祰	Regular_seal		&#x7970;	a006b092		
+1_018_A62	v1#3	示	祼	Regular_seal		&#x797C;	a006b093		有埋字B。
 1_018_A621	v1#3	示	祼β	embedded_seal		&#x797C;&#x3B2;			埋字B。篆書字形。
 1_018_B11	v1#3	示	祝	regular		&#x795D;	a006b095		
 1_018_B12	v1#3	示	祈	regular		&#x7948;	a006b096		
 1_018_B21	v1#3	示	禷	regular		&#x79B7;	a006b101		
-1_018_B22	v1#3	示	禱	seal_regular		&#x79B1;	a006b102		篆書掲出字三字有埋字B二字。據宮澤。
+1_018_B22	v1#3	示	禱	Regular_seal		&#x79B1;	a006b102		篆書掲出字三字有埋字B二字。據宮澤。
 1_018_B23	v1#3	示	𥜹	embedded_regular		&#xD855;&#xDF39;	a006b103		埋字B。《万象名義》写真版、無此字。
 1_018_B24	v1#3	示	𥛇	embedded_regular		&#xD855;&#xDEC7;	a006b104		埋字B。《万象名義》写真版、無此字。
 1_018_B31	v1#3	示	䄟	regular		&#x411F;	a006b105		
-1_018_B32	v1#3	示	禮	seal_regular		&#x79AE;	a007a011		有埋字B三字。篆書掲出字二字禮和其重文。
+1_018_B32	v1#3	示	禮	Regular_seal		&#x79AE;	a007a011		有埋字B三字。篆書掲出字二字禮和其重文。
 1_018_B321	v1#3	示	豊	embedded_regular		&#x362B;	△		埋字B。
 1_018_B322	v1#3	示	𠃞	embedded_regular		&#xD840;&#xDCDE;	△		埋字B。
 1_018_B33	v1#3	示	礼	embedded_regular		&#x793C;	a007a012		埋字B。
@@ -190,487 +190,487 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_019_A61	v1#3	示	祾	regular		&#x797E;	a007a045		
 1_019_A62	v1#3	示	祱	regular		&#x7971;	a007a052		有埋字A。次項同。
 1_019_A63	v1#3	示	祽	embedded_regular		&#x797D;	△(a007a053)		埋字A。次項同。
-1_019_B11	v1#3	示	祽	seal_regular		&#x797D;	a007a053		
-1_019_B12	v1#3	示	䄛	seal_regular		&#x411B;	a007a054		
-1_019_B21	v1#3	示	䄍	seal_regular		&#x410D;	a007a061		
-1_019_B22	v1#3	示	禂	seal_regular		&#x7982;	a007a062		
-1_019_B31	v1#3	示	䄚	seal_regular		&#x411A;	a007b084		
-1_019_B32	v1#3	示	祧	seal_regular		&#x7967;	a007a063		有埋字B。
+1_019_B11	v1#3	示	祽	Regular_seal		&#x797D;	a007a053		
+1_019_B12	v1#3	示	䄛	Regular_seal		&#x411B;	a007a054		
+1_019_B21	v1#3	示	䄍	Regular_seal		&#x410D;	a007a061		
+1_019_B22	v1#3	示	禂	Regular_seal		&#x7982;	a007a062		
+1_019_B31	v1#3	示	䄚	Regular_seal		&#x411A;	a007b084		
+1_019_B32	v1#3	示	祧	Regular_seal		&#x7967;	a007a063		有埋字B。
 1_019_B321	v1#3	示	𥜔	embedded_regular		&#xD855;&#xDF14;	a007a064		埋字B。
 1_019_B33	v1#3	示	𥜔	embedded_regular		&#xD855;&#xDF14;	a007a064		埋字B。
-1_019_B41	v1#3	示	禊	seal_regular		&#x798A;	a007a072		
-1_019_B42	v1#3	示	禓	seal_regular		&#x7993;	a007a065		
+1_019_B41	v1#3	示	禊	Regular_seal		&#x798A;	a007a072		
+1_019_B42	v1#3	示	禓	Regular_seal		&#x7993;	a007a065		
 1_019_B42	v1#3	示	𥛙	regular	白	&#xD855;&#xDED9;	a007a065		
-1_019_B51	v1#3	示	祲	seal_regular		&#x7972;	a007a071		
-1_019_B52	v1#3	示	𥚩	seal_regular		&#xD855;&#xDEA9;	a007a083		作糈字：《新撰字鏡》為義注字。
-1_019_B61	v1#3	示	禍	seal_regular		&#x798D;	a007a081		
+1_019_B51	v1#3	示	祲	Regular_seal		&#x7972;	a007a071		
+1_019_B52	v1#3	示	𥚩	Regular_seal		&#xD855;&#xDEA9;	a007a083		作糈字：《新撰字鏡》為義注字。
+1_019_B61	v1#3	示	禍	Regular_seal		&#x798D;	a007a081		
 1_019_B611	v1#3	示	𥙯	Songben Yupian		&#xD855;&#xDE6F;	a007a082		
-1_019_B62	v1#3	示	祟	seal_regular		&#x795F;	a007a091		有埋字B。
+1_019_B62	v1#3	示	祟	Regular_seal		&#x795F;	a007a091		有埋字B。
 1_019_B63	v1#3	示	𥜱	embedded_regular		&#xD855;&#xDF31;	a007a092		埋字B。
-1_020_A11	v1#3	示	祙	seal_regular		&#x7959;	a007a094		
-1_020_A12	v1#3	示	𥛜	seal_regular		&#xD855;&#xDEDC;	a007a093		詛也：《新撰字鏡》疑作字體注。
-1_020_A21	v1#3	示	禁	seal_regular		&#x7981;	a007a095		
-1_020_A22	v1#3	示	䄏	seal_regular		&#x410F;	▽		有埋字B。
+1_020_A11	v1#3	示	祙	Regular_seal		&#x7959;	a007a094		
+1_020_A12	v1#3	示	𥛜	Regular_seal		&#xD855;&#xDEDC;	a007a093		詛也：《新撰字鏡》疑作字體注。
+1_020_A21	v1#3	示	禁	Regular_seal		&#x7981;	a007a095		
+1_020_A22	v1#3	示	䄏	Regular_seal		&#x410F;	▽		有埋字B。
 1_020_A23	v1#3	示	祅	embedded_regular		&#x7945;	a007a101		"埋字B。
 "
-1_020_A31	v1#3	示	禫	seal_regular		&#x79AB;	a007a102		
-1_020_A32	v1#3	示	禲	seal_regular		&#x79B2;	a007a096		
-1_020_A41	v1#3	示	祩	seal_regular		&#x7969;	a007a103		
-1_020_A42	v1#3	示	䄤	seal_regular		&#x4124;	a007b011		
-1_020_A51	v1#3	示	祤	seal_regular		&#x7964;	a007b012		
-1_020_A52	v1#3	示	䄐	seal_regular		&#x4110;	a007b013		
-1_020_A61	v1#3	示	䄌	seal_regular		&#x410C;	a007b014		
-1_020_A62	v1#3	示	𥜦	seal_regular		&#xD855;&#xDF26;	▽		有埋字B。
+1_020_A31	v1#3	示	禫	Regular_seal		&#x79AB;	a007a102		
+1_020_A32	v1#3	示	禲	Regular_seal		&#x79B2;	a007a096		
+1_020_A41	v1#3	示	祩	Regular_seal		&#x7969;	a007a103		
+1_020_A42	v1#3	示	䄤	Regular_seal		&#x4124;	a007b011		
+1_020_A51	v1#3	示	祤	Regular_seal		&#x7964;	a007b012		
+1_020_A52	v1#3	示	䄐	Regular_seal		&#x4110;	a007b013		
+1_020_A61	v1#3	示	䄌	Regular_seal		&#x410C;	a007b014		
+1_020_A62	v1#3	示	𥜦	Regular_seal		&#xD855;&#xDF26;	▽		有埋字B。
 1_020_A63	v1#3	示	𥙮	embedded_regular		&#xD855;&#xDE6E;	a007b015		埋字B。𥙮：呂按「𥙮字原訛」。
-1_020_B11	v1#3	示	禉	seal_regular		&#x7989;	a007b041		
-1_020_B12	v1#3	示	𥛳	seal_regular		&#xD855;&#xDEF3;	a007b043		
-1_020_B21	v1#3	示	䄃	seal_regular		&#x4103;	a007b021		
-1_020_B22	v1#3	示	礽	seal_regular		&#x793D;	a007b022		
-1_020_B31	v1#3	示	𥛲	seal_regular		&#xD855;&#xDEF2;	a007b023		醮也：宋本《玉篇》字体注。
-1_020_B32	v1#3	示	𥛰	seal_regular		&#xD855;&#xDEF0;	a007b024		
-1_020_B41	v1#3	示	䄉	seal_regular		&#x4109;	a007b025		為娥字：《新撰字鏡》為義注字。
-1_020_B42	v1#3	示	𥙰	seal_regular		&#xD855;&#xDE70;	a007b032		有埋字B三字。掲出字：原作𡎺、呂同作。
+1_020_B11	v1#3	示	禉	Regular_seal		&#x7989;	a007b041		
+1_020_B12	v1#3	示	𥛳	Regular_seal		&#xD855;&#xDEF3;	a007b043		
+1_020_B21	v1#3	示	䄃	Regular_seal		&#x4103;	a007b021		
+1_020_B22	v1#3	示	礽	Regular_seal		&#x793D;	a007b022		
+1_020_B31	v1#3	示	𥛲	Regular_seal		&#xD855;&#xDEF2;	a007b023		醮也：宋本《玉篇》字体注。
+1_020_B32	v1#3	示	𥛰	Regular_seal		&#xD855;&#xDEF0;	a007b024		
+1_020_B41	v1#3	示	䄉	Regular_seal		&#x4109;	a007b025		為娥字：《新撰字鏡》為義注字。
+1_020_B42	v1#3	示	𥙰	Regular_seal		&#xD855;&#xDE70;	a007b032		有埋字B三字。掲出字：原作𡎺、呂同作。
 1_020_B421	v1#3	示	𥙰β	Embedded_regular-omitted		&#xD855;&#xDE70;			埋字B。
 1_020_B422	v1#3	示	𥙰γ	embedded_seal		&#xD855;&#xDE70;			埋字B。篆書字形。
 1_020_B423	v1#3	示	𥙰δ	Embedded_regular-omitted		&#xD855;&#xDE70;			埋字B。
-1_020_B51	v1#3	示	𥜃	seal_regular		&#xD855;&#xDF03;	a007b031		䭞字也：《新撰字鏡》為義注字。
-1_020_B52	v1#3	示	禗	seal_regular		&#x7997;	a007b033		
-1_020_B61	v1#3	示	祘	seal_regular		&#x7958;	a007b034		筭字、古文也：说文「明視以筭之。从二示。《逸周書》曰：“士分民之祘。均分以祘之也。”讀若筭。蘇貫切」。G01尾
-1_021_A31	v1#4	二	二	seal_regular		&#x4E8C;	a007b101		有埋字A。G02首。
+1_020_B51	v1#3	示	𥜃	Regular_seal		&#xD855;&#xDF03;	a007b031		䭞字也：《新撰字鏡》為義注字。
+1_020_B52	v1#3	示	禗	Regular_seal		&#x7997;	a007b033		
+1_020_B61	v1#3	示	祘	Regular_seal		&#x7958;	a007b034		筭字、古文也：说文「明視以筭之。从二示。《逸周書》曰：“士分民之祘。均分以祘之也。”讀若筭。蘇貫切」。G01尾
+1_021_A31	v1#4	二	二	Regular_seal		&#x4E8C;	a007b101		有埋字A。G02首。
 1_021_A311	v1#4	二	弍	omitted		&#x5F0D;	a007b102		
 1_021_A32	v1#4	二	𢛢	embedded_regular		&#xD849;&#xDEE2;	a007b104		埋字A。
-1_021_A33	v1#4	二	恒	seal_regular		&#x6052;	a007b103		有埋字A一字和埋字B二字。
+1_021_A33	v1#4	二	恒	Regular_seal		&#x6052;	a007b103		有埋字A一字和埋字B二字。
 1_021_A331	v1#4	二	𠄨	embedded_regular		&#xD840;&#xDD28;	a008a011		埋字B。
 1_021_A332	v1#4	二	恒β	embedded_regular		&#x6052;&#x3B2;			埋字B。
 1_021_A333	v1#4	二	𠄢	embedded_regular		&#xD840;&#xDD22;	a008a012		埋字A。
 1_021_A34	v1#4	二	𠄨	embedded_regular		&#xD840;&#xDD28;	a008a011		埋字B。
 1_021_A341	v1#4	二	恒β	embedded_regular		&#x6052;&#x3B2;			埋字B。
 1_021_A342	v1#4	二	𠄢	embedded_regular		&#xD840;&#xDD22;	a008a012		埋字A。
-1_021_A41	v1#4	二	𠄢	seal_regular		&#xD840;&#xDD22;	a008a012		
+1_021_A41	v1#4	二	𠄢	Regular_seal		&#xD840;&#xDD22;	a008a012		
 1_021_A41	v1#4	二	亘	regular	白	&#x4E98;	a008a011		此字、存宋本《玉篇》注文中。
-1_021_A42	v1#4	二	亟	seal_regular		&#x4E9F;	a008a013		
-1_021_A51	v1#4	二	亝	seal_regular		&#x4E9D;	a008a014		齊也：大字。症也：疑當作莊、呂作庄。
-1_021_A52	v1#4	二	竺	seal_regular		&#x7AFA;	a008a015		薦也：疑當作「篤」、吕本作「䔍」p.4。
+1_021_A42	v1#4	二	亟	Regular_seal		&#x4E9F;	a008a013		
+1_021_A51	v1#4	二	亝	Regular_seal		&#x4E9D;	a008a014		齊也：大字。症也：疑當作莊、呂作庄。
+1_021_A52	v1#4	二	竺	Regular_seal		&#x7AFA;	a008a015		薦也：疑當作「篤」、吕本作「䔍」p.4。
 1_021_A521	v1#4	二	亖	Songben Yupian		&#x4E96;	a008a016		
-1_021_A61	v1#4	二	凡	seal_regular		&#x51E1;	a008a021		
-1_021_B21	v1#5	三	三	seal_regular		&#x4E09;	a008a031		
+1_021_A61	v1#4	二	凡	Regular_seal		&#x51E1;	a008a021		
+1_021_B21	v1#5	三	三	Regular_seal		&#x4E09;	a008a031		
 1_021_B211	v1#5	三	弎	omitted		&#x5F0E;	a008a032		
-1_021_B22	v1#6	王	王	seal_regular		&#x738B;	a008a041		有埋字B。
+1_021_B22	v1#6	王	王	Regular_seal		&#x738B;	a008a041		有埋字B。
 1_021_B23	v1#6	王	𠙻	embedded_regular		&#xD841;&#xDE7B;	a008a051		埋字B。
-1_021_B31	v1#6	王	皇	seal_regular		&#x7687;	a008a052		有埋字B。
+1_021_B31	v1#6	王	皇	Regular_seal		&#x7687;	a008a052		有埋字B。
 1_021_B32	v1#6	王	𤽙	embedded_regular		&#xD853;&#xDF59;	a008a061		埋字B。
 1_021_B32	v1#6	王	𦤍	regular	宮	&#xD85A;&#xDD0D;	a008a061		
-1_021_B33	v1#6	王	閏	seal_regular		&#x958F;	a008a062		
+1_021_B33	v1#6	王	閏	Regular_seal		&#x958F;	a008a062		
 1_021_B41	v1#7	玉	玉	regular		&#x7389;	a008a081		有埋字B二字。
 1_021_B411	v1#7	玉	玉β	embedded_regular		&#x7389;&#x3B2;			埋字B。
 1_021_B42	v1#7	玉	𤣪	embedded_regular		&#xD852;&#xDCEA;	a008a101		埋字B。
-1_021_B43	v1#7	玉	璙	seal_regular		&#x7499;	a008a103		
-1_021_B51	v1#7	玉	瓘	seal_regular		&#x74D8;	a008a104		
-1_021_B52	v1#7	玉	璥	seal_regular		&#x74A5;	a008a105		
-1_021_B61	v1#7	玉	琠	seal_regular		&#x7420;	a008a106		有埋字A一字和埋字B二字。
+1_021_B43	v1#7	玉	璙	Regular_seal		&#x7499;	a008a103		
+1_021_B51	v1#7	玉	瓘	Regular_seal		&#x74D8;	a008a104		
+1_021_B52	v1#7	玉	璥	Regular_seal		&#x74A5;	a008a105		
+1_021_B61	v1#7	玉	琠	Regular_seal		&#x7420;	a008a106		有埋字A一字和埋字B二字。
 1_021_B611	v1#7	玉	琠β	Embedded_regular-omitted		&#x7420;&#x3B2;			埋字B。
 1_021_B62	v1#7	玉	𤩴	embedded_regular		&#xD852;&#xDE74;	a008b011		埋字B。
 1_021_B63	v1#7	玉	玘	embedded_regular		&#x7398;	a008b012		埋字A。
-1_021_B64	v1#7	玉	瓕	seal_regular		&#x74D5;	a008b013		
-1_022_A11	v1#7	玉	𤫕	seal_regular		&#xD852;&#xDED5;	a008b014		
-1_022_A12	v1#7	玉	𤩮	seal_regular		&#xD852;&#xDE6E;	a008b015		
-1_022_A21	v1#7	玉	瑾	seal_regular		&#x747E;	a008b016		
-1_022_A22	v1#7	玉	瑜	seal_regular		&#x745C;	a008b017		有埋字A。翼珠(玉)也（反）：呂按「此處“翼珠也”為“翼珠反”之誤」，p.5。
+1_021_B64	v1#7	玉	瓕	Regular_seal		&#x74D5;	a008b013		
+1_022_A11	v1#7	玉	𤫕	Regular_seal		&#xD852;&#xDED5;	a008b014		
+1_022_A12	v1#7	玉	𤩮	Regular_seal		&#xD852;&#xDE6E;	a008b015		
+1_022_A21	v1#7	玉	瑾	Regular_seal		&#x747E;	a008b016		
+1_022_A22	v1#7	玉	瑜	Regular_seal		&#x745C;	a008b017		有埋字A。翼珠(玉)也（反）：呂按「此處“翼珠也”為“翼珠反”之誤」，p.5。
 1_022_A23	v1#7	玉	璵	embedded_regular		&#x74B5;	a008b021		埋字A。
 1_022_A23	v1#7	玉	𤫌	regular	白	&#xD852;&#xDECC;	a008b021		
-1_022_A31	v1#7	玉	璠	seal_regular		&#x74A0;	a008b022		
-1_022_A32	v1#7	玉	玒	seal_regular		&#x7392;	a008b023		
-1_022_A41	v1#7	玉	珣	seal_regular		&#x73E3;	a010a071		
-1_022_A42	v1#7	玉	瓊	seal_regular		&#x74CA;	a008b031		有埋字B三字。
+1_022_A31	v1#7	玉	璠	Regular_seal		&#x74A0;	a008b022		
+1_022_A32	v1#7	玉	玒	Regular_seal		&#x7392;	a008b023		
+1_022_A41	v1#7	玉	珣	Regular_seal		&#x73E3;	a010a071		
+1_022_A42	v1#7	玉	瓊	Regular_seal		&#x74CA;	a008b031		有埋字B三字。
 1_022_A43	v1#7	玉	璚	embedded_regular		&#x749A;	a008b032		埋字B。
 1_022_A44	v1#7	玉	瓗	embedded_regular		&#x74D7;	a008b033		埋字B。
 1_022_A45	v1#7	玉	璇	embedded_regular		&#x7487;	a008b041		埋字B。
 1_022_A451	v1#7	玉	琁	omitted		&#x7401;	a008b042		
-1_022_A51	v1#7	玉	璐	seal_regular		&#x7490;	a008b024		
-1_022_A52	v1#7	玉	𤦃	seal_regular		&#xD852;&#xDD83;	a008b043		
-1_022_A61	v1#7	玉	珦	seal_regular		&#x73E6;	a008b044		
-1_022_A62	v1#7	玉	㻝	seal_regular		&#x3EDD;	a008b045		
-1_022_B11	v1#7	玉	瓄	seal_regular		&#x74C4;	a008b051		
-1_022_B12	v1#7	玉	璿	seal_regular		&#x74BF;	a008b054		有埋字B三字。
+1_022_A51	v1#7	玉	璐	Regular_seal		&#x7490;	a008b024		
+1_022_A52	v1#7	玉	𤦃	Regular_seal		&#xD852;&#xDD83;	a008b043		
+1_022_A61	v1#7	玉	珦	Regular_seal		&#x73E6;	a008b044		
+1_022_A62	v1#7	玉	㻝	Regular_seal		&#x3EDD;	a008b045		
+1_022_B11	v1#7	玉	瓄	Regular_seal		&#x74C4;	a008b051		
+1_022_B12	v1#7	玉	璿	Regular_seal		&#x74BF;	a008b054		有埋字B三字。
 1_022_B121	v1#7	玉	璿β	Embedded_regular-omitted		&#x74BF;&#x3B2;			埋字B。
 1_022_B13	v1#7	玉	𤫀	embedded_regular		&#xD852;&#xDEC0;	a008b061		埋字B。
 1_022_B14	v1#7	玉	𤩅	embedded_regular		&#xD852;&#xDE45;	a008b062		埋字B。
-1_022_B21	v1#7	玉	珵	seal_regular		&#x73F5;	a008b052		
-1_022_B22	v1#7	玉	球	seal_regular		&#x7403;	a008b063		有埋字A。
+1_022_B21	v1#7	玉	珵	Regular_seal		&#x73F5;	a008b052		
+1_022_B22	v1#7	玉	球	Regular_seal		&#x7403;	a008b063		有埋字A。
 1_022_B23	v1#7	玉	琳	embedded_regular		&#x7433;	a008b053		埋字A。
-1_022_B31	v1#7	玉	璆	seal_regular		&#x7486;	a008b071		
-1_022_B32	v1#7	玉	㻒	seal_regular		&#x3ED2;	a008b072		
-1_022_B41	v1#7	玉	瑅	seal_regular		&#x7445;	a008b073		
-1_022_B42	v1#7	玉	瑭	seal_regular		&#x746D;	a008b074		有埋字A。
+1_022_B31	v1#7	玉	璆	Regular_seal		&#x7486;	a008b071		
+1_022_B32	v1#7	玉	㻒	Regular_seal		&#x3ED2;	a008b072		
+1_022_B41	v1#7	玉	瑅	Regular_seal		&#x7445;	a008b073		
+1_022_B42	v1#7	玉	瑭	Regular_seal		&#x746D;	a008b074		有埋字A。
 1_022_B43	v1#7	玉	珙	embedded_regular		&#x73D9;	a008b075		埋字A。
-1_022_B51	v1#7	玉	琛	seal_regular		&#x741B;	a008b081		有埋字A。
+1_022_B51	v1#7	玉	琛	Regular_seal		&#x741B;	a008b081		有埋字A。
 1_022_B52	v1#7	玉	㻽	embedded_regular		&#x3EFD;	a008b076		埋字A。掲出字：原文一字誤作二字。似睡反：原文疑作「以」、吕本作「以」、p.6。
-1_022_B53	v1#7	玉	璧	seal_regular		&#x74A7;	a008b083		有埋字B。
+1_022_B53	v1#7	玉	璧	Regular_seal		&#x74A7;	a008b083		有埋字B。
 1_022_B531	v1#7	玉	璧β	Embedded_regular-omitted		&#x74A7;&#x3B2;			埋字B。
 1_022_B61	v1#7	玉	玊	regular		&#x738A;	a008a102		
-1_022_B62	v1#7	玉	環	seal_regular		&#x74B0;	a008b082		
-1_023_A11	v1#7	玉	瑗	seal_regular		&#x7457;	a008b084		
-1_023_A12	v1#7	玉	琮	seal_regular		&#x742E;	a008b085		
-1_023_A21	v1#7	玉	璜	seal_regular		&#x749C;	a008b092		
-1_023_A22	v1#7	玉	琥	seal_regular		&#x7425;	a008b101		
-1_023_A31	v1#7	玉	瓃	seal_regular		&#x74C3;	a008b093		
-1_023_A32	v1#7	玉	瓏	seal_regular		&#x74CF;	a008b091		
-1_023_A41	v1#7	玉	珪	seal_regular		&#x73EA;	a008b102		
-1_023_A42	v1#7	玉	璋	seal_regular		&#x748B;	a008b104		
-1_023_A51	v1#7	玉	玠	seal_regular		&#x73A0;	a009a011		有埋字B。
+1_022_B62	v1#7	玉	環	Regular_seal		&#x74B0;	a008b082		
+1_023_A11	v1#7	玉	瑗	Regular_seal		&#x7457;	a008b084		
+1_023_A12	v1#7	玉	琮	Regular_seal		&#x742E;	a008b085		
+1_023_A21	v1#7	玉	璜	Regular_seal		&#x749C;	a008b092		
+1_023_A22	v1#7	玉	琥	Regular_seal		&#x7425;	a008b101		
+1_023_A31	v1#7	玉	瓃	Regular_seal		&#x74C3;	a008b093		
+1_023_A32	v1#7	玉	瓏	Regular_seal		&#x74CF;	a008b091		
+1_023_A41	v1#7	玉	珪	Regular_seal		&#x73EA;	a008b102		
+1_023_A42	v1#7	玉	璋	Regular_seal		&#x748B;	a008b104		
+1_023_A51	v1#7	玉	玠	Regular_seal		&#x73A0;	a009a011		有埋字B。
 1_023_A511	v1#7	玉	玠β	embedded_regular		&#x73A0;&#x3B2;			埋字B。
-1_023_A52	v1#7	玉	琬	seal_regular		&#x742C;	a009a012		
-1_023_A61	v1#7	玉	琰	seal_regular		&#x7430;	a008b103		
-1_023_A62	v1#7	玉	瑒	seal_regular		&#x7452;	a009a013		
-1_023_B11	v1#7	玉	瓛	seal_regular		&#x74DB;	a009a014		
-1_023_B12	v1#7	玉	珽	seal_regular		&#x73FD;	a009a015		
-1_023_B21	v1#7	玉	琡	seal_regular		&#x7421;	a009a031		
-1_023_B22	v1#7	玉	瑁	seal_regular		&#x7441;	a009a021		有埋字B。
+1_023_A52	v1#7	玉	琬	Regular_seal		&#x742C;	a009a012		
+1_023_A61	v1#7	玉	琰	Regular_seal		&#x7430;	a008b103		
+1_023_A62	v1#7	玉	瑒	Regular_seal		&#x7452;	a009a013		
+1_023_B11	v1#7	玉	瓛	Regular_seal		&#x74DB;	a009a014		
+1_023_B12	v1#7	玉	珽	Regular_seal		&#x73FD;	a009a015		
+1_023_B21	v1#7	玉	琡	Regular_seal		&#x7421;	a009a031		
+1_023_B22	v1#7	玉	瑁	Regular_seal		&#x7441;	a009a021		有埋字B。
 1_023_B23	v1#7	玉	𤣽	embedded_regular		&#xD852;&#xDCFD;	a009a022		埋字B。
-1_023_B31	v1#7	玉	瑞	seal_regular		&#x745E;	a009a032		
-1_023_B32	v1#7	玉	瑱	seal_regular		&#x7471;	a009a033		有埋字B。
+1_023_B31	v1#7	玉	瑞	Regular_seal		&#x745E;	a009a032		
+1_023_B32	v1#7	玉	瑱	Regular_seal		&#x7471;	a009a033		有埋字B。
 1_023_B321	v1#7	玉	瑱β	Embedded_regular-omitted		&#x7471;&#x3B2;			埋字B。
-1_023_B41	v1#7	玉	珥	seal_regular		&#x73E5;	a009a034		
-1_023_B42	v1#7	玉	琫	seal_regular		&#x742B;	a009a041		
-1_023_B51	v1#7	玉	珌	seal_regular		&#x73CC;	a009a042		有埋字B。
+1_023_B41	v1#7	玉	珥	Regular_seal		&#x73E5;	a009a034		
+1_023_B42	v1#7	玉	琫	Regular_seal		&#x742B;	a009a041		
+1_023_B51	v1#7	玉	珌	Regular_seal		&#x73CC;	a009a042		有埋字B。
 1_023_B52	v1#7	玉	㻫	embedded_regular		&#x3EEB;	a009a043		埋字B。
-1_023_B53	v1#7	玉	璏	seal_regular		&#x748F;	a009a044		有埋字B。
+1_023_B53	v1#7	玉	璏	Regular_seal		&#x748F;	a009a044		有埋字B。
 1_023_B54	v1#7	玉	⿰王⿱立豕	embedded_regular		&#x2FF0;&#x738B;&#x2FF1;&#x7ACB;&#x8C55;	a009a052		埋字B。呂作瑑。⿰王⿱立豕：原文字形小異。
 1_023_B54	v1#7	玉	瑑	regular	白	&#x7451;	a009a052		
-1_023_B61	v1#7	玉	㺲	seal_regular		&#x3EB2;	a009a045		
-1_023_B62	v1#7	玉	璫	seal_regular		&#x74AB;	a009a051		
-1_024_A11	v1#7	玉	瑑	seal_regular		&#x7451;	a009a052		
-1_024_A12	v1#7	玉	瓉	seal_regular		&#x74C9;	a009a053		
-1_024_A21	v1#7	玉	𤪌	seal_regular		&#xD852;&#xDE8C;	a009a062		
+1_023_B61	v1#7	玉	㺲	Regular_seal		&#x3EB2;	a009a045		
+1_023_B62	v1#7	玉	璫	Regular_seal		&#x74AB;	a009a051		
+1_024_A11	v1#7	玉	瑑	Regular_seal		&#x7451;	a009a052		
+1_024_A12	v1#7	玉	瓉	Regular_seal		&#x74C9;	a009a053		
+1_024_A21	v1#7	玉	𤪌	Regular_seal		&#xD852;&#xDE8C;	a009a062		
 1_024_A211	v1#7	玉	璂	omitted		&#x7482;	a009a063		
 1_024_A212	v1#7	玉	琪	Songben Yupian		&#x742A;	a009a064		
-1_024_A22	v1#7	玉	玦	seal_regular		&#x73A6;	a009a061		
-1_024_A31	v1#7	玉	珩	seal_regular		&#x73E9;	a009a065		
-1_024_A32	v1#7	玉	璬	seal_regular		&#x74AC;	a009a071		
-1_024_A41	v1#7	玉	珮	seal_regular		&#x73EE;	a009a072		玉帯玉也：疑當作「王帯玉」。
-1_024_A42	v1#7	玉	玩	seal_regular		&#x73A9;	a009a073		
-1_024_A51	v1#7	玉	瑬	seal_regular		&#x746C;	a009a074		
-1_024_A52	v1#7	玉	璹	seal_regular		&#x74B9;	a009a082		
+1_024_A22	v1#7	玉	玦	Regular_seal		&#x73A6;	a009a061		
+1_024_A31	v1#7	玉	珩	Regular_seal		&#x73E9;	a009a065		
+1_024_A32	v1#7	玉	璬	Regular_seal		&#x74AC;	a009a071		
+1_024_A41	v1#7	玉	珮	Regular_seal		&#x73EE;	a009a072		玉帯玉也：疑當作「王帯玉」。
+1_024_A42	v1#7	玉	玩	Regular_seal		&#x73A9;	a009a073		
+1_024_A51	v1#7	玉	瑬	Regular_seal		&#x746C;	a009a074		
+1_024_A52	v1#7	玉	璹	Regular_seal		&#x74B9;	a009a082		
 1_024_A521	v1#7	玉	𤩈	Songben Yupian		&#xD852;&#xDE48;	a009a081		
-1_024_A61	v1#7	玉	珍	seal_regular		&#x73CD;	a009a084		有埋字B。
+1_024_A61	v1#7	玉	珍	Regular_seal		&#x73CD;	a009a084		有埋字B。
 1_024_A611	v1#7	玉	珎	Embedded_regular-omitted		&#x73CE;	a009a085		埋字B。
-1_024_A62	v1#7	玉	珤	seal_regular		&#x73E4;	a009a083		
-1_024_B11	v1#7	玉	琚	seal_regular		&#x741A;	a009a091		
-1_024_B12	v1#7	玉	琖	seal_regular		&#x7416;	a009a092		
-1_024_B21	v1#7	玉	璲	seal_regular		&#x74B2;	a009a101		
-1_024_B22	v1#7	玉	瑵	seal_regular		&#x7475;	a009a102		
-1_024_B31	v1#7	玉	珈	seal_regular		&#x73C8;	a009a093		
-1_024_B32	v1#7	玉	璪	seal_regular		&#x74AA;	a009a103		双隷(1)。掲出字：原作𤩨璪。
-1_024_B41	v1#7	玉	瑚	seal_regular		&#x745A;	a009a104		李云有埋字A。呂為「珊」注文。宮澤不立項。今從宮澤。珊瑚也：大字。
+1_024_A62	v1#7	玉	珤	Regular_seal		&#x73E4;	a009a083		
+1_024_B11	v1#7	玉	琚	Regular_seal		&#x741A;	a009a091		
+1_024_B12	v1#7	玉	琖	Regular_seal		&#x7416;	a009a092		
+1_024_B21	v1#7	玉	璲	Regular_seal		&#x74B2;	a009a101		
+1_024_B22	v1#7	玉	瑵	Regular_seal		&#x7475;	a009a102		
+1_024_B31	v1#7	玉	珈	Regular_seal		&#x73C8;	a009a093		
+1_024_B32	v1#7	玉	璪	Regular_seal		&#x74AA;	a009a103		双隷(1)。掲出字：原作𤩨璪。
+1_024_B41	v1#7	玉	瑚	Regular_seal		&#x745A;	a009a104		李云有埋字A。呂為「珊」注文。宮澤不立項。今從宮澤。珊瑚也：大字。
 1_024_B42	v1#7	玉	璉	regular		&#x7489;	a009b011		埋字A。池田按、掲出字作瑚、非。「后都反。珊瑚樹有枝无葉。」、疑係後人増訂。参看宮澤一覧表・呂《校釋》。
-1_024_B51	v1#7	玉	琩	seal_regular		&#x7429;	a009b012		
-1_024_B52	v1#7	玉	璩	seal_regular		&#x74A9;	a009b021		
+1_024_B51	v1#7	玉	琩	Regular_seal		&#x7429;	a009b012		
+1_024_B52	v1#7	玉	璩	Regular_seal		&#x74A9;	a009b021		
 1_024_B61	v1#7	玉	瑋	regular		&#x744B;	a009b013		
-1_024_B62	v1#7	玉	琦	seal_regular		&#x7426;	a009b022		
-1_025_A11	v1#7	玉	璺	seal_regular		&#x74BA;	a009b023		
-1_025_A12	v1#7	玉	玷	seal_regular		&#x73B7;	a009b032		
-1_025_A21	v1#7	玉	琄	seal_regular		&#x7404;	a009b033		
-1_025_A22	v1#7	玉	璽	seal_regular		&#x74BD;	a009b034		G02尾。
-1_025_A41	v1#7	玉	瑹	seal_regular		&#x7479;	a009b042		G03首。
-1_025_A42	v1#7	玉	𤣻	seal_regular		&#xD852;&#xDCFB;	a009b031		胥：疑當作骨、呂作骨。
-1_025_A51	v1#7	玉	𤩂	seal_regular		&#xD852;&#xDE42;	a009b041		有埋字B。呂云：「此條為“璞”字釋義羼入上一字頭下」。
+1_024_B62	v1#7	玉	琦	Regular_seal		&#x7426;	a009b022		
+1_025_A11	v1#7	玉	璺	Regular_seal		&#x74BA;	a009b023		
+1_025_A12	v1#7	玉	玷	Regular_seal		&#x73B7;	a009b032		
+1_025_A21	v1#7	玉	琄	Regular_seal		&#x7404;	a009b033		
+1_025_A22	v1#7	玉	璽	Regular_seal		&#x74BD;	a009b034		G02尾。
+1_025_A41	v1#7	玉	瑹	Regular_seal		&#x7479;	a009b042		G03首。
+1_025_A42	v1#7	玉	𤣻	Regular_seal		&#xD852;&#xDCFB;	a009b031		胥：疑當作骨、呂作骨。
+1_025_A51	v1#7	玉	𤩂	Regular_seal		&#xD852;&#xDE42;	a009b041		有埋字B。呂云：「此條為“璞”字釋義羼入上一字頭下」。
 1_025_A52	v1#7	玉	璞	embedded_regular		&#x749E;	a009b043		埋字B。
-1_025_A53	v1#7	玉	琢	seal_regular		&#x7422;	a009b051		
-1_025_A61	v1#7	玉	琱	seal_regular		&#x7431;	a009b052		
-1_025_A62	v1#7	玉	玼	seal_regular		&#x73BC;	a009b053		有埋字A。媒：疑當為埋字「理」字之義注、見《新撰字鏡》[新328-43]。
+1_025_A53	v1#7	玉	琢	Regular_seal		&#x7422;	a009b051		
+1_025_A61	v1#7	玉	琱	Regular_seal		&#x7431;	a009b052		
+1_025_A62	v1#7	玉	玼	Regular_seal		&#x73BC;	a009b053		有埋字A。媒：疑當為埋字「理」字之義注、見《新撰字鏡》[新328-43]。
 1_025_A63	v1#7	玉	理	embedded_regular		&#x7406;	a009b054		埋字A。
-1_025_B11	v1#7	玉	瑳	seal_regular		&#x7473;	a009b061		
-1_025_B12	v1#7	玉	璱	seal_regular		&#x74B1;	a009b062		有埋字B。
+1_025_B11	v1#7	玉	瑳	Regular_seal		&#x7473;	a009b061		
+1_025_B12	v1#7	玉	璱	Regular_seal		&#x74B1;	a009b062		有埋字B。
 1_025_B13	v1#7	玉	琗	embedded_regular		&#x7417;	a009b071		埋字B。
-1_025_B21	v1#7	玉	琯	seal_regular		&#x742F;	a009b072		
-1_025_B22	v1#7	玉	珇	seal_regular		&#x73C7;	a009b082		
+1_025_B21	v1#7	玉	琯	Regular_seal		&#x742F;	a009b072		
+1_025_B22	v1#7	玉	珇	Regular_seal		&#x73C7;	a009b082		
 1_025_B23	v1#7	玉	𤩰	regular		&#xD852;&#xDE70;	a009b073		𣓶：原文模糊、呂作猛。
 1_025_B231	v1#7	玉	瑮	Songben Yupian		&#x746E;	a009b081		
-1_025_B31	v1#7	玉	瑩	seal_regular		&#x7469;	a009b083		
-1_025_B32	v1#7	玉	璊	seal_regular		&#x748A;	a009b091		
-1_025_B41	v1#7	玉	玧	seal_regular		&#x73A7;	a009b092		掲出字：原作玩、誤。
+1_025_B31	v1#7	玉	瑩	Regular_seal		&#x7469;	a009b083		
+1_025_B32	v1#7	玉	璊	Regular_seal		&#x748A;	a009b091		
+1_025_B41	v1#7	玉	玧	Regular_seal		&#x73A7;	a009b092		掲出字：原作玩、誤。
 1_025_B41	v1#7	玉	玩	regular	白	&#x73A9;	a009b092		
-1_025_B42	v1#7	玉	瑛	seal_regular		&#x745B;	a009b093		
-1_025_B51	v1#7	玉	瑕	seal_regular		&#x7455;	a009b102		
-1_025_B52	v1#7	玉	瑲	seal_regular		&#x7472;	a009b103		
-1_025_B61	v1#7	玉	玎	seal_regular		&#x738E;	a010a011		
-1_025_B62	v1#7	玉	琤	seal_regular		&#x7424;	a009b101		
-1_026_A11	v1#7	玉	瑝	seal_regular		&#x745D;	a010a021		
-1_026_A12	v1#7	玉	瑣	seal_regular		&#x7463;	a010a022		
-1_026_A21	v1#7	玉	瑀	seal_regular		&#x7440;	a010a012		
-1_026_A22	v1#7	玉	玤	seal_regular		&#x73A4;	a010a023		
+1_025_B42	v1#7	玉	瑛	Regular_seal		&#x745B;	a009b093		
+1_025_B51	v1#7	玉	瑕	Regular_seal		&#x7455;	a009b102		
+1_025_B52	v1#7	玉	瑲	Regular_seal		&#x7472;	a009b103		
+1_025_B61	v1#7	玉	玎	Regular_seal		&#x738E;	a010a011		
+1_025_B62	v1#7	玉	琤	Regular_seal		&#x7424;	a009b101		
+1_026_A11	v1#7	玉	瑝	Regular_seal		&#x745D;	a010a021		
+1_026_A12	v1#7	玉	瑣	Regular_seal		&#x7463;	a010a022		
+1_026_A21	v1#7	玉	瑀	Regular_seal		&#x7440;	a010a012		
+1_026_A22	v1#7	玉	玤	Regular_seal		&#x73A4;	a010a023		
 1_026_A30	v1#7	玉	𤦩	regular		&#xD852;&#xDDA9;			双隷。𤦩・㺿二字。
-1_026_A31	v1#7	玉	㺿	seal_regular		&#x3EBF;	a010a024		有埋字A。双隷(2)。呂云「此處字頭雙出，“𤦩”字與所注音義不合，似為誤字」，p.8。
+1_026_A31	v1#7	玉	㺿	Regular_seal		&#x3EBF;	a010a024		有埋字A。双隷(2)。呂云「此處字頭雙出，“𤦩”字與所注音義不合，似為誤字」，p.8。
 1_026_A32	v1#7	玉	珅	embedded_regular		&#x73C5;	△		埋字A。
 1_026_A32	v1#7	玉	⿰王电	regular	宮	&#x2FF0;&#x738B;&#x7535;	△		五巾反：疑母・平声真韻。宮澤作此字。呂作珅。
-1_026_A33	v1#7	玉	珢	seal_regular		&#x73E2;	a010a031		
-1_026_A41	v1#7	玉	𤤺	seal_regular		&#xD852;&#xDD3A;	a010a032		
-1_026_A42	v1#7	玉	璅	seal_regular		&#x7485;	a010a033		
-1_026_A51	v1#7	玉	璡	seal_regular		&#x74A1;	a010a034		
-1_026_A52	v1#7	玉	㻸	seal_regular		&#x3EF8;	a010a041		
-1_026_A61	v1#7	玉	𤥼	seal_regular		&#xD852;&#xDD7C;	a010a042		
+1_026_A33	v1#7	玉	珢	Regular_seal		&#x73E2;	a010a031		
+1_026_A41	v1#7	玉	𤤺	Regular_seal		&#xD852;&#xDD3A;	a010a032		
+1_026_A42	v1#7	玉	璅	Regular_seal		&#x7485;	a010a033		
+1_026_A51	v1#7	玉	璡	Regular_seal		&#x74A1;	a010a034		
+1_026_A52	v1#7	玉	㻸	Regular_seal		&#x3EF8;	a010a041		
+1_026_A61	v1#7	玉	𤥼	Regular_seal		&#xD852;&#xDD7C;	a010a042		
 1_026_A61	v1#7	玉	𤧚	regular	宮	&#xD852;&#xDDDA;	a010a042		
-1_026_A62	v1#7	玉	𤩭	seal_regular		&#xD852;&#xDE6D;	a010a043		
-1_026_B11	v1#7	玉	𤪍	seal_regular		&#xD852;&#xDE8D;	a010a044		
-1_026_B12	v1#7	玉	𤦼	seal_regular		&#xD852;&#xDDBC;	a010a045		
-1_026_B21	v1#7	玉	𤫉	seal_regular		&#xD852;&#xDEC9;	a010a046		
-1_026_B22	v1#7	玉	玽	seal_regular		&#x73BD;	a010a051		
-1_026_B31	v1#7	玉	琂	seal_regular		&#x7402;	a010a052		
-1_026_B32	v1#7	玉	璶	seal_regular		&#x74B6;	a010a053		
-1_026_B41	v1#7	玉	琟	seal_regular		&#x741F;	a010a054		
-1_026_B42	v1#7	玉	瑦	seal_regular		&#x7466;	a010a055		
-1_026_B51	v1#7	玉	㺨	seal_regular		&#x3EA8;	a010a061		
-1_026_B52	v1#7	玉	瑂	seal_regular		&#x7442;	a010a062		
-1_026_B61	v1#7	玉	璒	seal_regular		&#x7492;	a010a063		
-1_026_B62	v1#7	玉	玗	seal_regular		&#x7397;	a010a065		
-1_027_A11	v1#7	玉	瑎	seal_regular		&#x744E;	a010a072		
-1_027_A12	v1#7	玉	瑤	seal_regular		&#x7464;	a010a064		
-1_027_A21	v1#7	玉	琨	seal_regular		&#x7428;	a010a073		有埋字B。
+1_026_A62	v1#7	玉	𤩭	Regular_seal		&#xD852;&#xDE6D;	a010a043		
+1_026_B11	v1#7	玉	𤪍	Regular_seal		&#xD852;&#xDE8D;	a010a044		
+1_026_B12	v1#7	玉	𤦼	Regular_seal		&#xD852;&#xDDBC;	a010a045		
+1_026_B21	v1#7	玉	𤫉	Regular_seal		&#xD852;&#xDEC9;	a010a046		
+1_026_B22	v1#7	玉	玽	Regular_seal		&#x73BD;	a010a051		
+1_026_B31	v1#7	玉	琂	Regular_seal		&#x7402;	a010a052		
+1_026_B32	v1#7	玉	璶	Regular_seal		&#x74B6;	a010a053		
+1_026_B41	v1#7	玉	琟	Regular_seal		&#x741F;	a010a054		
+1_026_B42	v1#7	玉	瑦	Regular_seal		&#x7466;	a010a055		
+1_026_B51	v1#7	玉	㺨	Regular_seal		&#x3EA8;	a010a061		
+1_026_B52	v1#7	玉	瑂	Regular_seal		&#x7442;	a010a062		
+1_026_B61	v1#7	玉	璒	Regular_seal		&#x7492;	a010a063		
+1_026_B62	v1#7	玉	玗	Regular_seal		&#x7397;	a010a065		
+1_027_A11	v1#7	玉	瑎	Regular_seal		&#x744E;	a010a072		
+1_027_A12	v1#7	玉	瑤	Regular_seal		&#x7464;	a010a064		
+1_027_A21	v1#7	玉	琨	Regular_seal		&#x7428;	a010a073		有埋字B。
 1_027_A22	v1#7	玉	瑻	embedded_regular		&#x747B;	a010a081		埋字B。
-1_027_A23	v1#7	玉	碧	seal_regular		&#x78A7;	a010a082		
-1_027_A31	v1#7	玉	瓐	seal_regular		&#x74D0;	a010a091		
-1_027_A32	v1#7	玉	珉	seal_regular		&#x73C9;	a010a092		
+1_027_A23	v1#7	玉	碧	Regular_seal		&#x78A7;	a010a082		
+1_027_A31	v1#7	玉	瓐	Regular_seal		&#x74D0;	a010a091		
+1_027_A32	v1#7	玉	珉	Regular_seal		&#x73C9;	a010a092		
 1_027_A321	v1#7	玉	瑉	Songben Yupian		&#x7449;	a010a101		
 1_027_A322	v1#7	玉	㻍	Songben Yupian		&#x3ECD;	a010a102		
-1_027_A41	v1#7	玉	珸	seal_regular		&#x73F8;	a010a103		有埋字A。
+1_027_A41	v1#7	玉	珸	Regular_seal		&#x73F8;	a010a103		有埋字A。
 1_027_A42	v1#7	玉	理	embedded_regular		&#x7406;	△(a009b054)		埋字A。
-1_027_A43	v1#7	玉	瓔	seal_regular		&#x74D4;	a010b011		
-1_027_A51	v1#7	玉	璑	seal_regular		&#x7491;	a010a104		
-1_027_A52	v1#7	玉	玞	seal_regular		&#x739E;	a010b012		
-1_027_A61	v1#7	玉	㻬	seal_regular		&#x3EEC;	a010b021		
-1_027_A62	v1#7	玉	琈	seal_regular		&#x7408;	a010b022		
-1_027_B11	v1#7	玉	瑌	seal_regular		&#x744C;	a010b023		有埋字B。
+1_027_A43	v1#7	玉	瓔	Regular_seal		&#x74D4;	a010b011		
+1_027_A51	v1#7	玉	璑	Regular_seal		&#x7491;	a010a104		
+1_027_A52	v1#7	玉	玞	Regular_seal		&#x739E;	a010b012		
+1_027_A61	v1#7	玉	㻬	Regular_seal		&#x3EEC;	a010b021		
+1_027_A62	v1#7	玉	琈	Regular_seal		&#x7408;	a010b022		
+1_027_B11	v1#7	玉	瑌	Regular_seal		&#x744C;	a010b023		有埋字B。
 1_027_B12	v1#7	玉	瓀	embedded_regular		&#x74C0;	△		埋字B。
-1_027_B13	v1#7	玉	瑊	seal_regular		&#x744A;	a010b031		有埋字B。
+1_027_B13	v1#7	玉	瑊	Regular_seal		&#x744A;	a010b031		有埋字B。
 1_027_B131	v1#7	玉	玪	omitted		&#x73AA;	a010b032		
-1_027_B21	v1#7	玉	𤨕	seal_regular		&#xD852;&#xDE15;	a010b033		有埋字B。
+1_027_B21	v1#7	玉	𤨕	Regular_seal		&#xD852;&#xDE15;	a010b033		有埋字B。
 1_027_B22	v1#7	玉	玏	embedded_regular		&#x738F;	a010b041		埋字B。
-1_027_B23	v1#7	玉	琇	seal_regular		&#x7407;	a010b042		有埋字B。
+1_027_B23	v1#7	玉	琇	Regular_seal		&#x7407;	a010b042		有埋字B。
 1_027_B24	v1#7	玉	璓	embedded_regular		&#x7493;	a010b043		埋字B。
-1_027_B31	v1#7	玉	玖	seal_regular		&#x7396;	a010b044		
-1_027_B32	v1#7	玉	璘	seal_regular		&#x7498;	a010b045		
-1_027_B41	v1#7	玉	㻞	seal_regular		&#x3EDE;	a010b051		
-1_027_B42	v1#7	玉	璄	seal_regular		&#x7484;	a010b053		有埋字B。
+1_027_B31	v1#7	玉	玖	Regular_seal		&#x7396;	a010b044		
+1_027_B32	v1#7	玉	璘	Regular_seal		&#x7498;	a010b045		
+1_027_B41	v1#7	玉	㻞	Regular_seal		&#x3EDE;	a010b051		
+1_027_B42	v1#7	玉	璄	Regular_seal		&#x7484;	a010b053		有埋字B。
 1_027_B421	v1#7	玉	璟	embedded_regular		&#x749F;	a010b054		埋字B。
-1_027_B51	v1#7	玉	玢	seal_regular		&#x73A2;	a011a056		
-1_027_B52	v1#7	玉	㻾	seal_regular		&#x3EFE;	a010b055		
-1_027_B61	v1#7	玉	琭	seal_regular		&#x742D;	a010b052		
-1_027_B62	v1#7	玉	珕	seal_regular		&#x73D5;	a010b071		
-1_028_A11	v1#7	玉	珧	seal_regular		&#x73E7;	a010b062		
-1_028_A12	v1#7	玉	珠	seal_regular		&#x73E0;	a010b061		
-1_028_A21	v1#7	玉	玓	seal_regular		&#x7393;	a010b072		
-1_028_A22	v1#7	玉	瓅	seal_regular		&#x74C5;	a010b073		
-1_028_A31	v1#7	玉	玭	seal_regular		&#x73AD;	a010b084		有埋字B。
+1_027_B51	v1#7	玉	玢	Regular_seal		&#x73A2;	a011a056		
+1_027_B52	v1#7	玉	㻾	Regular_seal		&#x3EFE;	a010b055		
+1_027_B61	v1#7	玉	琭	Regular_seal		&#x742D;	a010b052		
+1_027_B62	v1#7	玉	珕	Regular_seal		&#x73D5;	a010b071		
+1_028_A11	v1#7	玉	珧	Regular_seal		&#x73E7;	a010b062		
+1_028_A12	v1#7	玉	珠	Regular_seal		&#x73E0;	a010b061		
+1_028_A21	v1#7	玉	玓	Regular_seal		&#x7393;	a010b072		
+1_028_A22	v1#7	玉	瓅	Regular_seal		&#x74C5;	a010b073		
+1_028_A31	v1#7	玉	玭	Regular_seal		&#x73AD;	a010b084		有埋字B。
 1_028_A32	v1#7	玉	琕	embedded_regular		&#x7415;	a010b091		埋字B。
-1_028_A33	v1#7	玉	玟	seal_regular		&#x739F;	a010b081		掲出字：白藤・呂作玫。宮澤作玟。
-1_028_A41	v1#7	玉	瑰	seal_regular		&#x7470;	a010b082		有埋字B。
+1_028_A33	v1#7	玉	玟	Regular_seal		&#x739F;	a010b081		掲出字：白藤・呂作玫。宮澤作玟。
+1_028_A41	v1#7	玉	瑰	Regular_seal		&#x7470;	a010b082		有埋字B。
 1_028_A42	v1#7	玉	瓌	embedded_regular		&#x74CC;	a010b083		埋字B。
-1_028_A43	v1#7	玉	璣	seal_regular		&#x74A3;	a010b074		
-1_028_A51	v1#7	玉	琅	seal_regular		&#x7405;	a010b092		
-1_028_A52	v1#7	玉	玕	seal_regular		&#x7395;	a010b093		有埋字B。
+1_028_A43	v1#7	玉	璣	Regular_seal		&#x74A3;	a010b074		
+1_028_A51	v1#7	玉	琅	Regular_seal		&#x7405;	a010b092		
+1_028_A52	v1#7	玉	玕	Regular_seal		&#x7395;	a010b093		有埋字B。
 1_028_A53	v1#7	玉	𤥚	embedded_seal		&#xD852;&#xDD5A;	a010b094		埋字B。篆書字形。
 1_028_A531	v1#7	玉	𤪿	Songben Yupian		&#xD852;&#xDEBF;	a010b095		
-1_028_A61	v1#7	玉	瑠	seal_regular		&#x7460;	a010b102		有埋字A。
+1_028_A61	v1#7	玉	瑠	Regular_seal		&#x7460;	a010b102		有埋字A。
 1_028_A62	v1#7	玉	𤫚	embedded_regular		&#xD852;&#xDEDA;	a010b103		埋字A。宋本《玉篇》作璃。
 1_028_A62	v1#7	玉	璃	regular	白	&#x7483;	a010b103		
-1_028_A63	v1#7	玉	琲	seal_regular		&#x7432;	a010b105		
+1_028_A63	v1#7	玉	琲	Regular_seal		&#x7432;	a010b105		
 1_028_A63	v1#7	玉	㻗	regular	白	&#x3ED7;	a010b105		
-1_028_B11	v1#7	玉	珊	seal_regular		&#x73CA;	a011a011		
-1_028_B12	v1#7	玉	瑇	seal_regular		&#x7447;	a009a023		
-1_028_B21	v1#7	玉	珂	seal_regular		&#x73C2;	a011a012		有埋字A。𤤅心(瑙)：一字誤作二字例。
+1_028_B11	v1#7	玉	珊	Regular_seal		&#x73CA;	a011a011		
+1_028_B12	v1#7	玉	瑇	Regular_seal		&#x7447;	a009a023		
+1_028_B21	v1#7	玉	珂	Regular_seal		&#x73C2;	a011a012		有埋字A。𤤅心(瑙)：一字誤作二字例。
 1_028_B22	v1#7	玉	珬	embedded_regular		&#x73EC;	a011a021		埋字A。
-1_028_B23	v1#7	玉	珿	seal_regular		&#x73FF;	a010b104		
-1_028_B31	v1#7	玉	玲	seal_regular		&#x73B2;	a011a022		
-1_028_B32	v1#7	玉	珋	seal_regular		&#x73CB;	a010b101		
+1_028_B23	v1#7	玉	珿	Regular_seal		&#x73FF;	a010b104		
+1_028_B31	v1#7	玉	玲	Regular_seal		&#x73B2;	a011a022		
+1_028_B32	v1#7	玉	珋	Regular_seal		&#x73CB;	a010b101		
 1_028_B32	v1#7	玉	𤥗	regular	宮	&#xD852;&#xDD57;	a010b101		
-1_028_B41	v1#7	玉	珋	seal_regular		&#x73CB;	△(a010b101)		
+1_028_B41	v1#7	玉	珋	Regular_seal		&#x73CB;	△(a010b101)		
 1_028_B41	v1#7	玉	𤥗	regular	宮	&#xD852;&#xDD57;	△(a010b101)		
-1_028_B42	v1#7	玉	瑴	seal_regular		&#x7474;	a011a023		
-1_028_B51	v1#7	玉	琀	seal_regular		&#x7400;	a011a031		
-1_028_B52	v1#7	玉	𤪎	seal_regular		&#xD852;&#xDE8E;	a011a032		有埋字A。
+1_028_B42	v1#7	玉	瑴	Regular_seal		&#x7474;	a011a023		
+1_028_B51	v1#7	玉	琀	Regular_seal		&#x7400;	a011a031		
+1_028_B52	v1#7	玉	𤪎	Regular_seal		&#xD852;&#xDE8E;	a011a032		有埋字A。
 1_028_B53	v1#7	玉	玹	embedded_regular		&#x73B9;	a011a052		埋字A。
-1_028_B61	v1#7	玉	璗	seal_regular		&#x7497;	a011a033		有埋字A。
+1_028_B61	v1#7	玉	璗	Regular_seal		&#x7497;	a011a033		有埋字A。
 1_028_B611	v1#7	玉	琙	omitted		&#x7419;	a011a041		
 1_028_B62	v1#7	玉	璯	embedded_regular		&#x74AF;	a011a051		埋字A。
-1_028_B63	v1#7	玉	𤫊	seal_regular		&#xD852;&#xDECA;	a011a042		
+1_028_B63	v1#7	玉	𤫊	Regular_seal		&#xD852;&#xDECA;	a011a042		
 1_028_B631	v1#7	玉	珝	omitted		&#x73DD;	a011a043		
-1_029_A21	v1#8	玨	𨌥	seal_regular		&#xD860;&#xDF25;	△(a011b82)		有埋字A二字。
+1_029_A21	v1#8	玨	𨌥	Regular_seal		&#xD860;&#xDF25;	△(a011b82)		有埋字A二字。
 1_029_A22	v1#8	玨	玹	embedded_regular		&#x73B9;	△		埋字A。
 1_029_A23	v1#8	玨	珝	embedded_regular		&#x73DD;	△		埋字A。
 1_029_A24	v1#8	玨	班	regular		&#x73ED;	a011b092		有埋字A。■：原文似⿰日血、呂作恤。
 1_029_A25	v1#8	玨	琙	embedded_regular		&#x7419;	△		埋字A。■：原文似⿰日血、呂作恤、《新撰字鏡》玉篇群作洫。當作洫。
 1_029_A26	v1#8	玨	璯	embedded_regular		&#x74AF;	△		埋字A。
-1_029_A31	v1#8	玨	琴	seal_regular		&#x7434;	△		有埋字B二字。
+1_029_A31	v1#8	玨	琴	Regular_seal		&#x7434;	△		有埋字B二字。
 1_029_A311	v1#8	玨	䥅	embedded_seal		&#x4945;	△		埋字B。篆書字形。
 1_029_A312	v1#8	玨	琴β	embedded_seal		&#x7434;&#x3B2;	△		埋字B。篆書字形。
-1_029_A32	v1#8	玨	瑟	seal_regular		&#x745F;	△		有埋字A三字。G03尾
+1_029_A32	v1#8	玨	瑟	Regular_seal		&#x745F;	△		有埋字A三字。G03尾
 1_029_A33	v1#8	玨	玨	regular	白	&#x73A8;	a011b081		
 1_029_A33	v1#8	玨	珏	embedded_regular		&#x73CF;	a011b081		埋字A。原作𤤴、宋本《玉篇》同。宮澤作珏、白藤作玨。
 1_029_A34	v1#8	玨	𨌥	embedded_regular		&#xD860;&#xDF25;	a011b082		埋字A。画像要修正2016.4.28李媛。
 1_029_A35	v1#8	玨	班	embedded_regular		&#x73ED;			埋字A。
-1_029_A51	v2#9	土	地	seal_regular		&#x5730;	a012a064		有埋字A・B。G04首。
+1_029_A51	v2#9	土	地	Regular_seal		&#x5730;	a012a064		有埋字A・B。G04首。
 1_029_A52	v2#9	土	墬	embedded_regular		&#x58AC;	a012a081		埋字B。
 1_029_A521	v2#9	土	埅	embedded_regular		&#x57C5;	a015a022		埋字B。
 1_029_A53	v2#9	土	土	embedded_regular		&#x571F;	a012a051		埋字A。
 1_029_A54	v2#9	土	坤	regular		&#x5764;	a012a082		
-1_029_A61	v2#9	土	垓	seal_regular		&#x5793;	a012a091		
+1_029_A61	v2#9	土	垓	Regular_seal		&#x5793;	a012a091		
 1_029_A62	v2#9	土	堣	regular		&#x5823;	a012a101		
-1_029_B11	v2#9	土	墺	seal_regular		&#x58BA;	a012a061		有埋字B。
+1_029_B11	v2#9	土	墺	Regular_seal		&#x58BA;	a012a061		有埋字B。
 1_029_B12	v2#9	土	𡋮	embedded_regular		&#xD844;&#xDEEE;	a012a062		埋字B。
 1_029_B121	v2#9	土	𡋸	Songben Yupian		&#xD844;&#xDEF8;	a012a063		
-1_029_B13	v2#9	土	坡	seal_regular		&#x5761;	a012a102		
-1_029_B21	v2#9	土	塙	seal_regular		&#x5859;	a012a103		
+1_029_B13	v2#9	土	坡	Regular_seal		&#x5761;	a012a102		
+1_029_B21	v2#9	土	塙	Regular_seal		&#x5859;	a012a103		
 1_029_B212	v2#9	土	坶	Songben Yupian		&#x5776;	a012b011		
-1_029_B22	v2#9	土	㙁	seal_regular		&#x3641;	a012b012		
-1_029_B31	v2#9	土	墽	seal_regular		&#x58BD;	a012b013		
-1_029_B32	v2#9	土	壤	seal_regular		&#x58E4;	a012a092		
-1_029_B41	v2#9	土	壚	seal_regular		&#x58DA;	a012b021		
+1_029_B22	v2#9	土	㙁	Regular_seal		&#x3641;	a012b012		
+1_029_B31	v2#9	土	墽	Regular_seal		&#x58BD;	a012b013		
+1_029_B32	v2#9	土	壤	Regular_seal		&#x58E4;	a012a092		
+1_029_B41	v2#9	土	壚	Regular_seal		&#x58DA;	a012b021		
 1_029_B411	v2#9	土	墝	Songben Yupian		&#x589D;	a012b022		
-1_029_B42	v2#9	土	埴	seal_regular		&#x57F4;	a012b023		
-1_029_B51	v2#9	土	垶	seal_regular		&#x57B6;	a012b031		
+1_029_B42	v2#9	土	埴	Regular_seal		&#x57F4;	a012b023		
+1_029_B51	v2#9	土	垶	Regular_seal		&#x57B6;	a012b031		
 1_029_B511	v2#9	土	㙚	Songben Yupian		&#x365A;	a012b032		
-1_029_B52	v2#9	土	㙸	seal_regular		&#x3678;	a012b033		
-1_029_B61	v2#9	土	圤	seal_regular		&#x5724;	a012b034		
-1_029_B62	v2#9	土	塊	seal_regular		&#x584A;	a012b041		
+1_029_B52	v2#9	土	㙸	Regular_seal		&#x3678;	a012b033		
+1_029_B61	v2#9	土	圤	Regular_seal		&#x5724;	a012b034		
+1_029_B62	v2#9	土	塊	Regular_seal		&#x584A;	a012b041		
 2_001_A11	v4#49	目	䁷	regular		&#x4077;	a044a034		
-1_030_A11	v2#9	土	凷	seal_regular		&#x51F7;	a012b042		
+1_030_A11	v2#9	土	凷	Regular_seal		&#x51F7;	a012b042		
 1_030_A12	v2#9	土	堛	regular		&#x581B;	a012b051		双隷(3)。
 1_030_A20	v2#9	土	𡍦	Songben Yupian		&#xD844;&#xDF66;	a012b043		
-1_030_A21	v2#9	土	堚	seal_regular		&#x581A;	a012b044		
-1_030_A22	v2#9	土	堵	seal_regular		&#x5835;	a012b045		
-1_030_A31	v2#9	土	垣	seal_regular		&#x57A3;	a012b071		
-1_030_A32	v2#9	土	城	seal_regular		&#x57CE;	a012b055		
-1_030_A41	v2#9	土	墉	seal_regular		&#x5889;	a012b072		
-1_030_A42	v2#9	土	𡑢	seal_regular		&#xD845;&#xDC62;	a012b053		有埋字B。
+1_030_A21	v2#9	土	堚	Regular_seal		&#x581A;	a012b044		
+1_030_A22	v2#9	土	堵	Regular_seal		&#x5835;	a012b045		
+1_030_A31	v2#9	土	垣	Regular_seal		&#x57A3;	a012b071		
+1_030_A32	v2#9	土	城	Regular_seal		&#x57CE;	a012b055		
+1_030_A41	v2#9	土	墉	Regular_seal		&#x5889;	a012b072		
+1_030_A42	v2#9	土	𡑢	Regular_seal		&#xD845;&#xDC62;	a012b053		有埋字B。
 1_030_A421	v2#9	土	堞	embedded_regular		&#x581E;	a012b054		埋字B。
-1_030_A51	v2#9	土	圪	seal_regular		&#x572A;	a012b073		
-1_030_A52	v2#9	土	塹	seal_regular		&#x5879;	a012b074		有埋字A。
+1_030_A51	v2#9	土	圪	Regular_seal		&#x572A;	a012b073		
+1_030_A52	v2#9	土	塹	Regular_seal		&#x5879;	a012b074		有埋字A。
 1_030_A521	v2#9	土	壍	Songben Yupian		&#x58CD;	a012b081		
 1_030_A53	v2#9	土	堄	embedded_regular		&#x5804;	a012b083		埋字A。
-1_030_A61	v2#9	土	壁	seal_regular		&#x58C1;	a012b052		有埋字A。
+1_030_A61	v2#9	土	壁	Regular_seal		&#x58C1;	a012b052		有埋字A。
 1_030_A62	v2#9	土	壘	embedded_regular		&#x58D8;	a012b084		埋字A。
-1_030_A63	v2#9	土	㙩	seal_regular		&#x3669;	a012b082		
-1_030_B11	v2#9	土	塒	seal_regular		&#x5852;	a012b091		
-1_030_B12	v2#9	土	堂	seal_regular		&#x5802;	a012b101		有埋字B三字。
+1_030_A63	v2#9	土	㙩	Regular_seal		&#x3669;	a012b082		
+1_030_B11	v2#9	土	塒	Regular_seal		&#x5852;	a012b091		
+1_030_B12	v2#9	土	堂	Regular_seal		&#x5802;	a012b101		有埋字B三字。
 1_030_B121	v2#9	土	坣	omitted		&#x5763;	a012b102		
 1_030_B13	v2#9	土	㙶	Embedded_regular		&#x3676;	a012b103		埋字B。
-1_030_B21	v2#9	土	坫	seal_regular		&#x576B;	a013a011		
-1_030_B22	v2#9	土	垝	seal_regular		&#x579D;	a013a012		
+1_030_B21	v2#9	土	坫	Regular_seal		&#x576B;	a013a011		
+1_030_B22	v2#9	土	垝	Regular_seal		&#x579D;	a013a012		
 1_030_B31	v2#9	土	塾	regular		&#x587E;	a013a013		有埋字A。
 1_030_B32	v2#9	土	垛	embedded_regular		&#x579B;	a016b014		埋字A。
 1_030_B32	v2#9	土	㙅	regular	宮	&#x3645;	a016b014		
 1_030_B32	v2#9	土	𣑧	regular	白	&#xD84D;&#xDC67;	a016b014		
 1_030_B33	v2#9	土	墀	regular		&#x5880;	a013a022		掲出字：原作塀。
 1_030_B331	v2#9	土	𡎰	Songben Yupian		&#xD844;&#xDFB0;	a013a031		
-1_030_B41	v2#9	土	堊	seal_regular		&#x580A;	a013a021		
-1_030_B42	v2#9	土	墐	seal_regular		&#x5890;	a013a032		
-1_030_B51	v2#9	土	墍	seal_regular		&#x588D;	a012b092		
-1_030_B52	v2#9	土	㙙	seal_regular		&#x3659;	a013a033		
-1_030_B61	v2#9	土	𡊅	seal_regular		&#xD844;&#xDE85;	a013a034		有埋字B。
+1_030_B41	v2#9	土	堊	Regular_seal		&#x580A;	a013a021		
+1_030_B42	v2#9	土	墐	Regular_seal		&#x5890;	a013a032		
+1_030_B51	v2#9	土	墍	Regular_seal		&#x588D;	a012b092		
+1_030_B52	v2#9	土	㙙	Regular_seal		&#x3659;	a013a033		
+1_030_B61	v2#9	土	𡊅	Regular_seal		&#xD844;&#xDE85;	a013a034		有埋字B。
 1_030_B62	v2#9	土	𡓴	embedded_regular		&#xD845;&#xDCF4;	a013a041		埋字B。
-1_030_B63	v2#9	土	埽	seal_regular		&#x57FD;	a013a042		
-1_031_A11	v2#9	土	壎	seal_regular		&#x58CE;	a013a043		有埋字B三字。
+1_030_B63	v2#9	土	埽	Regular_seal		&#x57FD;	a013a042		
+1_031_A11	v2#9	土	壎	Regular_seal		&#x58CE;	a013a043		有埋字B三字。
 1_031_A12	v2#9	土	塤	embedded_regular		&#x5864;	a013a051		埋字B。
 1_031_A13	v2#9	土	坃	embedded_regular		&#x5743;	a013a052		埋字B。
 1_031_A14	v2#9	土	壦	embedded_regular		&#x58E6;	a013a053		埋字B。
-1_031_A15	v2#9	土	墼	seal_regular		&#x58BC;	a013a054		
-1_031_A21	v2#9	土	墊	seal_regular		&#x588A;	a013a055		
-1_031_A22	v2#9	土	埝	seal_regular		&#x57DD;	a013a061		
-1_031_A31	v2#9	土	㙷	seal_regular		&#x3677;	a016b054		有埋字A二字。
+1_031_A15	v2#9	土	墼	Regular_seal		&#x58BC;	a013a054		
+1_031_A21	v2#9	土	墊	Regular_seal		&#x588A;	a013a055		
+1_031_A22	v2#9	土	埝	Regular_seal		&#x57DD;	a013a061		
+1_031_A31	v2#9	土	㙷	Regular_seal		&#x3677;	a016b054		有埋字A二字。
 1_031_A32	v2#9	土	圣	embedded_regular		&#x5723;	a013a062		埋字A。
 1_031_A33	v2#9	土	𡊞	embedded_regular		&#xD844;&#xDE9E;	a013a082		埋字A。
-1_031_A34	v2#9	土	均	seal_regular		&#x5747;	a013a063		
-1_031_A41	v2#9	土	坄	seal_regular		&#x5744;	a013a071		
+1_031_A34	v2#9	土	均	Regular_seal		&#x5747;	a013a063		
+1_031_A41	v2#9	土	坄	Regular_seal		&#x5744;	a013a071		
 1_031_A42	v2#9	土	垼	Songben Yupian		&#x57BC;	a013a081		
 1_031_A43	v2#9	土	𦩱	regular		&#xD85A;&#xDE71;	a013a083		
 1_031_A431	v2#9	土	塖	omitted		&#x5856;	a013a091		
-1_031_A51	v2#9	土	基	seal_regular		&#x57FA;	a013a092		
-1_031_A52	v2#9	土	址	seal_regular		&#x5740;	a013a093		
-1_031_A61	v2#9	土	坴	seal_regular		&#x5774;	a013a103		
-1_031_A62	v2#9	土	封	seal_regular		&#x5C01;	a013b011		
+1_031_A51	v2#9	土	基	Regular_seal		&#x57FA;	a013a092		
+1_031_A52	v2#9	土	址	Regular_seal		&#x5740;	a013a093		
+1_031_A61	v2#9	土	坴	Regular_seal		&#x5774;	a013a103		
+1_031_A62	v2#9	土	封	Regular_seal		&#x5C01;	a013b011		
 1_031_A621	v2#9	土	𡉘	Songben Yupian		&#xD844;&#xDE58;	a013b021		
-1_031_B11	v2#9	土	壐	seal_regular		&#x58D0;	a013b041		有埋字B。
+1_031_B11	v2#9	土	壐	Regular_seal		&#x58D0;	a013b041		有埋字B。
 1_031_B12	v2#9	土	𡊆	embedded_regular		&#xD844;&#xDE86;	a013a101		埋字B。
-1_031_B13	v2#9	土	填	seal_regular		&#x586B;	a013a102		有埋字A。
+1_031_B13	v2#9	土	填	Regular_seal		&#x586B;	a013a102		有埋字A。
 1_031_B14	v2#9	土	坻	embedded_regular		&#x577B;	a013a094		埋字A。
-1_031_B21	v2#9	土	坦	seal_regular		&#x5766;	a013b042		
-1_031_B22	v2#9	土	坎	seal_regular		&#x574E;	a013b022		
+1_031_B21	v2#9	土	坦	Regular_seal		&#x5766;	a013b042		
+1_031_B22	v2#9	土	坎	Regular_seal		&#x574E;	a013b022		
 1_031_B221	v2#9	土	埳	Songben Yupian		&#x57F3;	a013b031		
-1_031_B31	v2#9	土	𡌒	seal_regular		&#xD844;&#xDF12;	a013b053		
+1_031_B31	v2#9	土	𡌒	Regular_seal		&#xD844;&#xDF12;	a013b053		
 1_031_B31	v2#9	土	型	regular	宮	&#x578B;	a013b053		
-1_031_B32	v2#9	土	墨	seal_regular		&#x58A8;	a013b091		
+1_031_B32	v2#9	土	墨	Regular_seal		&#x58A8;	a013b091		
 1_031_B40	v2#9	土	埻	Songben Yupian		&#x57FB;	a013b043		
-1_031_B41	v2#9	土	𡓑	seal_regular		&#xD845;&#xDCD1;	a013b051		
-1_031_B42	v2#9	土	増	seal_regular		&#x5897;	a013b071		
-1_031_B51	v2#9	土	埤	seal_regular		&#x57E4;	a013b052		
-1_031_B52	v2#9	土	坿	seal_regular		&#x577F;	a013b092		
-1_031_B61	v2#9	土	垐	seal_regular		&#x5790;	a013b072		
-1_031_B62	v2#9	土	垎	seal_regular		&#x578E;	a013b082		
+1_031_B41	v2#9	土	𡓑	Regular_seal		&#xD845;&#xDCD1;	a013b051		
+1_031_B42	v2#9	土	増	Regular_seal		&#x5897;	a013b071		
+1_031_B51	v2#9	土	埤	Regular_seal		&#x57E4;	a013b052		
+1_031_B52	v2#9	土	坿	Regular_seal		&#x577F;	a013b092		
+1_031_B61	v2#9	土	垐	Regular_seal		&#x5790;	a013b072		
+1_031_B62	v2#9	土	垎	Regular_seal		&#x578E;	a013b082		
 1_031_B621	v2#9	土	堲	omitted		&#x5832;	a013b073		
-1_032_A11	v2#9	土	垍	seal_regular		&#x578D;	a013b093		
-1_032_A12	v2#9	土	塏	seal_regular		&#x584F;	a013b081		
-1_032_A21	v2#9	土	垸	seal_regular		&#x57B8;	a013b062		
-1_032_A22	v2#9	土	壙	seal_regular		&#x58D9;	a013b101		反：衍字。
-1_032_A31	v2#9	土	埂	seal_regular		&#x57C2;	a013b102		
-1_032_A32	v2#9	土	圮	seal_regular		&#x572E;	a013b061		
-1_032_A41	v2#9	土	毀	seal_regular		&#x6BC0;	a013b103		
+1_032_A11	v2#9	土	垍	Regular_seal		&#x578D;	a013b093		
+1_032_A12	v2#9	土	塏	Regular_seal		&#x584F;	a013b081		
+1_032_A21	v2#9	土	垸	Regular_seal		&#x57B8;	a013b062		
+1_032_A22	v2#9	土	壙	Regular_seal		&#x58D9;	a013b101		反：衍字。
+1_032_A31	v2#9	土	埂	Regular_seal		&#x57C2;	a013b102		
+1_032_A32	v2#9	土	圮	Regular_seal		&#x572E;	a013b061		
+1_032_A41	v2#9	土	毀	Regular_seal		&#x6BC0;	a013b103		
 1_032_A411	v2#9	土	𣪷	Songben Yupian		&#xD84E;&#xDEB7;	a014a011		
-1_032_A42	v2#9	土	壞	seal_regular		&#x58DE;	a014a014		有埋字B。
+1_032_A42	v2#9	土	壞	Regular_seal		&#x58DE;	a014a014		有埋字B。
 1_032_A43	v2#9	土	𡎯	embedded_regular		&#xD844;&#xDFAF;	a014a021		埋字B。
-1_032_A51	v2#9	土	壓	seal_regular		&#x58D3;	a014a012		
-1_032_A52	v2#9	土	㙤	seal_regular		&#x3664;	a014a013		
-1_032_A61	v2#9	土	坼	seal_regular		&#x577C;	a014a023		
+1_032_A51	v2#9	土	壓	Regular_seal		&#x58D3;	a014a012		
+1_032_A52	v2#9	土	㙤	Regular_seal		&#x3664;	a014a013		
+1_032_A61	v2#9	土	坼	Regular_seal		&#x577C;	a014a023		
 1_032_A611	v2#9	土	𡍩	Songben Yupian		&#xD844;&#xDF69;	a014a024		
-1_032_A62	v2#9	土	坅	seal_regular		&#x5745;	a014a034		
-1_032_B11	v2#9	土	坱	seal_regular		&#x5771;	a014a022		
-1_032_B12	v2#9	土	塺	seal_regular		&#x587A;	a014a031		
-1_032_B21	v2#9	土	堀	seal_regular		&#x5800;	a014a041		
-1_032_B22	v2#9	土	𡌦	seal_regular		&#xD844;&#xDF26;	a014a032		
-1_032_B31	v2#9	土	埃	seal_regular		&#x57C3;	a014a033		
-1_032_B32	v2#9	土	㙠	seal_regular		&#x3660;	a014a052		
-1_032_B41	v2#9	土	在	seal_regular		&#x5728;	a014a042		
-1_032_B42	v2#9	土	塞	seal_regular		&#x585E;	a014a051		
-1_032_B51	v2#9	土	𡓱	seal_regular		&#xD845;&#xDCF1;	a014a082		有埋字B。
+1_032_A62	v2#9	土	坅	Regular_seal		&#x5745;	a014a034		
+1_032_B11	v2#9	土	坱	Regular_seal		&#x5771;	a014a022		
+1_032_B12	v2#9	土	塺	Regular_seal		&#x587A;	a014a031		
+1_032_B21	v2#9	土	堀	Regular_seal		&#x5800;	a014a041		
+1_032_B22	v2#9	土	𡌦	Regular_seal		&#xD844;&#xDF26;	a014a032		
+1_032_B31	v2#9	土	埃	Regular_seal		&#x57C3;	a014a033		
+1_032_B32	v2#9	土	㙠	Regular_seal		&#x3660;	a014a052		
+1_032_B41	v2#9	土	在	Regular_seal		&#x5728;	a014a042		
+1_032_B42	v2#9	土	塞	Regular_seal		&#x585E;	a014a051		
+1_032_B51	v2#9	土	𡓱	Regular_seal		&#xD845;&#xDCF1;	a014a082		有埋字B。
 1_032_B52	v2#9	土	壅	embedded_regular		&#x58C5;	a014a083		埋字B。
-1_032_B53	v2#9	土	垔	seal_regular		&#x5794;	a014a062		有埋字B。
+1_032_B53	v2#9	土	垔	Regular_seal		&#x5794;	a014a062		有埋字B。
 1_032_B531	v2#9	土	堙	Songben Yupian		&#x5819;	a014a071		
 1_032_B54	v2#9	土	𡍏	embedded_regular		&#xD844;&#xDF4F;	a014a072		埋字B。
-1_032_B61	v2#9	土	垷	seal_regular		&#x57B7;	a014a043		
-1_032_B62	v2#9	土	堩	seal_regular		&#x5829;	a014a091		掲出字：原作垣。
-1_033_A11	v2#9	土	塗	seal_regular		&#x5857;	a014a053		
-1_033_A12	v2#9	土	𡊉	seal_regular		&#xD844;&#xDE89;	a014b022		有埋字A。
+1_032_B61	v2#9	土	垷	Regular_seal		&#x57B7;	a014a043		
+1_032_B62	v2#9	土	堩	Regular_seal		&#x5829;	a014a091		掲出字：原作垣。
+1_033_A11	v2#9	土	塗	Regular_seal		&#x5857;	a014a053		
+1_033_A12	v2#9	土	𡊉	Regular_seal		&#xD844;&#xDE89;	a014b022		有埋字A。
 1_033_A13	v2#9	土	坺	embedded_regular		&#x577A;	a014a073		埋字A。
-1_033_A21	v2#9	土	坒	seal_regular		&#x5752;	a014a092		有埋字A。
+1_033_A21	v2#9	土	坒	Regular_seal		&#x5752;	a014a092		有埋字A。
 1_033_A22	v2#9	土	墢	embedded_regular		&#x58A2;	a014a081		埋字A。
-1_033_A23	v2#9	土	坁	seal_regular		&#x5741;	▽		
+1_033_A23	v2#9	土	坁	Regular_seal		&#x5741;	▽		
 1_033_A23	v2#9	土	坻	regular	白	&#x577B;	a013a094		
-1_033_A31	v2#9	土	堫	seal_regular		&#x582B;	a014a094		
-1_033_A32	v2#9	土	堤	seal_regular		&#x5824;	a014a102		
-1_033_A41	v2#9	土	培	seal_regular		&#x57F9;	a014a061		
-1_033_A42	v2#9	土	堨	seal_regular		&#x5828;	a014a101		
-1_033_A51	v2#9	土	埒	seal_regular		&#x57D2;	a014b013		
-1_033_A52	v2#9	土	堪	seal_regular		&#x582A;	a014a103		
-1_033_A61	v2#9	土	埱	seal_regular		&#x57F1;	a014b012		
-1_033_A62	v2#9	土	埵	seal_regular		&#x57F5;	a014a093		
-1_033_B11	v2#9	土	堁	seal_regular		&#x5801;	a014b021		
-1_033_B12	v2#9	土	埐	seal_regular		&#x57D0;	a014b011		
-1_033_B21	v2#9	土	埾	seal_regular		&#x57FE;	a014b031		
-1_033_B22	v2#9	土	墇	seal_regular		&#x5887;	a014b032		
-1_033_B31	v2#9	土	𡍫	seal_regular		&#xD844;&#xDF6B;	a014b042		
-1_033_B32	v2#9	土	垑	seal_regular		&#x5791;	a014b041		
-1_033_B41	v2#9	土	垠	seal_regular		&#x57A0;	a014b044		
+1_033_A31	v2#9	土	堫	Regular_seal		&#x582B;	a014a094		
+1_033_A32	v2#9	土	堤	Regular_seal		&#x5824;	a014a102		
+1_033_A41	v2#9	土	培	Regular_seal		&#x57F9;	a014a061		
+1_033_A42	v2#9	土	堨	Regular_seal		&#x5828;	a014a101		
+1_033_A51	v2#9	土	埒	Regular_seal		&#x57D2;	a014b013		
+1_033_A52	v2#9	土	堪	Regular_seal		&#x582A;	a014a103		
+1_033_A61	v2#9	土	埱	Regular_seal		&#x57F1;	a014b012		
+1_033_A62	v2#9	土	埵	Regular_seal		&#x57F5;	a014a093		
+1_033_B11	v2#9	土	堁	Regular_seal		&#x5801;	a014b021		
+1_033_B12	v2#9	土	埐	Regular_seal		&#x57D0;	a014b011		
+1_033_B21	v2#9	土	埾	Regular_seal		&#x57FE;	a014b031		
+1_033_B22	v2#9	土	墇	Regular_seal		&#x5887;	a014b032		
+1_033_B31	v2#9	土	𡍫	Regular_seal		&#xD844;&#xDF6B;	a014b042		
+1_033_B32	v2#9	土	垑	Regular_seal		&#x5791;	a014b041		
+1_033_B41	v2#9	土	垠	Regular_seal		&#x57A0;	a014b044		
 1_033_B411	v2#9	土	㙬	Songben Yupian		&#x366C;	a014b051		
-1_033_B42	v2#9	土	圻	seal_regular		&#x573B;	a014b043		
-1_033_B51	v2#9	土	垽	seal_regular		&#x57BD;	a014b062		有埋字B。
-1_033_B52	v2#9	土	垢	seal_regular		&#x57A2;	a014b052		有埋字B。
+1_033_B42	v2#9	土	圻	Regular_seal		&#x573B;	a014b043		
+1_033_B51	v2#9	土	垽	Regular_seal		&#x57BD;	a014b062		有埋字B。
+1_033_B52	v2#9	土	垢	Regular_seal		&#x57A2;	a014b052		有埋字B。
 1_033_B521	v2#9	土	坸	embedded_regular		&#x5778;	a014b053		埋字B。
-1_033_B61	v2#9	土	圿	seal_regular		&#x573F;	a014b071		
-1_033_B62	v2#9	土	㙪	seal_regular		&#x366A;	a014b073		
-1_034_A11	v2#9	土	坏	seal_regular		&#x574F;	a014b023		掲出字：原作坯。
-1_034_A12	v2#9	土	垤	seal_regular		&#x57A4;	a014b074		
-1_034_A21	v2#9	土	坥	seal_regular		&#x5765;	a014b081		
+1_033_B61	v2#9	土	圿	Regular_seal		&#x573F;	a014b071		
+1_033_B62	v2#9	土	㙪	Regular_seal		&#x366A;	a014b073		
+1_034_A11	v2#9	土	坏	Regular_seal		&#x574F;	a014b023		掲出字：原作坯。
+1_034_A12	v2#9	土	垤	Regular_seal		&#x57A4;	a014b074		
+1_034_A21	v2#9	土	坥	Regular_seal		&#x5765;	a014b081		
 1_034_A22	v2#9	土	場	regular	宮	&#x5834;	a014b075		
-1_034_A22	v2#9	土	塲	seal_regular		&#x5872;	a014b075		
+1_034_A22	v2#9	土	塲	Regular_seal		&#x5872;	a014b075		
 1_034_A31	v2#9	土	墠	regular		&#x58A0;	a014b054		
 1_034_A32	v2#9	土	壇	regular		&#x58C7;	a014b061		
 1_034_A41	v2#9	土	壝	regular		&#x58DD;	a014b091		有埋字A。
@@ -2592,7 +2592,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_001_B511	v4#50	省	𢧕	Songben Yupian		&#xD84A;&#xDDD5;	a045a082		
 2_001_B52	v4#50	省	𡐠	regular		&#xD845;&#xDC20;	a045a083		■：上田云上字不明。呂作？。疑當作虢。
 2_001_B61	v4#51	䀠	䀠	regular		&#x4020;	a045a091		掲出字：原作眀、誤。
-2_001_B62	v4#51	䀠	𥆞	seal_regular		&#xD854;&#xDD9E;	a045a092		掲出字：字形異。「古文」：存於篆書下。
+2_001_B62	v4#51	䀠	𥆞	Regular_seal		&#xD854;&#xDD9E;	a045a092		掲出字：字形異。「古文」：存於篆書下。
 2_002_A11	v4#51	䀠	𥇛	regular		&#xD854;&#xDDDB;	a045a101		
 2_002_A12	v4#52	𥄎	𥄎	regular		&#xD854;&#xDD0E;	a045b021		掲出字：原作⿱目父、《新撰字鏡》同作。
 2_002_A21	v4#52	𥄎	夐	regular		&#x5910;	a045b022		
@@ -2768,247 +2768,247 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_008_A42	v4#56	耳	聶	regular		&#x8076;	a047b091		G13尾。
 2_008_A52	v5#57	口	口	regular		&#x53E3;	a048a081		G14首。
 2_008_A521	v5#57	口	𠙵	Songben Yupian		&#xD841;&#xDE75;	a048a082		
-2_008_A61	v5#57	口	噣	seal_regular-omitted		&#x5663;	a048a091		隷書揭出字脱。篆書字形。
-2_008_A62	v5#57	口	喙	seal_regular		&#x5599;	a048a093		
+2_008_A61	v5#57	口	噣	Regular_seal-omitted		&#x5663;	a048a091		隷書揭出字脱。篆書字形。
+2_008_A62	v5#57	口	喙	Regular_seal		&#x5599;	a048a093		
 2_008_B11	v5#57	口	㖧	regular		&#x35A7;	a048a101		掲出字：原作⿱呡曰。
 2_008_B12	v5#57	口	吻	regular		&#x543B;	a048a094		
 2_008_B21	v5#57	口	嚨	regular		&#x56A8;	a048a102		咽：原作𠰸。
-2_008_B22	v5#57	口	咽	seal_regular		&#x54BD;	a048a103		有埋字B。
+2_008_B22	v5#57	口	咽	Regular_seal		&#x54BD;	a048a103		有埋字B。
 2_008_B23	v5#57	口	㖶	embedded_regular		&#x35B6;	a048a104		埋字B。李按、上字字體注記、非《万象名義》揭出字。
-2_008_B31	v5#57	口	喉	seal_regular		&#x5589;	a048a105		
-2_008_B32	v5#57	口	嗌	seal_regular		&#x55CC;	a048b011		
+2_008_B31	v5#57	口	喉	Regular_seal		&#x5589;	a048a105		
+2_008_B32	v5#57	口	嗌	Regular_seal		&#x55CC;	a048b011		
 2_008_B321	v5#57	口	𡁐	Songben Yupian		&#xD844;&#xDC50;	a048b012		
 2_008_B41	v5#57	口	喗	regular		&#x5597;	a048b013		
 2_008_B411	v5#57	口	𠲰	Songben Yupian		&#xD843;&#xDCB0;	a048b014		
-2_008_B42	v5#57	口	噭	seal_regular		&#x566D;	a048b015		
-2_008_B51	v5#57	口	叫	seal_regular		&#x53EB;	a048b016		
-2_008_B52	v5#57	口	哆	seal_regular		&#x54C6;	a048b022		
-2_008_B61	v5#57	口	呱	seal_regular		&#x5471;	a048b023		
-2_008_B62	v5#57	口	啾	seal_regular		&#x557E;	a048b031		
-2_009_A11	v5#57	口	喤	seal_regular		&#x55A4;	a048b032		
+2_008_B42	v5#57	口	噭	Regular_seal		&#x566D;	a048b015		
+2_008_B51	v5#57	口	叫	Regular_seal		&#x53EB;	a048b016		
+2_008_B52	v5#57	口	哆	Regular_seal		&#x54C6;	a048b022		
+2_008_B61	v5#57	口	呱	Regular_seal		&#x5471;	a048b023		
+2_008_B62	v5#57	口	啾	Regular_seal		&#x557E;	a048b031		
+2_009_A11	v5#57	口	喤	Regular_seal		&#x55A4;	a048b032		
 2_009_A12	v5#57	口	喧	regular		&#x55A7;	a052b055		
 2_009_A12	v5#57	口	咺	regular	宮	&#x54BA;	a048b033		
-2_009_A21	v5#57	口	唴	seal_regular		&#x5534;	a048b041		
-2_009_A22	v5#57	口	哴	seal_regular		&#x54F4;	a048b042		
-2_009_A31	v5#57	口	㘈	seal_regular		&#x3608;	a048b043		
-2_009_A32	v5#57	口	咷	seal_regular		&#x54B7;	a048b051		
-2_009_A41	v5#57	口	喑	seal_regular		&#x5591;	a048b052		
-2_009_A42	v5#57	口	咳β	seal_regular		&#x54B3;&#x3B2;			篆書
-2_009_A43	v5#57	口	咳	seal_regular		&#x54B3;	a048b054		篆書
-2_009_A51	v5#57	口	噲	seal_regular		&#x5672;	a048b053		
-2_009_A52	v5#57	口	嗛	seal_regular		&#x55DB;	a048b061		
-2_009_A61	v5#57	口	咀	seal_regular		&#x5480;	a048b062		
-2_009_A62	v5#57	口	嚵	seal_regular		&#x56B5;	a048b071		
-2_009_B11	v5#57	口	啜	seal_regular		&#x555C;	a048b072		
-2_009_B12	v5#57	口	㗱	seal_regular		&#x35F1;	a048b073		
-2_009_B21	v5#57	口	噬	seal_regular		&#x566C;	a048b081		
-2_009_B22	v5#57	口	嚌	seal_regular		&#x568C;	a048b082		
-2_009_B31	v5#57	口	噍	seal_regular		&#x564D;	a048b084		
-2_009_B32	v5#57	口	𠻜	seal_regular		&#xD843;&#xDEDC;	a048b091		方：呂作介。
-2_009_B41	v5#57	口	嚼	seal_regular		&#x56BC;	a048b092		
+2_009_A21	v5#57	口	唴	Regular_seal		&#x5534;	a048b041		
+2_009_A22	v5#57	口	哴	Regular_seal		&#x54F4;	a048b042		
+2_009_A31	v5#57	口	㘈	Regular_seal		&#x3608;	a048b043		
+2_009_A32	v5#57	口	咷	Regular_seal		&#x54B7;	a048b051		
+2_009_A41	v5#57	口	喑	Regular_seal		&#x5591;	a048b052		
+2_009_A42	v5#57	口	咳β	Regular_seal		&#x54B3;&#x3B2;			篆書
+2_009_A43	v5#57	口	咳	Regular_seal		&#x54B3;	a048b054		篆書
+2_009_A51	v5#57	口	噲	Regular_seal		&#x5672;	a048b053		
+2_009_A52	v5#57	口	嗛	Regular_seal		&#x55DB;	a048b061		
+2_009_A61	v5#57	口	咀	Regular_seal		&#x5480;	a048b062		
+2_009_A62	v5#57	口	嚵	Regular_seal		&#x56B5;	a048b071		
+2_009_B11	v5#57	口	啜	Regular_seal		&#x555C;	a048b072		
+2_009_B12	v5#57	口	㗱	Regular_seal		&#x35F1;	a048b073		
+2_009_B21	v5#57	口	噬	Regular_seal		&#x566C;	a048b081		
+2_009_B22	v5#57	口	嚌	Regular_seal		&#x568C;	a048b082		
+2_009_B31	v5#57	口	噍	Regular_seal		&#x564D;	a048b084		
+2_009_B32	v5#57	口	𠻜	Regular_seal		&#xD843;&#xDEDC;	a048b091		方：呂作介。
+2_009_B41	v5#57	口	嚼	Regular_seal		&#x56BC;	a048b092		
 2_009_B42	v5#57	口	𠻘	regular		&#xD843;&#xDED8;	a048b093		
-2_009_B51	v5#57	口	吮	seal_regular		&#x542E;	a048b094		
+2_009_B51	v5#57	口	吮	Regular_seal		&#x542E;	a048b094		
 2_009_B52	v5#57	口	啗	regular		&#x5557;			
-2_009_B61	v5#57	口	嗒	seal_regular		&#x55D2;	a048b104		原作哈。呂同作。
-2_009_B62	v5#57	口	嘰	seal_regular		&#x5630;	a049a012		
-2_010_A11	v5#57	口	㗘	seal_regular		&#x35D8;	a049a013		
-2_010_A12	v5#57	口	呑	seal_regular		&#x5451;	a049a014		
-2_010_A21	v5#57	口	含	seal_regular		&#x542B;	a049a021		
-2_010_A22	v5#57	口	哺	seal_regular		&#x54FA;	a049a022		
-2_010_A31	v5#57	口	味	seal_regular		&#x5473;	a049a024		
-2_010_A32	v5#57	口	嚛	seal_regular		&#x569B;	a049a023		
-2_010_A41	v5#57	口	𠿡	seal_regular		&#xD843;&#xDFE1;	a049a031		
-2_010_A42	v5#57	口	噫	seal_regular		&#x566B;	a049a032		
-2_010_A51	v5#57	口	唾	seal_regular		&#x553E;	a053b015		或涶、字体注記。
-2_010_A52	v5#57	口	嘽	seal_regular		&#x563D;	a049a033		
-2_010_A61	v5#57	口	咦	seal_regular		&#x54A6;	a049a041		
-2_010_A62	v5#57	口	呬	seal_regular		&#x546C;	a049a042		
-2_010_B11	v5#57	口	喘	seal_regular-omitted		&#x5598;	a049a043		隷書揭出字脱。篆書字形。
-2_010_B12	v5#57	口	呼	seal_regular		&#x547C;	a049a044		
+2_009_B61	v5#57	口	嗒	Regular_seal		&#x55D2;	a048b104		原作哈。呂同作。
+2_009_B62	v5#57	口	嘰	Regular_seal		&#x5630;	a049a012		
+2_010_A11	v5#57	口	㗘	Regular_seal		&#x35D8;	a049a013		
+2_010_A12	v5#57	口	呑	Regular_seal		&#x5451;	a049a014		
+2_010_A21	v5#57	口	含	Regular_seal		&#x542B;	a049a021		
+2_010_A22	v5#57	口	哺	Regular_seal		&#x54FA;	a049a022		
+2_010_A31	v5#57	口	味	Regular_seal		&#x5473;	a049a024		
+2_010_A32	v5#57	口	嚛	Regular_seal		&#x569B;	a049a023		
+2_010_A41	v5#57	口	𠿡	Regular_seal		&#xD843;&#xDFE1;	a049a031		
+2_010_A42	v5#57	口	噫	Regular_seal		&#x566B;	a049a032		
+2_010_A51	v5#57	口	唾	Regular_seal		&#x553E;	a053b015		或涶、字体注記。
+2_010_A52	v5#57	口	嘽	Regular_seal		&#x563D;	a049a033		
+2_010_A61	v5#57	口	咦	Regular_seal		&#x54A6;	a049a041		
+2_010_A62	v5#57	口	呬	Regular_seal		&#x546C;	a049a042		
+2_010_B11	v5#57	口	喘	Regular_seal-omitted		&#x5598;	a049a043		隷書揭出字脱。篆書字形。
+2_010_B12	v5#57	口	呼	Regular_seal		&#x547C;	a049a044		
 2_010_B21	v5#57	口	吸	regular		&#x5438;	a049a051		《詩經・大東》：維南有箕、載翕其舌。《広韻》：吸：…、噏：上同。
 2_010_B22	v5#57	口	噓	regular		&#x5653;	a049a062		
-2_010_B31	v5#57	口	吹	seal_regular		&#x5439;	a049a063		
-2_010_B32	v5#57	口	喟	seal_regular		&#x559F;	a049a052		
-2_010_B41	v5#57	口	嘳	seal_regular		&#x5633;	a049a061		音注位置空白。
-2_010_B42	v5#57	口	啍	seal_regular		&#x554D;	a049a064		
+2_010_B31	v5#57	口	吹	Regular_seal		&#x5439;	a049a063		
+2_010_B32	v5#57	口	喟	Regular_seal		&#x559F;	a049a052		
+2_010_B41	v5#57	口	嘳	Regular_seal		&#x5633;	a049a061		音注位置空白。
+2_010_B42	v5#57	口	啍	Regular_seal		&#x554D;	a049a064		
 2_010_B421	v5#57	口	噋	Songben Yupian		&#x564B;	a049a071		
-2_010_B51	v5#57	口	𡂒	seal_regular		&#xD844;&#xDC92;	a049a072		
-2_010_B52	v5#57	口	嚔	seal_regular		&#x5694;	a049a081		
-2_010_B61	v5#57	口	唫	seal_regular		&#x552B;	a049a073		
-2_010_B62	v5#57	口	噤	seal_regular		&#x5664;	a049a074		
-2_011_A11	v5#57	口	名	seal_regular		&#x540D;	a049a082		
-2_011_A12	v5#57	口	召	seal_regular		&#x53EC;	a049a083		
-2_011_A21	v5#57	口	吾	seal_regular		&#x543E;	a049a084		
+2_010_B51	v5#57	口	𡂒	Regular_seal		&#xD844;&#xDC92;	a049a072		
+2_010_B52	v5#57	口	嚔	Regular_seal		&#x5694;	a049a081		
+2_010_B61	v5#57	口	唫	Regular_seal		&#x552B;	a049a073		
+2_010_B62	v5#57	口	噤	Regular_seal		&#x5664;	a049a074		
+2_011_A11	v5#57	口	名	Regular_seal		&#x540D;	a049a082		
+2_011_A12	v5#57	口	召	Regular_seal		&#x53EC;	a049a083		
+2_011_A21	v5#57	口	吾	Regular_seal		&#x543E;	a049a084		
 2_011_A211	v5#57	口	喆	regular		&#x5586;	a049a092		
 2_011_A211	v5#57	口	嚞	regular		&#x569E;	a049a093		
 2_011_A22	v5#57	口	哲	regular		&#x54F2;	a049a091		「嚞」之上下、有「古文」注記。
-2_011_A31	v5#57	口	君	seal_regular		&#x541B;	a049a094		
-2_011_A32	v5#57	口	命	seal_regular		&#x547D;	a049a095		
-2_011_A41	v5#57	口	后	seal_regular		&#x540E;	△		
-2_011_A42	v5#57	口	咨	seal_regular		&#x54A8;	a049a101		
-2_011_A51	v5#57	口	問	seal_regular		&#x554F;	a049a102		
-2_011_A52	v5#57	口	唯	seal_regular		&#x552F;	a049b012		
-2_011_A61	v5#57	口	唱	seal_regular		&#x5531;	a049b021		
-2_011_A62	v5#57	口	啞	seal_regular		&#x555E;	a053a065		
-2_011_B11	v5#57	口	和	seal_regular		&#x548C;	a049a103		
+2_011_A31	v5#57	口	君	Regular_seal		&#x541B;	a049a094		
+2_011_A32	v5#57	口	命	Regular_seal		&#x547D;	a049a095		
+2_011_A41	v5#57	口	后	Regular_seal		&#x540E;	△		
+2_011_A42	v5#57	口	咨	Regular_seal		&#x54A8;	a049a101		
+2_011_A51	v5#57	口	問	Regular_seal		&#x554F;	a049a102		
+2_011_A52	v5#57	口	唯	Regular_seal		&#x552F;	a049b012		
+2_011_A61	v5#57	口	唱	Regular_seal		&#x5531;	a049b021		
+2_011_A62	v5#57	口	啞	Regular_seal		&#x555E;	a053a065		
+2_011_B11	v5#57	口	和	Regular_seal		&#x548C;	a049a103		
 2_011_B111	v5#57	口	咊	omitted		&#x548A;	a049b011		
-2_011_B112	v5#57	口	旪	seal_regular		&#x65EA;			篆書字形。
-2_011_B12	v5#57	口	叶	seal_regular		&#x53F6;	a049b013		篆書掲出字二字有「古文」注記。
-2_011_B21	v5#57	口	噱	seal_regular		&#x5671;	a049b022		
+2_011_B112	v5#57	口	旪	Regular_seal		&#x65EA;			篆書字形。
+2_011_B12	v5#57	口	叶	Regular_seal		&#x53F6;	a049b013		篆書掲出字二字有「古文」注記。
+2_011_B21	v5#57	口	噱	Regular_seal		&#x5671;	a049b022		
 2_011_B211	v5#57	口	㖸	Songben Yupian		&#x35B8;	a049b023		
-2_011_B22	v5#57	口	咥	seal_regular		&#x54A5;	a049b024		
-2_011_B31	v5#57	口	唏	seal_regular		&#x550F;	a049b031		
-2_011_B32	v5#57	口	听	seal_regular		&#x542C;	a049b032		
-2_011_B41	v5#57	口	呭	seal_regular		&#x546D;	a049b041		
-2_011_B42	v5#57	口	𠹑	seal_regular		&#xD843;&#xDE51;	a049b042		
+2_011_B22	v5#57	口	咥	Regular_seal		&#x54A5;	a049b024		
+2_011_B31	v5#57	口	唏	Regular_seal		&#x550F;	a049b031		
+2_011_B32	v5#57	口	听	Regular_seal		&#x542C;	a049b032		
+2_011_B41	v5#57	口	呭	Regular_seal		&#x546D;	a049b041		
+2_011_B42	v5#57	口	𠹑	Regular_seal		&#xD843;&#xDE51;	a049b042		
 2_011_B42	v5#57	口	𠸵	regular	宮	&#xD843;&#xDE35;	a049b042		
-2_011_B51	v5#57	口	咄	seal_regular		&#x5484;	a049b043		兀：原作凢。呼：呂作唾。
-2_011_B52	v5#57	口	唉	seal_regular		&#x5509;	a049b044		
-2_011_B61	v5#57	口	哉	seal_regular		&#x54C9;	a054a044		
-2_011_B62	v5#57	口	噂	seal_regular		&#x5642;	a049b045		
-2_012_A11	v5#57	口	咠	seal_regular		&#x54A0;	a049b052		
-2_012_A12	v5#57	口	呷	seal_regular		&#x5477;	a049b054		
-2_012_A21	v5#57	口	嘫	seal_regular		&#x562B;	a049b053		
-2_012_A22	v5#57	口	嘒	seal_regular		&#x5612;	a049b061		
+2_011_B51	v5#57	口	咄	Regular_seal		&#x5484;	a049b043		兀：原作凢。呼：呂作唾。
+2_011_B52	v5#57	口	唉	Regular_seal		&#x5509;	a049b044		
+2_011_B61	v5#57	口	哉	Regular_seal		&#x54C9;	a054a044		
+2_011_B62	v5#57	口	噂	Regular_seal		&#x5642;	a049b045		
+2_012_A11	v5#57	口	咠	Regular_seal		&#x54A0;	a049b052		
+2_012_A12	v5#57	口	呷	Regular_seal		&#x5477;	a049b054		
+2_012_A21	v5#57	口	嘫	Regular_seal		&#x562B;	a049b053		
+2_012_A22	v5#57	口	嘒	Regular_seal		&#x5612;	a049b061		
 2_012_A221	v5#57	口	嚖	omitted		&#x5696;	a049b062		
-2_012_A31	v5#57	口	唪	seal_regular		&#x552A;	a049b063		
-2_012_A32	v5#57	口	嗔	seal_regular		&#x55D4;	a049b072		
-2_012_A41	v5#57	口	嘌	seal_regular		&#x560C;	a049b073		
-2_012_A42	v5#57	口	嘑	seal_regular		&#x5611;	a049b074		
-2_012_A51	v5#57	口	喅	seal_regular		&#x5585;	a049b081		
-2_012_A52	v5#57	口	嘯	seal_regular		&#x562F;	a049b082		
+2_012_A31	v5#57	口	唪	Regular_seal		&#x552A;	a049b063		
+2_012_A32	v5#57	口	嗔	Regular_seal		&#x55D4;	a049b072		
+2_012_A41	v5#57	口	嘌	Regular_seal		&#x560C;	a049b073		
+2_012_A42	v5#57	口	嘑	Regular_seal		&#x5611;	a049b074		
+2_012_A51	v5#57	口	喅	Regular_seal		&#x5585;	a049b081		
+2_012_A52	v5#57	口	嘯	Regular_seal		&#x562F;	a049b082		
 2_012_A61	v5#57	口	𠮯	regular		&#xD842;&#xDFAF;	a049b071		
 2_012_A62	v5#57	口	嗂	regular		&#x55C2;	a049b083		
-2_012_B11	v5#57	口	呈	seal_regular		&#x5448;	a049b091		
-2_012_B12	v5#57	口	噦	seal_regular		&#x5666;	a053a102		
+2_012_B11	v5#57	口	呈	Regular_seal		&#x5448;	a049b091		
+2_012_B12	v5#57	口	噦	Regular_seal		&#x5666;	a053a102		
 2_012_B121	v5#57	口	嚱	Songben Yupian		&#x56B1;	a049b092		
-2_012_B21	v5#57	口	嗿	seal_regular		&#x55FF;	a049b093		
-2_012_B22	v5#57	口	咸	seal_regular		&#x54B8;	a049b094		
-2_012_B31	v5#57	口	启	seal_regular		&#x542F;	a049b101		
-2_012_B32	v5#57	口	哯	seal_regular		&#x54EF;	a049b102		
+2_012_B21	v5#57	口	嗿	Regular_seal		&#x55FF;	a049b093		
+2_012_B22	v5#57	口	咸	Regular_seal		&#x54B8;	a049b094		
+2_012_B31	v5#57	口	启	Regular_seal		&#x542F;	a049b101		
+2_012_B32	v5#57	口	哯	Regular_seal		&#x54EF;	a049b102		
 2_012_B321	v5#57	口	咞	Songben Yupian		&#x549E;	a049b103		
-2_012_B41	v5#57	口	右	seal_regular-omitted		&#x53F3;	a049b104		隷書揭出字脱。篆書字形。反切上字大字。
-2_012_B42	v5#57	口	啻	seal_regular		&#x557B;	a050a012		
-2_012_B51	v5#57	口	吉	seal_regular		&#x5409;	a050a011		
-2_012_B52	v5#57	口	嚋	seal_regular		&#x568B;	a050a013		
-2_012_B61	v5#57	口	周	seal_regular		&#x5468;	a050a014		
-2_012_B62	v5#57	口	嗢	seal_regular		&#x55E2;	a050a021		
-2_013_A11	v5#57	口	唐	seal_regular		&#x5510;	a050a022		
+2_012_B41	v5#57	口	右	Regular_seal-omitted		&#x53F3;	a049b104		隷書揭出字脱。篆書字形。反切上字大字。
+2_012_B42	v5#57	口	啻	Regular_seal		&#x557B;	a050a012		
+2_012_B51	v5#57	口	吉	Regular_seal		&#x5409;	a050a011		
+2_012_B52	v5#57	口	嚋	Regular_seal		&#x568B;	a050a013		
+2_012_B61	v5#57	口	周	Regular_seal		&#x5468;	a050a014		
+2_012_B62	v5#57	口	嗢	Regular_seal		&#x55E2;	a050a021		
+2_013_A11	v5#57	口	唐	Regular_seal		&#x5510;	a050a022		
 2_013_A111	v5#57	口	啺	omitted		&#x557A;	a050a023		
-2_013_A12	v5#57	口	嘾	seal_regular		&#x563E;	a050a024		
-2_013_A21	v5#57	口	吐	seal_regular		&#x5410;	a050a031		
-2_013_A22	v5#57	口	噎	seal_regular		&#x564E;	a050a032		
-2_013_A31	v5#57	口	咈	seal_regular		&#x5488;	a050a033		
-2_013_A32	v5#57	口	嚘	seal_regular		&#x5698;	a050a041		
-2_013_A41	v5#57	口	吃	seal_regular		&#x5403;	a053b097		
-2_013_A42	v5#57	口	嗜	seal_regular		&#x55DC;	a050a042		
+2_013_A12	v5#57	口	嘾	Regular_seal		&#x563E;	a050a024		
+2_013_A21	v5#57	口	吐	Regular_seal		&#x5410;	a050a031		
+2_013_A22	v5#57	口	噎	Regular_seal		&#x564E;	a050a032		
+2_013_A31	v5#57	口	咈	Regular_seal		&#x5488;	a050a033		
+2_013_A32	v5#57	口	嚘	Regular_seal		&#x5698;	a050a041		
+2_013_A41	v5#57	口	吃	Regular_seal		&#x5403;	a053b097		
+2_013_A42	v5#57	口	嗜	Regular_seal		&#x55DC;	a050a042		
 2_013_A421	v5#57	口	呩	Songben Yupian		&#x5469;	a050a043		
-2_013_A51	v5#57	口	啖	seal_regular		&#x5556;	a048b102		
+2_013_A51	v5#57	口	啖	Regular_seal		&#x5556;	a048b102		
 2_013_A511	v5#57	口	噉	Songben Yupian		&#x5649;	a048b101		
-2_013_A52	v5#57	口	嘐	seal_regular		&#x5610;	a050a044		
-2_013_A61	v5#57	口	啁	seal_regular		&#x5541;	a050a051		
-2_013_A62	v5#57	口	嘲	seal_regular		&#x5632;	a050a052		反切位置空白。
-2_013_B11	v5#57	口	哇	seal_regular		&#x54C7;	a050a053		印、不審。
-2_013_B12	v5#57	口	㖕	seal_regular		&#x3595;	a050a054		
+2_013_A52	v5#57	口	嘐	Regular_seal		&#x5610;	a050a044		
+2_013_A61	v5#57	口	啁	Regular_seal		&#x5541;	a050a051		
+2_013_A62	v5#57	口	嘲	Regular_seal		&#x5632;	a050a052		反切位置空白。
+2_013_B11	v5#57	口	哇	Regular_seal		&#x54C7;	a050a053		印、不審。
+2_013_B12	v5#57	口	㖕	Regular_seal		&#x3595;	a050a054		
 2_013_B12	v5#57	口	𠰜	regular	白	&#xD843;&#xDC1C;	a050a054		
-2_013_B21	v5#57	口	吺	seal_regular		&#x543A;	a050a062		
+2_013_B21	v5#57	口	吺	Regular_seal		&#x543A;	a050a062		
 2_013_B211	v5#57	口	𠱒	omitted		&#xD843;&#xDC52;	a050a063		
-2_013_B22	v5#57	口	呧	seal_regular		&#x5467;	a053b014		宋本《玉篇》
+2_013_B22	v5#57	口	呧	Regular_seal		&#x5467;	a053b014		宋本《玉篇》
 2_013_B22	v5#57	口	𠰋	regular	宮	&#xD843;&#xDC0B;	a053b014		
-2_013_B31	v5#57	口	呰	seal_regular		&#x5470;	a050a064		
-2_013_B32	v5#57	口	嗻	seal_regular		&#x55FB;	a050a065		
-2_013_B41	v5#57	口	唊	seal_regular		&#x550A;	a050a066		
-2_013_B42	v5#57	口	嗑	seal_regular		&#x55D1;	a050a071		
-2_013_B51	v5#57	口	嗙	seal_regular		&#x55D9;	a050a072		
-2_013_B52	v5#57	口	噧	seal_regular		&#x5667;	a050a073		
-2_013_B61	v5#57	口	叴	seal_regular		&#x53F4;	a050a074		
+2_013_B31	v5#57	口	呰	Regular_seal		&#x5470;	a050a064		
+2_013_B32	v5#57	口	嗻	Regular_seal		&#x55FB;	a050a065		
+2_013_B41	v5#57	口	唊	Regular_seal		&#x550A;	a050a066		
+2_013_B42	v5#57	口	嗑	Regular_seal		&#x55D1;	a050a071		
+2_013_B51	v5#57	口	嗙	Regular_seal		&#x55D9;	a050a072		
+2_013_B52	v5#57	口	噧	Regular_seal		&#x5667;	a050a073		
+2_013_B61	v5#57	口	叴	Regular_seal		&#x53F4;	a050a074		
 2_013_B611	v5#57	口	㕤	omitted		&#x3564;	a050a081		
-2_013_B62	v5#57	口	呶	seal_regular		&#x5476;	a050a082		護：呂作讙。
-2_014_A11	v5#57	口	叱	seal_regular		&#x53F1;	a050a083		
+2_013_B62	v5#57	口	呶	Regular_seal		&#x5476;	a050a082		護：呂作讙。
+2_014_A11	v5#57	口	叱	Regular_seal		&#x53F1;	a050a083		
 2_014_A12	v5#57	口	噴	regular		&#x5674;	a050a084		
-2_014_A21	v5#57	口	吒	seal_regular		&#x5412;	a050a085		
+2_014_A21	v5#57	口	吒	Regular_seal		&#x5412;	a050a085		
 2_014_A211	v5#57	口	咤	Songben Yupian		&#x54A4;	a050a091		
 2_014_A212	v5#57	口	喥	Songben Yupian		&#x55A5;	a050a092		
-2_014_A22	v5#57	口	噊	seal_regular		&#x564A;	a050a093		
-2_014_A31	v5#57	口	嘮	seal_regular		&#x562E;	a050a094		
-2_014_A32	v5#57	口	啐	seal_regular		&#x5550;	a050a095		
-2_014_A41	v5#57	口	唇	seal_regular		&#x5507;	a050a101		
-2_014_A42	v5#57	口	嘵	seal_regular		&#x5635;	a050a102		
-2_014_A51	v5#57	口	吁	seal_regular		&#x5401;	a050a103		
+2_014_A22	v5#57	口	噊	Regular_seal		&#x564A;	a050a093		
+2_014_A31	v5#57	口	嘮	Regular_seal		&#x562E;	a050a094		
+2_014_A32	v5#57	口	啐	Regular_seal		&#x5550;	a050a095		
+2_014_A41	v5#57	口	唇	Regular_seal		&#x5507;	a050a101		
+2_014_A42	v5#57	口	嘵	Regular_seal		&#x5635;	a050a102		
+2_014_A51	v5#57	口	吁	Regular_seal		&#x5401;	a050a103		
 2_014_A511	v5#57	口	𠮲	Songben Yupian		&#xD842;&#xDFB2;	a050a104		
-2_014_A52	v5#57	口	嘖	seal_regular		&#x5616;	a050b011		
-2_014_A61	v5#57	口	嗸	seal_regular		&#x55F8;	a050b012		
-2_014_A62	v5#57	口	唸	seal_regular		&#x5538;	a050b013		
+2_014_A52	v5#57	口	嘖	Regular_seal		&#x5616;	a050b011		
+2_014_A61	v5#57	口	嗸	Regular_seal		&#x55F8;	a050b012		
+2_014_A62	v5#57	口	唸	Regular_seal		&#x5538;	a050b013		
 2_014_A621	v5#57	口	𠿍	Songben Yupian		&#xD843;&#xDFCD;	a050b014		
-2_014_B11	v5#57	口	㕧	seal_regular		&#x3567;	a050b015		
+2_014_B11	v5#57	口	㕧	Regular_seal		&#x3567;	a050b015		
 2_014_B12	v5#57	口	㘙	regular		&#x3619;	a050b021		衫：原作𥘎。
-2_014_B21	v5#57	口	呻	seal_regular		&#x547B;	a050b022		
-2_014_B22	v5#57	口	吟	seal_regular		&#x541F;	a050b023		
-2_014_B31	v5#57	口	喩	seal_regular		&#x55A9;	a050b024		
-2_014_B32	v5#57	口	嗞	seal_regular		&#x55DE;	a050b031		
-2_014_B41	v5#57	口	呝	seal_regular		&#x545D;	a050b032		掲出字：原作呃。
+2_014_B21	v5#57	口	呻	Regular_seal		&#x547B;	a050b022		
+2_014_B22	v5#57	口	吟	Regular_seal		&#x541F;	a050b023		
+2_014_B31	v5#57	口	喩	Regular_seal		&#x55A9;	a050b024		
+2_014_B32	v5#57	口	嗞	Regular_seal		&#x55DE;	a050b031		
+2_014_B41	v5#57	口	呝	Regular_seal		&#x545D;	a050b032		掲出字：原作呃。
 2_014_B411	v5#57	口	𠱟	Songben Yupian		&#xD843;&#xDC5F;	a050b033		
 2_014_B42	v5#57	口	哤	regular		&#x54E4;	a050b034		
-2_014_B51	v5#57	口	唌	seal_regular		&#x550C;	a052b061		
-2_014_B52	v5#57	口	嘅	seal_regular		&#x5605;	a050b041		
-2_014_B61	v5#57	口	吪	seal_regular		&#x542A;	a050b042		
-2_014_B62	v5#57	口	嘆	seal_regular		&#x5606;	a050b043		
-2_015_A11	v5#57	口	喝	seal_regular		&#x559D;	a050b044		
+2_014_B51	v5#57	口	唌	Regular_seal		&#x550C;	a052b061		
+2_014_B52	v5#57	口	嘅	Regular_seal		&#x5605;	a050b041		
+2_014_B61	v5#57	口	吪	Regular_seal		&#x542A;	a050b042		
+2_014_B62	v5#57	口	嘆	Regular_seal		&#x5606;	a050b043		
+2_015_A11	v5#57	口	喝	Regular_seal		&#x559D;	a050b044		
 2_015_A111	v5#57	口	𡀽	omitted		&#xD844;&#xDC3D;	a050b051		
-2_015_A12	v5#57	口	哨	seal_regular		&#x54E8;	a050b052		哀：呂云、“衺”之誤。
-2_015_A21	v5#57	口	噆	seal_regular		&#x5646;	a050b053		
-2_015_A22	v5#57	口	吝	seal_regular		&#x541D;	a050b054		
+2_015_A12	v5#57	口	哨	Regular_seal		&#x54E8;	a050b052		哀：呂云、“衺”之誤。
+2_015_A21	v5#57	口	噆	Regular_seal		&#x5646;	a050b053		
+2_015_A22	v5#57	口	吝	Regular_seal		&#x541D;	a050b054		
 2_015_A221	v5#57	口	𠲲	omitted		&#xD843;&#xDCB2;	a050b061		天治本《新撰字鏡》玉篇群作⿰⿱又右久。
-2_015_A31	v5#57	口	各	seal_regular		&#x5404;	a050b062		
-2_015_A32	v5#57	口	否	seal_regular		&#x5426;	a050b063		
-2_015_A41	v5#57	口	唁	seal_regular		&#x5501;	a050b064		
+2_015_A31	v5#57	口	各	Regular_seal		&#x5404;	a050b062		
+2_015_A32	v5#57	口	否	Regular_seal		&#x5426;	a050b063		
+2_015_A41	v5#57	口	唁	Regular_seal		&#x5501;	a050b064		
 2_015_A411	v5#57	口	喭	Songben Yupian		&#x55AD;	a050b071		
-2_015_A42	v5#57	口	哀	seal_regular		&#x54C0;	a050b072		
+2_015_A42	v5#57	口	哀	Regular_seal		&#x54C0;	a050b072		
 2_015_A501	v5#57	口	嗁	Songben Yupian		&#x55C1;	a050b073		
-2_015_A51	v5#57	口	啼	seal_regular		&#x557C;	a050b074		掲出字：呂作嗁。
+2_015_A51	v5#57	口	啼	Regular_seal		&#x557C;	a050b074		掲出字：呂作嗁。
 2_015_A51	v5#57	口	嗁	regular	白	&#x55C1;	a050b074		
-2_015_A52	v5#57	口	嗀	seal_regular		&#x55C0;	a050b081		
-2_015_A61	v5#57	口	咼	seal_regular		&#x54BC;	a050b082		
+2_015_A52	v5#57	口	嗀	Regular_seal		&#x55C0;	a050b081		
+2_015_A61	v5#57	口	咼	Regular_seal		&#x54BC;	a050b082		
 2_015_A611	v5#57	口	喎	Songben Yupian		&#x558E;	a050b083		
-2_015_A62	v5#57	口	𠴫	seal_regular		&#xD843;&#xDD2B;	a050b084		
-2_015_B11	v5#57	口	嗼	seal_regular		&#x55FC;	a050b085		
-2_015_B12	v5#57	口	𠯑	seal_regular		&#xD842;&#xDFD1;	a050b091		
-2_015_B21	v5#57	口	嗾	seal_regular		&#x55FE;	a050b092		
+2_015_A62	v5#57	口	𠴫	Regular_seal		&#xD843;&#xDD2B;	a050b084		
+2_015_B11	v5#57	口	嗼	Regular_seal		&#x55FC;	a050b085		
+2_015_B12	v5#57	口	𠯑	Regular_seal		&#xD842;&#xDFD1;	a050b091		
+2_015_B21	v5#57	口	嗾	Regular_seal		&#x55FE;	a050b092		
 2_015_B211	v5#57	口	𠻛	omitted		&#xD843;&#xDEDB;	a050b093		
 2_015_B22	v5#57	口	吠	regular		&#x5420;	a050b094		
-2_015_B31	v5#57	口	咆	seal_regular		&#x5486;	a052b064		
-2_015_B32	v5#57	口	嘷	seal_regular		&#x5637;	a050b101		
-2_015_B41	v5#57	口	哮	seal_regular		&#x54EE;	a050b102		掲出字：《新撰字鏡》玉篇部分作嘋。
-2_015_B42	v5#57	口	喈	seal_regular		&#x5588;	a050b104		
-2_015_B51	v5#57	口	喔	seal_regular		&#x5594;	a050b103		
-2_015_B52	v5#57	口	咮	seal_regular		&#x54AE;	a048a092		
-2_015_B61	v5#57	口	嚶	seal_regular		&#x56B6;	a051a011		
-2_015_B62	v5#57	口	啄	seal_regular		&#x5544;	a051a012		音一字：未詳。呂云「“音”後“也”字據東京大學本補。“一字”未詳」。「也」字誤認歟。
-2_016_A11	v5#57	口	唬	seal_regular		&#x552C;	a051a013		
-2_016_A12	v5#57	口	呦	seal_regular		&#x5466;	a051a014		
-2_016_A21	v5#57	口	噳	seal_regular		&#x5673;	a051a021		
+2_015_B31	v5#57	口	咆	Regular_seal		&#x5486;	a052b064		
+2_015_B32	v5#57	口	嘷	Regular_seal		&#x5637;	a050b101		
+2_015_B41	v5#57	口	哮	Regular_seal		&#x54EE;	a050b102		掲出字：《新撰字鏡》玉篇部分作嘋。
+2_015_B42	v5#57	口	喈	Regular_seal		&#x5588;	a050b104		
+2_015_B51	v5#57	口	喔	Regular_seal		&#x5594;	a050b103		
+2_015_B52	v5#57	口	咮	Regular_seal		&#x54AE;	a048a092		
+2_015_B61	v5#57	口	嚶	Regular_seal		&#x56B6;	a051a011		
+2_015_B62	v5#57	口	啄	Regular_seal		&#x5544;	a051a012		音一字：未詳。呂云「“音”後“也”字據東京大學本補。“一字”未詳」。「也」字誤認歟。
+2_016_A11	v5#57	口	唬	Regular_seal		&#x552C;	a051a013		
+2_016_A12	v5#57	口	呦	Regular_seal		&#x5466;	a051a014		
+2_016_A21	v5#57	口	噳	Regular_seal		&#x5673;	a051a021		
 2_016_A22	v5#57	口	喁	regular		&#x5581;	a051a022		
-2_016_A31	v5#57	口	局	seal_regular		&#x5C40;	a051a081		
-2_016_A32	v5#57	口	㕣	seal_regular		&#x3563;	a051a082		呂作兖。
-2_016_A41	v5#57	口	咡	seal_regular		&#x54A1;	a051a083		
-2_016_A42	v5#57	口	吂	seal_regular		&#x5402;	a051a091		
-2_016_A51	v5#57	口	囒	seal_regular		&#x56D2;	a051a023		
+2_016_A31	v5#57	口	局	Regular_seal		&#x5C40;	a051a081		
+2_016_A32	v5#57	口	㕣	Regular_seal		&#x3563;	a051a082		呂作兖。
+2_016_A41	v5#57	口	咡	Regular_seal		&#x54A1;	a051a083		
+2_016_A42	v5#57	口	吂	Regular_seal		&#x5402;	a051a091		
+2_016_A51	v5#57	口	囒	Regular_seal		&#x56D2;	a051a023		
 2_016_A51	v5#57	口	㘓	regular	白	&#x3613;	a051a023		
-2_016_A52	v5#57	口	哰	seal_regular		&#x54F0;	a051a024		
-2_016_A61	v5#57	口	嗹	seal_regular		&#x55F9;	a051a032		
-2_016_A62	v5#57	口	嘍	seal_regular		&#x560D;	a051a033		
-2_016_B11	v5#57	口	㖪	seal_regular		&#x35AA;	a051a034		
-2_016_B12	v5#57	口	喛	seal_regular		&#x559B;	a051a035		
-2_016_B21	v5#57	口	嘕	seal_regular		&#x5615;	a051a041		
-2_016_B22	v5#57	口	㗔	seal_regular		&#x35D4;	a051a042		
-2_016_B31	v5#57	口	喊	seal_regular		&#x558A;	a051a043		
-2_016_B32	v5#57	口	𡅞	seal_regular		&#xD844;&#xDD5E;	a051a044		
-2_016_B41	v5#57	口	喓	seal_regular		&#x5593;	a051a051		
-2_016_B42	v5#57	口	嗟	seal_regular		&#x55DF;	a051a052		
-2_016_B51	v5#57	口	嗉	seal_regular		&#x55C9;	a051a053		
-2_016_B52	v5#57	口	嚇	seal_regular		&#x5687;	a051a061		
+2_016_A52	v5#57	口	哰	Regular_seal		&#x54F0;	a051a024		
+2_016_A61	v5#57	口	嗹	Regular_seal		&#x55F9;	a051a032		
+2_016_A62	v5#57	口	嘍	Regular_seal		&#x560D;	a051a033		
+2_016_B11	v5#57	口	㖪	Regular_seal		&#x35AA;	a051a034		
+2_016_B12	v5#57	口	喛	Regular_seal		&#x559B;	a051a035		
+2_016_B21	v5#57	口	嘕	Regular_seal		&#x5615;	a051a041		
+2_016_B22	v5#57	口	㗔	Regular_seal		&#x35D4;	a051a042		
+2_016_B31	v5#57	口	喊	Regular_seal		&#x558A;	a051a043		
+2_016_B32	v5#57	口	𡅞	Regular_seal		&#xD844;&#xDD5E;	a051a044		
+2_016_B41	v5#57	口	喓	Regular_seal		&#x5593;	a051a051		
+2_016_B42	v5#57	口	嗟	Regular_seal		&#x55DF;	a051a052		
+2_016_B51	v5#57	口	嗉	Regular_seal		&#x55C9;	a051a053		
+2_016_B52	v5#57	口	嚇	Regular_seal		&#x5687;	a051a061		
 2_016_B61	v5#57	口	嚃	regular		&#x5683;	a051a062		
-2_016_B62	v5#57	口	叵	seal_regular		&#x53F5;	a051a063		
+2_016_B62	v5#57	口	叵	Regular_seal		&#x53F5;	a051a063		
 2_017_A11	v5#57	口	嘺	regular		&#x563A;	a051a064		
 2_017_A12	v5#57	口	㗧	regular		&#x35E7;	a053b104		
 2_017_A121	v5#57	口	啌	Songben Yupian		&#x554C;	a051a071		
@@ -7509,70 +7509,70 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 3_089_B11	v11#157	屮	熏	regular		&#x718F;	b013b052		字体差。
 3_089_B12	v11#157	屮	𡴆	regular		&#xD847;&#xDD06;	b013b041		G38尾。
 3_089_B121	v11#157	屮	𡴫	omitted		&#xD847;&#xDD2B;	b013b042		
-4_001_A21	v12#158	木	木	seal_regular		&#x6728;	b013b091		G39首。
-4_001_A22	v12#158	木	橘	seal_regular		&#x6A58;	b022b031		
-4_001_A31	v12#158	木	橙	seal_regular		&#x6A59;	b013b101		
-4_001_A32	v12#158	木	柚	seal_regular		&#x67DA;	b016a034		有埋字B。
+4_001_A21	v12#158	木	木	Regular_seal		&#x6728;	b013b091		G39首。
+4_001_A22	v12#158	木	橘	Regular_seal		&#x6A58;	b022b031		
+4_001_A31	v12#158	木	橙	Regular_seal		&#x6A59;	b013b101		
+4_001_A32	v12#158	木	柚	Regular_seal		&#x67DA;	b016a034		有埋字B。
 4_001_A33	v12#158	木	櫾	embedded_regular		&#x6AFE;	△(b015b061)		埋字B。
 4_001_A41	v12#158	木	樤	regular		&#x6A24;	b013b102		
-4_001_A42	v12#158	木	樝	seal_regular		&#x6A1D;	b013b104		
+4_001_A42	v12#158	木	樝	Regular_seal		&#x6A1D;	b013b104		
 4_001_A421	v12#158	木	柤	Songben Yupian		&#x67E4;	b013b105		
-4_001_A51	v12#158	木	棃	seal_regular		&#x68C3;	b014a011		
+4_001_A51	v12#158	木	棃	Regular_seal		&#x68C3;	b014a011		
 4_001_A511	v12#158	木	梨	Songben Yupian		&#x68A8;	b014a012		
 4_001_A52	v12#158	木	樆	regular		&#x6A06;	b014a013		掲出字：原作「檎」。参看《校釋》。
-4_001_A61	v12#158	木	梬	seal_regular		&#x68AC;	b014a014		
-4_001_A62	v12#158	木	柹	seal_regular		&#x67F9;	b014a016		掲出字：原作柿。
+4_001_A61	v12#158	木	梬	Regular_seal		&#x68AC;	b014a014		
+4_001_A62	v12#158	木	柹	Regular_seal		&#x67F9;	b014a016		掲出字：原作柿。
 4_001_A62	v12#158	木	柿	regular	白	&#x67FF;	b014a016		
-4_001_B11	v12#158	木	柟	seal_regular		&#x67DF;	b014a021		
+4_001_B11	v12#158	木	柟	Regular_seal		&#x67DF;	b014a021		
 4_001_B111	v12#158	木	楠	Songben Yupian		&#x6960;	b014a022		
-4_001_B12	v12#158	木	梅	seal_regular		&#x6885;	b014a023		
-4_001_B21	v12#158	木	楳	seal_regular		&#x6973;	b014a024		
-4_001_B22	v12#158	木	杏	seal_regular		&#x674F;	b016a053		
-4_001_B31	v12#158	木	楧	seal_regular		&#x6967;	b014a032		
-4_001_B32	v12#158	木	柰	seal_regular		&#x67F0;	b014a025		
+4_001_B12	v12#158	木	梅	Regular_seal		&#x6885;	b014a023		
+4_001_B21	v12#158	木	楳	Regular_seal		&#x6973;	b014a024		
+4_001_B22	v12#158	木	杏	Regular_seal		&#x674F;	b016a053		
+4_001_B31	v12#158	木	楧	Regular_seal		&#x6967;	b014a032		
+4_001_B32	v12#158	木	柰	Regular_seal		&#x67F0;	b014a025		
 4_001_B321	v12#158	木	㮏	Songben Yupian		&#x3B8F;	b014a031		
 4_001_B41	v12#158	木	柰	regular		&#x67F0;	b014a025		掲出字：宮澤・呂、不立項。
 4_001_B42	v12#158	木	櫻	regular		&#x6AFB;	b014a033		
-4_001_B51	v12#158	木	李	seal_regular		&#x674E;	b014a034		有埋字B。
+4_001_B51	v12#158	木	李	Regular_seal		&#x674E;	b014a034		有埋字B。
 4_001_B52	v12#158	木	杍	Embedded_regular		&#x674D;	b014a035		埋字B。
-4_001_B53	v12#158	木	桃	seal_regular		&#x6843;	b014a043		
-4_001_B61	v12#158	木	榹	seal_regular		&#x69B9;	b014a044		
-4_001_B62	v12#158	木	㮘	seal_regular		&#x3B98;	b014a045		
+4_001_B53	v12#158	木	桃	Regular_seal		&#x6843;	b014a043		
+4_001_B61	v12#158	木	榹	Regular_seal		&#x69B9;	b014a044		
+4_001_B62	v12#158	木	㮘	Regular_seal		&#x3B98;	b014a045		
 4_001_B621	v12#158	木	枆	Songben Yupian		&#x6786;	b014a046		
-4_002_A11	v12#158	木	栗	seal_regular		&#x6817;	△		有埋字B。
-4_002_A12	v12#158	木	𣓀	seal_regular		&#xD84D;&#xDCC0;	b014a041		
+4_002_A11	v12#158	木	栗	Regular_seal		&#x6817;	△		有埋字B。
+4_002_A12	v12#158	木	𣓀	Regular_seal		&#xD84D;&#xDCC0;	b014a041		
 4_002_A121	v12#158	木	榛	Songben Yupian		&#x699B;	b014a042		
 4_002_A21	v12#158	木	梒	regular		&#x6892;	b014a047		
-4_002_A22	v12#158	木	楷	seal_regular		&#x6977;	b014a051		
-4_002_A31	v12#158	木	梫	seal_regular		&#x68AB;	b021b091		
-4_002_A32	v12#158	木	桂	seal_regular		&#x6842;	b014a053		枇：次行大字。
+4_002_A22	v12#158	木	楷	Regular_seal		&#x6977;	b014a051		
+4_002_A31	v12#158	木	梫	Regular_seal		&#x68AB;	b021b091		
+4_002_A32	v12#158	木	桂	Regular_seal		&#x6842;	b014a053		枇：次行大字。
 4_002_A41	v12#158	木	枇	regular		&#x6787;	b014b075		
-4_002_A42	v12#158	木	棠	seal_regular		&#x68E0;	b014a052		
+4_002_A42	v12#158	木	棠	Regular_seal		&#x68E0;	b014a052		
 4_002_A51	v12#158	木	桬	regular		&#x686C;	b014a054		
-4_002_A52	v12#158	木	杜	seal_regular		&#x675C;	b014a061		
-4_002_A61	v12#158	木	槢	seal_regular		&#x69E2;	b014a062		
-4_002_A62	v12#158	木	樿	seal_regular		&#x6A3F;	b014a063		
-4_002_B11	v12#158	木	椲	seal_regular		&#x6932;	b014a064		
-4_002_B12	v12#158	木	楢	seal_regular		&#x6962;	b014a071		
-4_002_B21	v12#158	木	桏	seal_regular		&#x684F;	b014a072		
-4_002_B22	v12#158	木	棆	seal_regular		&#x68C6;	b014a074		
+4_002_A52	v12#158	木	杜	Regular_seal		&#x675C;	b014a061		
+4_002_A61	v12#158	木	槢	Regular_seal		&#x69E2;	b014a062		
+4_002_A62	v12#158	木	樿	Regular_seal		&#x6A3F;	b014a063		
+4_002_B11	v12#158	木	椲	Regular_seal		&#x6932;	b014a064		
+4_002_B12	v12#158	木	楢	Regular_seal		&#x6962;	b014a071		
+4_002_B21	v12#158	木	桏	Regular_seal		&#x684F;	b014a072		
+4_002_B22	v12#158	木	棆	Regular_seal		&#x68C6;	b014a074		
 4_002_B301	v12#158	木	𣐑	Songben Yupian		&#xD84D;&#xDC11;	b014a081		
 4_002_B31	v12#158	木	𣖲	regular		&#xD84D;&#xDDB2;	b014a082		
-4_002_B32	v12#158	木	楈	seal_regular		&#x6948;	b014a083		
-4_002_B41	v12#158	木	楑	seal_regular		&#x6951;	b014a085		有埋字A。
+4_002_B32	v12#158	木	楈	Regular_seal		&#x6948;	b014a083		
+4_002_B41	v12#158	木	楑	Regular_seal		&#x6951;	b014a085		有埋字A。
 4_002_B42	v12#158	木	柊	embedded_regular		&#x67CA;	b014a084		埋字A。他項繰込
-4_002_B43	v12#158	木	椆	seal_regular		&#x6906;	b014a087		
-4_002_B51	v12#158	木	𣓌	seal_regular		&#xD84D;&#xDCCC;	b014a086		
-4_002_B52	v12#158	木	㰘	seal_regular		&#x3C18;	b014a091		
-4_002_B61	v12#158	木	樕	seal_regular		&#x6A15;	b014a092		
+4_002_B43	v12#158	木	椆	Regular_seal		&#x6906;	b014a087		
+4_002_B51	v12#158	木	𣓌	Regular_seal		&#xD84D;&#xDCCC;	b014a086		
+4_002_B52	v12#158	木	㰘	Regular_seal		&#x3C18;	b014a091		
+4_002_B61	v12#158	木	樕	Regular_seal		&#x6A15;	b014a092		
 4_002_B62	v12#158	木	㯈	regular		&#x3BC8;	b014a093		注文大字。
 4_003_A11	v12#158	木	槲	regular		&#x69F2;	b014a094		
 4_003_A12	v12#158	木	棌	regular		&#x68CC;	b014a095		反切上字脱。有直音注。有埋字B。（追）。
 4_003_A201	v12#158	木	梣	omitted		&#x68A3;	b014a096		
-4_003_A21	v12#158	木	𣘕	seal_regular		&#xD84D;&#xDE15;	b014a101		
+4_003_A21	v12#158	木	𣘕	Regular_seal		&#xD84D;&#xDE15;	b014a101		
 4_003_A22	v12#158	木	𣠟	regular		&#xD84E;&#xDC1F;	b014a103		有埋字B。
 4_003_A23	v12#158	木	橬	embedded_regular		&#x6A6C;	b014a102		埋字B。
-4_003_A31	v12#158	木	棳	seal_regular		&#x68F3;	b014a104		
+4_003_A31	v12#158	木	棳	Regular_seal		&#x68F3;	b014a104		
 4_003_A32	v12#158	木	𣘫	regular		&#xD84D;&#xDE2B;	b014a105		
 4_003_A41	v12#158	木	椯	regular		&#x692F;	b014a106		
 4_003_A411	v12#158	木	𣖃	Songben Yupian		&#xD84D;&#xDD83;	b014a107		
@@ -7601,7 +7601,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 4_004_A11	v12#158	木	楸	regular		&#x6978;	b014b038		
 4_004_A12	v12#158	木	檍	regular		&#x6A8D;	b014b053		掲出字：原作橦。檍字
 4_004_A12	v12#158	木	𣚍	regular	宮	&#xD84D;&#xDE8D;	b014b053		
-4_004_A21	v12#158	木	柀	seal_regular		&#x67C0;	b014b034		
+4_004_A21	v12#158	木	柀	Regular_seal		&#x67C0;	b014b034		
 4_004_A22	v12#158	木	檆	regular		&#x6A86;	b014b035		
 4_004_A221	v12#158	木	杉	omitted		&#x6749;	b014b036		
 4_004_A31	v12#158	木	榛	regular		&#x699B;	b014b054		
@@ -7615,7 +7615,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 4_004_A62	v12#158	木	桵	regular		&#x6875;	b014b062		
 4_004_B11	v12#158	木	棫	regular		&#x68EB;	b014b063		
 4_004_B12	v12#158	木	㮩	regular		&#x3BA9;	▽		
-4_004_B21	v12#158	木	椐	seal_regular		&#x6910;	b014b064		
+4_004_B21	v12#158	木	椐	Regular_seal		&#x6910;	b014b064		
 4_004_B22	v12#158	木	樻	regular		&#x6A3B;	b014b065		
 4_004_B31	v12#158	木	栩	regular		&#x6829;	b014b066		
 4_004_B32	v12#158	木	𣏗	regular		&#xD84C;&#xDFD7;	b014b071		
@@ -7624,7 +7624,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 4_004_B43	v12#158	木	杙	regular		&#x6759;	b014b074		
 4_004_B51	v12#158	木	枇	regular		&#x6787;	b014b075		
 4_004_B52	v12#158	木	桔	regular		&#x6854;	b014b081		
-4_004_B61	v12#158	木	柃	seal_regular		&#x67C3;	b014b082		
+4_004_B61	v12#158	木	柃	Regular_seal		&#x67C3;	b014b082		
 4_004_B62	v12#158	木	柞	regular		&#x67DE;	b014b083		
 4_005_A11	v12#158	木	㭩	regular		&#x3B69;	b014b091		
 4_005_A12	v12#158	木	榗	regular		&#x6997;	b014b092		宋字体差。

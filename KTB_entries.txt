@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.3.2
+#	Version: 1.3.3
 #	Date: 25 September 1994
 #	Last update : 30 April 2016
 #
@@ -41,7 +41,6 @@
 #	Seal_regular		: 篆書掲出字 + 隷書掲出字
 #	Seal_regular-omitted	: 篆書掲出字, 隷書掲出字脱
 #	Embedded_regular	: 埋字(隷書掲出字)
-#	Embedded_seal_regular	: 埋字(篆書掲出字+隷書掲出字)
 #	Embedded_regular-omitted	: 埋字(隷書掲出字脱)
 #	Embedded_seal		: 埋字(篆書掲出字)
 #	Embedded_omitted	: 埋字+脱字
@@ -112,15 +111,15 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_017_A43	v1#3	示	祀	seal_regular		&#x7940;	a006b022		有埋字A・B。裸衣(禩β)、祼大(禩γ):一字誤作二字歟。祼大(禩γ)。
 1_017_A44	v1#3	示	禩	embedded_regular		&#x79A9;	a006b023		埋字B(禩β)。裸衣：禩之誤。
 1_017_A45	v1#3	示	䃾	embedded_regular		&#x40FE;	a006b021		埋字A。次項同。宮澤無△印。
-1_017_A46	v1#3	示	禩	embedded_seal_regular		&#x79A9;	a006b023		埋字B(禩γ)。裸大：禩之誤。
+1_017_A46	v1#3	示	禩	Embedded_regular		&#x79A9;	a006b023		埋字B(禩γ)。裸大：禩之誤。
 1_017_A51	v1#3	示	䃾	seal_regular		&#x40FE;	△(a006b021)		
 1_017_A52	v1#3	示	祏	seal_regular		&#x794F;	a006b024		
 1_017_A61	v1#3	示	禋	seal_regular		&#x798B;	a006b025		有埋字B。
-1_017_A62	v1#3	示	𥛛	embedded_seal_regular		&#xD855;&#xDEDB;	a006b031		埋字B。
+1_017_A62	v1#3	示	𥛛	Embedded_regular		&#xD855;&#xDEDB;	a006b031		埋字B。
 1_017_A62	v1#3	示	𡫚	regular	白	&#xD846;&#xDEDA;	a006b031		
 1_017_A63	v1#3	示	祡	seal_regular		&#x7961;	a006b032		有埋字A・B。柴文：呂按「即指柴字又作𥚨」。
 1_017_A631	v1#3	示	柴	embedded_regular		&#x67F4;	▽		埋字A。
-1_017_A64	v1#3	示	𥚨	embedded_seal_regular		&#xD855;&#xDEA8;	a006b033		埋字B。
+1_017_A64	v1#3	示	𥚨	Embedded_regular		&#xD855;&#xDEA8;	a006b033		埋字B。
 1_017_B11	v1#3	示	祖	seal_regular		&#x7956;	a006b041		
 1_017_B12	v1#3	示	祊	seal_regular		&#x794A;	a006b043		有埋字B二字。𥛱、[上文]。𥛻、[上文]。
 1_017_B13	v1#3	示	𥛱	embedded_regular		&#xD855;&#xDEF1;	a006b042		埋字B。
@@ -138,7 +137,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_017_B51	v1#3	示	祐	seal_regular		&#x7950;	a006b063		有埋字B。
 1_017_B511	v1#3	示	𨳾	embedded_regular		&#xD863;&#xDCFE;			埋字B。𨳾：據呂《校釋》。
 1_017_B52	v1#3	示	祺	seal_regular		&#x797A;	a006b064		有埋字B二字。祺β：篆書字形。
-1_017_B53	v1#3	示	禥	embedded_seal_regular		&#x79A5;	a006b071		埋字B。
+1_017_B53	v1#3	示	禥	Embedded_regular		&#x79A5;	a006b071		埋字B。
 1_017_B61	v1#3	示	福	seal_regular		&#x798F;	a006b061		有埋字B。注文上下二段。
 1_017_B611	v1#3	示	福λ	embedded_regular		&#x798F;&#x3BB;			埋字B。
 1_018_A11	v1#3	示	祿	seal_regular		&#x797F;	a006b072		有埋字B。
@@ -231,9 +230,9 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_020_B32	v1#3	示	𥛰	seal_regular		&#xD855;&#xDEF0;	a007b024		
 1_020_B41	v1#3	示	䄉	seal_regular		&#x4109;	a007b025		為娥字：《新撰字鏡》為義注字。
 1_020_B42	v1#3	示	𥙰	seal_regular		&#xD855;&#xDE70;	a007b032		有埋字B三字。掲出字：原作𡎺、呂同作。
-1_020_B421	v1#3	示	𥙰β	embedded-omitted		&#xD855;&#xDE70;			埋字B。
+1_020_B421	v1#3	示	𥙰β	Embedded_regular-omitted		&#xD855;&#xDE70;			埋字B。
 1_020_B422	v1#3	示	𥙰γ	embedded_seal		&#xD855;&#xDE70;			埋字B。篆書字形。
-1_020_B423	v1#3	示	𥙰δ	embedded-omitted		&#xD855;&#xDE70;			埋字B。
+1_020_B423	v1#3	示	𥙰δ	Embedded_regular-omitted		&#xD855;&#xDE70;			埋字B。
 1_020_B51	v1#3	示	𥜃	seal_regular		&#xD855;&#xDF03;	a007b031		䭞字也：《新撰字鏡》為義注字。
 1_020_B52	v1#3	示	禗	seal_regular		&#x7997;	a007b033		
 1_020_B61	v1#3	示	祘	seal_regular		&#x7958;	a007b034		筭字、古文也：说文「明視以筭之。从二示。《逸周書》曰：“士分民之祘。均分以祘之也。”讀若筭。蘇貫切」。G01尾
@@ -269,7 +268,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_021_B51	v1#7	玉	瓘	seal_regular		&#x74D8;	a008a104		
 1_021_B52	v1#7	玉	璥	seal_regular		&#x74A5;	a008a105		
 1_021_B61	v1#7	玉	琠	seal_regular		&#x7420;	a008a106		有埋字A一字和埋字B二字。
-1_021_B611	v1#7	玉	琠β	embedded-omitted		&#x7420;&#x3B2;			埋字B。
+1_021_B611	v1#7	玉	琠β	Embedded_regular-omitted		&#x7420;&#x3B2;			埋字B。
 1_021_B62	v1#7	玉	𤩴	embedded_regular		&#xD852;&#xDE74;	a008b011		埋字B。
 1_021_B63	v1#7	玉	玘	embedded_regular		&#x7398;	a008b012		埋字A。
 1_021_B64	v1#7	玉	瓕	seal_regular		&#x74D5;	a008b013		
@@ -293,7 +292,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_022_A62	v1#7	玉	㻝	seal_regular		&#x3EDD;	a008b045		
 1_022_B11	v1#7	玉	瓄	seal_regular		&#x74C4;	a008b051		
 1_022_B12	v1#7	玉	璿	seal_regular		&#x74BF;	a008b054		有埋字B三字。
-1_022_B121	v1#7	玉	璿β	embedded-omitted		&#x74BF;&#x3B2;			埋字B。
+1_022_B121	v1#7	玉	璿β	Embedded_regular-omitted		&#x74BF;&#x3B2;			埋字B。
 1_022_B13	v1#7	玉	𤫀	embedded_regular		&#xD852;&#xDEC0;	a008b061		埋字B。
 1_022_B14	v1#7	玉	𤩅	embedded_regular		&#xD852;&#xDE45;	a008b062		埋字B。
 1_022_B21	v1#7	玉	珵	seal_regular		&#x73F5;	a008b052		
@@ -307,7 +306,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_022_B51	v1#7	玉	琛	seal_regular		&#x741B;	a008b081		有埋字A。
 1_022_B52	v1#7	玉	㻽	embedded_regular		&#x3EFD;	a008b076		埋字A。掲出字：原文一字誤作二字。似睡反：原文疑作「以」、吕本作「以」、p.6。
 1_022_B53	v1#7	玉	璧	seal_regular		&#x74A7;	a008b083		有埋字B。
-1_022_B531	v1#7	玉	璧β	embedded-omitted		&#x74A7;&#x3B2;			埋字B。
+1_022_B531	v1#7	玉	璧β	Embedded_regular-omitted		&#x74A7;&#x3B2;			埋字B。
 1_022_B61	v1#7	玉	玊	regular		&#x738A;	a008a102		
 1_022_B62	v1#7	玉	環	seal_regular		&#x74B0;	a008b082		
 1_023_A11	v1#7	玉	瑗	seal_regular		&#x7457;	a008b084		
@@ -330,7 +329,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_023_B23	v1#7	玉	𤣽	embedded_regular		&#xD852;&#xDCFD;	a009a022		埋字B。
 1_023_B31	v1#7	玉	瑞	seal_regular		&#x745E;	a009a032		
 1_023_B32	v1#7	玉	瑱	seal_regular		&#x7471;	a009a033		有埋字B。
-1_023_B321	v1#7	玉	瑱β	embedded-omitted		&#x7471;&#x3B2;			埋字B。
+1_023_B321	v1#7	玉	瑱β	Embedded_regular-omitted		&#x7471;&#x3B2;			埋字B。
 1_023_B41	v1#7	玉	珥	seal_regular		&#x73E5;	a009a034		
 1_023_B42	v1#7	玉	琫	seal_regular		&#x742B;	a009a041		
 1_023_B51	v1#7	玉	珌	seal_regular		&#x73CC;	a009a042		有埋字B。
@@ -354,7 +353,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_024_A52	v1#7	玉	璹	seal_regular		&#x74B9;	a009a082		
 1_024_A521	v1#7	玉	𤩈	Songben Yupian		&#xD852;&#xDE48;	a009a081		
 1_024_A61	v1#7	玉	珍	seal_regular		&#x73CD;	a009a084		有埋字B。
-1_024_A611	v1#7	玉	珎	embedded-omitted		&#x73CE;	a009a085		埋字B。
+1_024_A611	v1#7	玉	珎	Embedded_regular-omitted		&#x73CE;	a009a085		埋字B。
 1_024_A62	v1#7	玉	珤	seal_regular		&#x73E4;	a009a083		
 1_024_B11	v1#7	玉	琚	seal_regular		&#x741A;	a009a091		
 1_024_B12	v1#7	玉	琖	seal_regular		&#x7416;	a009a092		
@@ -554,7 +553,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_030_B11	v2#9	土	塒	seal_regular		&#x5852;	a012b091		
 1_030_B12	v2#9	土	堂	seal_regular		&#x5802;	a012b101		有埋字B三字。
 1_030_B121	v2#9	土	坣	omitted		&#x5763;	a012b102		
-1_030_B13	v2#9	土	㙶	embedded_seal_regular		&#x3676;	a012b103		埋字B。
+1_030_B13	v2#9	土	㙶	Embedded_regular		&#x3676;	a012b103		埋字B。
 1_030_B21	v2#9	土	坫	seal_regular		&#x576B;	a013a011		
 1_030_B22	v2#9	土	垝	seal_regular		&#x579D;	a013a012		
 1_030_B31	v2#9	土	塾	regular		&#x587E;	a013a013		有埋字A。
@@ -7535,7 +7534,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 4_001_B41	v12#158	木	柰	regular		&#x67F0;	b014a025		掲出字：宮澤・呂、不立項。
 4_001_B42	v12#158	木	櫻	regular		&#x6AFB;	b014a033		
 4_001_B51	v12#158	木	李	seal_regular		&#x674E;	b014a034		有埋字B。
-4_001_B52	v12#158	木	杍	embedded_seal_regular		&#x674D;	b014a035		埋字B。
+4_001_B52	v12#158	木	杍	Embedded_regular		&#x674D;	b014a035		埋字B。
 4_001_B53	v12#158	木	桃	seal_regular		&#x6843;	b014a043		
 4_001_B61	v12#158	木	榹	seal_regular		&#x69B9;	b014a044		
 4_001_B62	v12#158	木	㮘	seal_regular		&#x3B98;	b014a045		

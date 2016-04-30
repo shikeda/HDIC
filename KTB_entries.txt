@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.3.9
+#	Version: 1.3.10
 #	Date: 25 September 1994
 #	Last update : 30 April 2016
 #
@@ -36,24 +36,26 @@
 #
 #	Entry_type:
 #	----------
-#	Group a	--- Regular size headword
+#	Group a	--- Regular headword
 #	1 Regular				: 隷書掲出字 (= Regular_clerical)
-#	2 Regular-omitted		: 隷書掲出字 脱落（脱字A）
-#	3 Regular_seal			: 隷書掲出字 篆書併存
-#	4 Regular-omitted_seal	: 隷書掲出字 脱落 篆書存
+#	2 Regular_seal			: 隷書掲出字 篆書併存
+#	3 Regular-omitted_seal	: 隷書掲出字 脱落 篆書存
 #
 #	Group b -- Embedded headword
-#	5 Embedded_clerical		: 埋字 隷書字体
-#	6 Embedded-omitted		: 埋字 脱落（脱字A）　字体属性記述不能
-#	7 Embedded_seal			: 埋字 篆書字体
+#	4 Embedded_clerical		: 埋字 隷書字体
+#	5 Embedded_seal			: 埋字 篆書字体
 #
 #	Group c -- Omitted headword
-#	8 Omitted				: 脱字B　《説文解字》和《新撰字鏡》等所引原本《玉篇》佚文存
+#	6 Omitted-regular		: 脱字A 隷書掲出字 脱落
+#	7 Omitted-embedded		: 脱字A 
+#	8 Omitted				: 脱字B
 #
 #	Group d -- Variant of the Songben Yupian
 #	9 Songben Yupian		: 宋本《玉篇》増補之異体字
 #
 #   cf. Li 2015.
+#       脱字A : 掲出字 脱落 / 注文 存
+#       脱字B : 掲出字 脱落 / 注文 無  《説文解字》和《新撰字鏡》等所引原本《玉篇》佚文存
 #
 #	Abbreviations:
 # 	-------------

@@ -39,16 +39,16 @@
 #	Group a	--- Regular headword
 #	1 Regular				: 隷書掲出字 (= Regular_clerical)
 #	2 Regular_seal			: 隷書掲出字 篆書併存
-#	3 Regular-omitted_seal	: 隷書掲出字 脱落 篆書存
 #
 #	Group b -- Embedded headword
-#	4 Embedded_clerical		: 埋字 隷書字体
-#	5 Embedded_seal			: 埋字 篆書字体
+#	3 Embedded_clerical		: 埋字 隷書字体
+#	4 Embedded_seal			: 埋字 篆書字体
 #
 #	Group c -- Omitted headword
-#	6 Omitted-regular		: 脱字A 隷書掲出字 脱落
-#	7 Omitted-embedded		: 脱字A 
-#	8 Omitted				: 脱字B
+#	5 Omitted-regular		: 脱字A 隷書掲出字 脱落
+#	6 Omitted-regular_seal	: 脱字A 隷書掲出字 脱落 篆書存
+#	7 Omitted-embedded		: 脱字A 混入注文中掲出字　脱落
+#	8 Omitted				: 脱字B 項目全体 脱落
 #
 #	Group d -- Variant of the Songben Yupian
 #	9 Songben Yupian		: 宋本《玉篇》増補之異体字

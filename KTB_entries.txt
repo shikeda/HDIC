@@ -5333,7 +5333,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 3_008_B31	v9#91	言	讀	Regular		&#x8B80;	a082b101		
 3_008_B32	v9#91	言	訓	Regular		&#x8A13;	a082b102		
 3_008_B321	v9#91	言	𧥥	Songben-Yupian		&#xD85E;&#xDD65;	a082b103		
-3_008_B41	v9#91	言	𠶷	Regular		&#xD843;&#xDDB7;	△		
+3_008_B41	v9#91	言	𠶷	Regular		&#xD843;&#xDDB7;	△		掲出字：白藤作啻・𥩶、宮澤作𠶷、上田同作、呂作𢡃。呂云、“㤦也”未詳。池田按、原文抹消歟(⿻㤦…)。
 3_008_B41	v9#91	言	啻	Regular	白-1	&#x557B;	△		
 3_008_B41	v9#91	言	𥩶	Regular	白-2	&#xD856;&#xDE76;	△		
 3_008_B42	v9#91	言	誨	Regular		&#x8AA8;	a082b104		
@@ -5599,8 +5599,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 3_017_B51	v9#91	言	諽	Regular		&#x8AFD;	a085a081	Y09101167-1	
 3_017_B52	v9#91	言	讕	Regular		&#x8B95;	a085a082	Y09101169-1	
 3_017_B521	v9#91	言	譋	omitted		&#x8B4B;	a085a083	Y09101169-2	
-3_017_B61	v9#91	言	讂	Regular		&#x8B82;	a085a073	Y09101169-3	原本《玉篇》
-3_017_B61	v9#91	言	讂	Regular		&#x8B82;	a085a073	Y09101164-1	原本《玉篇》
+3_017_B61	v9#91	言	讂	Regular		&#x8B82;	a085a073	Y09101169-3	原本《玉篇》重出。
+3_017_B61-2	v9#91	言	讂	Regular		&#x8B82;	a085a073	Y09101164-1	原本《玉篇》重出。
 3_017_B62	v9#91	言	診	Regular		&#x8A3A;	a085a084	Y09101170-1	
 3_017_B621	v9#91	言	𧧂	Songben-Yupian		&#xD85E;&#xDDC2;	a085a091		
 3_018_A11	v9#91	言	𧬊	Regular		&#xD85E;&#xDF0A;	a087a101	Y09101171-1	
@@ -9312,8 +9312,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 4_061_B42	v14#166	竹	䈉	Embedded_clerical		&#x4209;	b035b091		埋字B。
 4_061_B43	v14#166	竹	籠	Regular		&#x7C60;	b035b074		
 4_061_B51	v14#166	竹	𥮒	Regular		&#xD856;&#xDF92;	b035b093		有埋字B。
-4_061_B52	v14#166	竹	𥷰	Regular		&#xD857;&#xDDF0;	b035b094		
 4_061_B52	v14#166	竹	籤	Embedded_clerical		&#x7C64;	b035b094		埋字B。掲出字：原作籖。宮澤作𥷰。
+4_061_B52	v14#166	竹	𥷰	Regular	宮	&#xD857;&#xDDF0;	b035b094		
 4_061_B52	v14#166	竹	𥷪	Regular	白	&#xD857;&#xDDEA;	b035b094		
 4_061_B53	v14#166	竹	䉴	Regular		&#x4274;	b035b095		
 4_061_B61	v14#166	竹	䇘	Regular		&#x41D8;	b035b092		
@@ -10087,8 +10087,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 5_007_B22	v15#202	臼	䑔	Embedded_clerical		&#x4454;	b047a025		埋字B。
 5_007_B23	v15#202	臼	𦥝	Regular		&#xD85A;&#xDD5D;	b047a022		
 5_007_B31	v15#202	臼	𦥟	Regular		&#xD85A;&#xDD5F;	b047a032		有埋字A。
-5_007_B32	v15#202	臼	臽	Embedded_clerical		&#x81FD;	b047a031		埋字A。
-5_007_B32	v15#202	臼	臽	Regular		&#x81FD;	b047a031		重複。
+5_007_B311	v15#202	臼	臽	Embedded_clerical		&#x81FD;	b047a031		埋字A。
+5_007_B32	v15#202	臼	臽	Regular		&#x81FD;	b047a031		重出。
 5_007_B41	v15#202	臼	䑔	Regular		&#x4454;	b047a025		掲出字：原作⿰臼甫。宮澤・呂作𦦐。
 5_007_B41	v15#202	臼	𦦐	Regular	宮	&#xD85A;&#xDD90;	b047a046		
 5_007_B42	v15#202	臼	䑗	Regular		&#x4457;	b047a052		
@@ -10545,9 +10545,9 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 5_024_B32	v16#242	瓦	㼫	Regular		&#x3F2B;	b052b101		
 5_024_B41	v16#242	瓦	㼹	Regular		&#x3F39;	b052b102		有埋字B。
 5_024_B42	v16#242	瓦	𤮊	Embedded_clerical		&#xD852;&#xDF8A;	b052b103		埋字B。
+5_024_B43	v16#242	瓦	𤭔	Regular		&#xD852;&#xDF54;	b052b104		掲出字：白藤作𤭌、宮澤作𤭔、上田作㼯、呂同作。據宮澤。
 5_024_B43	v16#242	瓦	𤭌	Regular	白	&#xD852;&#xDF4C;	b053a067		
-5_024_B43	v16#242	瓦	𤭔	Regular		&#xD852;&#xDF54;	b052b104		呂作㼯。
-5_024_B43	v16#242	瓦	㼯	Regular	白	&#x3F2F;	b052b104		
+5_024_B43	v16#242	瓦	㼯	Regular	上	&#x3F2F;	b052b104		
 5_024_B51	v16#242	瓦	𤮭	Regular		&#xD852;&#xDFAD;	b052b105		
 5_024_B52	v16#242	瓦	瓷	Regular		&#x74F7;	b052b106		
 5_024_B61	v16#242	瓦	𤬾	Regular		&#xD852;&#xDF3E;	b052b107		

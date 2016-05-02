@@ -10747,7 +10747,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 5_031_B53	v16#250	匚	𠥩	Regular		&#xD842;&#xDD69;	b055a022		
 5_031_B61	v16#250	匚	𠥧	Regular		&#xD842;&#xDD67;	b055a023		双隷。有埋字B。
 5_031_B62	v16#250	匚	𠥀	Regular		&#xD842;&#xDD40;	b055a023		双隷(22)。掲出字：原作⿷𠥓盃。
-5_031_B62	v16#250	匚	𠤯	Embedded_clerical		&#xD842;&#xDD2F;	b055a024		埋字B。𠤯：原文誤写。
+5_031_B621	v16#250	匚	𠤯	Embedded_clerical		&#xD842;&#xDD2F;	b055a024		埋字B。𠤯：原文誤写。
 5_031_B63	v16#250	匚	𠤱	Regular		&#xD842;&#xDD31;	b055a025		
 5_032_A11	v16#250	匚	𠥎	Regular		&#xD842;&#xDD4E;	b055a026		
 5_032_A12	v16#250	匚	匨	Regular		&#x5328;	b055a031		
@@ -11297,7 +11297,6 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 5_050_A21	v18#269	金	𨪐	Regular		&#xD862;&#xDE90;	b061a103		有埋字B。
 5_050_A22	v18#269	金	𠁁	Embedded_clerical		&#xD840;&#xDC41;	b061a103		埋字B。宋本《玉篇》注文中。
 5_050_A23	v18#269	金	鐎	Regular		&#x940E;	b061a102		
-5_050_A31	v18#269	金	鋗	Regular		&#x92D7;	b061a104		掲出字：原作⿰金䏍。宮澤同作。
 5_050_A31	v18#269	金	鋗	Regular		&#x92D7;	b061a104		掲出字：原作⿰金䏍。宮澤同作。
 5_050_A32	v18#269	金	鍵	Regular		&#x9375;	b062b095		
 5_050_A321	v18#269	金	鑳	Songben-Yupian		&#x9473;	b062b101		
@@ -12701,7 +12700,6 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 5_100_A61	v19#285	水	減	Regular		&#x6E1B;	b076a081		
 5_100_A62	v19#285	水	滅	Regular		&#x6EC5;	b076a082		
 5_100_B11	v19#285	水	泮	Regular		&#x6CEE;	b076a083		有埋字B二字。𣵣：呂作溿。
-5_100_B11	v19#285	水	𣵣	Embedded_clerical		&#xD84F;&#xDD63;			埋字B。
 5_100_B12	v19#285	水	沜	Embedded_clerical		&#x6C9C;	b076a084		埋字B。
 5_100_B121	v19#285	水	𣵣	Embedded_clerical		&#xD84F;&#xDD63;	▽		埋字B。掲出字：呂作溿。
 5_100_B13	v19#285	水	漏	Regular		&#x6F0F;	b076a085		
@@ -12926,10 +12924,10 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 5_109_A12	v20#294	𠂢	衇	Regular	白	&#x8847;	b081a034		
 5_109_A21	v20#294	𠂢	脈	Regular		&#x8108;	△		
 5_109_A22	v20#295	谷	豁	Regular		&#x8C41;	b081a052		
-5_109_A41	v20#295	谷	豁	Embedded-omitted		&#x8C41;	b081a052		埋字A。掲出字脱。
 5_109_A221	v20#295	谷	𧯆	Songben-Yupian		&#xD85E;&#xDFC6;	b081a053		
 5_109_A31	v20#295	谷	谷	Regular		&#x8C37;	b081a051		《新撰字鏡》、次項「郤　上字」。
 5_109_A41	v20#295	谷	谿	Regular		&#x8C3F;	b081a102		有埋字A。
+5_109_A411	v20#295	谷	豁	Embedded-omitted		&#x8C41;	b081a052		埋字A。掲出字脱。
 5_109_A42	v20#295	谷	豅	Regular		&#x8C45;	b081a062		
 5_109_A51	v20#295	谷	豂	Regular		&#x8C42;	b081a061		
 5_109_A52	v20#295	谷	谾	Regular		&#x8C3E;	b081a063		

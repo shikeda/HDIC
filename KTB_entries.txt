@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.3.11
+#	Version: 1.3.12
 #	Date: 25 September 1994
-#	Last update : 1 May 2016
+#	Last update : 2 May 2016
 #
 #	Copyright (c) 1994-2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -2315,9 +2315,9 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_091_A12	v4#46	鼻	齆	Regular		&#x9F46;	a041b023		
 1_091_A121	v4#46	鼻	𪖛	Songben-Yupian		&#xD869;&#xDD9B;	a041b024		
 1_091_A21	v4#46	鼻	𪖣	Regular		&#xD869;&#xDDA3;	a041b025		掲出字：宮澤作䶍。有埋字B。
-1_091_A21	v4#46	鼻	䶍	Embedded_clerical		&#x4D8D;	a041b025		埋字B。
 1_091_A21	v4#46	鼻	䶍	Regular	宮	&#x4D8D;	a041b025		
-1_091_A211	v4#46	鼻	䶑	Songben-Yupian		&#x4D91;	a041b026		
+1_091_A211	v4#46	鼻	䶍	Embedded_clerical		&#x4D8D;	a041b025		埋字B。
+1_091_A212	v4#46	鼻	䶑	Songben-Yupian		&#x4D91;	a041b026		
 1_091_A22	v4#46	鼻	鼿	Regular		&#x9F3F;	a041b051		
 1_091_A221	v4#46	鼻	𪖡	Songben-Yupian		&#xD869;&#xDDA1;	a041b052		
 1_091_A31	v4#46	鼻	齇	Regular		&#x9F47;	a041b032		
@@ -2850,8 +2850,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_011_A11	v5#57	口	名	Regular_seal		&#x540D;	a049a082		
 2_011_A12	v5#57	口	召	Regular_seal		&#x53EC;	a049a083		
 2_011_A21	v5#57	口	吾	Regular_seal		&#x543E;	a049a084		
-2_011_A211	v5#57	口	喆	Regular		&#x5586;	a049a092		
-2_011_A211	v5#57	口	嚞	Regular		&#x569E;	a049a093		
+2_011_A211	v5#57	口	喆	Omitted-regular		&#x5586;	a049a092		
+2_011_A212	v5#57	口	嚞	Regular		&#x569E;	a049a093		
 2_011_A22	v5#57	口	哲	Regular		&#x54F2;	a049a091		「嚞」之上下、有「古文」注記。
 2_011_A31	v5#57	口	君	Regular_seal		&#x541B;	a049a094		
 2_011_A32	v5#57	口	命	Regular_seal		&#x547D;	a049a095		
@@ -5334,8 +5334,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 3_008_B32	v9#91	言	訓	Regular		&#x8A13;	a082b102		
 3_008_B321	v9#91	言	𧥥	Songben-Yupian		&#xD85E;&#xDD65;	a082b103		
 3_008_B41	v9#91	言	𠶷	Regular		&#xD843;&#xDDB7;	△		
-3_008_B41	v9#91	言	啻	Regular	白	&#x557B;	△		
-3_008_B41	v9#91	言	𥩶	Regular	白	&#xD856;&#xDE76;	△		
+3_008_B41	v9#91	言	啻	Regular	白-1	&#x557B;	△		
+3_008_B41	v9#91	言	𥩶	Regular	白-2	&#xD856;&#xDE76;	△		
 3_008_B42	v9#91	言	誨	Regular		&#x8AA8;	a082b104		
 3_008_B51	v9#91	言	譔	Regular		&#x8B54;	a082b105		
 3_008_B52	v9#91	言	謜	Regular		&#x8B1C;	a082b106		

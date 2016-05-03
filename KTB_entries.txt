@@ -13544,7 +13544,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 5_131_A22	v21#315	多	𨐔	Regular		&#xD861;&#xDC14;	c004b095		
 5_131_A31	v21#315	多	𡖭	Regular		&#xD845;&#xDDAD;	c004b101		掲出字：白藤作𡖭、宮澤・呂作𡖔。據白藤作此𡖭字。有埋字B。
 5_131_A31	v21#315	多	𡖔	Regular	宮	&#xD845;&#xDD94;	c004b101		
-5_131_A31	v21#315	多	𡖔	Embedded_clerical		&#xD845;&#xDD94;	c004b101		埋字B。掲出字：原作𡖭β。呂作zihai-065954(似「𢑽」字）。
+5_131_A311	v21#315	多	𡖔	Embedded_clerical		&#xD845;&#xDD94;	c004b101		埋字B。掲出字：原作𡖭β。呂作zihai-065954(似「𢑽」字）。
 5_131_A32	v21#315	多	夠	Regular		&#x5920;	c004b102		
 5_131_A41	v21#315	多	𡖓	Regular		&#xD845;&#xDD93;	c004b103		
 5_131_A42	v21#315	多	𡦄	Regular		&#xD846;&#xDD84;	c004b104		
@@ -15150,9 +15150,9 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 6_040_B61	v23#362	𦫳	𦫳	Regular		&#xD85A;&#xDEF3;	c027a031		
 6_040_B62	v23#362	𦫳	𦮃	Regular		&#xD85A;&#xDF83;	c027a032		
 6_041_A11	v23#362	𦫳	芇	Regular		&#x8287;	c027a041		
-6_041_A12	v23#362	𦫳	䓙	Regular	白	&#x44D9;	c027a042		
-6_041_A12	v23#362	𦫳	𦹬	Regular		&#xD85B;&#xDE6C;	c027a042		掲出字：宮澤作䔪、別字。白藤作𦴂、別字。
-6_041_A12	v23#362	𦫳	𦴂	Regular	白	&#xD85B;&#xDD02;	c027a042		
+6_041_A12	v23#362	𦫳	𦹬	Regular		&#xD85B;&#xDE6C;	c027a042		掲出字：宮澤作䔪、白藤作䓙・𦴂。呂作𦹬。
+6_041_A12	v23#362	𦫳	䓙	Regular	白-1	&#x44D9;	c027a042		
+6_041_A12	v23#362	𦫳	𦴂	Regular	白-2	&#xD85B;&#xDD02;	c027a042		
 6_041_A21	v23#363	萈	萈	Regular		&#x8408;	c027a051		
 6_041_A31	v23#364	犬	犬	Regular		&#x72AC;	c027a061		鈷：衍字、有抹消符。
 6_041_A32	v23#364	犬	狗	Regular		&#x72D7;	c027a062		
@@ -15240,7 +15240,6 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 6_044_A31	v23#364	犬	獲	Regular		&#x7372;	c028a021		
 6_044_A32	v23#364	犬	獻	Regular		&#x737B;	c028a022		
 6_044_A41	v23#364	犬	𤜵	Regular		&#xD851;&#xDF35;	c028a023		掲出字：原作𤜵。宮澤同作。
-6_044_A41	v23#364	犬	𤜵	Regular		&#xD87E;&#xDD26;	c028a023		掲出字：原作𤜵。宮澤同作。
 6_044_A42	v23#364	犬	獟	Regular		&#x735F;	c028a031		
 6_044_A51	v23#364	犬	狾	Regular		&#x72FE;	c028a032		
 6_044_A52	v23#364	犬	𤝼	Regular		&#xD851;&#xDF7C;	c028a033		
@@ -16438,7 +16437,6 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 6_089_A52	v25#401	虫	蜱	Regular		&#x8731;	c042b085		
 6_089_A61	v25#401	虫	螵	Regular		&#x87B5;	c042b084		
 6_089_A62	v25#401	虫	⿰卑虫	Regular		&#x2FF0;&#x5351;&#x866B;	△		掲出字：呂作𧌠。
-6_089_B11	v25#401	虫	蛢	Regular		&#xD87E;&#xDDBA;	c042b094		
 6_089_B11	v25#401	虫	蛢	Regular		&#x86E2;	c042b094		掲出字：白藤作蛢。
 6_089_B12	v25#401	虫	蟥	Regular		&#x87E5;	c042b095		□(𧑐)也：據《校釋》。
 6_089_B21	v25#401	虫	𧑐	Regular		&#xD85D;&#xDC50;	c042b096		
@@ -17067,7 +17065,6 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 6_112_B61	v26#415	至	至	Regular		&#x81F3;	c050b071		胵作：字体注。
 6_112_B62	v26#415	至	𦤵	Regular	白	&#xD85A;&#xDD35;	c050b072		
 6_112_B62	v26#415	至	𡉰	Regular		&#xD844;&#xDE70;	c050b072		掲出字：原作⿱又王。
-6_112_B62	v26#415	至	𡊏	Regular		&#xD844;&#xDE8F;	c050b072		
 6_113_A11	v26#415	至	到	Regular		&#x5230;	c050b073		都：原作⿰者刂。
 6_113_A12	v26#415	至	臻	Regular		&#x81FB;	c050b074		
 6_113_A21	v26#415	至	𦥊	Regular		&#xD85A;&#xDD4A;	c050b083		
@@ -17532,10 +17529,10 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 6_130_A12	v27#425	糸	䊵	Regular		&#x42B5;	c056a091	Y27100146-1	
 6_130_A21	v27#425	糸	終	Regular		&#x7D42;	c056a093	Y27100146-2	
 6_130_A22	v27#425	糸	𣧩	Regular		&#xD84E;&#xDDE9;	△	Y27100152-1	
-6_130_A31	v27#425	糸	𤽘	Regular		&#xD853;&#xDF58;	c056a094	Y27100153-1	
+6_130_A31	v27#425	糸	𤽘	Regular		&#xD853;&#xDF58;	c056a094	Y27100153-1	掲出字：白藤・呂作𤽬、宮澤作𠂂。
 6_130_A31	v27#425	糸	𠂂	Regular	宮	&#xD840;&#xDC82;	c056a094	Y27100153-1	
 6_130_A31	v27#425	糸	𤽬	Regular	白	&#xD853;&#xDF6C;	c056a094	Y27100153-1	
-6_130_A31	v27#425	糸	𢍐	Regular	白	&#xD848;&#xDF50;	c056a094	Y27100153-1	
+6_130_A311	v27#425	糸	𢍐	Songben-Yupian		&#xD848;&#xDF50;	c056a094	Y27100153-1	宮澤一覧表、此無字。
 6_130_A32	v27#425	糸	䌖	Regular		&#x4316;	c056a092	Y27100153-2	
 6_130_A41	v27#425	糸	繒	Regular		&#x7E52;	c056a096	Y27100154-1	
 6_130_A42	v27#425	糸	𦀓	Regular		&#xD858;&#xDC13;	△	Y27100155-1	

@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.3.12
+#	Version: 1.3.13
 #	Date: 25 September 1994
-#	Last update : 2 May 2016
+#	Last update : 3 May 2016
 #
 #	Copyright (c) 1994-2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -132,7 +132,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_017_A631	v1#3	示	柴	Embedded_clerical		&#x67F4;	▽		埋字A。
 1_017_A64	v1#3	示	𥚨	Embedded_clerical		&#xD855;&#xDEA8;	a006b033		埋字B。
 1_017_B11	v1#3	示	祖	Regular_seal		&#x7956;	a006b041		
-1_017_B12	v1#3	示	祊	Regular_seal		&#x794A;	a006b043		有埋字B二字。𥛱、[上文]。𥛻、[上文]。
+1_017_B12	v1#3	示	祊	Regular_seal		&#x794A;	a006b043		有埋字B二字。
 1_017_B13	v1#3	示	𥛱	Embedded_clerical		&#xD855;&#xDEF1;	a006b042		埋字B。
 1_017_B14	v1#3	示	𥛻	Embedded_clerical		&#xD855;&#xDEFB;	△		埋字B。
 1_017_B14	v1#3	示	𥚧	Regular	白	&#xD855;&#xDEA7;	△		
@@ -3172,7 +3172,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_022_A52	v5#60	齒	齒	Regular		&#x9F52;	a054a101		
 2_022_A521	v5#60	齒	𠚒	omitted		&#xD841;&#xDE92;	a054b011		
 2_022_A522	v5#60	齒	𠔒	Songben-Yupian		&#xD841;&#xDD12;	a054b012		
-2_022_A61	v5#60	齒	齓	Regular		&#x9F53;	a054b013		八女、原作安。
+2_022_A61	v5#60	齒	齓	Regular		&#x9F53;	a054b013		八女：原作安。
 2_022_A61	v5#60	齒	齔	Regular	宮	&#x9F54;	a054b013		
 2_022_A62	v5#60	齒	齗	Regular		&#x9F57;	a054b021		
 2_022_B11	v5#60	齒	䶦	Regular		&#x4DA6;	a054b022		
@@ -3774,7 +3774,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_044_A12	v6#67	手	挮	Regular		&#x632E;	a061b063		
 2_044_A21	v6#67	手	捳	Regular		&#x6373;	a061b064		抨：呂作捽。
 2_044_A22	v6#67	手	𢴲	Regular		&#xD84B;&#xDD32;	a061b065		
-2_044_A31	v6#67	手	捆	Regular		&#x6346;	a061b072		兖、原作■。
+2_044_A31	v6#67	手	捆	Regular		&#x6346;	a061b072		兖：原作■。
 2_044_A32	v6#67	手	搌	Regular		&#x640C;	a061b071		
 2_044_A41	v6#67	手	𢵈	Regular		&#xD84B;&#xDD48;	a061b066		
 2_044_A42	v6#67	手	摸	Regular		&#x6478;	a061b061		
@@ -4005,7 +4005,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_052_A32	v6#76	又	取	Regular		&#x53D6;	a065a054		
 2_052_A41	v6#76	又	𠬛	Regular		&#xD842;&#xDF1B;	a065a061		
 2_052_A411	v6#76	又	㕛	Songben-Yupian		&#x355B;	a065a103		
-2_052_A42	v6#76	又	友	Regular		&#x53CB;	a065a104		友、原作支。
+2_052_A42	v6#76	又	友	Regular		&#x53CB;	a065a104		友：原作支。
 2_052_A421	v6#76	又	𠬺	omitted		&#xD842;&#xDF3A;	a065b011		
 2_052_A422	v6#76	又	𦐮	omitted		&#xD859;&#xDC2E;	a065b012		
 2_052_A51	v6#76	又	彗	Regular		&#x5F57;	a065b013		
@@ -4047,7 +4047,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_053_B32	v7#77	足	蹵	Regular		&#x8E75;	a066a042		
 2_053_B321	v7#77	足	蹴	Songben-Yupian		&#x8E74;	a066a043		
 2_053_B41	v7#77	足	蹋	Regular		&#x8E4B;	a066a044		
-2_053_B42	v7#77	足	躡	Regular		&#x8EA1;	a065b105		蹈、原作足臽。
+2_053_B42	v7#77	足	躡	Regular		&#x8EA1;	a065b105		蹈：原作足臽。
 2_053_B51	v7#77	足	跨	Regular		&#x8DE8;	a068b025		
 2_053_B52	v7#77	足	蹈	Regular		&#x8E48;	a066a045		
 2_053_B61	v7#77	足	躔	Regular		&#x8E94;	a066a051		
@@ -4201,10 +4201,10 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_059_A32	v7#77	足	蹱	Regular		&#x8E71;	a067b026		
 2_059_A41	v7#77	足	跉	Regular		&#x8DC9;	a067b031		
 2_059_A42	v7#77	足	䟓	Regular		&#x47D3;	a067b032		
-2_059_A51	v7#77	足	蹖	Regular		&#x8E56;	a067b033		庸、原作■。
+2_059_A51	v7#77	足	蹖	Regular		&#x8E56;	a067b033		庸：原作■。
 2_059_A511	v7#77	足	䠐	Songben-Yupian		&#x4810;	a067b034		
 2_059_A52	v7#77	足	𨂁	Regular		&#xD860;&#xDC81;	a067b035		
-2_059_A61	v7#77	足	踱	Regular		&#x8E31;	a067b041		却、原作■。
+2_059_A61	v7#77	足	踱	Regular		&#x8E31;	a067b041		却：原作■。
 2_059_A62	v7#77	足	跮	Regular		&#x8DEE;	a067b036		
 2_059_B11	v7#77	足	蹔	Regular		&#x8E54;	a067b042		
 2_059_B12	v7#77	足	蹂	Regular		&#x8E42;	a067b043		
@@ -4227,7 +4227,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_060_A32	v7#77	足	𨄔	Regular		&#xD860;&#xDD14;	a067b073		
 2_060_A41	v7#77	足	𨁈	Regular		&#xD860;&#xDC48;	a067b074		
 2_060_A42	v7#77	足	蹬	Regular		&#x8E6C;	a068b031		呂云、“仰，登山路”義未詳。《新撰字鏡》「仰也」。説文解字「隥　仰也」。
-2_060_A51	v7#77	足	𨂰	Regular		&#xD860;&#xDCB0;	a067b075		渡、原作■。
+2_060_A51	v7#77	足	𨂰	Regular		&#xD860;&#xDCB0;	a067b075		渡：原作■。
 2_060_A52	v7#77	足	蹶	Regular		&#x8E76;	△(a066a091)		宮澤無△。
 2_060_A61	v7#77	足	䟾	Regular		&#x47FE;	a067b081		
 2_060_A62	v7#77	足	蹸	Regular		&#x8E78;	a067b082		
@@ -4415,7 +4415,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_067_A11	v7#82	肉	䏽	Regular		&#x43FD;	a071a081		
 2_067_A12	v7#82	肉	膹	Regular		&#x81B9;	a071a082		
 2_067_A21	v7#82	肉	臇	Regular		&#x81C7;	a071a083		
-2_067_A22	v7#82	肉	胵	Regular		&#x80F5;	a071a042		脊、原作⿱本肉。
+2_067_A22	v7#82	肉	胵	Regular		&#x80F5;	a071a042		脊：原作⿱本肉。
 2_067_A31	v7#82	肉	胾	Regular		&#x80FE;	a071b012		
 2_067_A32	v7#82	肉	䐑	Regular		&#x4411;	a071b013		
 2_067_A41	v7#82	肉	腌	Regular		&#x814C;	a071b014		
@@ -4768,7 +4768,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_080_A11	v7#86	呂	躬	Regular	白	&#x8EAC;	a075a082		
 2_080_A12	v7#87	㝱	㝱	Regular		&#x3771;	a075a101		
 2_080_A12	v7#87	㝱	𡬌	Regular	白	&#xD846;&#xDF0C;	a075a101		
-2_080_A21	v7#87	㝱	㝲	Regular		&#x3772;	a075a102		稟、原作⿱㐭米?。
+2_080_A21	v7#87	㝱	㝲	Regular		&#x3772;	a075a102		稟：原作⿱㐭米?。
 2_080_A211	v7#87	㝱	寢	Songben-Yupian		&#x5BE2;	a075b011		
 2_080_A212	v7#87	㝱	寑	Songben-Yupian		&#x5BD1;	a075b012		
 2_080_A22	v7#87	㝱	寐	Regular		&#x5BD0;	a075b013		
@@ -4935,7 +4935,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_085_B31	v8#88	心	憪	Regular		&#x61AA;	a077b051		
 2_085_B32	v8#88	心	㥒	Regular		&#x3952;	a077b052		
 2_085_B41	v8#88	心	愉	Regular		&#x6109;	a077b053		
-2_085_B42	v8#88	心	懱	Regular		&#x61F1;	a077b054		小、原作⿱小一。
+2_085_B42	v8#88	心	懱	Regular		&#x61F1;	a077b054		小：原作⿱小一。
 2_085_B51	v8#88	心	愚	Regular		&#x611A;	a081b055		
 2_085_B52	v8#88	心	戇	Regular		&#x6207;	a082a011		
 2_085_B61	v8#88	心	憃	Regular		&#x6183;	a081b086		
@@ -6079,7 +6079,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 3_034_B62	v9#113	食	饖	Regular		&#x9956;	▽	Y09203304-4	
 3_035_A11	v9#113	食	饐	Regular		&#x9950;	a091b065	Y09203305-1	
 3_035_A111	v9#113	食	䬥	omitted		&#x4B25;	a091b066	Y09203305-2	
-3_035_A12	v9#113	食	餲	Regular		&#x9932;	a091b067	Y09203306-1	瘞、原作⿸广⿱木土。
+3_035_A12	v9#113	食	餲	Regular		&#x9932;	a091b067	Y09203306-1	瘞：原作⿸广⿱木土。
 3_035_A21	v9#113	食	饑	Regular		&#x9951;	a091b071	Y09203306-2	
 3_035_A22	v9#113	食	饉	Regular		&#x9949;	a091b072	Y09203308-1	
 3_035_A31	v9#113	食	𩚚	Regular		&#xD865;&#xDE9A;	a092a093	Y09203309-1	
@@ -9342,7 +9342,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 4_062_B32	v14#166	竹	笘	Regular		&#x7B18;	b036a031		
 4_062_B401	v14#166	竹	簻	Songben-Yupian		&#x7C3B;	b036a032		
 4_062_B41	v14#166	竹	𥬸	Regular		&#xD856;&#xDF38;	b036a033		
-4_062_B42	v14#166	竹	笪	Regular		&#x7B2A;	b036a034		担、原作柦。
+4_062_B42	v14#166	竹	笪	Regular		&#x7B2A;	b036a034		担：原作柦。
 4_062_B51	v14#166	竹	笞	Regular		&#x7B1E;	b036a041		
 4_062_B52	v14#166	竹	籤	Regular		&#x7C64;	b036a042		
 4_062_B601	v14#166	竹	𥷽	Songben-Yupian		&#xD857;&#xDDFD;	b036a043		
@@ -9402,7 +9402,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 4_064_B52	v14#166	竹	䉈	Regular		&#x4248;	b036b086		
 4_064_B61	v14#166	竹	篾	Regular		&#x7BFE;	b038a102		
 4_064_B62	v14#166	竹	䉉	Regular		&#x4249;	b038a103		
-4_065_A11	v14#166	竹	𥶘	Regular		&#xD857;&#xDD98;	b038a101		笘、原作竹占二字。
+4_065_A11	v14#166	竹	𥶘	Regular		&#xD857;&#xDD98;	b038a101		笘：原作竹占二字。
 4_065_A12	v14#166	竹	𥶾	Regular		&#xD857;&#xDDBE;	b038a104		
 4_065_A21	v14#166	竹	䈝	Regular		&#x421D;	b037b052		
 4_065_A22	v14#166	竹	𥲈	Regular		&#xD857;&#xDC88;	b038a105		
@@ -9470,7 +9470,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 4_067_A52	v14#166	竹	筬	Regular		&#x7B6C;	b037a025		
 4_067_A61	v14#166	竹	䈏	Regular		&#x420F;	b037a031		
 4_067_A62	v14#166	竹	簈	Regular		&#x7C08;	b037a032		簹：原作⿱竹富。
-4_067_B12	v14#166	竹	簹	Regular		&#x7C39;	b037a034		簹、原作⿱竹富。
+4_067_B12	v14#166	竹	簹	Regular		&#x7C39;	b037a034		簹：原作⿱竹富。
 4_067_B11	v14#166	竹	篂	Regular		&#x7BC2;	b037a033		掲出字：原作篁。宮澤同。呂作篂。
 4_067_B11	v14#166	竹	篁	Regular	宮	&#x7BC1;			
 4_067_B121	v14#166	竹	篔	Songben-Yupian		&#x7BD4;	b037a035		
@@ -9626,7 +9626,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 4_072_B61	v14#185	麻	麾	Regular		&#x9EBE;	b041a031		
 4_072_B62	v14#186	尗	尗	Regular		&#x5C17;	b041a041		
 4_072_B621	v14#186	尗	叔	Songben-Yupian		&#x53D4;	b041a042		
-4_073_A11	v14#186	尗	𢻃	Regular		&#xD84B;&#xDEC3;	b041a043		寘、原作⿱宀⿳卜日木。
+4_073_A11	v14#186	尗	𢻃	Regular		&#xD84B;&#xDEC3;	b041a043		寘：原作⿱宀⿳卜日木。
 4_073_A12	v14#187	韭	韭	Regular		&#x97ED;	b041a051		茷：呂作茂。
 4_073_A21	v14#187	韭	䪡	Regular		&#x4AA1;	b041a052		墜：呂作𩐌。
 4_073_A21	v14#187	韭	𩐋	Regular	宮	&#xD865;&#xDC0B;	b041a052		
@@ -9880,7 +9880,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 4_082_A22	v15#195	禾	程	Regular		&#x7A0B;	b043b066		
 4_082_A31	v15#195	禾	稯	Regular		&#x7A2F;	b043b081		
 4_082_A312	v15#195	禾	𥞝	omitted		&#xD855;&#xDF9D;	b043b082		
-4_082_A32	v15#195	禾	䄷	Regular		&#x4137;	b043b083		䄷、原作秙。
+4_082_A32	v15#195	禾	䄷	Regular		&#x4137;	b043b083		䄷：原作秙。
 4_082_A41	v15#195	禾	秅	Regular		&#x79C5;	b043b084		
 4_082_A42	v15#195	禾	稘	Regular		&#x7A18;	b043b092		
 4_082_A51	v15#195	禾	種	Regular		&#x7A2E;	b043b093		⿰豆寸：呂作尌。
@@ -9909,7 +9909,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 4_083_A22	v15#195	禾	𥟚	Regular		&#xD855;&#xDFDA;	b044a024		
 4_083_A22	v15#195	禾	𥠴	Regular	宮	&#xD856;&#xDC34;	b044a024		掲出字：呂同。
 4_083_A31	v15#195	禾	䅾	Regular		&#x417E;	b044a025		
-4_083_A32	v15#195	禾	秪	Regular		&#x79EA;	b044a026		字体注意。再、原作冉。
+4_083_A32	v15#195	禾	秪	Regular		&#x79EA;	b044a026		再：原作冉。
 4_083_A41	v15#195	禾	秈	Regular		&#x79C8;	b044a031		
 4_083_A42	v15#195	禾	秞	Regular		&#x79DE;	b044a032		
 4_083_A51	v15#195	禾	穚	Regular		&#x7A5A;	b044a033		
@@ -9972,7 +9972,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 5_003_A52	v15#198	皀	即	Regular		&#x5373;	b045b053		
 5_003_A61	v15#199	鬯	鬯	Regular		&#x9B2F;	b045b071		
 5_003_B11	v15#199	鬯	𩰣	Regular		&#xD867;&#xDC23;	▽		
-5_003_B12	v15#199	鬯	𩰤	Regular		&#xD867;&#xDC24;	b045b082		氣、原作⿹⺄米。
+5_003_B12	v15#199	鬯	𩰤	Regular		&#xD867;&#xDC24;	b045b082		氣：原作⿹⺄米。
 5_003_B21	v15#199	鬯	𩰢	Regular		&#xD867;&#xDC22;	b045b074		
 5_003_B22	v15#199	鬯	𩰥	Regular		&#xD867;&#xDC25;	b045b081		
 5_003_B31	v15#199	鬯	𩰪	Regular		&#xD867;&#xDC2A;	b045b072		
@@ -10795,7 +10795,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 5_033_A62	v17#255	㫃	旗	Regular		&#x65D7;	b055b062		
 5_033_B11	v17#255	㫃	旐	Regular		&#x65D0;	b055b072		
 5_033_B12	v17#255	㫃	旆	Regular		&#x65C6;	b055b073		
-5_033_B21	v17#255	㫃	旌	Regular		&#x65CC;	b055b074		旌、原作⿰方圭。
+5_033_B21	v17#255	㫃	旌	Regular		&#x65CC;	b055b074		旌：原作⿰方圭。
 5_033_B211	v17#255	㫃	旍	Songben-Yupian		&#x65CD;	b055b081		
 5_033_B22	v17#255	㫃	旟	Regular		&#x65DF;	b055b082		
 5_033_B31	v17#255	㫃	𣄠	Regular		&#xD84C;&#xDD20;	b056a033		
@@ -13810,7 +13810,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 5_140_A12	v21#323	火	㸂	Embedded_clerical		&#x3E02;	c007b032		埋字B。
 5_140_A121	v21#323	火	𤓫	Songben-Yupian		&#xD851;&#xDCEB;	c007b033		
 5_140_A13	v21#323	火	熂	Regular		&#x7182;	c007b034		
-5_140_A21	v21#323	火	㷅	Regular		&#x3DC5;	c007b036		有埋字B。修正（焣→㷅）
+5_140_A21	v21#323	火	㷅	Regular		&#x3DC5;	c007b036		有埋字B。
 5_140_A22	v21#323	火	𤌉	Embedded_clerical		&#xD850;&#xDF09;	c007b041		埋字B。
 5_140_A22	v21#323	火	芻	Regular	白	&#x82BB;	c007b041		
 5_140_A221	v21#323	火	炒	Songben-Yupian		&#x7092;	c007b042		

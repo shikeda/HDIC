@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.3.13
+#	Version: 1.3.14
 #	Date: 25 September 1994
-#	Last update : 3 May 2016
+#	Last update : 4 May 2016
 #
 #	Copyright (c) 1994-2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -517,7 +517,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_029_A32	v1#8	玨	瑟	Regular_seal		&#x745F;	△		有埋字A三字。G03尾
 1_029_A33	v1#8	玨	玨	Regular	白	&#x73A8;	a011b081		
 1_029_A33	v1#8	玨	珏	Embedded_clerical		&#x73CF;	a011b081		埋字A。原作𤤴、宋本《玉篇》同。宮澤作珏、白藤作玨。
-1_029_A34	v1#8	玨	𨌥	Embedded_clerical		&#xD860;&#xDF25;	a011b082		埋字A。画像要修正2016.4.28李媛。
+1_029_A34	v1#8	玨	𨌥	Embedded_clerical		&#xD860;&#xDF25;	a011b082		埋字A。
 1_029_A35	v1#8	玨	班	Embedded_clerical		&#x73ED;			埋字A。
 1_029_A51	v2#9	土	地	Regular_seal		&#x5730;	a012a064		有埋字A・B。G04首。
 1_029_A52	v2#9	土	墬	Embedded_clerical		&#x58AC;	a012a081		埋字B。
@@ -8006,83 +8006,83 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 4_018_A61	v12#158	木	榷	Regular	宮	&#x69B7;	b018b072		
 4_018_A62	v12#158	木	橋	Regular		&#x6A4B;	b018b081		
 4_018_B11	v12#158	木	梁	Regular		&#x6881;	b022a062		G41尾。
-4_018_B11U	v12#158	木	枼	omitted		&#x67BC;	b019a044		
-4_018_B11zu	v12#158	木	椈	omitted		&#x6908;	b019b011		
-4_018_B11S	v12#158	木	㮯	omitted		&#x3BAF;	b019a042		
-4_018_B11zs	v12#158	木	櫬	omitted		&#x6AEC;	b019a103		
-4_018_B11A	v12#158	木	㰎	omitted		&#x3C0E;	b018b102		
-4_018_B11za	v12#158	木	杻	Songben-Yupian		&#x677B;	b019a063		
-4_018_B11zb	v12#158	木	杽	omitted		&#x677D;	b019a064		
-4_018_B11B	v12#158	木	楟	Songben-Yupian		&#x695F;	b018b103		
-4_018_B111	v12#158	木	𣸑	Songben-Yupian		&#xD84F;&#xDE11;	b022a063		
-4_018_B112	v12#158	木	𣔱	omitted		&#xD84D;&#xDD31;	b018b082		
-4_018_B113	v12#158	木	㮴	omitted		&#x3BB4;	b018b083		
-4_018_B114	v12#158	木	橃	Regular		&#x6A43;	b018b084		
-4_018_B115	v12#158	木	楫	omitted		&#x696B;	b018b091		
-4_018_B116	v12#158	木	欐	omitted		&#x6B10;	b018b092		
-4_018_B117	v12#158	木	欚	omitted		&#x6B1A;	b018b093		
-4_018_B118	v12#158	木	横	omitted		&#x6A2A;	b018b094		
-4_018_B119	v12#158	木	梜	omitted		&#x689C;	b018b101		
-4_018_B11zc	v12#158	木	械	omitted		&#x68B0;	b019a065		
-4_018_B11C	v12#158	木	槎	omitted		&#x69CE;	b018b104		
-4_018_B11zd	v12#158	木	桎	omitted		&#x684E;	b019a066		
-4_018_B11D	v12#158	木	椓	omitted		&#x6913;	b019a011		
-4_018_B11E	v12#158	木	柧	omitted		&#x67E7;	b019a012		
-4_018_B11ze	v12#158	木	梏	omitted		&#x688F;	b019a071		
-4_018_B11F	v12#158	木	棱	omitted		&#x68F1;	b019a013		
-4_018_B11zf	v12#158	木	榬	Songben-Yupian		&#x69AC;	b019a072		
-4_018_B11G	v12#158	木	枰	omitted		&#x67B0;	b019a014		
-4_018_B11zg	v12#158	木	校	omitted		&#x6821;	b019a073		
-4_018_B11H	v12#158	木	蘖	omitted		&#x8616;	b019a021		
-4_018_B11zh	v12#158	木	采	omitted		&#x91C7;	b019a074		
-4_018_B11zi	v12#158	木	杮	omitted		&#x676E;	b019a081		
-4_018_B11I	v12#158	木	𣡌	omitted		&#xD84E;&#xDC4C;	b019a022		
-4_018_B11J	v12#158	木	𣎴	omitted		&#xD84C;&#xDFB4;	b019a023		
-4_018_B11zj	v12#158	木	櫪	omitted		&#x6AEA;	b019a082		
-4_018_B11K	v12#158	木	㮆	omitted		&#x3B86;	b019a024		
-4_018_B11zk	v12#158	木	㯕	omitted		&#x3BD5;	b019a083		宋本《玉篇》
-4_018_B11L	v12#158	木	枿	Songben-Yupian		&#x67BF;	b019a025		
-4_018_B11zl	v12#158	木	柛	Songben-Yupian		&#x67DB;	b019a084		
-4_018_B11M	v12#158	木	柮	omitted		&#x67EE;	b019a026		
-4_018_B11zm	v12#158	木	槍	omitted		&#x69CD;	b019a085		
-4_018_B11zn	v12#158	木	櫳	omitted		&#x6AF3;	b019a091		
-4_018_B11N	v12#158	木	杌	Songben-Yupian		&#x674C;	b019a032		
-4_018_B11zo	v12#158	木	柙	omitted		&#x67D9;	b019a092		
-4_018_B11Ｏ	v12#158	木	檮	omitted		&#x6AAE;	b019a033		
-4_018_B11P	v12#158	木	析	omitted		&#x6790;	b019a034		
-4_018_B11zp	v12#158	木	檻	omitted		&#x6ABB;	b019a093		
-4_018_B11Q	v12#158	木	棷	omitted		&#x68F7;	b019a035		
-4_018_B11zq	v12#158	木	棺	omitted		&#x68FA;	b019a101		
-4_018_B11R	v12#158	木	梡	omitted		&#x68A1;	b019a041		
-4_018_B11zr	v12#158	木	棲	Songben-Yupian		&#x68F2;	b019a102		
-4_018_B11T	v12#158	木	楪	omitted		&#x696A;	b019a043		
-4_018_B11zt	v12#158	木	槥	omitted		&#x69E5;	b019a104		
-4_018_B11zv	v12#158	木	椁	omitted		&#x6901;	b019b012		
-4_018_B11V	v12#158	木	楄	omitted		&#x6944;	b019a051		
-4_018_B11zw2	v12#158	木	楬	omitted		&#x696C;	b019b014		
-4_018_B11W	v12#158	木	楅	omitted		&#x6945;	b019a052		
-4_018_B11zw	v12#158	木	槨	omitted		&#x69E8;	b019b013		
-4_018_B11W2	v12#158	木	㮓	omitted		&#x3B93;	b019a053		
-4_018_B11Y	v12#158	木	樔	omitted		&#x6A14;	b019a061		
-4_018_B11zy	v12#158	木	櫫	Songben-Yupian		&#x6AEB;	b019b021		
-4_018_B11Z	v12#158	木	休	omitted		&#x4F11;	b019a062		
-4_018_B11zz	v12#158	木	㮪	omitted		&#x3BAA;	b019b022		
-4_018_B12A	v12#158	木	櫔	Songben-Yupian		&#x6AD4;	b019b041		
-4_018_B12B	v12#158	木	栱	omitted		&#x6831;	b019b042		
-4_018_B121	v12#158	木	槳	Songben-Yupian		&#x69F3;	b019b023		
-4_018_B122	v12#158	木	櫂	Songben-Yupian		&#x6AC2;	b019b024		
-4_018_B123	v12#158	木	棹	Songben-Yupian		&#x68F9;	b019b025		
-4_018_B124	v12#158	木	槄	Songben-Yupian		&#x69C4;	b019b026		
-4_018_B125	v12#158	木	椒	Songben-Yupian		&#x6912;	b019b031		
-4_018_B126	v12#158	木	𣐹	Songben-Yupian		&#xD84D;&#xDC39;	b019b032		
-4_018_B127	v12#158	木	檓	omitted		&#x6A93;	b019b033		
-4_018_B128	v12#158	木	橭	omitted		&#x6A6D;	b019b034		
-4_018_B129	v12#158	木	櫰	omitted		&#x6AF0;	b019b035		
-4_018_B12C	v12#158	木	榭	Songben-Yupian		&#x69AD;	b019b043		
-4_018_B12D	v12#158	木	橜	omitted		&#x6A5C;	b019b044		
-4_018_B12E	v12#158	木	椹	Songben-Yupian		&#x6939;	b019b045		
-4_018_B12F	v12#158	木	橧	omitted		&#x6A67;	b019b051		
-4_018_B12G	v12#158	木	棬	Songben-Yupian		&#x68EC;	b019b052		
+4_018_B11_01	v12#158	木	𣸑	Songben-Yupian		&#x67BC;	b019a044		
+4_018_B11_02	v12#158	木	𣔱	omitted		&#x6908;	b019b011		
+4_018_B11_03	v12#158	木	㮴	omitted		&#x3BAF;	b019a042		
+4_018_B11_04	v12#158	木	橃	Regular		&#x6AEC;	b019a103		
+4_018_B11_05	v12#158	木	楫	omitted		&#x3C0E;	b018b102		
+4_018_B11_06	v12#158	木	欐	omitted		&#x677B;	b019a063		
+4_018_B11_07	v12#158	木	欚	omitted		&#x677D;	b019a064		
+4_018_B11_08	v12#158	木	横	omitted		&#x695F;	b018b103		
+4_018_B11_09	v12#158	木	梜	omitted		&#xD84F;&#xDE11;	b022a063		
+4_018_B11_10	v12#158	木	㰎	omitted		&#xD84D;&#xDD31;	b018b082		
+4_018_B11_11	v12#158	木	楟	Songben-Yupian		&#x3BB4;	b018b083		
+4_018_B11_12	v12#158	木	槎	omitted		&#x6A43;	b018b084		
+4_018_B11_13	v12#158	木	椓	omitted		&#x696B;	b018b091		
+4_018_B11_14	v12#158	木	柧	omitted		&#x6B10;	b018b092		
+4_018_B11_15	v12#158	木	棱	omitted		&#x6B1A;	b018b093		
+4_018_B11_16	v12#158	木	枰	omitted		&#x6A2A;	b018b094		
+4_018_B11_17	v12#158	木	蘖	omitted		&#x689C;	b018b101		
+4_018_B11_18	v12#158	木	𣡌	omitted		&#x68B0;	b019a065		
+4_018_B11_19	v12#158	木	𣎴	omitted		&#x69CE;	b018b104		
+4_018_B11_20	v12#158	木	㮆	omitted		&#x684E;	b019a066		
+4_018_B11_21	v12#158	木	枿	Songben-Yupian		&#x6913;	b019a011		
+4_018_B11_22	v12#158	木	柮	omitted		&#x67E7;	b019a012		
+4_018_B11_23	v12#158	木	杌	Songben-Yupian		&#x688F;	b019a071		
+4_018_B11_24	v12#158	木	檮	omitted		&#x68F1;	b019a013		
+4_018_B11_25	v12#158	木	析	omitted		&#x69AC;	b019a072		
+4_018_B11_26	v12#158	木	棷	omitted		&#x67B0;	b019a014		
+4_018_B11_27	v12#158	木	梡	omitted		&#x6821;	b019a073		
+4_018_B11_28	v12#158	木	㮯	omitted		&#x8616;	b019a021		
+4_018_B11_29	v12#158	木	楪	omitted		&#x91C7;	b019a074		
+4_018_B11_30	v12#158	木	枼	omitted		&#x676E;	b019a081		
+4_018_B11_31	v12#158	木	楄	omitted		&#xD84E;&#xDC4C;	b019a022		
+4_018_B11_32	v12#158	木	楅	omitted		&#xD84C;&#xDFB4;	b019a023		
+4_018_B11_33	v12#158	木	㮓	omitted		&#x6AEA;	b019a082		
+4_018_B11_34	v12#158	木	樔	omitted		&#x3B86;	b019a024		
+4_018_B11_35	v12#158	木	休	omitted		&#x3BD5;	b019a083		
+4_018_B11_36	v12#158	木	杻	Songben-Yupian		&#x67BF;	b019a025		
+4_018_B11_37	v12#158	木	杽	omitted		&#x67DB;	b019a084		
+4_018_B11_38	v12#158	木	械	omitted		&#x67EE;	b019a026		
+4_018_B11_39	v12#158	木	桎	omitted		&#x69CD;	b019a085		
+4_018_B11_40	v12#158	木	梏	omitted		&#x6AF3;	b019a091		
+4_018_B11_41	v12#158	木	榬	Songben-Yupian		&#x674C;	b019a032		
+4_018_B11_42	v12#158	木	校	omitted		&#x67D9;	b019a092		
+4_018_B11_43	v12#158	木	采	omitted		&#x6AAE;	b019a033		
+4_018_B11_44	v12#158	木	杮	omitted		&#x6790;	b019a034		
+4_018_B11_45	v12#158	木	櫪	omitted		&#x6ABB;	b019a093		
+4_018_B11_46	v12#158	木	㯕	omitted		&#x68F7;	b019a035		
+4_018_B11_47	v12#158	木	柛	Songben-Yupian		&#x68FA;	b019a101		
+4_018_B11_48	v12#158	木	槍	omitted		&#x68A1;	b019a041		
+4_018_B11_49	v12#158	木	櫳	omitted		&#x68F2;	b019a102		
+4_018_B11_50	v12#158	木	柙	omitted		&#x696A;	b019a043		
+4_018_B11_51	v12#158	木	檻	omitted		&#x69E5;	b019a104		
+4_018_B11_52	v12#158	木	棺	omitted		&#x6901;	b019b012		
+4_018_B11_53	v12#158	木	棲	Songben-Yupian		&#x6944;	b019a051		
+4_018_B11_54	v12#158	木	櫬	omitted		&#x696C;	b019b014		
+4_018_B11_55	v12#158	木	槥	omitted		&#x6945;	b019a052		
+4_018_B11_56	v12#158	木	椈	omitted		&#x69E8;	b019b013		
+4_018_B11_57	v12#158	木	椁	omitted		&#x3B93;	b019a053		
+4_018_B11_58	v12#158	木	槨	omitted		&#x6A14;	b019a061		
+4_018_B11_59	v12#158	木	楬	omitted		&#x6AEB;	b019b021		
+4_018_B11_60	v12#158	木	櫫	Songben-Yupian		&#x4F11;	b019a062		
+4_018_B11_61	v12#158	木	㮪	omitted		&#x3BAA;	b019b022		
+4_018_B11_62	v12#158	木	槳	Songben-Yupian		&#x6AD4;	b019b041		
+4_018_B11_63	v12#158	木	櫂	Songben-Yupian		&#x6831;	b019b042		
+4_018_B11_64	v12#158	木	棹	Songben-Yupian		&#x69F3;	b019b023		
+4_018_B11_65	v12#158	木	槄	Songben-Yupian		&#x6AC2;	b019b024		
+4_018_B11_66	v12#158	木	椒	Songben-Yupian		&#x68F9;	b019b025		
+4_018_B11_67	v12#158	木	𣐹	Songben-Yupian		&#x69C4;	b019b026		
+4_018_B11_68	v12#158	木	檓	omitted		&#x6912;	b019b031		
+4_018_B11_69	v12#158	木	橭	omitted		&#xD84D;&#xDC39;	b019b032		
+4_018_B11_70	v12#158	木	櫰	omitted		&#x6A93;	b019b033		
+4_018_B11_71	v12#158	木	櫔	Songben-Yupian		&#x6A6D;	b019b034		
+4_018_B11_72	v12#158	木	栱	omitted		&#x6AF0;	b019b035		
+4_018_B11_73	v12#158	木	榭	Songben-Yupian		&#x69AD;	b019b043		
+4_018_B11_74	v12#158	木	橜	omitted		&#x6A5C;	b019b044		
+4_018_B11_75	v12#158	木	椹	Songben-Yupian		&#x6939;	b019b045		
+4_018_B11_76	v12#158	木	橧	omitted		&#x6A67;	b019b051		
+4_018_B11_77	v12#158	木	棬	Songben-Yupian		&#x68EC;	b019b052		
 4_018_B31	v12#158	木	㮥	Regular		&#x3BA5;	b019b053		卷第卅二首。G42首。
 4_018_B32	v12#158	木	㯲	Regular		&#x3BF2;	b019b061		
 4_018_B41	v12#158	木	板	Regular		&#x677F;	b019b062		

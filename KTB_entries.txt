@@ -45,8 +45,8 @@
 #	4 Embedded_seal			: 埋字 篆書字体
 #
 #	Group c -- Omitted headword
-#	5 Omitted				: 脱字B 項目全体 脱落
-#	6 Omitted-regular		: 脱字A 隷書掲出字 脱落
+#	5 Omitted				: 脱字 項目全体 脱落
+#	6 Omitted-regular		: 脱字 隷書掲出字 脱落
 #
 #	Group d -- Variant of the Songben Yupian
 #	7 Songben-Yupian		: 宋本《玉篇》増補之異体字

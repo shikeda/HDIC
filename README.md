@@ -30,7 +30,7 @@ Yuanben Yupian quoted fragments in other books
 Daguang Yihui Yupian 大広益会玉篇, Song print 宋本. Chen Pengnian of the Song dynasty 宋・陳彭年, 1013.
 
 #### File
-* SYP.txt (= SonbenYupian.txt)  
+* SYP.txt  
 Date: 20 October 2015  
 初版公開日  
 Ikeda Shoju 池田　証壽, Chair 代表  

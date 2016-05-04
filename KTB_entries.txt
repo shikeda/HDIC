@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.3.16
+#	Version: 1.3.17
 #	Date: 25 September 1994
 #	Last update : 4 May 2016
 #
@@ -2777,7 +2777,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_008_A42	v4#56	耳	聶	Regular		&#x8076;	a047b091		G13尾。
 2_008_A52	v5#57	口	口	Regular		&#x53E3;	a048a081		G14首。
 2_008_A521	v5#57	口	𠙵	Songben-Yupian		&#xD841;&#xDE75;	a048a082		
-2_008_A61	v5#57	口	噣	Omitted-regular_seal		&#x5663;	a048a091		隷書揭出字脱。篆書字形。
+2_008_A61	v5#57	口	噣	Omitted-regular		&#x5663;	a048a091		隷書揭出字脱。篆書字形。
 2_008_A62	v5#57	口	喙	Regular_seal		&#x5599;	a048a093		
 2_008_B11	v5#57	口	㖧	Regular		&#x35A7;	a048a101		掲出字：原作⿱呡曰。
 2_008_B12	v5#57	口	吻	Regular		&#x543B;	a048a094		
@@ -2832,7 +2832,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_010_A52	v5#57	口	嘽	Regular_seal		&#x563D;	a049a033		
 2_010_A61	v5#57	口	咦	Regular_seal		&#x54A6;	a049a041		
 2_010_A62	v5#57	口	呬	Regular_seal		&#x546C;	a049a042		
-2_010_B11	v5#57	口	喘	Omitted-regular_seal		&#x5598;	a049a043		隷書揭出字脱。篆書字形。
+2_010_B11	v5#57	口	喘	Omitted-regular		&#x5598;	a049a043		隷書揭出字脱。篆書字形。
 2_010_B12	v5#57	口	呼	Regular_seal		&#x547C;	a049a044		
 2_010_B21	v5#57	口	吸	Regular		&#x5438;	a049a051		《詩經・大東》：維南有箕、載翕其舌。《広韻》：吸：…、噏：上同。
 2_010_B22	v5#57	口	噓	Regular		&#x5653;	a049a062		
@@ -2896,7 +2896,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_012_B31	v5#57	口	启	Regular_seal		&#x542F;	a049b101		
 2_012_B32	v5#57	口	哯	Regular_seal		&#x54EF;	a049b102		
 2_012_B321	v5#57	口	咞	Songben-Yupian		&#x549E;	a049b103		
-2_012_B41	v5#57	口	右	Omitted-regular_seal		&#x53F3;	a049b104		隷書揭出字脱。篆書字形。反切上字大字。
+2_012_B41	v5#57	口	右	Omitted-regular		&#x53F3;	a049b104		隷書揭出字脱。篆書字形。反切上字大字。
 2_012_B42	v5#57	口	啻	Regular_seal		&#x557B;	a050a012		
 2_012_B51	v5#57	口	吉	Regular_seal		&#x5409;	a050a011		
 2_012_B52	v5#57	口	嚋	Regular_seal		&#x568B;	a050a013		

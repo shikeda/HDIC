@@ -35,7 +35,7 @@ Date: 20 October 2015
 初版公開日  
 Ikeda Shoju 池田　証壽, Chair 代表  
 Li Yuan 李　媛, Person in Charge 担当者    
-Shirasu Hiroyuki 白須　裕之, cooperator 校正協力者 (Songben Yupian Vol.1)
+Shirasu Hiroyuki 白須　裕之, Cooperator 校正協力者 (Songben Yupian Vol.1)
 
 ### Longkan Shoujing 龍龕手鏡
 #### GLS : Gaoliben Longkan Shoujing database

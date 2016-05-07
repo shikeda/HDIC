@@ -14,12 +14,12 @@ Yupian 玉篇, original edition 原本. Gu Yewang of the Liang dynasty 梁・顧
 
 #### Files
 * YYP.txt  
-in preparation.  
+In preparation.  
 Yuanben Yupian fragments of vol.8, 9, 18, 19, 22, 24 and 27.  
 原本玉篇残巻  
 
 * YQF.txt  
-in preparation.  
+In preparation.  
 Yuanben Yupian quoted fragments in other books  
 原本玉篇逸文
 
@@ -45,7 +45,7 @@ Longkan Shoujing 龍龕手鏡, Koryo print 高麗本. monk Xingjun of the Liao D
 
 #### File
 * GLS.txt  
-in preparation.  
+In preparation.  
 
 ------------------------
 
@@ -69,7 +69,7 @@ Shinsen Jikyo 新撰字鏡, Tenji copy 天治本. Buddhist monk Shoju 昌住, c.
 
 #### Files
 * TSJ.txt  
-in preparation.
+In preparation.
 
 ### Zushoryobon Ruiju Myogisho 図書寮本類聚名義抄
 #### ZRM : Zushoryobon Ruiju Myogisho database
@@ -78,7 +78,7 @@ Ruiju Myogisho 類聚名義抄, Zushoryo copy 図書寮本, original edition 原
 
 #### Files
 * ZRM.txt  
-in preparation.
+In preparation.
 
 ### Kanchi’inbon Ruiju Myogisho 観智院本類聚名義抄
 #### KRM : Kanchi’inbon Ruiju Myogisho database

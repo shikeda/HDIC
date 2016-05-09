@@ -48,7 +48,7 @@ Longkan Shoujing 龍龕手鏡, Koryo print 高麗本. monk Xingjun of the Liao D
 In preparation.  
 
 * GLS_ndl.txt  
-A list of Gaoliben Longkan Shoujing radicals : Zhonghua Book Company edition (中華書局版), Keijo Imperial University edition (京城帝国大学版) and National Diet Library Digital Collections  
+A list of Gaoliben Longkan Shoujing radicals : Zhonghua Book Company edition (中華書局版), Keijo Imperial University edition (京城帝国大学版) and National Diet Library Digital Collections.  
 Date: 9 May 2016  
 初版公開日  
 Ikeda Shoju 池田　証壽  

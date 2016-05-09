@@ -52,6 +52,7 @@ A list of Gaoliben Longkan Shoujing radicals : Zhonghua Book Company edition (�
 Date: 9 May 2016  
 初版公開日  
 Ikeda Shoju 池田　証壽  
+  
 ------------------------
 
 ## Early Japan dictionaries

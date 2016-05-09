@@ -47,6 +47,11 @@ Longkan Shoujing 龍龕手鏡, Koryo print 高麗本. monk Xingjun of the Liao D
 * GLS.txt  
 In preparation.  
 
+* GLS_ndl.txt  
+Gaoliben Longkan Shoujing (GLS) : Zhonghua Book Company edition (中華書局版), Keijo Imperial University edition (京城帝国大学版) and National Diet Library Digital Collections  
+Date: 9 May 2016  
+初版公開日  
+Ikeda Shoju 池田　証壽, Chair 代表  
 ------------------------
 
 ## Early Japan dictionaries

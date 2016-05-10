@@ -2,16 +2,18 @@
 #	HDIC is an abbreviation of the Integrated Database of Hanzi Dictionaries in Early Japan
 #
 #	Gaoliben Longkan Shoujing (GLS) : Zhonghua Book Company edition (中華書局版), Keijo Imperial University edition (京城帝国大学版) and National Diet Library Digital Collections
-#	Version: 1.0.1
-#	Date: 9 May 2016
+#	Version: 1.0.2
+#	Date: 10 May 2016
+#
+#   Longkan Shoujing 龍龕手鏡, Koryo print 高麗本. monk Xingjun of the Liao Dynasty 遼・行均, 997.
 #
 #	Copyright (c) 2014-2016 HDIC project, IKEDA Shoju (Chair)
 #	Department of Linguistic Sciences, Hokkaido University Graduate School of Letters
 #	North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan
 #	Contact: hdic_info@let.hokudai.ac.jp
 #
-#	Feel free to copy and distribute
-#	Send bug reports and feature requests via email
+#	Feel free to copy and distribute.
+#	Send bug reports and feature requests via email.
 #
 GLS_Zhonghua	GLS_vol_radical	GLS_radical	NDL_url
 8	v1#1	金	http://dl.ndl.go.jp/info:ndljp/pid/1194507/7

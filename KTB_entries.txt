@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.3.19
+#	Version: 1.3.20
 #	Date: 25 September 1994
-#	Last update : 6 May 2016
+#	Last update : 1 June 2016
 #
 #	Copyright (c) 1994-2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -220,7 +220,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_020_A12	v1#3	示	𥛜	Regular_seal		&#xD855;&#xDEDC;	a007a093		詛也：《新撰字鏡》疑作字體注。
 1_020_A21	v1#3	示	禁	Regular_seal		&#x7981;	a007a095		
 1_020_A22	v1#3	示	䄏	Regular_seal		&#x410F;	▽		有埋字B。
-1_020_A23	v1#3	示	祅	Embedded_clerical		&#x7945;	a007a101		"埋字B。"
+1_020_A23	v1#3	示	祅	Embedded_clerical		&#x7945;	a007a101		埋字B。
 1_020_A31	v1#3	示	禫	Regular_seal		&#x79AB;	a007a102		
 1_020_A32	v1#3	示	禲	Regular_seal		&#x79B2;	a007a096		
 1_020_A41	v1#3	示	祩	Regular_seal		&#x7969;	a007a103		
@@ -1456,7 +1456,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_059_A21	v3#23	人	伋	Regular		&#x4F0B;	a027b061		
 1_059_A22	v3#23	人	傪	Regular		&#x50AA;	a027b064		
 1_059_A31	v3#23	人	儷	Regular		&#x5137;	a027b081		有埋字B。
-1_059_A32	v3#23	人	㒧	Embedded_clerical		&#x34A7;	a027b082		"埋字B。"
+1_059_A32	v3#23	人	㒧	Embedded_clerical		&#x34A7;	a027b082		埋字B。
 1_059_A33	v3#23	人	僑	Regular		&#x50D1;	a027b083		
 1_059_A41	v3#23	人	伉	Regular		&#x4F09;	a027b073		
 1_059_A42	v3#23	人	僎	Regular		&#x50CE;	a027b084		
@@ -2579,8 +2579,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_001_A32	v4#49	目	𥊷	Regular		&#xD854;&#xDEB7;	a044a045		
 2_001_A41	v4#49	目	䁤	Regular		&#x4064;	a044a051		
 2_001_A42	v4#49	目	䀸	Regular		&#x4038;	a044a052		
-2_001_A51	v4#49	目	䀸	Regular		&#x4038;	▽(a044a052)		"掲出字：原作〓、誤。"
-2_001_A51	v4#49	目	⿰木⿱竹目	Regular	宮	&#x2FF0;&#x6728;&#x2FF1;&#x7AF9;&#x76EE;	△		"木11画。4|"
+2_001_A51	v4#49	目	䀸	Regular		&#x4038;	▽(a044a052)		掲出字：原作〓、誤。
+2_001_A51	v4#49	目	⿰木⿱竹目	Regular	宮	&#x2FF0;&#x6728;&#x2FF1;&#x7AF9;&#x76EE;	△		
 2_001_A52	v4#49	目	𥅧	Regular		&#xD854;&#xDD67;	a044a061		
 2_001_A61	v4#49	目	𥉺	Regular		&#xD854;&#xDE7A;	a044a056		
 2_001_A62	v4#49	目	𥇮	Regular		&#xD854;&#xDDEE;	a044a054		有埋字B。
@@ -4006,7 +4006,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_052_A52	v6#76	又	叚	Regular		&#x53DA;	a065b014		
 2_052_A521	v6#76	又	𠭊	omitted		&#xD842;&#xDF4A;	a065b015		
 2_052_A61	v6#76	又	㕟	Regular		&#x355F;	a065b016		G20尾。
-2_052_B11	v7#77	足	足	Regular		&#x8DB3;	a065b061		"G21首。"
+2_052_B11	v7#77	足	足	Regular		&#x8DB3;	a065b061		G21首。
 2_052_B21	v7#77	足	蹏	Regular		&#x8E4F;	a065b062		
 2_052_B211	v7#77	足	蹄	Songben-Yupian		&#x8E44;	a065b071		
 2_052_B22	v7#77	足	跟	Regular		&#x8DDF;	a065b072		
@@ -11594,7 +11594,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 5_060_A51	v18#269	金	錤	Regular		&#x9324;	b063a095		
 5_060_A52	v18#269	金	錑	Regular		&#x9311;	b063a096		版：原文模糊、呂作叚。
 5_060_A61	v18#269	金	䥗	Regular		&#x4957;	b063a101		
-5_060_A62	v18#269	金	銗	Regular		&#x9297;	b064a033		"反切下字：上田作溝、張同作。呂云［下渫 (未詳)]。"
+5_060_A62	v18#269	金	銗	Regular		&#x9297;	b064a033		反切下字：上田作溝、張同作。呂云［下渫 (未詳)]。
 5_060_B11	v18#269	金	鉎	Regular		&#x924E;	b063a102		
 5_060_B12	v18#269	金	銃	Regular		&#x9283;	b063a104		
 5_060_B21	v18#269	金	鉠	Regular		&#x9260;	b063a105		
@@ -14024,7 +14024,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 5_148_A61	v21#332	夨	𡙼	Regular		&#xD845;&#xDE7C;	c010b051		
 5_148_B11	v21#333	夭	夭	Regular		&#x592D;	c010b061		
 5_148_B21	v21#333	夭	喬	Regular		&#x55AC;	c010b062		
-5_148_B31	v21#333	夭	𠂷	Regular		&#xD840;&#xDCB7;	c010b071		"反切：上田作「核耿」、張作「核耿」、呂作「𥡠耿」。"
+5_148_B31	v21#333	夭	𠂷	Regular		&#xD840;&#xDCB7;	c010b071		反切：上田作「核耿」、張作「核耿」、呂作「𥡠耿」。
 5_148_B32	v21#333	夭	𢍃	Regular		&#xD848;&#xDF43;	c010b072		
 5_148_B32	v21#333	夭	奔	Regular	白	&#x5954;	c010b072		
 5_148_B41	v21#334	交	交	Regular		&#x4EA4;	c010b081		
@@ -15449,8 +15449,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 6_052_A51	v23#374	㲋	毚	Regular		&#x6BDA;	c031a044		
 6_052_A52	v23#374	㲋	⿱免免	Regular		&#x2FF1;&#x514D;&#x514D;	c031a043		掲出字：宮澤作■。
 6_052_A521	v23#374	㲋	𣬎	Songben-Yupian		&#xD84E;&#xDF0E;	c031a045		
-6_052_A61	v23#374	㲋	𣬕	Regular		&#xD84E;&#xDF15;	c031a051		"胥：原作𦙃。反切：上田・張作「胥野」、是。呂作「骨野」、非。"
-6_052_A62	v23#374	㲋	𣬐	Regular		&#xD84E;&#xDF10;	c031a052		"反切：上田・張作「生冀」、呂作「牛冀」。"
+6_052_A61	v23#374	㲋	𣬕	Regular		&#xD84E;&#xDF15;	c031a051		胥：原作𦙃。反切：上田・張作「胥野」、是。呂作「骨野」、非。
+6_052_A62	v23#374	㲋	𣬐	Regular		&#xD84E;&#xDF10;	c031a052		反切：上田・張作「生冀」、呂作「牛冀」。
 6_052_B11	v23#375	兔	兔	Regular		&#x5154;	c031a061		
 6_052_B12	v23#375	兔	菟	Regular		&#x83DF;	c031a062		
 6_052_B21	v23#375	兔	逸	Regular		&#x9038;	c031a063		
@@ -16501,7 +16501,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 6_092_A22	v25#401	虫	蜌	Regular		&#x870C;	c043b025		
 6_092_A31	v25#401	虫	𧊧	Regular		&#xD85C;&#xDEA7;	c043b026		
 6_092_A31	v25#401	虫	蛤	Regular	宮	&#x86E4;	c043b026		
-6_092_A32	v25#401	虫	螔	Regular		&#x8794;	c043b031		"掲出字：原文似䗤。"
+6_092_A32	v25#401	虫	螔	Regular		&#x8794;	c043b031		掲出字：原文似䗤。
 6_092_A41	v25#401	虫	螷	Regular		&#x87B7;	c043b033		
 6_092_A42	v25#401	虫	蝓	Regular		&#x8753;	c043b032		
 6_092_A51	v25#401	虫	蝸	Regular		&#x8778;	c043b034		
@@ -17526,7 +17526,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 6_130_A61	v27#425	糸	縠	Regular		&#x7E20;	c056a103	Y27100157-1	
 6_130_A62	v27#425	糸	縑	Regular		&#x7E11;	c056a104	Y27100158-1	
 6_130_B101	v27#425	糸	𦁆	Songben-Yupian		&#xD858;&#xDC46;	c056a105		
-6_130_B11	v27#425	糸	𦁆	Regular		&#xD858;&#xDC46;	c056a105	Y27100158-2	"揭出字：原作繐。反切：上田・張作「直轉」、呂作「冝轉」。"
+6_130_B11	v27#425	糸	𦁆	Regular		&#xD858;&#xDC46;	c056a105	Y27100158-2	揭出字：原作繐。反切：上田・張作「直轉」、呂作「冝轉」。
 6_130_B11	v27#425	糸	縳	Regular	宮	&#x7E33;	c056b011	Y27100158-2	
 6_130_B12	v27#425	糸	綈	Regular		&#x7D88;	c056b012	Y27100160-1	
 6_130_B21	v27#425	糸	縞	Regular		&#x7E1E;	c056b013	Y27100162-1	
@@ -18551,7 +18551,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 6_170_A62	v29#473	片	𤗚	Regular		&#xD851;&#xDDDA;	c070a102		
 6_170_B11	v29#473	片	版	Regular		&#x7248;	c070a103		
 6_170_B12	v29#473	片	牘	Regular		&#x7258;	c070a104		
-6_170_B21	v29#473	片	牒	Regular		&#x7252;	c070b011		呂云"札"字原誤。"、非。
+6_170_B21	v29#473	片	牒	Regular		&#x7252;	c070b011		呂云"札字原誤。"、非。
 6_170_B22	v29#473	片	牑	Regular		&#x7251;	c070b012		
 6_170_B31	v29#473	片	牖	Regular		&#x7256;	c070b013		
 6_170_B32	v29#473	片	牏	Regular		&#x724F;	c070b014		

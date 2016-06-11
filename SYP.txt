@@ -3,9 +3,9 @@
 #
 #	SYP: Songben Yupian database
 #
-#	Version: 1.0.11
+#	Version: 1.0.12
 #	Date: 20 October 2015
-#	Last update : 2 June 2016 
+#	Last update : 12 June 2016 
 #
 #	Copyright (c) 2014-2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -15276,7 +15276,7 @@ b081a075	v20#295	谷	𧮱		&#xD85E;&#xDFB1;	扶云切。𧮱谷、在臨汾。
 b081a081	v20#295	谷	䜯		&#x472F;	渠六切。谷名。	
 b081a082	v20#295	谷	䜲		&#x4732;	力葉切。䜲餘聚名。	
 b081a083	v20#295	谷	谼		&#x8C3C;	胡東切。大谷名。	
-b081a084	v20#295	谷	𧮰		&#xD85E;&#xDFB0;	呼含切。𧮰	
+b081a084	v20#295	谷	𧮰		&#xD85E;&#xDFB0;	呼含切。𧮰谺澗谷也	
 b081a085	v20#295	谷	𧯌		&#xD85E;&#xDFCC;	呼勞切。𧯌䜮深谷名。	
 b081a091	v20#295	谷	䜮		&#x472E;	力刀切。𧯌䜮。	
 b081a092	v20#295	谷	𧮬		&#xD85E;&#xDFAC;	側侁切。谷名。	

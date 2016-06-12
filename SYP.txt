@@ -3,9 +3,9 @@
 #
 #	SYP: Songben Yupian database
 #
-#	Version: 1.0.12
+#	Version: 1.0.13
 #	Date: 20 October 2015
-#	Last update : 12 June 2016 
+#	Last update : 13 June 2016 
 #
 #	Copyright (c) 2014-2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -16123,7 +16123,7 @@ c005b095	v21#321	大	㚖		&#x3696;	公老切。又昌石切。大白澤也。古
 c005b101	v21#321	大	奚		&#x595A;	下雞切。大腹也。	
 c005b102	v21#321	大	奰		&#x5970;	皮祕切。不醉而怒也、壮也、迫也。	
 c005b103	v21#321	大	耎		&#x800E;	而兗切。又作仄。柔也。	
-c005b104	v21#321	大	奫		&#x596B;	猗筠切。水皃、呉都賦曰泓澄奫潫。於拳切。	
+c005b104	v21#321	大	奫		&#x596B;	猗筠切。水皃。《呉都賦》曰：泓澄奫潫。於拳切。	
 c006a011	v21#321	大	奇		&#x5947;	巨宜切。今作竒。	
 c006a012	v21#321	大	尖		&#x5C16;	子廉切。小細也。	
 c006a013	v21#321	大	𡗞		&#xD845;&#xDDDE;	音奚。獸跡。	

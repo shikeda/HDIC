@@ -96,7 +96,7 @@ Ruiju Myogisho 類聚名義抄, Kanchi’in copy 観智院本, reorganized editi
 under construction.
 
 * KRM_ndl.txt  
-Kanchiinbon Ruiju Myogisho (KRM) : Kazama Shobo edition, Tenri Zenpon Sosho edition and NDL's Digital Library from the Meiji Era.  
+Kanchiinbon Ruiju Myogisho (KRM) : Kazama Shobo edition, Tenri Zenpon Sosho edition and National Diet Library Digital Collections.  
 
 ## Project Members
 The Editorial Committee of HDIC Database Project

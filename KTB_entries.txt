@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.3.21
+#	Version: 1.3.22
 #	Date: 25 September 1994
-#	Last update : 6 June 2016
+#	Last update : 25 August 2016
 #
 #	Copyright (c) 1994-2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -73,7 +73,7 @@
 #	Ueda		: Ueda Tadashi 上田正, A Complete List of Fanqie in the Original Yupian 玉篇反切総覧, Kobe: Private edition, 1986.
 #	Lv		: Lv Hao 呂浩, Zhuanli Wanxiang Mingyi: A Transliteration and Text-critical Notes 篆隸萬象名義校釋, Shanghai: Xuelin Press 學林出版社, 2007.
 #   Li      : Li Yuan 李媛, Embedded and Omitted Headword: Issues Reading Entry Counts in Tenrei-Bansho-Meigi 埋字と脱字―篆隷万象名義の掲出字数をめぐる問題―, Kuntengo to Kunten-Shiryo 訓点語と訓点資料 135: 60-78, 2016.
-
+#
 #	This work was supported by JSPS KAKENHI Grant Number 25370506.
 #
 TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_remarks

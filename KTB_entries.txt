@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.3.22
+#	Version: 1.3.23
 #	Date: 25 September 1994
-#	Last update : 25 August 2016
+#	Last update : 27 August 2016
 #
 #	Copyright (c) 1994-2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -74,7 +74,7 @@
 #	Lv		: Lv Hao 呂浩, Zhuanli Wanxiang Mingyi: A Transliteration and Text-critical Notes 篆隸萬象名義校釋, Shanghai: Xuelin Press 學林出版社, 2007.
 #   Li      : Li Yuan 李媛, Embedded and Omitted Headword: Issues Reading Entry Counts in Tenrei-Bansho-Meigi 埋字と脱字―篆隷万象名義の掲出字数をめぐる問題―, Kuntengo to Kunten-Shiryo 訓点語と訓点資料 135: 60-78, 2016.
 #
-#	This work was supported by JSPS KAKENHI Grant Number 25370506.
+#	This work was supported by JSPS KAKENHI Grant Number 25370506, 16H03422.
 #
 TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_remarks
 1_016_A51	v1#1	一	一	Regular_seal		&#x4E00;	a005a101		有埋字B。G01首
@@ -2288,7 +2288,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 1_089_B512	v4#42	色	𦫬	Songben-Yupian		&#xD85A;&#xDEEC;	a041a025		
 1_089_B52	v4#42	色	靘	Regular		&#x9758;	a041a026		
 1_089_B61	v4#42	色	䒌	Regular		&#x448C;	a041a031		
-1_090_A21	v4#43	色	囟	Regular		&#x56DF;	a041a041		有埋字B。
+1_090_A21	v4#43	囟	囟	Regular		&#x56DF;	a041a041		有埋字B。
 1_090_A22	v4#43	囟	𠙷	Embedded_clerical		&#xD841;&#xDE77;	a041a042		埋字B。
 1_090_A23	v4#43	囟	𣬈	Regular		&#xD84E;&#xDF08;	a041a043		懣：原存本一部虫損、台湾本作「懑」字。
 1_090_A23	v4#43	囟	毗	Regular	白	&#x6BD7;	a041a043		
@@ -3894,34 +3894,34 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 2_048_B22	v6#67	手	掞	Regular		&#x639E;	△		
 2_048_B31	v6#67	手	𢬴	Regular		&#xD84A;&#xDF34;	△(a058a102)		
 2_048_B51	v6#68	𠬞	𠬞	Regular		&#xD842;&#xDF1E;	a064a041		G20首。
-2_048_B511	v6#68	収	𦌤	Songben-Yupian		&#xD858;&#xDF24;	a064a051		
-2_048_B52	v6#68	収	奉	Regular		&#x5949;	a064a052		
-2_048_B61	v6#68	収	丞	Regular		&#x4E1E;	a064a053		掲出字：原作■。
-2_048_B62	v6#68	収	奐	Regular		&#x5950;	a064a054		
-2_049_A11	v6#68	収	弇	Regular		&#x5F07;	a064a055		
-2_049_A111	v6#68	収	𢍔	omitted		&#xD848;&#xDF54;	a064a061		
-2_049_A12	v6#68	収	睪	Regular		&#x776A;	a064a064		
-2_049_A12	v6#68	収	𦌩	Regular	白	&#xD858;&#xDF29;	a064a064		
-2_049_A21	v6#68	収	𢍁	Regular		&#xD848;&#xDF41;	a064a071		
-2_049_A22	v6#68	収	异	Regular		&#x5F02;	a064a072		
-2_049_A31	v6#68	収	𢍏	Regular		&#xD848;&#xDF4F;	a064a073		
-2_049_A32	v6#68	収	弄	Regular		&#x5F04;	a064a074		
-2_049_A41	v6#68	収	𢌻	Regular		&#xD848;&#xDF3B;	a064a062		
-2_049_A42	v6#68	収	兵	Regular		&#x5175;	a064a063		
-2_049_A51	v6#68	収	戒	Regular		&#x6212;	a064a081		
-2_049_A52	v6#68	収	𢌳	Regular		&#xD848;&#xDF33;	a064a082		
-2_049_A61	v6#68	収	𢌱	Regular		&#xD848;&#xDF31;	a064b021		
-2_049_A62	v6#68	収	𩐦	Regular		&#xD865;&#xDC26;	a064a083		
-2_049_A62	v6#68	収	龏	Regular	宮	&#x9F8F;	a064a083		
-2_049_B11	v6#68	収	弈	Regular		&#x5F08;	a064a084		基：當作棊。
-2_049_B12	v6#68	収	具	Regular		&#x5177;	a064a085		
-2_049_B21	v6#68	収	弃	Regular		&#x5F03;	a064a091		
-2_049_B22	v6#68	収	㢡	Regular		&#x38A1;	a064a092		
-2_049_B31	v6#68	収	弊	Regular		&#x5F0A;	a064a093		
-2_049_B32	v6#68	収	𤼷	Regular		&#xD853;&#xDF37;	a064a042		
-2_049_B41	v6#68	収	㢣	Regular		&#x38A3;	a064a094		
-2_049_B42	v6#68	収	𢍎	Regular		&#xD848;&#xDF4E;	a064a043		
-2_049_B51	v6#68	収	𢍧	Regular		&#xD848;&#xDF67;	a064a095		
+2_048_B511	v6#68	𠬞	𦌤	Songben-Yupian		&#xD858;&#xDF24;	a064a051		
+2_048_B52	v6#68	𠬞	奉	Regular		&#x5949;	a064a052		
+2_048_B61	v6#68	𠬞	丞	Regular		&#x4E1E;	a064a053		掲出字：原作■。
+2_048_B62	v6#68	𠬞	奐	Regular		&#x5950;	a064a054		
+2_049_A11	v6#68	𠬞	弇	Regular		&#x5F07;	a064a055		
+2_049_A111	v6#68	𠬞	𢍔	omitted		&#xD848;&#xDF54;	a064a061		
+2_049_A12	v6#68	𠬞	睪	Regular		&#x776A;	a064a064		
+2_049_A12	v6#68	𠬞	𦌩	Regular	白	&#xD858;&#xDF29;	a064a064		
+2_049_A21	v6#68	𠬞	𢍁	Regular		&#xD848;&#xDF41;	a064a071		
+2_049_A22	v6#68	𠬞	异	Regular		&#x5F02;	a064a072		
+2_049_A31	v6#68	𠬞	𢍏	Regular		&#xD848;&#xDF4F;	a064a073		
+2_049_A32	v6#68	𠬞	弄	Regular		&#x5F04;	a064a074		
+2_049_A41	v6#68	𠬞	𢌻	Regular		&#xD848;&#xDF3B;	a064a062		
+2_049_A42	v6#68	𠬞	兵	Regular		&#x5175;	a064a063		
+2_049_A51	v6#68	𠬞	戒	Regular		&#x6212;	a064a081		
+2_049_A52	v6#68	𠬞	𢌳	Regular		&#xD848;&#xDF33;	a064a082		
+2_049_A61	v6#68	𠬞	𢌱	Regular		&#xD848;&#xDF31;	a064b021		
+2_049_A62	v6#68	𠬞	𩐦	Regular		&#xD865;&#xDC26;	a064a083		
+2_049_A62	v6#68	𠬞	龏	Regular	宮	&#x9F8F;	a064a083		
+2_049_B11	v6#68	𠬞	弈	Regular		&#x5F08;	a064a084		基：當作棊。
+2_049_B12	v6#68	𠬞	具	Regular		&#x5177;	a064a085		
+2_049_B21	v6#68	𠬞	弃	Regular		&#x5F03;	a064a091		
+2_049_B22	v6#68	𠬞	㢡	Regular		&#x38A1;	a064a092		
+2_049_B31	v6#68	𠬞	弊	Regular		&#x5F0A;	a064a093		
+2_049_B32	v6#68	𠬞	𤼷	Regular		&#xD853;&#xDF37;	a064a042		
+2_049_B41	v6#68	𠬞	㢣	Regular		&#x38A3;	a064a094		
+2_049_B42	v6#68	𠬞	𢍎	Regular		&#xD848;&#xDF4E;	a064a043		
+2_049_B51	v6#68	𠬞	𢍧	Regular		&#xD848;&#xDF67;	a064a095		
 2_049_B52	v6#69	𠬜	𠬜	Regular		&#xD842;&#xDF1C;	a064a101		
 2_049_B61	v6#69	𠬜	𠮖	Regular		&#xD842;&#xDF96;	a064a102		
 2_049_B62	v6#69	𠬜	𤕩	Regular		&#xD851;&#xDD69;	a064a103		

@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.3.25
+#	Version: 1.3.29
 #	Date: 25 September 1994
 #	Last update : 1 September 2016
 #
@@ -15306,9 +15306,9 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 6_047_A41	v23#364	犬	猋	Regular		&#x730B;	c028b045		次項、《校釋》補狁字。
 6_047_A411	v23#365	㹜	犾	omitted		&#x72BE;	c029b011		
 6_047_A51	v23#365	㹜	㺇	Regular		&#x3E87;	c029b012		
-6_047_A52	v23#365	㹜	獄	Regular		&#x7344;	c029b013		
-6_047_A62	v23#365	豕	𢁓	Regular		&#xD848;&#xDC53;	c029b032		
-6_047_A61	v23#366	豕	豕	Regular		&#x8C55;	c029b031		
+6_047_A52	v23#365	㹜	獄	Regular		&#x7344;	c029b013	
+6_047_A61	v23#366	豕	豕	Regular		&#x8C55;	c029b031	
+6_047_A62	v23#366	豕	𢁓	Regular		&#xD848;&#xDC53;	c029b032		
 6_047_B11	v23#366	豕	豬	Regular		&#x8C6C;	c029b033		
 6_047_B111	v23#366	豕	䝑	Songben-Yupian		&#x4751;	c029b034		
 6_047_B112	v23#366	豕	𧰰	Songben-Yupian		&#xD85F;&#xDC30;	c029b035		
@@ -15362,7 +15362,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 6_049_A31	v23#366	豕	䝓	Regular		&#x4753;	c029b102		
 6_049_A32	v23#366	豕	豪	Regular		&#x8C6A;	c030a011		
 6_049_A41	v23#366	豕	豩	Regular		&#x8C69;	c029b106		
-6_049_A51	v23#366	𧱔	𧱔	Regular		&#xD85F;&#xDC54;	c030a051		
+6_049_A51	v23#367	𧱔	𧱔	Regular		&#xD85F;&#xDC54;	c030a051		
 6_049_A52	v23#367	𧱔	豚	Regular		&#x8C5A;	c030a052		
 6_049_A61	v23#367	𧱔	𧲝	Regular		&#xD85F;&#xDC9D;	c030a053		豚：原文誤写。
 6_049_A62	v23#367	𧱔	𧲔	Regular	白	&#xD85F;&#xDC94;	c030a054		

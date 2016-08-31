@@ -15304,7 +15304,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 6_047_A31	v23#364	犬	狒	Regular		&#x72D2;	c028b043		
 6_047_A32	v23#364	犬	猓	Regular		&#x7313;	c028b044		
 6_047_A41	v23#364	犬	猋	Regular		&#x730B;	c028b045		次項、《校釋》補狁字。
-6_047_A411	v23#365	犬	犾	omitted		&#x72BE;	c029b011		
+6_047_A411	v23#365	㹜	犾	omitted		&#x72BE;	c029b011		
 6_047_A51	v23#365	㹜	㺇	Regular		&#x3E87;	c029b012		
 6_047_A52	v23#365	㹜	獄	Regular		&#x7344;	c029b013		
 6_047_A62	v23#365	豕	𢁓	Regular		&#xD848;&#xDC53;	c029b032		

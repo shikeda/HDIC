@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.3.24
+#	Version: 1.3.25
 #	Date: 25 September 1994
 #	Last update : 1 September 2016
 #
@@ -7047,7 +7047,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 3_072_B21	v11#147	履	屩	Regular		&#x5C69;	b007b043		
 3_072_B22	v11#147	履	㞜	Regular		&#x379C;	b007b044		
 3_072_B31	v11#147	履	𡲲	Regular		&#xD847;&#xDCB2;	b007b054		
-3_072_B311	v11#147	尸	⿸尸⿰彳⿱夾夊	Songben-Yupian		&#x2FF8;&#x5C38;&#x2FF0;&#x5F73;&#x2FF1;&#x593E;&#x590A;	b007b055		尸13画。
+3_072_B311	v11#147	履	⿸尸⿰彳⿱夾夊	Songben-Yupian		&#x2FF8;&#x5C38;&#x2FF0;&#x5F73;&#x2FF1;&#x593E;&#x590A;	b007b055		尸13画。
 3_072_B321	v11#147	履	𡱣	Songben-Yupian		&#xD847;&#xDC63;	b007b052		
 3_072_B33	v11#147	履	𡲾	Regular		&#xD847;&#xDCBE;	b007b051		
 3_072_B41	v11#147	履	屣	Regular		&#x5C63;	b007b053		

@@ -10696,8 +10696,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 5_030_B11	v16#248	几	凭	Regular		&#x51ED;	b054b041		
 5_030_B12	v16#248	几	凥	Regular		&#x51E5;	b054b032		
 5_030_B21	v16#248	几	処	Regular		&#x51E6;	b054b033		
-5_030_B31	v16#248	且	且	Regular		&#x4E14;	b054b051		有埋字B二字。
-5_030_B311	v16#248	且	且β	Embedded_seal		&#x4E14;&#x3B2;			埋字B。篆書字形。
+5_030_B31	v16#249	且	且	Regular		&#x4E14;	b054b051		有埋字B二字。
+5_030_B311	v16#249	且	且β	Embedded_seal		&#x4E14;&#x3B2;			埋字B。篆書字形。
 5_030_B32	v16#249	且	𠀇	Embedded_clerical		&#xD840;&#xDC07;	b054b052		埋字B。
 5_030_B41	v16#249	且	爼	Regular		&#x723C;	b054b053		
 5_030_B42	v16#249	且	𧇈	Regular		&#xD85C;&#xDDC8;	b054b061		烋：呂作述。

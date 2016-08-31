@@ -9551,7 +9551,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 4_070_B22	v14#173	華	華	Regular	白	&#x83EF;	b039b101		
 4_070_B222	v14#173	華	䔢	Songben-Yupian		&#x4522;	b039b102		
 4_070_B31	v14#173	華	𤾴	Regular		&#xD853;&#xDFB4;	b039b103		掲出字：呂作皣。
-4_070_B32	v14#173	𥝌	𥝌	Regular		&#xD855;&#xDF4C;	b040a011		雞：呂云疑為注音字。
+4_070_B32	v14#174	𥝌	𥝌	Regular		&#xD855;&#xDF4C;	b040a011		雞：呂云疑為注音字。
 4_070_B41	v14#174	𥝌	䅩	Regular		&#x4169;	b040a012		
 4_070_B42	v14#174	𥝌	䅓	Regular		&#x4153;	b040a021		
 4_070_B51	v14#175	稽	稽	Regular		&#x7A3D;	b040a031		

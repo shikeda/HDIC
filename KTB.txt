@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.1
+#	Version: 1.0.2
 #	Date: 1 September 2016
 #	Last update : 1 September 2016
 #
@@ -76,7 +76,7 @@
 #   Li      : Li Yuan 李媛, Embedded and Omitted Headword: Issues Reading Entry Counts in Tenrei-Bansho-Meigi 埋字と脱字―篆隷万象名義の掲出字数をめぐる問題―, Kuntengo to Kunten-Shiryo 訓点語と訓点資料 135: 60-78, 2016.
 #
 #   Acknowledgments:
-#
+#	---------------
 #   We are grateful to Kozanji Temple authorities Ogawa Chie (the previous chief priest) and Ishizuka Harumichi (the representative director) for permission to publish the decipherment text of KTB.
 #	This work was supported by JSPS KAKENHI Grant Number 25370506, 16H03422.
 #

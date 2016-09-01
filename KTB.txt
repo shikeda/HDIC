@@ -2,13 +2,13 @@
 #
 #	Integrated Database of Hanzi Dictionaries in Early Japan
 #
-#	KTB : Kozanjibon Tenrei Bansho Meigi database -- Full text version
+#	KTB : Kosanjibon Tenrei Bansho Meigi database -- Full text version
 #
-#	Kozanjibon Tenrei Bansho Meigi 篆隷萬象名義, Kozanji copy 高山寺本.
+#	Kosanjibon Tenrei Bansho Meigi 篆隷萬象名義, Kosanji copy 高山寺本.
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.3
+#	Version: 1.0.4
 #	Date: 1 September 2016
 #	Last update : 1 September 2016
 #
@@ -57,7 +57,7 @@
 #
 #	Abbreviations:
 # 	-------------
-#	TB	: Tenrei Bansho Meigi 篆隷万象名義, Kozanji copy 高山寺本
+#	TB	: Tenrei Bansho Meigi 篆隷万象名義, Kosanji copy 高山寺本
 #	YY	: Yuanben Yupian 原本玉篇, fragments of vol.8, 9, 18, 19, 22, 24 and 27
 #	SY	: Songben Yupian 宋本玉篇, Zecuntang edition 澤存堂本
 #
@@ -68,15 +68,15 @@
 #
 #	References:
 #	----------
-#	Shirafuji	: Shirafuji Noriyuki 白藤禮幸, An Index of Headwords in the Tenrei Bansho Meigi 掲出字索引, Materials from Ancient Glossaries in the Kozanji Temple Collection 1 高山寺古辞書資料第一, Tokyo: Uiversity of Tokyo Press 東京大学出版会, 1977.
-#	Miyazawa	: Miyazawa Toshimasa 宮澤俊雅, A List of Headwords with Notes in the Tenrei Bansho Meigi 掲出字一覧表, Materials from Ancient Glossaries in the Kozanji Temple Collection 1 高山寺古辞書資料第一, Tokyo: University of Tokyo Press 東京大学出版会, 1977.
+#	Shirafuji	: Shirafuji Noriyuki 白藤禮幸, An Index of Headwords in the Tenrei Bansho Meigi 掲出字索引, Materials from Ancient Glossaries in the Kosanji Temple Collection 1 高山寺古辞書資料第一, Tokyo: Uiversity of Tokyo Press 東京大学出版会, 1977.
+#	Miyazawa	: Miyazawa Toshimasa 宮澤俊雅, A List of Headwords with Notes in the Tenrei Bansho Meigi 掲出字一覧表, Materials from Ancient Glossaries in the Kosanji Temple Collection 1 高山寺古辞書資料第一, Tokyo: University of Tokyo Press 東京大学出版会, 1977.
 #	Ueda		: Ueda Tadashi 上田正, A Complete List of Fanqie in the Original Yupian 玉篇反切総覧, Kobe: Private edition, 1986.
 #	Lv		: Lv Hao 呂浩, Zhuanli Wanxiang Mingyi: A Transliteration and Text-critical Notes 篆隸萬象名義校釋, Shanghai: Xuelin Press 學林出版社, 2007.
-#   Li      : Li Yuan 李媛, Embedded and Omitted Headword: Issues Reading Entry Counts in Tenrei-Bansho-Meigi 埋字と脱字―篆隷万象名義の掲出字数をめぐる問題―, Kuntengo to Kunten-Shiryo 訓点語と訓点資料 135: 60-78, 2016.
+#   Li      : Li Yuan 李媛, Embedded and Omitted Headword: Issues Regarding Entry Counts in Tenrei-Bansho-Meigi 埋字と脱字―篆隷万象名義の掲出字数をめぐる問題―, Kuntengo to Kunten-Shiryo 訓点語と訓点資料 135: 60-78, 2016.
 #
 #   Acknowledgments:
 #	---------------
-#   We are grateful to Kozanji Temple authorities Ogawa Chie (the previous chief priest) and Ishizuka Harumichi (the representative director) for permission to publish the decipherment text of KTB.
+#   We are grateful to Kosanji Temple authorities Ogawa Chie (the previous chief priest) and Ishizuka Harumichi (the representative director) for permission to publish the decipherment text of KTB.
 #	This work was supported by JSPS KAKENHI Grant Number 25370506, 16H03422.
 #
 TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_remarks

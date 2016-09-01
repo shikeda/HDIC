@@ -58,9 +58,9 @@ Ikeda Shoju 池田　証壽
 ## Early Japan dictionaries
 
 ### Tenrei Bansho Meigi 篆隷万象名義
-#### KTB:  Kozanjibon Tenrei Bansho Meigi database 
+#### KTB:  Kosanjibon Tenrei Bansho Meigi database 
 
-Tenrei Bansho Meigi 篆隷萬象名義, Kozanji copy 高山寺本. monk Kukai of the Heian Period 空海, c. 827-835.
+Tenrei Bansho Meigi 篆隷萬象名義, Kosanji copy 高山寺本. monk Kukai of the Heian Period 空海, c. 827-835.
 #### Files
 * KTB_entries.txt  
 Date: 29 April 2016  

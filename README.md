@@ -68,6 +68,12 @@ Date: 29 April 2016
 Ikeda Shoju 池田　証壽, Chair 代表  
 Li Yuan 李　媛, Person in Charge 担当者    
 
+* KTB.txt  -- Full text version  
+Date: 1 September 2016  
+初版公開日  
+Ikeda Shoju 池田　証壽, Chair 代表  
+Li Yuan 李　媛, Person in Charge 担当者    
+
 ### Shinsen Jikyo 新撰字鏡
 #### TSJ: Tenjibon Shinsen Jikyo database
 

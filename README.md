@@ -74,6 +74,13 @@ Date: 1 September 2016
 Ikeda Shoju 池田　証壽, Chair 代表  
 Li Yuan 李　媛, Person in Charge 担当者    
 
+* KTB_ndl.txt  
+Kosanjibon Tenrei Bansho Meigi (KTB) : Subun sosho edition (崇文叢書版) and National Diet Library Digital Collections.
+Date: 4 September 2016  
+初版公開日  
+Ikeda Shoju 池田　証壽
+
+
 ### Shinsen Jikyo 新撰字鏡
 #### TSJ: Tenjibon Shinsen Jikyo database
 

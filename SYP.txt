@@ -3,9 +3,9 @@
 #
 #	SYP: Songben Yupian database
 #
-#	Version: 1.0.15
+#	Version: 1.0.16
 #	Date: 20 October 2015
-#	Last update : 26 August 2016 
+#	Last update : 4 September 2016 
 #
 #	Copyright (c) 2014-2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -16,7 +16,7 @@
 #	Feel free to copy and distribute.
 #	Send bug reports and feature requests via email.
 #
-#	CSV Format information:
+#	TSV Format information:
 #
 #	SYID	: Book, leaf, recto-verso, line and number (Zecuntang edition)
 #	SY_vol_radical	: Volume and radical number

@@ -2,9 +2,9 @@
 #	HDIC is an abbreviation of the Integrated Database of Hanzi Dictionaries in Early Japan
 #
 #	Kosanjibon Tenrei Bansho Meigi (KTB) : Subun sosho edition (崇文叢書版) and National Diet Library Digital Collections
-#	Version: 1.0.1
+#	Version: 1.0.2
 #	Date: 4 September 2016
-#	Last update : 4 September 2016
+#	Last update : 9 September 2016
 #
 #	Copyright (c) 2016 HDIC project, IKEDA Shoju (Chair)
 #	Department of Linguistic Sciences, Hokkaido University Graduate School of Letters
@@ -17,7 +17,7 @@
 #	TSV Format information:
 #	----------------------
 #	Vol_radical (xx#yyy)	: Volume(xx) and radical number(yyy) of Yuanben Yupian
-#   KTB_vol : Gensen(G)-Zokusen(Z) and volume(xx) of KTB
+#   KTB_vol : Gensen(G, the original part)-Zokusen(Z, the sequel part) and volume(xx) of KTB
 #	Radical	: Radical of Chinese character 
 #	Book_leaf (v_www_x) 	: Book(v), leaf(www), recto-verso(x) of KTB
 #	NDL_url		: URL of National Diet Library Digital Collections

@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.6
+#	Version: 1.0.7
 #	Date: 1 September 2016
 #	Last update : 9 September 2016
 #
@@ -42,17 +42,18 @@
 #
 #	Group b -- Embedded headword
 #	3 Embedded_clerical		: 埋字 隷書字体
-#	4 Embedded_seal			: 埋字 篆書字体
+#	4 Embedded_omitted		: 埋字 脱落
+#	5 Embedded_seal			: 埋字 篆書字体
 #
 #	Group c -- Omitted headword
-#	5 Omitted				: 脱字 項目全体 脱落
-#	6 Omitted-regular		: 脱字 隷書掲出字 脱落
+#	6 Omitted				: 脱字 項目全体 脱落
+#	7 Omitted-regular		: 脱字 隷書掲出字 脱落
 #
 #	Group d -- Variant of the Songben Yupian
-#	7 Songben-Yupian		: 宋本《玉篇》増補之異体字
+#	8 Songben-Yupian		: 宋本《玉篇》増補之異体字
 #
 #   cf. Li 2015.
-#   ＊5 Omitted : 項目全体脱落
+#   ＊6 Omitted : 項目全体脱落
 #　　　　　　　　　 《説文解字》、《玉篇》残巻・佚文、《新撰字鏡》玉篇引用部分等、本文存
 #
 #	Abbreviations:
@@ -72,7 +73,7 @@
 #	Miyazawa	: Miyazawa Toshimasa 宮澤俊雅, A List of Headwords with Notes in the Tenrei Bansho Meigi 掲出字一覧表, Materials from Ancient Glossaries in the Kosanji Temple Collection 1 高山寺古辞書資料第一, Tokyo: University of Tokyo Press 東京大学出版会, 1977.
 #	Ueda		: Ueda Tadashi 上田正, A Complete List of Fanqie in the Original Yupian 玉篇反切総覧, Kobe: Private edition, 1986.
 #	Lv		: Lv Hao 呂浩, Zhuanli Wanxiang Mingyi: A Transliteration and Text-critical Notes 篆隸萬象名義校釋, Shanghai: Xuelin Press 學林出版社, 2007.
-#   Li      : Li Yuan 李媛, Embedded and Omitted Headword: Issues Regarding Entry Counts in Tenrei-Bansho-Meigi 埋字と脱字―篆隷万象名義の掲出字数をめぐる問題―, Kuntengo to Kunten-Shiryo 訓点語と訓点資料 135: 60-78, 2016.
+#   Li      : Li Yuan 李媛, Embedded and Omitted Headword: Issues Regarding Entry Counts in Tenrei-Bansho-Meigi 埋字と脱字―篆隷万象名義の掲出字数をめぐる問題―, Kuntengo to Kunten-Shiryo 訓点語と訓点資料 135: 60-78, 2015.
 #
 #   Acknowledgments:
 #	---------------

@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian Period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.3.31
+#	Version: 1.3.32
 #	Date: 25 September 1994
-#	Last update : 4 September 2016
+#	Last update : 9 September 2016
 #
 #	Copyright (c) 1994-2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -15674,6 +15674,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	UCShex	SYID	YYID	TB_r
 6_060_B42	v24#390	鳥	鴰	Regular		&#x9D30;	c034a061		■：原文誤写、呂作隺、非。
 6_060_B51	v24#390	鳥	鶉	Regular		&#x9D89;	c034a062		
 6_060_B51	v24#390	鳥	鷒	Regular	宮	&#x9DD2;	c034a062		
+6_060_B511	v24#390	鳥	𪆃	Omitted		&#xD868;&#xDD83;	        新撰字鏡玉篇群。		
 6_060_B52	v24#390	鳥	鳶	Regular		&#x9CF6;	c034a063		
 6_060_B521	v24#390	鳥	𪀝	Songben-Yupian		&#xD868;&#xDC1D;	c034a064		
 6_060_B61	v24#390	鳥	鴡	Regular		&#x9D21;	c034a065		

@@ -1,0 +1,35 @@
+#	HDIC Project
+#	Integrated Database of Hanzi Dictionaries in Early Japan
+#
+#	YQF: Yuanben Yupian Quoted Fragments in other books
+#   原本玉篇逸文
+#
+#	Version: 1.0.1
+#	Date: 10 September 2016
+#	Last update : 10 September 2016 
+#
+#	Copyright (c) 2016 HDIC project, IKEDA Shoju (Chair)
+#	LI Yuan (Person in Charge)
+#	Department of Linguistic Sciences, Hokkaido University Graduate School of Letters
+#	North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan
+#	Contact: hdic_info@let.hokudai.ac.jp
+#
+#	Feel free to copy and distribute.
+#	Send bug reports and feature requests via email.
+#
+#	TSV Format information:
+#   ----------------------
+#	YQFID	: Title abbreviation and page or number, for details, refer to the following section
+#	TBID (v_www_xyz) 	: Book(v), leaf(www), recto-verso(x), line(y) and number(z) of Tenrei Bansho Meigi 篆隷万象名義
+#	Entry	: Headword
+#	YQF_remarks	: Editor's notes
+#
+#   YQFID
+#   -----
+#   Title abbreviations
+#   佚   : Okai Shingo 岡井慎吾, A List of Yupian Quoted Fragments in Other Books 玉篇佚文, A Study of Yupian 玉篇の研究, Toyo bunko 東洋文庫, 1933.
+#   補   : Mabuchi Kazuo 馬渕和夫, A Revised List of Yupian Quoted Fragments in Other Books 玉篇佚文補正, Tokyo bunrika daigaku kokugo kokubungakkai kiyo 東京文理科大学国語国文学会紀要 3: 1-153 , 1952.
+#
+#
+#	This work was supported by JSPS KAKENHI Grant Number 16H03422.
+#

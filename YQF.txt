@@ -6,7 +6,7 @@
 #
 #	Version: 1.0.1
 #	Date: 10 September 2016
-#	Last update : 10 September 2016 
+#	Last update : 15 September 2016 
 #
 #	Copyright (c) 2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -27,9 +27,13 @@
 #   YQFID
 #   -----
 #   Title abbreviations
-#   佚   : Okai Shingo 岡井慎吾, A List of Yupian Quoted Fragments in Other Books 玉篇佚文, A Study of Yupian 玉篇の研究, Toyo bunko 東洋文庫, 1933.
-#   補   : Mabuchi Kazuo 馬渕和夫, A Revised List of Yupian Quoted Fragments in Other Books 玉篇佚文補正, Tokyo bunrika daigaku kokugo kokubungakkai kiyo 東京文理科大学国語国文学会紀要 3: 1-153 , 1952.
-#
+#   佚   : Okai Shingo 岡井慎吾. Gyokuhen itsubun 玉篇佚文 [A list of Yupian quoted fragments in other books] . Gyokuhen no kenkyu 玉篇の研究 [A study of yupian]. Toyo Bunko (The Oriental Library) 東洋文庫. 1933.
+#   補   : Mabuchi Kazuo 馬渕和夫. Gyokuhen itsubun hosei 玉篇佚文補正 [A revised list of Yupian quoted fragments in other books]. Tokyo Bunrika Daigaku Kokugo Kokubun Gakkai Kiyo (Bulletin of the Association for the Study of Japanese Language and Literature, Tokyo University of Arts and Sciences) 東京文理科大学国語国文学会紀要 3: 1-153. 1952.
+#   新   : The original Yupian quoted fragments in Shinsen jikyo 新撰字鏡所引玉篇. Sadakari Itoku 貞苅伊徳. Sinsen jikyo no kaibō 新撰字鏡の解剖. Sinsen jikyo no kenkyū 新撰字鏡の研究. Tokyo: Kyūko Shoin 東京: 汲古書院. 1998
+#   理   : The original Yupian quoted fragments in Daijō rishu rokuharamitsukyō shakumon 大乘理趣六波羅蜜經釋文所引玉篇. Daijō rishu rokuharamitsukyō shakumon 大乘理趣六波羅蜜經釋文 (Uhaturashitsu sōsho 優鉢羅室叢書).Kyoto: Kanda Kiichirō 神田喜一郎. 1972.
+#   令   : The original Yupian quoted fragments in Ryō-no-Shūge 令集解所引玉篇. Inoue Masamichi 井上順理. Ryō-no-Shūge in Gyokuhen itsubun kō 令集解引玉篇佚文考 [A study of fragments from Yupian gleaned from Ryō-no-Shūge]. Reports of the Faculty of Education: Humanities and Social Sciences 鳥取大学教育学部研究報告.人文社会科学 17: 77-124. 1966.
+#   類   : The original Yupian quoted fragments in Zushoryō manuscript Ruiju myōgishō 図書寮本類聚名義抄所引玉篇.
+#   弘   : The Tenrei banshō meigi quoted fragments in Zushoryō manuscript Ruiju myōgishō 図書寮本類聚名義抄所引篆隷万象名義.
 #
 #	This work was supported by JSPS KAKENHI Grant Number 16H03422.
 #

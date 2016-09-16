@@ -4,6 +4,9 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 平安時代漢字字書総合データベース  
 平安時代漢字字書綜合數據庫  
 
+Date published : 18 October 2015  
+Last modified : 16 September 2016  
+
 ---
 ## Medieval China dictionaries
 
@@ -16,12 +19,12 @@ Yupian 玉篇, original edition 原本. Gu Yewang of the Liang dynasty 梁・顧
 * YYP.txt  
 In preparation.  
 Yuanben Yupian fragments of vol.8, 9, 18, 19, 22, 24 and 27.  
-原本玉篇残巻  
+原本玉篇残巻.  
 
 * YQF.txt  
 In preparation.  
 Yuanben Yupian quoted fragments in other books  
-原本玉篇逸文
+原本玉篇逸文.
 
 ### Songben YuPian 宋本玉篇
 
@@ -60,7 +63,7 @@ Ikeda Shoju 池田　証壽
 ### Tenrei Bansho Meigi 篆隷万象名義
 #### KTB:  Kosanjibon Tenrei Bansho Meigi database 
 
-Tenrei Bansho Meigi 篆隷萬象名義, Kosanji copy 高山寺本. monk Kukai of the Heian Period 空海, c. 827-835.
+Tenrei banshō meigi 篆隷萬象名義, Kōsanji copy 高山寺本. monk Kūkai of the Heian period 空海, c. 827-835.
 #### Files
 * KTB_entries.txt  
 Date: 29 April 2016  
@@ -84,7 +87,7 @@ Ikeda Shoju 池田　証壽
 ### Shinsen Jikyo 新撰字鏡
 #### TSJ: Tenjibon Shinsen Jikyo database
 
-Shinsen Jikyo 新撰字鏡, Tenji copy 天治本. Buddhist monk Shoju 昌住, c. 898-901.
+Shinsen jikyō 新撰字鏡, Tenji copy 天治本. Buddhist monk Shōju 昌住, c. 898-901.
 
 #### Files
 * TSJ.txt  
@@ -93,7 +96,7 @@ In preparation.
 ### Zushoryobon Ruiju Myogisho 図書寮本類聚名義抄
 #### ZRM: Zushoryobon Ruiju Myogisho database
 
-Ruiju Myogisho 類聚名義抄, Zushoryo copy 図書寮本, original edition 原撰本. anonymous Buddhist monk, about 1100.
+Ruiju myogishō 類聚名義抄, Zushoryō copy 図書寮本, original edition 原撰本. anonymous Buddhist monk, about 1100.
 
 #### Files
 * ZRM.txt  
@@ -102,14 +105,17 @@ In preparation.
 ### Kanchi’inbon Ruiju Myogisho 観智院本類聚名義抄
 #### KRM: Kanchi’inbon Ruiju Myogisho database
 
-Ruiju Myogisho 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. anonymous Buddhist monk, the latter half of the 12th century.
+Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. anonymous Buddhist monk, the latter half of the 12th century.
 
 #### Files
 * KRM.txt  
 under construction.
 
 * KRM_ndl.txt  
-Kanchiinbon Ruiju Myogisho (KRM) : Kazama Shobo edition, Tenri Zenpon Sosho edition and National Diet Library Digital Collections.  
+Kanchiinbon Ruiju Myogisho (KRM) : Kazama Shobo edition, Tenri Zempon Sosho edition and National Diet Library Digital Collections.  
+Date: 20 October 2015  
+初版公開日  
+Ikeda Shoju 池田　証壽  
 
 ## Project Members
 The Editorial Committee of HDIC Database Project

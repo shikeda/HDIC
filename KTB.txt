@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.12
+#	Version: 1.0.13
 #	Date published : 1 September 2016
-#	Last modified : 25 September 2016
+#	Last modified : 26 September 2016
 #
 #	Copyright (c) 2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -11865,7 +11865,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_070_A21	v18#279	用	庸	Regular		余鐘反。和也、功也、易也、常也、次也、能也。	b067b012	Y18200028-1	
 5_070_A22	v18#279	用	甯	Regular		奴定反。由也、用也。	b067b013	Y18200034-1	
 5_070_A31	v18#279	用	由	Regular		余周反。若角也、從也、於也、助也、經也、自也、輔也、或也、行也。	b067b014	Y18200035-1	
-5_070_A41	v18#280	爻	爻	Regular		古交反。交。	b067b021	Y18200041-1	
+5_070_A41	v18#280	爻	爻	Regular		胡交反。交。	b067b021	Y18200041-1	
 5_070_A51	v18#280	爻	棥	Regular		扶圍扶袁反。蕃。	b067b023	Y18200041-2	
 5_070_A52	v18#280	爻	希	Regular		虚依反。疎。	b067b022	Y18200042-1	
 5_070_A61	v18#281	㸚	㸚	Regular		力計反。二交。	b067b031	Y18200045-1	
@@ -11919,15 +11919,15 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_072_A52	v18#282	車	輥	Regular		古混反。齊等。	b068a013	Y18303038-1	
 5_072_A61	v18#282	車	軝	Regular		渠支反。長轂。〔軙：同上。〕	b068a016		有埋字B。
 5_072_A62	v18#282	車	䡋	Embedded_clerical		軙：同上。	b068a021		埋字B。
-5_072_A63	v18#282	車	轊	Regular		侯嵅反。車軸頭。〔軎：同上。〕	b068a014		有埋字B。
+5_072_A63	v18#282	車	轊	Regular		侯嵅反。車軸頭。〔軎：同上。〕	b068a014		有埋字B。嵅：當作歲。
 5_072_A64	v18#282	車	軎	Embedded_clerical		軎：同上。	b068a015		埋字B。
 5_072_B11	v18#282	車	軹	Regular		之是反。穿。	b068a022		
 5_072_B12	v18#282	車	輻	Regular		甫菊反。委轂長𨊾。	b067b105		
 5_072_B21	v18#282	車	軑	Regular		徒計反。𨊾也、轄也。	b068a023		
 5_072_B22	v18#282	車	輨	Regular		古緩反。轂端鐇。	b068a024		
 5_072_B31	v18#282	車	轅	Regular		禹无反。輈。	b068a025		
-5_072_B32	v18#282	車	輈	Regular		珎留反。⿰車表。	b068a026		
-5_072_B41	v18#282	車	𨏺	Regular		籀文。〔暈(𨍯)：儿足反。直轅車。〕	b068a031		轅：原文似⿰車表。
+5_072_B32	v18#282	車	輈	Regular		珎留反。轅。	b068a026		轅：原作⿰車表。據宋本《玉篇》訂。
+5_072_B41	v18#282	車	𨏺	Regular		籀文。〔暈(𨍯)：儿足反。直轅車。〕	b068a031		轅：原作⿰車表。據宋本《玉篇》訂。
 5_072_B42	v18#282	車	𨍯	Embedded_clerical		暈(𨍯)：几足反。直轅車。	b068a032		埋字A。
 5_072_B42-Shirafuji	v18#282	車	䡞	Regular	白		b068a032		
 5_072_B43	v18#282	車	䡽	Regular		子凡反。𩍴。	b068a033		
@@ -11953,14 +11953,14 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_073_B12	v18#282	車	輸	Regular		如珠反。聚積也、盡也、随最更也。	b068a064	Y18501003-1	
 5_073_B21	v18#282	車	輖	Regular		之由反。重也。	b068a065	Y18501005-1	
 5_073_B22	v18#282	車	輩	Regular		懷概反。部也、類也。	b068a071	Y18501006-1	
-5_073_B31	v18#282	車	軋	Regular		鳥點(黠)反。蜄也、踐也。	b068a072	Y18501007-1	揭出字：原作軓。
+5_073_B31	v18#282	車	軋	Regular		鳥黠反。蜄也、踐也。	b068a072	Y18501007-1	揭出字：原作軓。黠：原作點。據原本《玉篇》訂。
 5_073_B32	v18#282	車	𨋚	Regular		柔兖反。轢。	b068b044	Y18501010-1	
 5_073_B41	v18#282	車	轢	Regular		力的反。軗也。	b068a073	Y18501011-1	
 5_073_B42	v18#282	車	軌	Regular		說鮪反。法也、跡也、政也。	b068a074	Y18501012-1	
 5_073_B501	v18#282	車	䡮	Omitted		Omitted	b068a075	Y18501015-2	
 5_073_B51	v18#282	車	𨌰	Regular		子龍反。車跡。	b068a081	Y18501015-1	
 5_073_B51-Shirafuji	v18#282	車	䡮	Regular	白		b068a081	Y18501015-1	
-5_073_B52	v18#282	車	䡩	Regular		苦耕反。泓声也、堅也。	b069a056	Y18501015-3	
+5_073_B52	v18#282	車	䡩	Regular		苦耕反。紭声也、堅也。	b069a056	Y18501015-3	紭：原本《玉篇》作𨥺。
 5_073_B61	v18#282	車	軼	Regular		余質反。突也、過也。	b069b022	Y18501016-1	突：原文似⿱宀友。
 5_073_B62	v18#282	車	𨎐	Regular		竹利反。車前頓也、輖也。	b068a082	Y18501018-1	
 5_074_A11	v18#282	車	軭	Regular		區方反。車戾。	b068a084	Y18501020-1	
@@ -11968,7 +11968,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_074_A121	v18#282	車	𨎌	Embedded_clerical		𨎌字。			埋字B。
 5_074_A21	v18#282	車	輟	Regular		張衛反。心也、已也。	b068a086	Y18501020-2	
 5_074_A22	v18#282	車	䡔	Regular		苦底反。儗也、至也。	b068a105	Y18501021-1	
-5_074_A31	v18#282	車	轚	Regular		古麗反。經也。	b068a087	Y18501021-2	
+5_074_A31	v18#282	車	轚	Regular		古麗反。經。	b068a087	Y18501021-2	經：原本《玉篇》作絓。
 5_074_A32	v18#282	車	軻	Regular		口佐反。接軸也。	b068a091	Y18501024-2	
 5_074_A321	v18#282	車	轗	Songben-Yupian		#	b068a092		
 5_074_A41	v18#282	車	𨏉	Regular		所拳反。治車軸。	b069b045	Y18501024-1	
@@ -11983,7 +11983,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_074_A63-Miyazawa	v18#282	車	轃	Regular	宮		b068a104	Y18502001-2	
 5_074_B11	v18#282	車	軧	Regular		都礼反。車後。	b068a085	Y18502001-3	
 5_074_B12	v18#282	車	轒	Regular		壯云反。兵車。	b068a106	Y18502002-1	
-5_074_B21	v18#282	車	䡝	Regular		於云反。車後壓。	b068b011	Y18502003-1	
+5_074_B21	v18#282	車	䡝	Regular		於云反。車後𡑅。	b068b011	Y18502003-1	
 5_074_B22	v18#282	車	輂	Regular		居錄反。輿載物。	b068b012	Y18502004-1	
 5_074_B31	v18#282	車	𨌅	Regular		仕佳反。塞也、連車。	b068b013	Y18502005-1	
 5_074_B311	v18#282	車	𨎯	Songben-Yupian		#	b068b014		
@@ -12014,18 +12014,18 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_075_B22	v18#282	車	𨋕	Regular		牛向反。轎也、車也。	b068b053		
 5_075_B31	v18#282	車	䡉	Regular		口莽反。𨋕。	b068b054		
 5_075_B32	v18#282	車	輞	Regular		无往反。𨎶。	b068b055		
-5_075_B41	v18#282	車	𨎶	Regular		⿰金尻鉅反、輞也、錧居反。	b068b061		
+5_075_B41	v18#282	車	𨎶	Regular		⿰金尻鉅反。輞也。錧居反。	b068b061		⿰金尻：呂作鋸。
 5_075_B42	v18#282	車	輎	Regular		山交反。鹿毛餝。	b068b062		
 5_075_B421	v18#282	車	𨌬	Songben-Yupian		#	b068b063		
 5_075_B51	v18#282	車	轇	Regular		古爻反。往來皃。	b068b064		
 5_075_B52	v18#282	車	⿰車比	Regular		之幻反。𨋎上幹。	△		
-5_075_B61	v18#282	車	轓	Regular		甫表反。車有障蔽也、箱也。	b068b073	Y18600001-1	
+5_075_B61	v18#282	車	轓	Regular		甫表反。車有障蔽也、箱也。	b068b073	Y18600001-1	反切：原本《玉篇》作「甫遠甫袁二反」。
 5_075_B62	v18#282	車	𨋖	Regular		力酒反。四輪載官車。	b068b066	Y18600002-1	
 5_075_B621	v18#282	車	𨌡	Songben-Yupian		#	b068b071		
 5_076_A11	v18#282	車	䡲	Regular		上山反。	b069a023	Y18600003-1	
-5_076_A12	v18#282	車	䡜	Regular		力竹反。⿰車著三箱。	b069b025	Y18600003-3	
-5_076_A21	v18#282	車	䡭	Regular		思流反。上文。	b068b072	Y18600004-2	
-5_076_A22	v18#282	車	𨎬	Regular		公即反。車轊。	b068b076	Y18600004-3	
+5_076_A12	v18#282	車	䡜	Regular		力竹反。⿰車著三箱。	b069b025	Y18600003-3	⿰車著：原本《玉篇》作䡭。
+5_076_A21	v18#282	車	䡭	Regular		思流反。上文。	b068b072	Y18600004-2	掲出字：原作⿰車著。
+5_076_A22	v18#282	車	𨎬	Regular		公即反。車轊。	b068b076	Y18600004-3	即：原本《玉篇》作弔。
 5_076_A31	v18#282	車	輍	Regular		余属反。車𨍈前。	b068b075	Y18600004-4	
 5_076_A32	v18#282	車	𨌴	Regular		他同反。盛皃。〔𨋱：同上。〕	b068b081	Y18600005-1	有埋字B。同：當作回。
 5_076_A33	v18#282	車	𨋱	Embedded_clerical		𨋱：同上。	b068b082	Y18600005-2	埋字B。
@@ -12039,7 +12039,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_076_B11	v18#282	車	𨎭	Regular		乃左反。𨎬字。	△	Y18600010-1	
 5_076_B12	v18#282	車	䡚	Regular		亡校反。軥也、引也。	b068b087	Y18600007-3	
 5_076_B21	v18#282	車	軲	Regular		口胡反。山名也、車也。	b068b091	Y18600007-3	
-5_076_B22	v18#282	車	輱	Regular		口咸反。車声。	b068b092	Y18600008-1	
+5_076_B22	v18#282	車	輱	Regular		口减反。車声。	b068b092	Y18600008-1	减：原本《玉篇》作咸。
 5_076_B31	v18#282	車	𨏈	Regular		於近反。車声。	b068b093	Y18600009-1	
 5_076_B32	v18#282	車	軳	Regular		菩勞反。𨋎不正也。	b068b094	Y18600008-2	
 5_076_B41	v18#282	車	輾	Regular		乃古反。	△		
@@ -12047,7 +12047,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_076_B42	v18#282	車	𨏠	Regular		力公反。車軸端。	b068b095	Y18600010-2	
 5_076_B51	v18#282	車	䡐	Regular		徒多反。駈疾皃。〔軳(⿰車㐌)：上文。〕	b068b096	Y18600011-1	有埋字B。
 5_076_B52	v18#282	車	⿰車㐌	Embedded_clerical		軳(⿰車㐌)：上文。	▽		埋字B。
-5_076_B53	v18#282	車	𨎋	Regular		徒朗反。䡙軘⿰車合。	b068b097	Y18600011-2	
+5_076_B53	v18#282	車	𨎋	Regular		徒朗反。䡙軘⿰車合。	b068b097	Y18600011-2	⿰車合：原本《玉篇》作軨。
 5_076_B61	v18#282	車	䡙	Regular		力堂反。𨎋。	b069b052		
 5_076_B62	v18#282	車	軤	Regular		火胡反。	b068b101	Y18600011-3	
 5_077_A11	v18#282	車	輚	Regular		仕澗反。載柩車。〔轏：同上。〕	b068b102	Y18600012-1	有埋字B。柩：原文似⿰扌匹。

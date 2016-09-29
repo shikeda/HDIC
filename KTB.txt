@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.13
+#	Version: 1.0.14
 #	Date published : 1 September 2016
-#	Last modified : 26 September 2016
+#	Last modified : 29 September 2016
 #
 #	Copyright (c) 2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -1879,7 +1879,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_074_A61	v3#35	女	嫧	Regular		初革反。齊也、善也、鮮皃也。	a033a032		
 1_074_A62	v3#35	女	娕	Regular		楚角反。謹也、善也。	a033a033		
 1_074_A621	v3#35	女	𡣒	Songben-Yupian		#	a033a034		
-1_074_B11	v3#35	女	娖	Regular		七角反。謹俻員也。	a033a035		
+1_074_B11	v3#35	女	娖	Regular		七角反。謹備員也。	a033a035		
 1_074_B12	v3#35	女	嬐	Regular		桑廉彥奄二反。敏疾也。	a033a041		
 1_074_B12-Shirafuji	v3#35	女	儉	Regular	白		a033a041		
 1_074_B21	v3#35	女	𡠗	Regular		之利之立二反。至也。摯字。	a033a042		
@@ -5811,7 +5811,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_025_B22	v9#101	音	韸	Regular		薄公反。和。	a088b021	Y09201041-1	
 3_025_B31	v9#101	音	韹	Regular		胡觥反。樂聲也。	a088b022	Y09201042-1	
 3_025_B32	v9#101	音	䪩	Regular		牛金反。吟也、呻也。或訡也。	a088b023	Y09201042-2	
-3_025_B41	v9#101	音	䪧	Regular		徐奇反。俻也、黃帝樂名也。	a088b031	Y09201043-1	
+3_025_B41	v9#101	音	䪧	Regular		徐奇反。備也、黃帝樂名也。	a088b031	Y09201043-1	
 3_025_B42	v9#101	音	頀	Regular		胡故反。護也、湯樂也。	a088b032	Y09201044-1	
 3_025_B51	v9#101	音	韺	Regular		於迎反。帝嚳樂也。	a088b033	Y09201045-1	
 3_025_B52	v9#101	音	䪫	Regular		駭耕反。形也。	a088b034	Y09201046-1	
@@ -6797,7 +6797,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_063_A51	v11#139	宀	寴	Regular		且訒反。至也、儭也。	b003b104		
 3_063_A511	v11#139	宀	𡩁	Songben-Yupian		#	b003b105		
 3_063_A52	v11#139	宀	㝰	Regular		莫田反。冥、不見也。	b003b106		
-3_063_A61	v11#139	宀	完	Regular		和端反。保守也、守也、俻也。	b004a011		
+3_063_A61	v11#139	宀	完	Regular		和端反。保守也、守也、備也。	b004a011		
 3_063_A62	v11#139	宀	富	Regular		甫雷反。福也、盛也。	b004a014		
 3_063_B11	v11#139	宀	宲	Regular		補道反。藏也。	b004a015		
 3_063_B12	v11#139	宀	實	Regular		時質反。滿也、種也、塞也、城也、充也、盡也、富也。	b004a016		
@@ -12055,7 +12055,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_077_A13	v18#282	車	轍	Regular		除引反。車迹。	b068b104	Y18600014-1	
 5_077_A21	v18#282	車	輤	Regular		此見反。載柩車。	b068b105	Y18600014-2	柩：原文似⿰扌匹。
 5_077_A22	v18#282	車	𨌄	Regular		時外反。古文登也。勝也、治也。	△	Y18600016-1	外：當作升。
-5_077_A31	v18#282	車	𨏔	Regular		力木反。三輔輿⿱水貝。	b068b106	Y18600017-1	
+5_077_A31	v18#282	車	𨏔	Regular		力木反。三輔輿水具。	b068b106	Y18600017-1	
 5_077_A311	v18#282	車	轆	Songben-Yupian		#	b069a011		
 5_077_A32	v18#282	車	轤	Regular		力胡反。桔擇(槔)。	b069a012	Y18600018-1	
 5_077_A321	v18#282	車	輡	Songben-Yupian		#	b069a013		
@@ -12120,7 +12120,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_079_A61	v18#283	舟	艅	Regular		翼諸反。吳舩。	b070a015		
 5_079_A62	v18#283	舟	艨	Regular		莫公反。艟、戰舩。	b070a021		
 5_079_B11	v18#283	舟	艗	Regular		莫狄反。鷁首舩。	b070a023		
-5_079_B12	v18#283	舟	𦨲	Regular		扶嚴反。舷也、⿰舟包也。	b070a024		
+5_079_B12	v18#283	舟	𦨲	Regular		扶嚴反。舷也、⿰舟包(舵)也。	b070a024		
 5_079_B21	v18#283	舟	艎	Regular		胡光反。	b070a016		
 5_079_B22	v18#283	舟	艟	Regular		充庸反。	b070a022		
 5_079_B31	v18#283	舟	䑳	Regular		力均反。舩。	b070a062		
@@ -12139,7 +12139,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_080_A22	v18#283	舟	舲	Regular		舟上屋。	b070a041	Y18700006-1	
 5_080_A31	v18#283	舟	舴	Regular		側格反。艋舟。	b070a042	Y18700007-1	揭出字：原作⿰舟官。
 5_080_A32	v18#283	舟	艋	Regular		莫梗反。舴、小舟名。	b070a043	Y18700007-2	
-5_080_A41	v18#284	方	方	Regular		甫芒反。所也、正也、向也、別也、童也、始也、亡也、義也、類也、爲也、宜也、寺也、道也、常也。	b070b041	Y18700009-1	
+5_080_A41	v18#284	方	方	Regular		甫芒反。所也、正也、向也、別也、童也、始也、亡也、義也、類也、為也、宜也、寺也、道也、常也。	b070b041	Y18700009-1	
 5_080_A51	v18#284	方	汸	Regular		方字。	b070b042	Y18700020-1	
 5_080_A52	v18#284	方	斻	Regular		何唐反。方舟。	b070b043	Y18700020-2	
 5_080_A61	v18#284	方	万	Regular		武願反。十千。	b070b044	Y18700021-1	Z18尾(Z18:733字)。
@@ -12152,13 +12152,13 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_080_B42	v19#285	水	涪	Regular		扶鳩反。	b070b082		
 5_080_B51	v19#285	水	渽	Regular		子来反。出水蜀。	b070b091		
 5_080_B52	v19#285	水	江	Regular		古尨反。貢。	b070b092		
-5_080_B61	v19#285	水	沱	Regular		達河反。傍也。	b070b093		
+5_080_B61	v19#285	水	沱	Regular		達河反。傍也。	b070b093		貢：呂云"貢"為誤訓。
 5_080_B611	v19#285	水	沲	Songben-Yupian		#	b070b094		
 5_080_B62	v19#285	水	池	Regular		除知反。	b070b095		
 5_081_A11	v19#285	水	淅	Regular		止世反。匕設反。江也、源也。	▽(b075a104)		疑当作「浙」。
 5_081_A12	v19#285	水	湔	Regular		子田反。浣也、洗也。	b070b101		
 5_081_A21	v19#285	水	沫	Regular		亡達反。水出蜀、浮沫也、已也。	b070b103		
-5_081_A22	v19#285	水	溫	Regular		於魂反。善也、和也、尋也、微契也。	b071a011		掲出字：原作温。
+5_081_A22	v19#285	水	溫	Regular		於魂反。善也、和也、尋也、微契。	b071a011		掲出字：原作温。
 5_081_A31	v19#285	水	灊	Regular		似林反。出巴。	b071a012		
 5_081_A32	v19#285	水	滇	Regular		丁田反。池。	b071a013		
 5_081_A41	v19#285	水	沮	Regular		且居反。壞也、止也、非也、濕也。	b071a022		
@@ -12189,13 +12189,13 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_082_A32	v19#285	水	潞	Regular		力故反。	b073a092		
 5_082_A41	v19#285	水	汾	Regular		扶分反。	b073a054		
 5_082_A42	v19#285	水	澮	Regular		古會反。通水。	b073a093		
-5_082_A51	v19#285	水	洈	Regular		牛爲反。	b073a101		
+5_082_A51	v19#285	水	洈	Regular		牛為反。	b073a101		
 5_082_A52	v19#285	水	沁	Regular		先林反。	b073a102		
 5_082_A61	v19#285	水	沾	Regular		勅兼反。益也、薄。	b073a103		
 5_082_A62	v19#285	水	漳	Regular		至裳反。	b073a104		
 5_082_B11	v19#285	水	淇	Regular		渠基反。	b073b011		
 5_082_B12	v19#285	水	蕩	Regular		達朗反。廣遠皃。	b073b012		
-5_082_B21	v19#285	水	沇	Regular		胡𥚹反、俞選反。沼上文。	b073b013		
+5_082_B21	v19#285	水	沇	Regular		胡𥚹反、俞選反。沿上文。	b073b013		沿：原文似沼。
 5_082_B22	v19#285	水	沿	Regular		古允反、余專反。	△(b072b043)		
 5_082_B31	v19#285	水	泲	Regular		子礼反。濟字。	b073b014		
 5_082_B32	v19#285	水	溠	Regular		作賀反。析也。	b073b021		
@@ -12205,13 +12205,13 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_082_B52	v19#285	水	灌	Regular		古換反。沃澍也、飲也、獻也、聚也、潰也、冣也。	b073b031		
 5_082_B61	v19#285	水	漸	Regular		似斂反。入也、進也、稍清也、漯也。	b073b032		
 5_082_B62	v19#285	水	㵋	Regular		亡秋反。	b073b024		
-5_083_A11	v19#285	水	泠	Regular		來丁反。清涼也。	b073b033		
-5_083_A12	v19#285	水	滶	Regular		牛力反。	b073b072		
+5_083_A11	v19#285	水	泠	Regular		来丁反。清涼也。	b073b033		
+5_083_A12	v19#285	水	滶	Regular		牛力故。	b073b072		故：當作反。
 5_083_A21	v19#285	水	㵺	Regular		普計反。	b073b034		
 5_083_A22	v19#285	水	淠	Regular		尼制反、左制反。上文。舟行皃。	b079a032		揭出字：原作⿰氵早。
 5_083_A221	v19#285	水	𣹮	Songben-Yupian		#	b073b042		
 5_083_A31	v19#285	水	溧	Regular		里吉反。塞氣也。	b073b043		
-5_083_A32	v19#285	水	溱	Regular		側詵反。哉銀反。	b073b045		哉：原文模糊。
+5_083_A32	v19#285	水	溱	Regular		側詵反。哉銀反。	b073b045		哉：原文模糊。呂作胾。
 5_083_A41	v19#285	水	㵲	Regular		或潕反。	b073b071		
 5_083_A42	v19#285	水	湘	Regular		思量反。享也。	b073b051		
 5_083_A51	v19#285	水	湞	Regular		徵京反。	b073b044		
@@ -12220,7 +12220,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_083_A62	v19#285	水	漞	Embedded_clerical		漞：同上。	b073b054		埋字B。
 5_083_A63	v19#285	水	溜	Regular		力救反。	b073b052		
 5_083_B11	v19#285	水	瀷	Regular		与力反。	b073b063		
-5_083_B12	v19#285	水	深	Regular		式蔵反。潛也、測也、邃也。	b073b055		
+5_083_B12	v19#285	水	深	Regular		式蔵反。潛也、測也、邃。	b073b055		
 5_083_B21	v19#285	水	潭	Regular		徒耽反。渕。	b073b061		
 5_083_B22	v19#285	水	油	Regular		餘周反。麻肥。	b073b062		
 5_083_B221	v19#285	水	灃	Songben-Yupian		#	b073b081		
@@ -12236,8 +12236,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_084_A111	v19#285	水	洩	Songben-Yupian		#	b073b102		
 5_084_A112	v19#285	水	汴	Songben-Yupian		#	b073b103		
 5_084_A12	v19#285	水	汳	Regular		芳万反。上文。	b073b104		
-5_084_A21	v19#285	水	潧	Regular		哉銀反。〔溙字。〕	b073b092		有埋字B。哉：原文模糊。
-5_084_A211	v19#285	水	溙	Embedded_clerical		溙字。			埋字B。
+5_084_A21	v19#285	水	潧	Regular		制銀反。〔溙字。〕	b073b092		有埋字B。制：呂作胾。
+5_084_A211	v19#285	水	溙	Embedded_clerical		溙字。			埋字B。溙：呂作溱。
 5_084_A22	v19#285	水	淩	Regular		里丞反。	b073b105		
 5_084_A31	v19#285	水	濼	Regular		力沃力各反。	b074a011		
 5_084_A32	v19#285	水	瀙	Regular		且進反。	b073b073		
@@ -12257,7 +12257,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_084_B41	v19#285	水	沭	Regular		時聿反。	b074a041		
 5_084_B42	v19#285	水	洙	Regular		時俱反。	b074a042		
 5_084_B51	v19#285	水	沂	Regular		魚衣反。	b074a043		
-5_084_B52	v19#285	水	濰	Regular		以隹反、■侯反。	b077b084		
+5_084_B52	v19#285	水	濰	Regular		以隹反、■侯反。	b077b084		■：呂作㔯。
 5_084_B61	v19#285	水	洋	Regular		似涼反。美也、盛也。	b074a044		
 5_084_B62	v19#285	水	濁	Regular		徒角反。圂也。	b074a051		
 5_085_A11	v19#285	水	漑	Regular		柯賚反。注灌。	b074a052		
@@ -12276,19 +12276,19 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_085_A62	v19#285	水	沵	Regular		泜字。渚也。	△(b072a011)		
 5_085_B11	v19#285	水	𣹡	Regular		大渚。	△		
 5_085_B12	v19#285	水	灅	Regular		力水反。	b074a083		
-5_085_B21	v19#285	水	濟	Regular		子悌反。礼反、渡也、益也、成。	b074a092		
+5_085_B21	v19#285	水	濟	Regular		子悌子礼反、渡也、益也、成。	b074a092		
 5_085_B211	v19#285	水	㴉	Songben-Yupian		#	b074a093		
 5_085_B212	v19#285	水	済	Songben-Yupian		#	b074a094		
-5_085_B22	v19#285	水	濡	Regular		如娛反。潤漬。	b074a091		
+5_085_B22	v19#285	水	濡	Regular		如娛反。潤漬也。	b074a091		
 5_085_B31	v19#285	水	沽	Regular		公奴反。洗也、故也、必也、功也、略也、行也、賣也。	b074a095		
-5_085_B32	v19#285	水	沛	Regular		補賴反。傍也、顛也、浦上文。	b074a101		
+5_085_B32	v19#285	水	沛	Regular		補賴反。傍也、顛也、浦上文。拔也、大也。	b074a101		
 5_085_B41	v19#285	水	浿	Regular		公間反、補賴反。	b074a103		
-5_085_B42	v19#285	水	瀤	Regular		爲乖反。北方水。	b074a104		
+5_085_B42	v19#285	水	瀤	Regular		為乖反。北方水。	b074a104		
 5_085_B51	v19#285	水	𣻐	Regular		且於反。	b074b011		
 5_085_B52	v19#285	水	泒	Regular		古胡反。	b074b012		
 5_085_B61	v19#285	水	𣻎	Regular		枯漏反。	b074b014		
 5_085_B62	v19#285	水	淶	Regular		呂開反。	b074b015		
-5_086_A11	v19#285	水	泥	Regular		如雞反。濕也、地泉漯也。	b074b021		
+5_086_A11	v19#285	水	泥	Regular		如鷄反。濕也、地泉漯也。	b074b021		
 5_086_A12	v19#285	水	湳	Regular		乃感反。水。	b074b022		
 5_086_A21	v19#285	水	漹	Regular		於乹反。	b074b023		
 5_086_A22	v19#285	水	涶	Regular		吐過反。口液也。	b074b024		
@@ -12321,7 +12321,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_087_A23	v19#285	水	潮	Embedded_clerical		潮：同上。	b074b071		埋字B。
 5_087_A31	v19#285	水	濥	Regular		余仞反。水脉湆行地中。	b074b072		掲出字：原作演。
 5_087_A32	v19#285	水	溥	Regular		怖古反。大也、廣也、遍也。	b074b064		
-5_087_A41	v19#285	水	滔	Regular		勑高反。大水也、謾也、過。	b074b073		
+5_087_A41	v19#285	水	滔	Regular		勅高反。大水也、謾也、過。	b074b073		
 5_087_A42	v19#285	水	涓	Regular		古玄反。小流也。	b074b074		
 5_087_A51	v19#285	水	混	Regular		胡本反。濁也。	b074b081		
 5_087_A52	v19#285	水	潒	Regular		徒黨反。二流也、洗也、流也。	b074b075		
@@ -12353,7 +12353,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_088_A51	v19#285	水	浩	Regular		胡道反。饒也、流也。	b071a053		
 5_088_A52	v19#285	水	沆	Regular		何黨反。莽也、大澤也。	b071a054		
 5_088_A61	v19#285	水	泬	Regular		古穴胡決反。水從穴出。	b071a055		
-5_088_A62	v19#285	水	濞	Regular		普俻反。	b071a061		
+5_088_A62	v19#285	水	濞	Regular		普備反。	b071a061		
 5_088_B11	v19#285	水	潝	Regular		虛及反。泊也。	b071a062		
 5_088_B12	v19#285	水	灂	Regular		仕角反。雨水損物。	b071a064		
 5_088_B21	v19#285	水	潐	Regular		子召反。水盡。	b071a065		
@@ -12362,17 +12362,17 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_088_B32	v19#285	水	瀾	Regular		力安反。清。	b071a072		
 5_088_B41	v19#285	水	灡	Regular		同上。漪。	b071a073		
 5_088_B42	v19#285	水	漣	Regular		力纏反。泣血。	b071a081		
-5_088_B51	v19#285	水	淪	Regular		力均反。率也、小波也。	b071a082		
+5_088_B51	v19#285	水	淪	Regular		力均反。率也、小波也。	b071a082		波：原作彼、誤。
 5_088_B52	v19#285	水	潏	Regular		古穴反。水涌出。	b071a083		
 5_088_B61	v19#285	水	洸	Regular		古黃反。武皃。	b071a091		
 5_088_B62	v19#285	水	淙	Regular		仕宗反。潰也、清也。	b071a092		
 5_089_A11	v19#285	水	波	Regular		博何反。瀾也、頗也、華也。	b071a093		
 5_089_A12	v19#285	水	漂	Regular		芳妙反。流也、散也、浮也。	b071a094		
-5_089_A21	v19#285	水	浮	Regular		扶尤反。汎水上也、行也、過也、輕也、漂也、汜也。	b071a095		
+5_089_A21	v19#285	水	浮	Regular		扶尤反。汎水上也、行也、過也、輕也、漂也、氾也。	b071a095		
 5_089_A22	v19#285	水	泓	Regular		鳥宏反。清深。	b071a084		
 5_089_A31	v19#285	水	氾	Regular		扶釼反。汎作也、淹也、濫也、清也、廣。	b071a101		
 5_089_A32	v19#285	水	湍	Regular		恥丸反。瀬淺。	b078a013		
-5_089_A41	v19#285	水	濫	Regular		力蹔反。汎也、清也、汜也。	△		
+5_089_A41	v19#285	水	濫	Regular		力蹔反。汎也、清也、氾也。	△		
 5_089_A42	v19#285	水	湋	Regular		胡飛反。圓渕也。	b071a103		
 5_089_A51	v19#285	水	潿	Regular		同上。不濁流。	b071a104		
 5_089_A52	v19#285	水	測	Regular		楚力反。度也、清也。	b071a105		
@@ -12382,7 +12382,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_089_B12	v19#285	水	洶	Regular		詡鞏反。涌也。	b071b014		
 5_089_B21	v19#285	水	涌	Regular		俞種反。盡也、滕也、泉白。〔湧：同上。〕	b071b021		有埋字B。
 5_089_B22	v19#285	水	湧	Embedded_clerical		湧：同上。	b071b022		埋字B。
-5_089_B23	v19#285	水	湁	Regular		創立弓。鼎沸徵。	b071b024		
+5_089_B23	v19#285	水	湁	Regular		創立弓。鼎沸徵。	b071b024		弓：當作反。
 5_089_B31	v19#285	水	涳	Regular		口江反。直流也。	b071b025		
 5_089_B32	v19#285	水	溶	Regular		俞種反。波也、水盛也。	b071b031		
 5_089_B41	v19#285	水	洌	Regular		力折反。寒皃、潔也。	b071b023		
@@ -12404,7 +12404,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_090_A42	v19#285	水	㵏	Embedded_clerical		㵏：或。	b071b065		埋字B。
 5_090_A43	v19#285	水	淵	Regular		於玄反。深也。或渕。〔囦：古文。〕	b071b061		掲出字：原作渕。有埋字B。
 5_090_A44	v19#285	水	囦	Embedded_clerical		囦：古文。	b071b062		埋字B。
-5_090_A51	v19#285	水	瀰	Regular		莫尔反莫啟反。深也、滿也。	b071b066		
+5_090_A51	v19#285	水	瀰	Regular		莫尔莫啓反。深也、滿也。	b071b066		
 5_090_A52	v19#285	水	𣴱	Regular		同上。亡尒反。〔潯：字林反。旁深也。〕	b071b071		有埋字A。
 5_090_A53	v19#285	水	潯	Embedded_clerical		潯：字林反。旁深也。	b071b072		埋字A。
 5_090_A61	v19#285	水	泙	Regular		帛明反。谷名。	b071b074		
@@ -12414,11 +12414,11 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_090_B21	v19#285	水	洊	Regular		同上。洊仍也。	b071b081		
 5_090_B211	v19#285	水	潪	Songben-Yupian		#	b071b082		
 5_090_B22	v19#285	水	𤁰	Regular		直赤反。水得土阻。	b071b083		
-5_090_B31	v19#285	水	滿	Regular		莫誕反。盈也、亥(充)也、實也。	b071b084		
+5_090_B31	v19#285	水	滿	Regular		莫誕反。盈也、充也、實也。	b071b084		充：原作亥、誤。
 5_090_B32	v19#285	水	滑	Regular		獲八反。利也。	b071b085		
 5_090_B41	v19#285	水	濇	Regular		所力反。不滑。	b071b091		
 5_090_B42	v19#285	水	泆	Regular		余質反。水所蕩。	b071b092		
-5_090_B51	v19#285	水	澤	Regular		直格反。先潤也、思也、祿也。	b071b093		
+5_090_B51	v19#285	水	澤	Regular		直格反。先潤也、恩也、祿也。	b071b093		
 5_090_B52	v19#285	水	淫	Regular		余斟反。浸潤也、大也、久也、霖也。	b071b094		
 5_090_B61	v19#285	水	溽	Regular		如燭反。潤。	b071b101		
 5_090_B62	v19#285	水	瀸	Regular		作廉反。清也、濡也、沒也。	b071b102		
@@ -12432,7 +12432,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_091_A41	v19#285	水	濢	Regular		且遂反。下濕。	b072a014		
 5_091_A42	v19#285	水	涅	Regular		如結反。黑在水中、化也。	b072a021		
 5_091_A51	v19#285	水	滋	Regular		子時反。液也、益也、長也、蕃也、旨也、蒔也。	b072a022		
-5_091_A52	v19#285	水	𣴵	Regular		乎潰反。青黑也、大清也。	b072a023		
+5_091_A52	v19#285	水	𣴵	Regular		乎潰反。青黒也、大清也。	b072a023		
 5_091_A521	v19#285	水	㳷	Songben-Yupian		#	b072a024		
 5_091_A61	v19#285	水	浥	Regular		於立反。濕也、和氣也。	b072a025		
 5_091_A62	v19#285	水	沙	Regular		所加反。小散破也。	b072a031		
@@ -12448,18 +12448,18 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_091_B51	v19#285	水	漘	Regular		時均反。涯也、溓也。	b072a052		
 5_091_B52	v19#285	水	浦	Regular		配戶反。布也、水濱也、水涯也。	b072a053		
 5_091_B61	v19#285	水	沚	Regular		諸以反。小渚也。	b072a054		
-5_091_B62	v19#285	水	湀	Regular		口決反。間流泉。	b072a061		
+5_091_B62	v19#285	水	湀	Regular		口决反。間流泉。	b072a061		
 5_092_A11	v19#285	水	沸	Regular		不謂反。湯。〔㵒：或。〕出也、波涌。	b072a062		有埋字B。
 5_092_A12	v19#285	水	㵒	Embedded_clerical		㵒：或。	b072a063		埋字B。
 5_092_A13	v19#285	水	派	Regular		普𢢣反。水別流。洈上文。	b072a064		
 5_092_A21	v19#285	水	濘	Regular		奴定反。泥也、清也。	b072a065		
 5_092_A22	v19#285	水	洼	Regular		烏蛙反。汙也。	b072a072		
 5_092_A31	v19#285	水	漥	Regular		烏花反。小水也、下也。	b072a071		
-5_092_A32	v19#285	水	滎	Regular		胡駒(駉)反、烏逥(迥)反。小水也、澤也。	b072a073		
+5_092_A32	v19#285	水	滎	Regular		胡駒反、烏逥反。小水也、澤也。	b072a073		駒：疑當作駉。逥：上田作迴。呂同作。疑當作迥。
 5_092_A41	v19#285	水	瀅	Regular		烏逥反。藂字。	b072a074		
 5_092_A42	v19#285	水	沼	Regular		之紹反。池。	b072a051		
 5_092_A51	v19#285	水	潢	Regular		後光反。池也、積水。	b072a075		
-5_092_A52	v19#285	水	湖	Regular		戶徒反。大波(陂)。	b072a081		
+5_092_A52	v19#285	水	湖	Regular		戶徒反。大陂。	b072a081		陂：原文似波。
 5_092_A61	v19#285	水	汥	Regular		渠知反。水流。	b072a082		
 5_092_A62	v19#285	水	湄	Regular		莫龜反。水溓也。	b072a083		
 5_092_B11	v19#285	水	𤃱	Regular		亦漏也。湄字。	b072a084		
@@ -12492,7 +12492,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_093_A62	v19#285	水	渡	Regular		徒胡反。濟也、過也、去也。	b072b041		
 5_093_B11	v19#285	水	泭	Regular		撫夫反、凶隅反。編木渡水、水名。〔𣻜：同上。〕	b077b086		有埋字B。
 5_093_B12	v19#285	水	𣻜	Embedded_clerical		𣻜：同上。	△		埋字B。
-5_093_B13	v19#285	水	淜	Regular		俻袊反。和徒陟也。	b072b042		
+5_093_B13	v19#285	水	淜	Regular		備袊反。和徒陟也。	b072b042		
 5_093_B21	v19#285	水	沿	Regular		余穿反。從流而下。	b072b043		
 5_093_B22	v19#285	水	泝	Regular		蘇故反。逆流上洄也。〔𣹫：同上。〕	b072b051		有埋字B。
 5_093_B23	v19#285	水	𣹫	Embedded_clerical		𣹫：同上。	△		埋字B。
@@ -16152,7 +16152,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_078_B41	v24#397	魚	鰿	Regular		子益反。鮒也。	c039a093	Y24101002-2	
 6_078_B42	v24#397	魚	鯽	Regular		同上。	c039a094	Y24101003-3	
 6_078_B51	v24#397	魚	鱯	Regular		胡跨反。鮎大。	c039a095	Y24101003-1	注文大字。
-6_078_B52	v24#397	魚	魾	Regular		俻飢反。同上。	c039a096	Y24101003-2	
+6_078_B52	v24#397	魚	魾	Regular		備飢反。同上。	c039a096	Y24101003-2	
 6_078_B61	v24#397	魚	𩸄	Regular		胡瓦反。鯉鱧。	c039a097	Y24101006-1	
 6_078_B62	v24#397	魚	鱬	Regular		如珠反。如魚人面。	c039a102	Y24101006-2	
 6_079_A11	v24#397	魚	𩹂	Regular		禹貴反。如虵四足。	c039a101	Y24102007-1	
@@ -17513,7 +17513,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_129_B51	v27#425	糸	絿	Regular		渠周反。色也、求也。	c056a076	Y27100139-1	
 6_129_B52	v27#425	糸	絅	Regular		苦營反。引忽也。	c056a081	Y27100140-1	
 6_129_B61	v27#425	糸	䌴	Regular		力卧反。不勾也。	c056a082	Y27100140-2	
-6_129_B62	v27#425	糸	給	Regular		居及反。供也、及也、足也、俻也。	c056a083	Y27100140-3	
+6_129_B62	v27#425	糸	給	Regular		居及反。供也、及也、足也、備也。	c056a083	Y27100140-3	
 6_130_A11	v27#425	糸	綝	Regular		丑林反。若也、止也。	c056a084	Y27100144-1	
 6_130_A111	v27#425	糸	縪	Omitted		Omitted	c056a085	Y27100144-2	
 6_130_A12	v27#425	糸	䊵	Regular		渠周反。引也。	c056a091	Y27100146-1	

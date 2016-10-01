@@ -10,7 +10,7 @@
 #
 #	Version: 1.0.15
 #	Date published : 1 September 2016
-#	Last modified : 30 September 2016
+#	Last modified : 1 October 2016
 #
 #	Copyright (c) 2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)

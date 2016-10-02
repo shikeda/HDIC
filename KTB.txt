@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.15
+#	Version: 1.0.16
 #	Date published : 1 September 2016
-#	Last modified : 1 October 2016
+#	Last modified : 2 October 2016
 #
 #	Copyright (c) 2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -12907,7 +12907,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_108_B11-Miyazawa	v20#291	泉	瀪	Regular	宮		b080b102		
 5_108_B21	v20#292	灥	灥	Regular		似均反。三泉。	b081a011		
 5_108_B31	v20#292	灥	𠫐	Regular		牛園反。泉本原。《説文》：揆也、田也、再也、本也、端。	b081a012		
-5_108_B41	v20#293	永	永	Regular		爲固反。長遠也、引也、⿺⻎臼(遐)也。	b081a021		
+5_108_B41	v20#293	永	永	Regular		為固反。長遠也、引也、⿺⻎臼(遐)也。	b081a021		固：當作冏。
 5_108_B51	v20#293	永	昶	Regular		恥兩反。通也、達也。	b081a023		
 5_108_B52	v20#293	永	羕	Regular		余尚反。長也。	b081a022		
 5_108_B61	v20#294	𠂢	𠂢	Regular		普𢢣反。別也。	b081a031		
@@ -12931,12 +12931,12 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_109_B21	v20#295	谷	䜯	Regular		渠陸反。谷。	b081a081		
 5_109_B22	v20#295	谷	𧮶	Regular		下溝反。谷名。	b081a073		
 5_109_B31	v20#295	谷	谼	Regular		胡東反。大壑。	b081a083		壑：原作&I-CB04411;
-5_109_B32	v20#295	谷	𧮺	Regular		丘(仕)晏反。谷。	b081a096		
+5_109_B32	v20#295	谷	𧮺	Regular		仕晏反。谷。	b081a096		仕：原作丘。據《新撰字鏡》引《玉篇》訂。
 5_109_B41	v20#295	谷	䜰	Regular		呼勞反。深谷。	b081a085		
 5_109_B41-Miyazawa	v20#295	谷	𧯌	Regular	宮		b081a085		
 5_109_B42	v20#295	谷	䜮	Regular		力豪反。𧯌。	b081a091		
 5_109_B51	v20#295	谷	䜪	Regular		渠周反。䜱。	b081a071		
-5_109_B52	v20#295	谷	谿	Regular		苦号(兮)反。	△		
+5_109_B52	v20#295	谷	谿	Regular		苦兮反。	△		兮：原作号。
 5_109_B61	v20#295	谷	豁	Regular		呼活反。空通谷也、大量。	△		
 5_109_B62	v20#295	谷	豂	Regular		力周反。空谷深。	△		
 5_110_A11	v20#295	谷	谾	Regular		呼江反。谷空。	△		
@@ -12944,27 +12944,27 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_110_A12	v20#295	谷	䜭	Regular		思閨反。深通川、坑、坎。	b081a072		
 5_110_A21	v20#295	谷	豄	Regular		徒鹿反。瀆字也、通溝也、清。	b081a074		
 5_110_A22	v20#295	谷	䜲	Regular		力渉反。	b081a082		
-5_110_A31	v20#295	谷	谼	Regular		胡東反。大谷。	△(b081a083)		
+5_110_A31	v20#295	谷	谼	Regular		胡東[反]。大谷。	△(b081a083)		
 5_110_A31-Miyazawa	v20#295	谷	⿰谷苦	Regular	宮		△(b081a083)		
 5_110_A32	v20#295	谷	谽	Regular		呼今反。大空也。	b081a094		
 5_110_A41	v20#295	谷	䜯	Regular		渠六反。谷名。	△		
 5_110_A42	v20#295	谷	䜪	Regular		渠周反。䜱也、亭。	△		
 5_110_A51	v20#295	谷	䜲	Regular		力渉反。余聚。	△		
 5_110_A52	v20#295	谷	𧮰	Regular		呼含反。潤谷。	b081a084		
-5_110_A61	v20#296	冫	仌	Regular		鄙⿰矛合(矝)反。	b081b012		
+5_110_A61	v20#296	冫	仌	Regular		鄙矝反。	b081b012		矝：原作⿰矛合。
 5_110_B11	v20#296	冫	冫	Regular		筆陵反。凍結。	b081b011		
-5_110_B12	v20#296	冫	凌	Regular		力水反。水室也、氷坏。	b081b025		
-5_110_B21	v20#296	冫	凋	Regular		丁■(弔)反。半傷。	b081b085		
+5_110_B12	v20#296	冫	凌	Regular		力水反。水室也、氷坏。〔[凝]：魚膺反。堅也。〕	b081b025		
+5_110_B21	v20#296	冫	凋	Regular		丁■反。半傷。	b081b085		■：原作⿰早卩、上田作聊、呂作弔。《新撰字鏡》引《玉篇》作聊。
 5_110_B22	v20#296	冫	㓉	Regular		胡括反。生也。	b081b086		
 5_110_B31	v20#296	冫	凋	Regular		丁聊反。傷也、弊也。	△(b081b085)		
-5_110_B32	v20#296	冫	㓏	Regular		胡𤇆(炯)反。冷。	△		掲出字：宮澤作𠖷。呂同。又呂云「“𠖷”字原訛」。
+5_110_B32	v20#296	冫	㓏	Regular		胡炯反。冷。	△		掲出字：宮澤作𠖷。呂同。又呂云「“𠖷”字原訛」。炯：原作𤇆、誤。
 5_110_B32-Miyazawa	v20#296	冫	𠖷	Regular	宮		△		
-5_110_B41	v20#296	冫	冽	Regular		力减(滅)反。漂也、寒氣。	b081b035		
-5_110_B42	v20#296	冫	𠗨	Regular		徒頰反。浹(𠗉)也。	△		
+5_110_B41	v20#296	冫	冽	Regular		力滅反。漂也、寒氣。	b081b035		滅：原作减。據《新撰字鏡》引《玉篇》訂。
+5_110_B42	v20#296	冫	𠗨	Regular		徒頰反。𠗉也。	△		𠗉：原作浹。據《新撰字鏡》引《玉篇》訂。
 5_110_B51	v20#296	冫	凒	Regular		魚哀反。崇積也、愸也。	b081b043		
-5_110_B52	v20#296	冫	凝	Regular		魚膺反。或(成)也、止也、堅也。	b081b045		
+5_110_B52	v20#296	冫	凝	Regular		魚膺反。成也、止也、堅也。	b081b045		成：原作或。據《新撰字鏡》引《玉篇》訂。
 5_110_B61	v20#296	冫	冰	Regular		筆陵反。堅也。	b081b013		
-5_110_B62	v20#296	冫	𠗊	Regular		渠𦬇(井)反。寒。	△		掲出字：原作⿰冫䍃。
+5_110_B62	v20#296	冫	𠗊	Regular		渠井反。寒。	△		掲出字：原作⿰冫䍃。井：原作𦬇。
 5_111_A11	v20#296	冫	凜	Regular		力甚反。寒也。	b081b014		
 5_111_A12	v20#296	冫	⿲冫白白	Embedded_clerical		古文。			埋字B。
 5_111_A13	v20#296	冫	凊	Regular		且淨反。寒也、冷也。	b081b021		
@@ -12973,24 +12973,24 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_111_A23	v20#296	冫	凍	Regular		都洞反。氷。	b081b024		
 5_111_A31	v20#296	冫	准	Regular		之允反。準字。	b081b091		
 5_111_A32	v20#296	冫	𠗲	Regular		凌字。	b081b031		
-5_111_A41	v20#296	冫	冭	Regular		恥頼反。秦(泰)字。滑也、通也。	b081b063		
-5_111_A42	v20#296	冫	冬	Regular		都農反。中也、終也、四時將盡。	b081b062		《新撰字鏡》玉篇部分「𠔙　上古文」。
+5_111_A41	v20#296	冫	冭	Regular		恥頼反。泰字。滑也、通也。	b081b063		泰：原作秦。
+5_111_A42	v20#296	冫	冬	Regular		都農反。中也、終也、四時將盡。	b081b062		《新撰字鏡引《玉篇》云「𠔙　上古文」。
 5_111_A51	v20#296	冫	冶	Regular		余赭反。銷。	b081b052		
 5_111_A52	v20#296	冫	凚	Regular		渠錦反。寒。	b081b087		
 5_111_A61	v20#296	冫	冷	Regular		力鼎反。寒。	b081b054		
-5_111_A62	v20#296	冫	㓏	Regular		胡𤈍(炯)反。冷也。	b081b032		
+5_111_A62	v20#296	冫	㓏	Regular		胡炯反。冷也。	b081b032		炯：原作𤈍。
 5_111_A62-Miyazawa	v20#296	冫	𠖷	Regular	宮		b081b032		
 5_111_B11	v20#296	冫	凇	Regular		相龍反。凍落。	b081b033		
 5_111_B12	v20#296	冫	凓	Regular		力質反。寒皃。	b081b034		
-5_111_B21	v20#296	冫	𠗨	Regular		徒頰反。浹(𠗉)也。	b081b041		
+5_111_B21	v20#296	冫	𠗨	Regular		徒頰反。𠗉也。	b081b041		𠗉：原作浹。據《新撰字鏡》引《玉篇》訂。
 5_111_B22	v20#296	冫	𠗉	Regular		相頰反。水滂溏。	b081b036		
-5_111_B31	v20#296	冫	凗	Regular		似回反。霜雪皃。	b081b042		
+5_111_B31	v20#296	冫	凗	Regular		似回反。霜雪皃。	b081b042		回：原作囙。
 5_111_B31-Shirafuji	v20#296	冫	漼	Regular	白		b081b042		
 5_111_B32	v20#296	冫	𠗊	Regular		渠井反。寒皃。	b081b044		
 5_111_B41	v20#296	冫	准	Regular		之允反。均平。	△		
 5_111_B42	v20#296	冫	况	Regular		詡誑反。歎也、譬也、善也、益也。	b081b092		
-5_111_B51	v20#296	冫	凌	Regular		力承反。水(氷)室也。𠗲凌字。	△		
-5_111_B61	v20#297	雨	雨	Regular		雨詡反。雲中下水。〔𠕒：古文、雨。〕	b081b101		有埋字B。
+5_111_B51	v20#296	冫	凌	Regular		力承反。水室也。𠗲凌字。	△		水：當作氷。
+5_111_B61	v20#297	雨	雨	Regular		有詡反。雲中下水。〔𠕒：古文、雨。〕	b081b101		有埋字B。
 5_111_B62	v20#297	雨	𠕒	Embedded_clerical		𠕒：古文雨。	b081b102		埋字B。
 5_111_B621	v20#297	雨	𠕲	Omitted		Omitted	b081b103		
 5_112_A11	v20#297	雨	霅	Regular		徒甲反。胡合反。振雷皃。	b081b104		
@@ -13002,10 +13002,10 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_112_A221	v20#297	雨	𤳳	Omitted		Omitted	△		
 5_112_A23	v20#297	雨	𤳳	Regular		古文。	△		
 5_112_A24	v20#297	雨	𩇓	Regular		籀文。	b082a015		
-5_112_A31	v20#297	雨	霣	Regular		爲閔反。轉雷起。	b082a016		
+5_112_A31	v20#297	雨	霣	Regular		為閔反。轉雷起。	b082a016		
 5_112_A32	v20#297	雨	𩆆	Regular		古文。	b082a021		
 5_112_A41	v20#297	雨	霆	Regular		達鼎反。疾雷也、動也。	b082a022		
-5_112_A42	v20#297	雨	電	Regular		達見反。陰陽幾耀。	b082a023		
+5_112_A42	v20#297	雨	電	Regular		達見反。陰陽幾燿。	b082a023		
 5_112_A51	v20#297	雨	𩃿	Regular		古電。	b082a024		
 5_112_A52	v20#297	雨	震	Regular		之刃反。動也、起也。	b082a025		
 5_112_A61	v20#297	雨	𩇒	Regular		《説文》：辰(震)。	b082a031		
@@ -13019,27 +13019,27 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_112_B22	v20#297	雨	𩆵	Embedded_clerical		𩆵：思[ ]反。小雨。霰字。	b082a037		埋字A。
 5_112_B23	v20#297	雨	雹	Regular		菩角反。凝雨合也。	b082a041		
 5_112_B31	v20#297	雨	𩅟	Regular		古文。	b082a042		
-5_112_B32	v20#297	雨	霝	Regular		刀(力)丁反。落也。	b082a043		
+5_112_B32	v20#297	雨	霝	Regular		力丁反。落也。	b082a043		
 5_112_B33	v20#297	雨	零	Regular		同上。〔𩂣：力各反。雨零也、落也。〕	b082a044		有埋字A。
 5_112_B34	v20#297	雨	𩂣	Embedded_clerical		𩂣：力各反。雨零也、落也。	b082a045		埋字A。
-5_112_B41	v20#297	雨	𩃔	Regular		所咸反。微雨。	b082a052		
+5_112_B41	v20#297	雨	𩃔	Regular		所咸反。微雨。	b082a052		掲出字：原作⿱雨叐。
 5_112_B42	v20#297	雨	𩄡	Regular		力沾反。久雨。	b082b083		
 5_112_B51	v20#297	雨	霢	Regular		莫䤋反。小雨。	b082a046		
 5_112_B51-Miyazawa	v20#297	雨	霡	Regular	宮		b082a046		
-5_112_B52	v20#297	雨	霂	Regular		莫小穀反。霡也。	b082a051		呂云：「疑當作"莫卜、莫穀二反"」。
-5_112_B61	v20#297	雨	𩆑	Regular		相丸反。小丙(雨)。	b082a054		
+5_112_B52	v20#297	雨	霂	Regular		莫小[　]穀反。霡也。	b082a051		反切：上田云、原莫小(卜歟)穀。呂云、疑當作"莫卜、莫穀二反"。
+5_112_B61	v20#297	雨	𩆑	Regular		相丸反。小雨。	b082a054		雨：原作丙。據宋本《玉篇》訂。
 5_112_B62	v20#297	雨	𩅧	Regular		之戎反。小雨。	b082b065		
-5_113_A11	v20#297	雨	𩃔	Regular		所成(咸)反。微雨。	△		
+5_113_A11	v20#297	雨	𩃔	Regular		所成反。微雨。	△		掲出字：原作⿱雨叐。成：當作咸。
 5_113_A12	v20#297	雨	霃	Regular		雉今反。天多雲久陰也。	b082a055		
-5_113_A21	v20#297	雨	𩄙	Regular		胡耽反。久雨。〔䨡：同上。〕	b082a061		有埋字B。
+5_113_A21	v20#297	雨	𩄙	Regular		胡躭反。久雨。〔䨡：同上。〕	b082a061		有埋字B。
 5_113_A22	v20#297	雨	䨡	Embedded_clerical		䨡：同上。	b082a062		埋字B。
 5_113_A23	v20#297	雨	霖	Regular		力今反。久雨三日雨。	b082b012		
-5_113_A31	v20#297	雨	𩆂	Regular		才私反。久雨。	b082a064		
+5_113_A31	v20#297	雨	𩆂	Regular		才私反。久雨。	b082a064		私：原作𥝶。
 5_113_A311	v20#297	雨	𩄚	Songben-Yupian		#	b082a065		
-5_113_A32	v20#297	雨	𩄡	Regular		刀(力)占反。久雨。	△		
+5_113_A32	v20#297	雨	𩄡	Regular		力占反。久雨。	△		力：原作刀。
 5_113_A41	v20#297	雨	𩅼	Regular		子廉反。小霑。	b082a071		
 5_113_A42	v20#297	雨	𩃵	Regular		如琰反。濡也、霑也。	b082a073		
-5_113_A51	v20#297	雨	屚	Regular		力豆反。屋穿止宀水入。	b082a074		
+5_113_A51	v20#297	雨	屚	Regular		力豆反。屋穿止宀水入。	b082a074		止宀：呂云、疑為衍文。
 5_113_A52	v20#297	雨	䨣	Regular		柯霚反。霑濡。	b082a081		
 5_113_A61	v20#297	雨	霽	Regular		子計反。雨止也。	b082a082		
 5_113_A62	v20#297	雨	霩	Regular		呼郭反。雨止雲罷。	b082a083		
@@ -13049,7 +13049,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_113_B22	v20#297	雨	䨞	Regular		尤句反。雨皃。	b082a066		
 5_113_B31	v20#297	雨	霑	Regular		致廉反。濡。	b082a072		
 5_113_B32	v20#297	雨	䨣	Regular		匹各反。霑濡也。	△		
-5_113_B41	v20#297	雨	露	Regular		力固反。潤也、澤也、蓋也、盧也。	b082a085		
+5_113_B41	v20#297	雨	露	Regular		力固反。潤也、澤也、盖也、盧也。	b082a085		
 5_113_B42	v20#297	雨	霧	Regular		霿字。	b082a101		
 5_113_B51	v20#297	雨	霓	Regular		五奚反。雲似龍。	△		
 5_113_B52	v20#297	雨	雺	Regular		霚字。昌也。	b082a093		
@@ -13062,11 +13062,11 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_114_A31	v20#297	雨	雩	Regular		越倶反。待雨大。	b082a102		
 5_114_A32	v20#297	雨	𩅀	Regular		都頬反。寒。	b082b013		
 5_114_A41	v20#297	雨	䨒	Regular		尤注反。水。〔需：息倶反。凝也。〕	b082b011		有埋字A。
-5_114_A411	v20#297	雨	需	Embedded_clerical		需：息倶反。凝也。			埋字A。
+5_114_A411	v20#297	雨	需	Embedded_clerical		需：息倶反。凝也。			埋字A。掲出字：原作𦓔。
 5_114_A43	v20#297	雨	䨨	Regular		都龜反。雷也。	b082b015		
 5_114_A51	v20#297	雨	需	Regular		思倶反。不進。	b082b014		
 5_114_A52	v20#297	雨	霏	Regular		孚非反。雨雷皃。	b082b021		
-5_114_A61	v20#297	雨	䬠	Regular		声類。	b082b022		
+5_114_A61	v20#297	雨	䬠	Regular		《声類》。	b082b022		
 5_114_A62	v20#297	雨	雱	Regular		普唐反。雪盛也。	b082b023		
 5_114_A621	v20#297	雨	䨦	Songben-Yupian		#	b082b024		
 5_114_A622	v20#297	雨	霶	Songben-Yupian		#	b082b025		
@@ -13080,7 +13080,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_114_B42	v20#297	雨	𩅨	Regular		仕林反。霖。	b082b042		
 5_114_B51	v20#297	雨	𩆶	Regular		乃章反。零露盛。	b082b044		
 5_114_B52	v20#297	雨	𩅽	Regular		乃東反。露多。	b082b051		
-5_114_B61	v20#297	雨	𩂹	Regular		喉壁反。大雨。	b082b082		
+5_114_B61	v20#297	雨	𩂹	Regular		喉壁[反]。大雨。	b082b082		
 5_114_B62	v20#297	雨	䨥	Regular		胡郭反。𩂹。	b082b081		
 5_114_B62-Miyazawa	v20#297	雨	𩃺	Regular	宮		b082b053		
 5_115_A11	v20#297	雨	䨤	Regular		徒歴反。雨皃。	b082b041		
@@ -13113,7 +13113,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_115_B62	v20#297	雨	𩃒	Regular		丁果反。斤雲。	△		
 5_116_A11	v20#297	雨	𩄜	Regular		所責反。雪下。〔䨛：同上。〕	b083a066		有埋字B。
 5_116_A12	v20#297	雨	䨛	Embedded_clerical		䨛：同上。	b083a065		埋字B。
-5_116_A21	v20#298	雲	雲	Regular		從龍。禹軍反。山川氣也、運也。	b083a081		
+5_116_A21	v20#298	雲	雲	Regular		從龍。禹軍反。山川氣也、運也。	b083a081		從龍：《易經・乾卦》：雲從龍。
 5_116_A31	v20#298	雲	云	Regular		古文。	▽		
 5_116_A32	v20#298	雲	𦤆	Regular		古文。	b083a084		
 5_116_A33	v20#298	雲	霒	Regular		於林反。雲覆日。〔侌：古文。〕〔⿵勾土：古文。〕	b083a082		有埋字B二字。
@@ -13121,7 +13121,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_116_A34	v20#298	雲	侌	Embedded_clerical		侌：古文。	b083a083		埋字B。
 5_116_A35	v20#298	雲	⿵勾土	Embedded_clerical		⿵勾土：古文。	▽		埋字B。
 5_116_A41	v20#298	雲	靉	Regular		於岱反。雲晻日无光。	b083a092		
-5_116_A42	v20#298	雲	靆	Regular		徒載反。	b083a091		
+5_116_A42	v20#298	雲	靆	Regular		徒戴反。	b083a091		
 5_116_A51	v20#298	雲	靆	Regular		他愛反。不明也。	△(b083a091)		
 5_116_A51-Miyazawa	v20#298	雲	⿰雲連	Regular	宮		△		
 5_116_A61	v20#299	風	風	Regular		甫融反。〔凬：古文。〕〔飌：古文。〕〔𠙈：古文。〕教也、放告也、衆也、聲也。	b083b011		有埋字B三字。
@@ -13131,7 +13131,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_116_B11	v20#299	風	𩘁	Regular		力章反。北風。	b083b023		
 5_116_B12	v20#299	風	𩖶	Regular		呼劣反。微風。	b084a061		
 5_116_B21	v20#299	風	飊	Regular		卑姚反。暴上下風。	b083b025		
-5_116_B22	v20#299	風	飌	Regular		古文。	△b083b021)		
+5_116_B22	v20#299	風	飌	Regular		古文。	△b083b021)		掲出字：宮澤作⿱飌⿲火火火、呂作⿱飌⿲犬犬犬。
 5_116_B22-Miyazawa	v20#299	風	⿱飌⿲火火火	Regular	宮		△		
 5_116_B23	v20#299	風	颮	Regular		飆字。	b083b026		
 5_116_B31	v20#299	風	飄	Regular		補遙反。	b083b024		
@@ -13141,10 +13141,10 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_116_B42	v20#299	風	䬍	Regular		呼沒反。疾風。	b083b033		
 5_116_B51	v20#299	風	𩗛	Regular		同上。	b083b034		有埋字B。
 5_116_B52	v20#299	風	𩙤	Embedded_clerical		𩙤：古文。	b083b035		埋字B。
-5_116_B53	v20#299	風	䬑	Regular		胡貴反。木風。	b083b036		
+5_116_B53	v20#299	風	䬑	Regular		胡貴反。大風。	b083b036		
 5_116_B61	v20#299	風	䫻	Regular		侯蜜反。大風。	b083b041		掲出字：原作⿺風目。
 5_116_B62	v20#299	風	颺	Regular		余章反。風飛。	b083b037		
-5_117_A11	v20#299	風	䬆	Regular		刀(力)質反。烈風、暴疾。	b083b042		
+5_117_A11	v20#299	風	䬆	Regular		力質反。烈風、暴疾。	b083b042		力：原作刀。
 5_117_A12	v20#299	風	颲	Regular		力哲反。利風。	b083b043		
 5_117_A21	v20#299	風	䬅	Regular		力計反。急風。	b083b044		
 5_117_A22	v20#299	風	𩖬	Regular		附娯反。自上下。	b083b045		
@@ -13163,7 +13163,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_117_B12	v20#299	風	颸	Regular		楚飢反。疾風。	b083b067		
 5_117_B21	v20#299	風	䬌	Regular		匹周反。吹風也。	b083b065		
 5_117_B22	v20#299	風	䫾	Regular		補棘反。風也。	b083b072		
-5_117_B31	v20#299	風	䫸	Regular		刃(丑)交反。熱風。	b083b074		
+5_117_B31	v20#299	風	䫸	Regular		丑交反。熱風。	b083b074		丑：原作刃。
 5_117_B32	v20#299	風	𩘽	Regular		竹衡反。狂風。	b083b073		
 5_117_B41	v20#299	風	䬘	Regular		呼交反。䫸也。	b083b075		
 5_117_B42	v20#299	風	𩘅	Regular		柯諧反。疾皃。	b083b076		
@@ -13183,7 +13183,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_118_A51	v20#299	風	䬌	Regular		叵周反。吹皃。	△		
 5_118_A52	v20#299	風	颸	Regular		楚飢反。疾皃。	△		
 5_118_A61	v20#299	風	䫾	Regular		補棘反。	△		
-5_118_A62	v20#299	風	𩖙	Regular		丑文反。熱風。	△		
+5_118_A62	v20#299	風	𩖙	Regular		丑文反。熱風。	△		掲出字：上田作䫸、呂同作。文：上田作文、呂云"丑文反"當作"丑交反"。
 5_118_B11	v20#299	風	𩘅	Regular		柯諧反。疾也。	△		
 5_118_B12	v20#299	風	飁	Regular		似立反。大也。	△		
 5_118_B21	v20#299	風	飋	Regular		所昵反。秋風。	b083b085		
@@ -13200,11 +13200,11 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_119_A12	v20#301	鬼	䰠	Embedded_clerical		䰠：始仁反。神。	b084b072		埋字A。
 5_119_A13	v20#301	鬼	魂	Regular		胡昆反。陽遊氣也、精識也。	b084b011		
 5_119_A21	v20#301	鬼	魄	Regular		普格反。人精爽。	b084b012		
-5_119_A22	v20#301	鬼	䰡	Regular		丑利反。厲鬼。	b084a103		
+5_119_A22	v20#301	鬼	䰡	Regular		丑利反。厲鬼。	b084a103		丑：原作刃。
 5_119_A31	v20#301	鬼	魖	Regular		欣居反。秏鬼。	b084b013		
 5_119_A32	v20#301	鬼	魃	Regular		薄葛反。少鬼。	b084b021		
-5_119_A41	v20#301	鬼	鬾	Regular		渠猗反。鬼般(服)。	b084b022		
-5_119_A42	v20#301	鬼	鬽	Regular		莫凱反。屯(老)物精。	b084b023		
+5_119_A41	v20#301	鬼	鬾	Regular		渠猗反。鬼般。	b084b022		般：當作服。
+5_119_A42	v20#301	鬼	鬽	Regular		莫凱反。屯物精。	b084b023		屯：當作老。
 5_119_A51	v20#301	鬼	魅	Regular		古文。	b084b025		
 5_119_A52	v20#301	鬼	𩲐	Regular		同上。	b084b024		
 5_119_A52-Miyazawa	v20#301	鬼	䰨	Regular	宮		b084b024		
@@ -13227,14 +13227,14 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_119_B52	v20#301	鬼	魊	Regular		胡国反。短孤也。	b084b052		
 5_119_B61	v20#301	鬼	醜	Regular		充受反。惡。	b085a017		
 5_119_B62	v20#301	鬼	𩵀	Regular		力丁反。右靈也、善也、神。	b084b051		
-5_120_A11	v20#301	鬼	魋	Regular		達曰(回)反。似熊小毛黄赤色。	b084b043		
+5_120_A11	v20#301	鬼	魋	Regular		達曰反。似熊小毛黄赤色。	b084b043		曰：當作回。
 5_120_A12	v20#301	鬼	⿰孛鬼	Regular		視由反。惡也。	△		掲出字：原作⿰孛鬼。上田空白未読。呂作⿰寿鬼。宋本《玉篇》「𩳎　縛尤切。星名」。疑當作⿰孚鬼。
-5_120_A21	v20#301	鬼	魏	Regular		莫貴反。火(大)名也。	b084b054		
+5_120_A21	v20#301	鬼	魏	Regular		莫貴反。火名也。	b084b054		火：當作大。
 5_120_A22	v20#301	鬼	媿	Regular		居位反。慙。	△		
 5_120_A31	v20#302	甶	甶	Regular		甫勿反。鬼頭也。	b085a031		
 5_120_A41	v20#302	甶	畏	Regular		於貴反。懼也、敬也、惡也、罪也、難也、威也、忌也。	b085a032		
 5_120_A42	v20#302	甶	𤰰	Regular		古文。	b085a033		
-5_120_A51	v20#302	甶	禺	Regular		禹、牛句反。似獲大赤目長尾。	b085a034		
+5_120_A51	v20#302	甶	禺	Regular		禹。牛句反。似獲大赤目長尾。	b085a034		禹：呂云疑為直音。
 5_120_A61	v20#303	白	白	Regular		菩格反。明也、告也、土也、語也。〔𦣺：同上。〕	b085a041		有埋字B。
 5_120_A62	v20#303	白	𦣺	Embedded_clerical		𦣺：同上。	b085a042		埋字B。
 5_120_B11	v20#303	白	皢	Regular		欣鳥反。白也、知也。	b085a043		
@@ -13247,8 +13247,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_120_B41	v20#303	白	皦	Regular		公鳥反。白也。	b085a063		
 5_120_B42	v20#303	白	皅	Regular		普加反。草花白。	b085a061		
 5_120_B51	v20#303	白	皭	Regular		於慨反。踈淨白。	b085a064		
-5_120_B52	v20#303	白	皪	Regular		來的反。明珠色。	b085a074		
-5_120_B61	v20#303	白	的	Regular		都激反。⿰幸頁(顙)白也、遠皃明見也。	b085a085		
+5_120_B52	v20#303	白	皪	Regular		来的反。明珠色。	b085a074		
+5_120_B61	v20#303	白	的	Regular		都激反。顙白也、遠皃、明見也。	b085a085		顙：原作⿰幸頁。
 5_120_B62	v20#303	白	𡭴	Regular		去千反。際見白也。	b085a062		
 5_121_A11	v20#303	白	皬	Regular		胡告反。鳥白皃。	△(b085a053)		
 5_121_A11-Miyazawa	v20#303	白	㿥	Regular	宮		△(b085a053)		
@@ -13260,13 +13260,13 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_121_A41	v20#303	白	皠	Regular		且罪反。高峻皃。	b085a082		
 5_121_A42	v20#303	白	皁	Regular		昨老反。黒繒也。	b085a083		
 5_121_A421	v20#303	白	皂	Omitted		Omitted			
-5_121_A51	v20#303	白	皛	Regular		胡子(了)反。明也、顯也。	b085a091		
+5_121_A51	v20#303	白	皛	Regular		胡了反。明也、顯也。	b085a091		了：原作子。
 5_121_A61	v20#304	日	日	Regular		如逸反。陽精。	b085b021		
-5_121_B11	v20#304	日	旻	Regular		靡帀(巾)反。閔也、病秋天。	b085b022		
+5_121_B11	v20#304	日	旻	Regular		靡巾反。閔也、病秋天。	b085b022		巾：原作帀。
 5_121_B12	v20#304	日	時	Regular		是之反。是也、善也、中也。	b085b031		
 5_121_B21	v20#304	日	旹	Regular		古文。	b085b032		
 5_121_B22	v20#304	日	早	Regular		子道反。晨。	b085b033		
-5_121_B31	v20#304	日	昒	Regular		己(亡)屈反。旦明也、冥也。	b085b034		
+5_121_B31	v20#304	日	昒	Regular		亡屈反。旦明也、冥也。	b085b034		亡：原作己。據《新撰字鏡》引《玉篇》訂。
 5_121_B32	v20#304	日	昧	Regular		莫憒反。爽明也。	b085b041		
 5_121_B41	v20#304	日	曙	Regular		視據反。明也。	b085b035		
 5_121_B42	v20#304	日	晣	Regular		之逝反、虛殷反。明也、察也。〔晢：同上。〕	b085b042		有埋字B。
@@ -13288,7 +13288,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_122_A42	v20#304	日	晧	Regular		胡老反。光也、明。〔暤：同上。〕	b085b081		有埋字B。
 5_122_A43	v20#304	日	暤	Embedded_clerical		暤：同上。	b085b083		埋字B。
 5_122_A43-Miyazawa	v20#304	日	曄	Regular	宮		b085b083		
-5_122_A51	v20#304	日	旭	Regular		詡玉反。日始出。	b085b055		
+5_122_A51	v20#304	日	旭	Regular		詡玉反。日始出。	b085b055		玉：原作王。
 5_122_A52	v20#304	日	㬜	Regular		子吝反。進也、晝。〔晉：今作。〕	b085b056		有埋字B。
 5_122_A53	v20#304	日	晉	Embedded_clerical		晉：今作。	b085b061		埋字B。
 5_122_A61	v20#304	日	暘	Regular		余章反。明。	b085b065		
@@ -13297,13 +13297,13 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_122_B12	v20#304	日	㬗	Embedded_clerical		㬗：同上。	b085b072		埋字B。
 5_122_B13	v20#304	日	㬫	Regular		於見反。煥也、日出也。	b085b074		
 5_122_B21	v20#304	日	景	Regular		羈影反。光也。	b085b075		
-5_122_B22	v20#304	日	曅	Regular		爲獵反。震也、光也。	b085b084		
+5_122_B22	v20#304	日	曅	Regular		為獵反。震也、光也。	b085b084		
 5_122_B31	v20#304	日	晹	Regular		余亦反。日䨱雲暫見。	△		
 5_122_B32	v20#304	日	晷	Regular		居鮪反。日景。	b085b094		
 5_122_B41	v20#304	日	昃	Regular		夜字。	△		
 5_122_B42	v20#304	日	晩	Regular		无遠反。暮後也。	b085b101		
 5_122_B43	v20#304	日	𣅛	Regular		繙渉反。日趺。	△		
-5_122_B51	v20#304	日	𣅳	Regular		宿(𣅛)文。	b085b095		
+5_122_B51	v20#304	日	𣅳	Regular		𣅛文。	b085b095		𣅛：原作宿。
 5_122_B51-Miyazawa	v20#304	日	昃	Regular	宮		b085b096		
 5_122_B51-Shirafuji	v20#304	日	𣅦	Regular	白		b085b096		
 5_122_B52	v20#304	日	曫	Regular		力俔反。昏時。	b085b102		
@@ -13311,16 +13311,16 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_122_B62	v20#304	日	晩	Regular		莫遠反。後也、暮也。	△		
 5_123_A11	v20#304	日	旰	Regular		柯旦反。晏也、晩也。	b085b092		
 5_123_A12	v20#304	日	暆	Regular		余支反。日行也。	b085b093		
-5_123_A21	v20#304	日	𣅦	Regular		阻渉反。日趺(跌)。	△(b085b096)		
+5_123_A21	v20#304	日	𣅦	Regular		阻渉反。日跌。	△(b085b096)		跌：原作趺。
 5_123_A22	v20#304	日	昏	Regular		呼昆反。暗也、強也、伐也。	b085b062		
 5_123_A221	v20#304	日	昬	Songben-Yupian		#	b085b063		
 5_123_A31	v20#304	日	曀	Regular		於計反。陰而風也。	b085b105		
 5_123_A32	v20#304	日	𣉘	Regular		奴㮣反。日无光也。	b086a011		
-5_123_A41	v20#304	日	昴	Regular		莫紋反。霤也	b086a014		
+5_123_A41	v20#304	日	昴	Regular		莫絞反。霤也	b086a014		
 5_123_A41-Miyazawa	v20#304	日	⿱日水	Regular	宮		△		
 5_123_A42	v20#304	日	旱	Regular		胡誕反。不雨也。	b086a012		
 5_123_A51	v20#304	日	㫐	Regular		於鳥反。遠望也。	b086a013		
-5_123_A52	v20#304	日	曏	Regular		虚高(亮)反。曩也。	b086a015		
+5_123_A52	v20#304	日	曏	Regular		虚高反。曩也。	b086a015		高：當作亮。《新撰字鏡》引《玉篇》作高。
 5_123_A61	v20#304	日	昪	Regular		皮變反。樂也。	b086a023		
 5_123_A62	v20#304	日	暇	Regular		何嫁反。閑也、嘉也、安也、間也。	b086a024		
 5_123_B11	v20#304	日	昱	Regular		由菊反。明日也。	b086a031		

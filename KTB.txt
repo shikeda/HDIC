@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.16
+#	Version: 1.0.17
 #	Date published : 1 September 2016
-#	Last modified : 2 October 2016
+#	Last modified : 3 October 2016
 #
 #	Copyright (c) 2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -13337,7 +13337,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_123_B61	v20#304	日	暫	Regular		才濫反。不久也。	b086a026		
 5_123_B62	v20#304	日	旵	Regular		昌字。	b087b027		
 5_123_B62-Shirafuji	v20#304	日	𣅊	Regular	白		b086a033		
-5_124_A11	v20#304	日	暴	Regular		蒲敕反。	b086a045		呂云：“敕”當作“報”。
+5_124_A11	v20#304	日	暴	Regular		蒲敕反。	b086a045		掲出字：原作⿳日米水。敕：原作⿰束殳。上田作穀。《新撰字鏡》引《玉篇》作致。呂云、“敕”當作“報”。
 5_124_A12	v20#304	日	曬	Regular		所隘反。暴也。	b087b031		
 5_124_A21	v20#304	日	暀	Regular		禹况反。美光也。	▽(b086a034)		
 5_124_A22	v20#304	日	㫱	Regular		女板反。赤皃、𣋴古暴。	b086a035		
@@ -13359,8 +13359,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_124_B33	v20#304	日	昵	Embedded_clerical		昵：同上。	b086a064		埋字B。昵：原作昵也。也字衍字。
 5_124_B41	v20#304	日	㫺	Regular		思亦反。夜也、古也、昨也。	b086a061		
 5_124_B42	v20#304	日	㫘	Regular		亡乙反。不見也。	b086a065		
-5_124_B51	v20#304	日	晐	Regular		居來反。備感也、皆兼也。	b086a066		
-5_124_B52	v20#304	日	昆	Regular		孤魂反。後也、弟也、周(同)也、盛也。	b086a071		
+5_124_B51	v20#304	日	晐	Regular		居来反。備感也、皆兼也。	b086a066		
+5_124_B52	v20#304	日	昆	Regular		孤魂反。後也、弟也、周也、盛也。	b086a071		周：當作同。
 5_124_B521	v20#304	日	晜	Songben-Yupian		#	b086a072		
 5_124_B61	v20#304	日	曈	Regular		徒東反。曨也、欲明。	b086a075		
 5_124_B62	v20#304	日	曨	Regular		力東反。曈也。	b086a081		
@@ -13375,7 +13375,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_125_A51	v20#304	日	暟	Regular		苦亥反。臨昭也、美也、徳也。	b086a085		
 5_125_A52	v20#304	日	昈	Regular		胡古反。赤文也。	b086a086		
 5_125_A61	v20#304	日	昂	Regular		五郎反。盛也、我也、温也。	b086a091		
-5_125_A62	v20#304	日	𣋲	Regular		刀(力)渉反。日欲入。	b086a094		
+5_125_A62	v20#304	日	𣋲	Regular		力渉反。日欲入。	b086a094		
 5_125_B11	v20#304	日	晲	Regular		牛礼反。明也、日跌也。	b086a096		
 5_125_B111	v20#304	日	𣅸	Omitted		Omitted	b086a101		掲出字：《新撰字鏡》玉篇群作⿰日也。
 5_125_B12	v20#304	日	曔	Regular		渠敬反。明也。	b087b011		
@@ -13383,7 +13383,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_125_B22	v20#304	日	映	Regular		於敬反。不明也。	b086a053		
 5_125_B31	v20#304	日	曒	Regular		公鳥反。明也、晈也。〔暞：上文。〕	△		有埋字B。
 5_125_B32	v20#304	日	暞	Embedded_clerical		暞：上文。	b086a093		埋字B。
-5_125_B33	v20#304	日	𣆖	Regular		呼日光反。旱熱。	b086a106		
+5_125_B33	v20#304	日	𣆖	Regular		呼晃反。旱熱。	b086a106		晃：原作日光。
 5_125_B33-Miyazawa	v20#304	日	𣊀	Regular	宮		b086a106		
 5_125_B41	v20#304	日	暲	Regular		之羊反。明也。	b086a103		
 5_125_B42	v20#304	日	㬒	Regular		莫朗反。映也。	b086a105		
@@ -13398,13 +13398,13 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_126_A21	v20#304	日	㬓	Regular		匹妙反。曝也。	b087a101		
 5_126_A22	v20#304	日	昲	Regular		孚味反。日光也。	b086b015		
 5_126_A31	v20#304	日	暳	Regular		呼惠反。衆星皃。	b086b021		
-5_126_A32	v20#304	日	暅	Regular		柯㔁反。乾慘(𤍜)也。	b086b016		
+5_126_A32	v20#304	日	暅	Regular		柯㔁反。乾𤍜也。	b086b016		𤍜：原作慘。
 5_126_A33	v20#304	日	暡	Omitted		Omitted	b086b022		宮澤此無字。
 5_126_A41	v20#304	日	晊	Regular		之逸反。大也。	b086b024		
 5_126_A42	v20#304	日	曜	Regular		余照反。示也、光曜也。	b086b031		
 5_126_A51	v20#304	日	曖	Regular		於戴反。似春。	b086b025		
 5_126_A52	v20#304	日	暮	Regular		綿故反。晩也、夕也。	△(b086a095)		
-5_126_A61	v20#304	日	暈	Regular		有𢛽(愠)反。日旁氣。	b086b023		
+5_126_A61	v20#304	日	暈	Regular		有愠反。日旁氣。	b086b023		愠：原作𢛽。
 5_126_A62	v20#304	日	暿	Regular		虚疑反。熱也、盛皃。	b086b032		
 5_126_A63	v20#304	日	暶	Omitted		Omitted	b086b033		宮澤此無字。
 5_126_B11	v20#304	日	曖	Regular		於戴反。暗也。	△		
@@ -13426,12 +13426,12 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_127_A12	v20#304	日	𢍷	Regular		古文。	b086b051		
 5_127_A21	v20#304	日	𣆼	Regular		都農反。冬字。	△		
 5_127_A22	v20#304	日	晨	Regular		時仁反。明也、早也。	b087b052		
-5_127_A31	v20#304	日	㬤	Regular		丘及反。欲乾反(也)。	b086b052		
-5_127_A32	v20#304	日	𣌍	Regular		女渉反。小㬇(暖)也。	b086b053		
+5_127_A31	v20#304	日	㬤	Regular		丘及反。欲乾也。	b086b052		也：原作反。
+5_127_A32	v20#304	日	𣌍	Regular		女渉反。小㬇也。	b086b053		㬇：當作暖。《新撰字鏡》引《玉篇》作煙。
 5_127_A41	v20#304	日	晟	Regular		是政反。器也、多也。	b086b054		
 5_127_A42	v20#304	日	暾	Regular		勅昆反。日出形盛。	b086b061		
 5_127_A51	v20#304	日	旽	Regular		同上。	b086b062		
-5_127_A52	v20#304	日	昧	Regular		武蓋反。不明也。	b086b064		
+5_127_A52	v20#304	日	昧	Regular		武盖反。不明也。	b086b064		
 5_127_A53	v20#304	日	昊	Regular		胡老反。天氣大。	b086b065		
 5_127_A61	v20#304	日	春	Regular		齒均反。青陽也、蠢也、出也。	b086b071		
 5_127_A611	v20#304	日	萅	Songben-Yupian		#	b086b072		
@@ -13440,16 +13440,16 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_127_B12	v20#304	日	昉	Regular		甫想反。適也。	b086b066		
 5_127_B21	v20#304	日	曛	Regular		詡軍反。昏也。	b086b073		
 5_127_B22	v20#304	日	曃	Regular		勅愛反。不明也。	b086b075		掲出字：原作⿰日連。
-5_127_B31	v20#304	日	晡	Regular		補胡反。由時也。	b086b074		
+5_127_B31	v20#304	日	晡	Regular		補胡反。申時也。	b086b074		申：原作由。
 5_127_B32	v20#304	日	曃	Regular		徒愛反。不明也。	b086b075		
 5_127_B321	v20#304	日	昢	Songben-Yupian		#	b086b081		
 5_127_B41	v20#304	日	昺	Regular		碑景反。明也。	b086b083		
-5_127_B42	v20#304	日	亘	Regular		柯⿰壹阝(鄧)反。遍也。	▽		
+5_127_B42	v20#304	日	亘	Regular		柯鄧反。遍也。	▽		鄧：原作⿰壹阝。
 5_127_B51	v20#304	日	昇	Regular		舒承反。出也。	b086b085		
 5_127_B52	v20#304	日	𣈉	Regular		都告反。察。又䔍反。	△		䔍反：音注歟。
 5_127_B52-Shirafuji	v20#304	日	督	Regular	白		△		
 5_127_B61	v20#304	日	昚	Regular		時振反。試也、謹也。	b086b082		
-5_127_B62	v20#304	日	曇	Regular		徒含反。黒雲也。	b086b084		宋本《玉篇》
+5_127_B62	v20#304	日	曇	Regular		徒含反。黒雲也。	b086b084		
 5_128_A11	v20#304	日	晁	Regular		除喬反。人姓也。	b086b086		
 5_128_A21	v20#305	旦	旦	Regular		多爛反。明也、曉曙也。	b087b041		
 5_128_A31	v20#305	旦	曁	Regular		其既反。不及也、至也。	b087b042		
@@ -13461,7 +13461,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_128_A523	v20#306	晨	辳	Songben-Yupian		#	b087b056		
 5_128_A524	v20#306	晨	𨑋	Songben-Yupian		#	b087b057		
 5_128_A61	v20#307	乾	倝	Regular		公旦反。日出光。	b087b061		
-5_128_B11	v20#307	乾	乾	Regular		奇焉反。健也、天也、君也、犮也。	b087b062		
+5_128_B11	v20#307	乾	乾	Regular		奇焉反。健也、天也、君也、犮也。	b087b062		掲出字：原作乹。
 5_128_B12	v20#307	乾	𦩻	Regular		陟驕反。早也、旦也、會也、庭也、夕也。	b087b063		
 5_128_B12-Shirafuji	v20#307	乾	𣎍	Regular	白		b087b063		
 5_128_B21	v20#307	乾	朝	Regular		同上。𦩻。〔幹：柯旦反。強也、貞固也、安也、本也、事也、主也、體也、犮也。〕	b087b071		𦩻：衍字歟。有埋字A。
@@ -13481,12 +13481,12 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_129_A21	v20#309	月	朏	Regular		芳尾普骨反。明也。	b088a013		
 5_129_A22	v20#309	月	朓	Regular		他了反。晦。	b088a014		
 5_129_A31	v20#309	月	霸	Regular		普格反。月无光也。	b088a015		
-5_129_A32	v20#309	月	𣍸	Regular		古朔(霸)。	b088a022		
+5_129_A32	v20#309	月	𣍸	Regular		古霸。	b088a022		霸：原作朔。
 5_129_A32-Miyazawa	v20#309	月	⿱⿵〓米月	Regular	宮				
-5_129_A33	v20#309	月	𧟳	Regular		今朔(霸)。	b088a021		
+5_129_A33	v20#309	月	𧟳	Regular		今霸。	b088a021		霸：原作朔。
 5_129_A41	v20#309	月	朒	Regular		女六反。縮不申。	b088a023		
-5_129_A42	v20#309	月	間	Regular		古。	△		掲出字：原文模糊。
-5_129_A43	v20#309	月	𣅆	Regular		古文。	b088a032		掲出字：原作間。
+5_129_A42	v20#309	月	間	Regular		古文。	△		掲出字：原文模糊。
+5_129_A43	v20#309	月	𣅆	Regular		古。	b088a032		掲出字：原作間。
 5_129_A51	v20#309	月	𦛔	Regular		余專反。短。	b088a024		
 5_129_A51-Miyazawa	v20#309	月	𣎓	Regular	宮		b088a024		
 5_129_A52	v20#309	月	期	Regular		渠基反。時也、會也、熱也、約也、㱕也、時也。	b088a031		
@@ -13511,7 +13511,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_130_A51	v21#314	夕	夜	Regular		餘柘反。暮也、舍也。	c004b032		
 5_130_A52	v21#314	夕	𡖶	Regular		亡各反。寂也。	c004b041		
 5_130_A61	v21#314	夕	夢	Regular		武冬反。清靜也、礼也。	c004b042		
-5_130_A62	v21#314	夕	夗	Regular		於遠反。轉也、臥也。	c004b051		
+5_130_A62	v21#314	夕	夗	Regular		於遠反。轉也、卧也。	c004b051		
 5_130_B11	v21#314	夕	夝	Regular		徐盈反。雨止也。	c004b052		掲出字：原作姓、誤。
 5_130_B12	v21#314	夕	夤	Regular		余仁反。進也、大也、出也。〔𡖸：古。〕	c004b053		有埋字B。
 5_130_B13	v21#314	夕	𡖸	Embedded_clerical		𡖸：古。	c004b054		埋字B。

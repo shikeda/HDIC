@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.18
+#	Version: 1.0.19
 #	Date published : 1 September 2016
-#	Last modified : 9 October 2016
+#	Last modified : 10 October 2016
 #
 #	Copyright (c) 2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -13753,7 +13753,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_138_B13	v21#323	火	燖	Embedded_clerical		燖：同上。	c007a052		埋字B。
 5_138_B21	v21#323	火	焞	Regular		徒敦反。明。	c007a054		
 5_138_B22	v21#323	火	煦	Regular		吁句反。温也、潤也、熱也。	c007a061		
-5_138_B31	v21#323	火	炳	Regular		彼四(皿)反。著明。	c007a062		
+5_138_B31	v21#323	火	炳	Regular		彼皿反。著明。	c007a062		皿：原作四。《大乘理趣六波羅蜜經釋文》引《玉篇》作四。
 5_138_B32	v21#323	火	焯	Regular		之藥反。明。	c007a063		
 5_138_B41	v21#323	火	煒	Regular		于匪反。盛明。	c007a064		
 5_138_B42	v21#323	火	照	Regular		之曜反。燭也、明也、曉也。〔炤：同上。〕	c007a071		有埋字B。
@@ -13766,7 +13766,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_138_B621	v21#323	火	耀	Embedded_clerical		耀：同上。			埋字B。
 5_139_A11	v21#323	火	煇	Regular		欣歸反。光。	c007a082		
 5_139_A12	v21#323	火	炫	Regular		胡絢反。燿。	c007a083		
-5_139_A21	v21#323	火	㷸	Regular		爲爉反。光盛。	c007a084		
+5_139_A21	v21#323	火	㷸	Regular		為爉反。光盛。	c007a084		
 5_139_A211	v21#323	火	燁	Songben-Yupian		#	c007a085		
 5_139_A22	v21#323	火	爓	Regular		与廉反。炎也。	c007a092		
 5_139_A31	v21#323	火	煌	Regular		胡光反。光明。〔熿：同上。〕	c007a093		有埋字B。
@@ -13786,16 +13786,16 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_139_B11	v21#323	火	煖	Regular		奴管反。温。	c007a102		
 5_139_B12	v21#323	火	炅	Regular		古惠反。見也。〔炔：同上。呑字。〕	c007b012		有埋字B。
 5_139_B13	v21#323	火	炔	Embedded_clerical		炔：同上。呑字。	c007b011		埋字B。
-5_139_B21	v21#323	火	熇	Regular		口老反。𤍜。	c007b014		
+5_139_B21	v21#323	火	熇	Regular		口老反。𤍜。	c007b014		掲出字：原作熇。當作燺。
 5_139_B21-Miyazawa	v21#323	火	燺	Regular	宮		c007b014		掲出字：原作熇。
-5_139_B22	v21#323	火	熭	Regular		禹■(厥)反。暴乾。	c007b016		
+5_139_B22	v21#323	火	熭	Regular		禹厥反。暴乾。	c007b016		厥：原文糢糊。《新撰字鏡》引《玉篇》作厥。上田作厥。呂作𡙇。
 5_139_B31	v21#323	火	烕	Regular		許悦反。	c007b021		
 5_139_B32	v21#323	火	焅	Regular		苦告反。早氣。	c007b015		
 5_139_B41	v21#323	火	燾	Regular		徒到反。普復照䨱也、照也。	c007b022		
 5_139_B42	v21#323	火	爟	Regular		公段反。气火名。	c007b023		
 5_139_B51	v21#323	火	燥	Regular		桑道反。乾。	c007b013		
 5_139_B51-Shirafuji	v21#323	火	𤍜	Regular	白		c007b013		
-5_139_B52	v21#323	火	烜	Regular		盱遠反。火。	c007b024		
+5_139_B52	v21#323	火	烜	Regular		盱遠反。火。	c007b024		盱：原作䏏。
 5_139_B61	v21#323	火	烽	Regular		妨恭反。邊有警則擧。	c007b025		
 5_139_B61-Miyazawa	v21#323	火	㷭	Regular	宮		c007b025		
 5_139_B62	v21#323	火	爝	Regular		子曜反。炬火。	c007b026		
@@ -13807,10 +13807,10 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_140_A22	v21#323	火	𤌉	Embedded_clerical		𤌉：同上。	c007b041		埋字B。
 5_140_A22-Shirafuji	v21#323	火	芻	Regular	白		c007b041		
 5_140_A221	v21#323	火	炒	Songben-Yupian		#	c007b042		
-5_140_A23	v21#323	火	㷄	Regular		呼隗反。方言火。	c007b035		言火：原作⿱言火。
+5_140_A23	v21#323	火	㷄	Regular		呼隗反。《方言》：火。	c007b035		言火：原作⿱言火。
 5_140_A31	v21#323	火	煓	Regular		勅桓反。火盛皃。	c007b043		
 5_140_A32	v21#323	火	熸	Regular		子廉反。火滅。	c007b044		
-5_140_A41	v21#323	火	焮	Regular		許靳反。炙也。	c007b045		
+5_140_A41	v21#323	火	焮	Regular		許靳反。炙。	c007b045		
 5_140_A42	v21#323	火	煆	Regular		呼嫁反。熱也、乾也。	c007b047		
 5_140_A51	v21#323	火	炖	Regular		徒昆反。火盛。	c007b051		
 5_140_A52	v21#323	火	爊	Regular		於勞反。煴也、煾也。	c007b052		
@@ -13827,15 +13827,15 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_140_B42	v21#323	火	烔	Regular		徒東反。熱皃、卑皃。	c007b066		
 5_140_B51	v21#323	火	㸎	Regular		女渉反。𤏙。	c007b071		
 5_140_B52	v21#323	火	㶧	Regular		乃烟反。熱也、乾也。	c007b072		
-5_140_B61	v21#323	火	炵	Regular		池冬反。焱。	c007b073		
+5_140_B61	v21#323	火	炵	Regular		他冬反。焱。	c007b073		他：原作池。《新撰字鏡》引《玉篇》作他。
 5_140_B62	v21#323	火	焪	Regular		丘仲反。乾也、盡也。	c007b074		
 5_141_A11	v21#323	火	烴	Regular		公洽反。焦臭皃。	c007b075		
 5_141_A12	v21#323	火	燫	Regular		以廉反。火不絶。	c007b076		
 5_141_A21	v21#323	火	𤑿	Regular		力善反。小燃。	c007b082		
 5_141_A22	v21#323	火	熪	Regular		以支反。上文。	c007b081		上文：據《新撰字鏡》作「㶴熪」。上字即㶴字。《校釋》燫、非。
-5_141_A31	v21#323	火	爡	Regular		丑伐反。煙起。	c007b083		
+5_141_A31	v21#323	火	爡	Regular		丑伐反。煙起。	c007b083		丑：原作刃。
 5_141_A32	v21#323	火	爌	Regular		枯謗反。光明也。	c007b085		
-5_141_A41	v21#323	火	焥	Regular		於沽反。燤埦。	c007b084		
+5_141_A41	v21#323	火	焥	Regular		於活反。燤埦。	c007b084		活：原作沽。
 5_141_A42	v21#323	火	炴	Regular		乙井反。火光。	c007b091		
 5_141_A51	v21#323	火	𤉯	Regular		吾胡反。吾字。我也。	△		
 5_141_A51-Miyazawa	v21#323	火	𩵋	Regular	宮		△		宮澤原作⿱■火・文字鏡76225、今代入
@@ -13845,7 +13845,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_141_A62	v21#323	火	炬	Regular		渠呂反。火也。苣字。束薪灼之。	c007b095		
 5_141_B11	v21#323	火	焃	Regular		火赤反。赤。	c007b094		
 5_141_B12	v21#323	火	炁	Regular		去既反。古氣。息也。	c007b096		
-5_141_B21	v21#323	火	焷	Regular		毗支反。念(缹)也。	c007b101		
+5_141_B21	v21#323	火	焷	Regular		毗支反。缹也。	c007b101		缹：原作念。《新撰字鏡》引《玉篇》作缹。
 5_141_B22	v21#323	火	爁	Regular		力蹔反。炎妄起。	c007b102		
 5_141_B31	v21#323	火	灹	Regular		竹亞反。焱。	c007b103		
 5_141_B32	v21#323	火	烯	Regular		欣機反。乾也。	c007b104		
@@ -13854,12 +13854,12 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_141_B42-Miyazawa	v21#323	火	爩	Regular	宮		c008a012		
 5_141_B51	v21#323	火	烼	Regular		呼勿反。乾。	c007b106		
 5_141_B52	v21#323	火	炢	Regular		丈出反。烼。	c008a011		
-5_141_B61	v21#323	火	烗	Regular		口戎(戒)反。熾。	c008a013		
+5_141_B61	v21#323	火	烗	Regular		口戒反。熾。	c008a013		戒：原作戎。《新撰字鏡》引《玉篇》作戒。
 5_141_B62	v21#323	火	㸅	Regular		子力反。炮火燒土。	c007b105		
 5_142_A11	v21#323	火	燍	Regular		思移反。焦臭。	c008a015		
 5_142_A12	v21#323	火	燏	Regular		禹一反。光。	c008a016		
 5_142_A21	v21#323	火	烠	Regular		下灰反。光色。	c008a022		
-5_142_A22	v21#323	火	㶼	Regular		於來反。熾熱。	c008a021		
+5_142_A22	v21#323	火	㶼	Regular		於来反。熾熱。	c008a021		
 5_142_A31	v21#323	火	煮	Regular		之与反。火熟物高也、濩也。	c008a023		
 5_142_A31-Miyazawa	v21#323	火	煑	Regular	宮		c008a023		
 5_142_A32	v21#323	火	炈	Regular		唯辟反。陶竈忩。	c008a024		
@@ -13874,10 +13874,10 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_142_B21	v21#323	火	燐	Regular		力振反。鬼火。	c008a105		
 5_142_B22	v21#323	火	燈	Regular		都騰反。臺熱。	c008a042		
 5_142_B31	v21#323	火	熻	Regular		義及反。熱。	c008a044		
-5_142_B32	v21#323	火	𦓒	Regular		如之反。𦠌(胹)字。爤。	c008a043		掲出字：原作𤏙。
+5_142_B32	v21#323	火	𦓒	Regular		如之反。胹字。爤。	c008a043		掲出字：原作𤏙。《新撰字鏡》引《玉篇》作𦓒。胹：原作𦠌。《新撰字鏡》引《玉篇》作胹。
 5_142_B41	v21#323	火	煪	Regular		以由反。熮。	c008a045		
 5_142_B411	v21#323	火	𤋃	Songben-Yupian		#	c008a051		
-5_142_B42	v21#323	火	㷷	Regular		子規反。■(臛)也。〔𤎱：同上。〕	c008a052		■(臛)：呂作𦞦。疑當作𣉒。有埋字B。
+5_142_B42	v21#323	火	㷷	Regular		子規反。𣉒也。〔𤎱：同上。〕	c008a052		𣉒：原文糢糊。呂作𦞦。《新撰字鏡》引《玉篇》作𣉒。有埋字B。
 5_142_B43	v21#323	火	𤎱	Embedded_clerical		𤎱：同上。	c008a053		埋字B。
 5_142_B51	v21#323	火	爍	Regular		舒妁反。光皃。鑠字。	c008a055		
 5_142_B52	v21#323	火	燉	Regular		徒昆反。盛也。	c008a054		

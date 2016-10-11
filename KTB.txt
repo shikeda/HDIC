@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.19
+#	Version: 1.0.21
 #	Date published : 1 September 2016
-#	Last modified : 10 October 2016
+#	Last modified : 12 October 2016
 #
 #	Copyright (c) 2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -13887,21 +13887,21 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_143_A12	v21#323	火	熟	Regular		時祝反。孰字。	c008a062		
 5_143_A12-Shirafuji	v21#323	火	⿱孰火	Regular	白		c008a062		
 5_143_A21	v21#323	火	烋	Regular		義懼反、虚樛反。美也、微也、福也、度也、善也、嘉也。	c008a063		
-5_143_A31	v21#324	炎	炎	Regular		爲晛反、菩沾反。熱也、燒也、重(熏)也。	c008b071		
+5_143_A31	v21#324	炎	炎	Regular		為晛反、菩沾反。熱也、燒也、重也。	c008b071		重：疑當作熏。或誤引「重火」。
 5_143_A41	v21#324	炎	燄	Regular		移瞻反。火。	c008b072		
 5_143_A42	v21#324	炎	煔	Regular		他僣反。火光。	△		
 5_143_A42-Miyazawa	v21#324	炎	𦧡	Regular	宮		△		
 5_143_A421	v21#324	炎	𤊼	Songben-Yupian		#	c008b073		
 5_143_A51	v21#324	炎	煔	Regular		胡甘反。火行。	c008b092		
 5_143_A52	v21#324	炎	𤎭	Regular		力甚反。浸火也。	c008b081		
-5_143_A61	v21#324	炎	𤎫	Regular		古黄反。古光也。明也、火也、充也。	c008b082		
-5_143_A62	v21#324	炎	燅	Regular		似廉反。熱湯中瀹内(肉)。	c008b084		
-5_143_B11	v21#324	炎	㷠	Regular		力因反。牛馬血爲也。	c008b083		
+5_143_A61	v21#324	炎	𤎫	Regular		古黄反。古光也。明也、大也、充也。	c008b082		大：《新撰字鏡》引《玉篇》作火。
+5_143_A62	v21#324	炎	燅	Regular		似廉反。熱湯中瀹肉。	c008b084		肉：原作内。
+5_143_B11	v21#324	炎	㷠	Regular		力因反。牛馬血為也。	c008b083		
 5_143_B21	v21#324	炎	烾	Regular		昌亦反。古赤。	△		
 5_143_B31	v21#325	焱	焱	Regular		于贍反。火花。	c008b101		
 5_143_B41	v21#325	焱	熒	Regular		胡駉反。光。	c008b102		
 5_143_B42	v21#325	焱	燊	Regular		所巾反。盛也。	c009a011		
-5_143_B51	v21#325	焱	爕	Regular		息協反。和也、熟。	△		
+5_143_B51	v21#325	焱	爕	Regular		息協反。和也、火熟。	△		
 5_143_B51-Miyazawa	v21#325	焱	燮	Regular	宮		△		
 5_143_B61	v21#326	炙	炙	Regular		之亦反。炕火。	c009a021		
 5_143_B611	v21#326	炙	𤐬	Omitted		Omitted	c009a022		
@@ -13918,7 +13918,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_144_A42	v21#327	爨	𤏷	Embedded_clerical		𤏷：同上。	c009a042		埋字B。
 5_144_A51	v21#327	爨	舋	Regular		義鎮反。罪也、動也、離也、光景也。又釁也。	c009a043		
 5_144_A51-Miyazawa	v21#327	爨	釁	Regular	宮		c009a043		
-5_144_A52	v21#327	爨	𦦝	Regular		渠恭反。方奉反。以支曰鬲也。	c009a051		
+5_144_A52	v21#327	爨	𦦝	Regular		渠恭反。方奉反。以支曰鬲也。	c009a051		曰：原作𦥑。
 5_144_A61	v21#328	匆	囱	Regular		千公反。竈突。〔窗・匆：古文。〕	c009a061		有埋字B二字。
 5_144_A62	v21#328	匆	窗	Embedded_clerical		窗・匆：古文。	c009a062		埋字B。掲出字：呂作𡆧。
 5_144_A63	v21#328	匆	匆	Embedded_clerical		窗・匆：古文。	c009a071		埋字B。掲出字：呂作窗。
@@ -13943,13 +13943,13 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_145_A32	v21#329	黒	𪒹	Regular		居咸反。黒。	c009a092		
 5_145_A32-Miyazawa	v21#329	黒	𪒯	Regular	宮		c009a092		
 5_145_A41	v21#329	黒	黚	Regular		渠炎反。淺黄色。	c009b011		
-5_145_A42	v21#329	黒	䵵	Regular		記林反。利反。黄黒文也。	c009b012		
+5_145_A42	v21#329	黒	䵵	Regular		記林反。利反。黄黒文也。	c009b012		記林反：衍文。利反：宋本《玉篇》作"叉刮切"。《新撰字鏡》引《玉篇》作又利反。當作"叉刮反"。
 5_145_A42-Shirafuji	v21#329	黒	𪑙	Regular	白		c009b012		
 5_145_A51	v21#329	黒	𪑙	Regular		記林反。黄黒。	c009b013		
 5_145_A511	v21#329	黒	𪑲	Songben-Yupian		#	c009b014		
 5_145_A52	v21#329	黒	黦	Regular		於勿反。黄黒有文。	c009b021		
 5_145_A61	v21#329	黒	黔	Regular		渠廉反。黒色、民名。	c009b022		
-5_145_A62	v21#329	黒	䵤	Regular		干殄反。黒致豉也。	c009b023		殄：原文似弥。
+5_145_A62	v21#329	黒	䵤	Regular		于殄反。黒致豉也。	c009b023		殄：原文似弥。于：呂作干。上田作于。
 5_145_B11	v21#329	黒	黕	Regular		㱄。丁感反。垢濁也、⿱奴土黒。	c009b024		双隷(23)(異)。掲出字：原作𪐜㱄。⿱奴土：呂作坳。呂按「𪐜」「㱄」皆音義缺。現存注文為「黕」之注文，字頭「黕」脫。
 5_145_B12	v21#329	黒	黠	Regular		核札反。慧。	c009b025		
 5_145_B21	v21#329	黒	黨	Regular		丁朗反。類也、助也、聚也、知也、承也、善也。	c009b031		
@@ -13975,7 +13975,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_146_A52	v21#329	黒	𪒄	Regular		亡耿反。草木藂生。	c009b075		
 5_146_A61	v21#329	黒	𪒐	Regular		同上。	c009b081		
 5_146_A62	v21#329	黒	黰	Regular		之忍反。美髪。	c009b084		
-5_146_B11	v21#329	黒	𪒇	Regular		亡北反。聽也。	c010a046		掲出字：呂作𪒂、又云「《玉篇》作“黒也”、《名義》未詳。」。
+5_146_B11	v21#329	黒	𪒇	Regular		亡北反。聽也。	c010a046		掲出字：呂作𪒂。聽也：《新撰字鏡》引《玉篇》作「字書聽也」。宋本《玉篇》作「黒也」。
 5_146_B11-Miyazawa	v21#329	黒	𪒂	Regular	宮		c010a046		
 5_146_B12	v21#329	黒	䵝	Regular		於既反。深黒。	c009b085		掲出字：宮澤作𪐘。呂同。
 5_146_B12-Miyazawa	v21#329	黒	𪐘	Regular	宮		c009b085		
@@ -13983,7 +13983,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_146_B22	v21#329	黒	𪐤	Regular		有流反。肬字。	c009b091		
 5_146_B31	v21#329	黒	𪑚	Regular		力大反。大黒。	c009b082		
 5_146_B32	v21#329	黒	𪒴	Regular		丁来反。黒。	c009b083		
-5_146_B41	v21#329	黒	𪑾	Regular		如屬反。垢黒。	c009b092		
+5_146_B41	v21#329	黒	𪑾	Regular		如属反。垢黒。	c009b092		
 5_146_B42	v21#329	黒	𪑿	Regular		子思反。黒。	c009b093		
 5_146_B51	v21#329	黒	黧	Regular		力奚反。黒。	c009b094		
 5_146_B52	v21#329	黒	𪑱	Regular		乙角反。利。	c009b095		
@@ -14006,7 +14006,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_147_B11-Miyazawa	v21#330	赤	頳	Regular	宮		c010a085		
 5_147_B111	v21#330	赤	𧹙	Embedded_clerical		𧹙沬、並上。	c010a086		埋字B。宋本《玉篇》作𧹚。沬：當作泟。
 5_147_B12	v21#330	赤	赨	Regular		徒吟反。赤。	c010a073		
-5_147_B21	v21#330	赤	𧹳	Regular		古旦反。赤色。	c010a087		
+5_147_B21	v21#330	赤	𧹳	Regular		公旦反。赤色。	c010a087		
 5_147_B22	v21#330	赤	赭	Regular		之野反。赤土。	c010a091		
 5_147_B31	v21#330	赤	赮	Regular		胡加反。朝日赤。	c010a083		
 5_147_B32	v21#330	赤	赩	Regular		許力反。赤也、怒也。	c010a092		

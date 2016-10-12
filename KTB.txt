@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.20
+#	Version: 1.0.21
 #	Date published : 1 September 2016
 #	Last modified : 12 October 2016
 #
@@ -14023,15 +14023,15 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_148_A42	v21#332	夨	呉	Regular		牛胡反。国名。〔𡗿：古文。〕	c010b042		有埋字B。
 5_148_A43	v21#332	夨	𡗿	Embedded_clerical		𡗿：古文。	c010b043		埋字B。
 5_148_A43-Miyazawa	v21#332	夨	𡗾	Regular	宮		c010b043		
-5_148_A51	v21#332	夨	䧶	Regular		瞿龜反。領(顧)也。	c010b044		
+5_148_A51	v21#332	夨	䧶	Regular		瞿龜反。領也。	c010b044		掲出字：原作⿱進六。宮澤・上田・呂作𨾗。白藤作䧶。領：當作顧。
 5_148_A52	v21#332	夨	𥸸	Regular		力結反。裏也。	c010b041		
 5_148_A61	v21#332	夨	𡙼	Regular		神祈反。弓戻。	c010b051		
 5_148_B11	v21#333	夭	夭	Regular		猗驕反。屈也、折也。	c010b061		
 5_148_B21	v21#333	夭	喬	Regular		居橋反。高也、累荷也。	c010b062		
-5_148_B31	v21#333	夭	𠂷	Regular		□(核)耿反。遇也。	c010b071		反切：上田作「核耿」、張作「核耿」、呂作「𥡠耿」。
+5_148_B31	v21#333	夭	𠂷	Regular		核耿反。遇也。	c010b071		反切：上田作「核耿」、張作「核耿」、呂作「𥡠耿」。
 5_148_B32	v21#333	夭	𢍃	Regular		補昆反。走也、疾也。	c010b072		
 5_148_B32-Shirafuji	v21#333	夭	奔	Regular	白		c010b072		
-5_148_B41	v21#334	交	交	Regular		古希(肴)反。共也、更也、合也、安也。	c010b081		
+5_148_B41	v21#334	交	交	Regular		古肴反。共也、更也、合也、安也。	c010b081		肴：原作希。
 5_148_B51	v21#334	交	絞	Regular		古卯反。縄也、切也、頰也、縊也。	c010b083		
 5_148_B52	v21#334	交	𤕐	Regular		烋倶反。擧眼也。	c010b091		
 5_148_B61	v21#334	交	𤕚	Regular		呼惟反。忠也。	c010b092		
@@ -14046,32 +14046,32 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_149_A41	v21#335	尢	㞁	Regular		亡申反。小腫也。	c011a012		
 5_149_A42	v21#335	尢	尲	Regular		五炎反。行不止。	c011a013		
 5_149_A51	v21#335	尢	尬	Regular		公八反。尲字。	c011a014		
-5_149_A52	v21#335	尢	尥	Regular		力郎(弔)反。	c011a015		掲出字：原作𡯌、白藤・呂作𡯌。宮澤・上田作尥。
+5_149_A52	v21#335	尢	尥	Regular		力弔反。	c011a015		掲出字：原作𡯌、白藤・呂作𡯌。宮澤・上田作尥。弔：原作即。
 5_149_A52-Shirafuji	v21#335	尢	𡯌	Regular	白		c011a015		
 5_149_A61	v21#335	尢	𡰖	Regular		達奚反。不能行也。	c011a021		
 5_149_A61-Miyazawa	v21#335	尢	𡰄	Regular	宮		c011a021		
 5_149_A62	v21#335	尢	𡰢	Regular		相圭反。携同。	c011a022		
 5_149_A621	v21#335	尢	𡰖	Songben-Yupian		#	c011a023		
-5_149_B11	v21#335	尢	𡰟	Regular		力臥反。膝中宿。	c011a031		
+5_149_B11	v21#335	尢	𡰟	Regular		力卧反。膝中宿。	c011a031		
 5_149_B12	v21#335	尢	㝼	Regular		於于反。股㝼。	c011a024		
 5_149_B21	v21#335	尢	尰	Regular		時腫反。腫足。	c011a032		
 5_149_B211	v21#335	尢	𡰒	Songben-Yupian		#	c011a033		
 5_149_B22	v21#335	尢	㞇	Regular		於凶反。病痱。	c011a034		
 5_149_B31	v21#335	尢	㞂	Regular		他凶反。㞇㞂。	c011a035		
 5_149_B32	v21#335	尢	尯	Regular		丘髪反。㝿。	c011a036		
-5_149_B41	v21#335	尢	𡯴	Regular		丑較反。蹇。	c011a042		
+5_149_B41	v21#335	尢	𡯴	Regular		丑較反。蹇。	c011a042		丑：原作刃。
 5_149_B42	v21#335	尢	㞆	Regular		居義反。一足。	c011a041		
-5_149_B51	v21#335	尢	㞄	Regular		烏感反。蹇。	c011a043		
+5_149_B51	v21#335	尢	㞄	Regular		烏感反。蹇。	c011a043		感：原作⿰冫感。
 5_149_B61	v21#336	壹	壹	Regular		於逸反。合也、成聚也。	c011a071		
 5_150_A11	v21#336	壹	亄	Regular		於既反。貪貢。	c011a072		
 5_150_A12	v21#336	壹	懿	Regular		於冀反。美也、大也。	c011a073		
-5_150_A21	v21#337	專	專	Regular		之縁反。享也、檀也、獨也、單也、因也、住也、業也、誠也、滿也、辞也。	c011a081		
+5_150_A21	v21#337	專	專	Regular		之縁反。享也、檀也、獨也、單也、因也、住也、業、誠也、滿也、辞也。	c011a081		
 5_150_A21-Miyazawa	v21#337	專	叀	Regular	宮		c011a081		
 5_150_A31	v21#337	專	叀	Regular		古字。〔𡴗：古文。〕	c011a082		有埋字B。
 5_150_A31-Miyazawa	v21#337	專	𡴗	Regular	宮		c011a082		
 5_150_A311	v21#337	專	𡴗	Embedded_clerical		𡴗：古文。	c011a082		埋字B。
 5_150_A312	v21#337	專	𠧡	Songben-Yupian		#	c011a083		
-5_150_A32	v21#337	專	疐	Regular		竹利反。跉(跲)也、仆也。	c011a084		
+5_150_A32	v21#337	專	疐	Regular		竹利反。跉也、仆也。	c011a084		跉：當作跲。《新撰字鏡》引《玉篇》作路。宋本《玉篇》作跲。
 5_150_A32-Miyazawa	v21#337	專	𤴝	Regular	宮		c011a084		
 5_150_A41	v21#337	專	惠	Regular		胡桂反。愛也、從也、仁也、錺也。	c011a091		
 5_150_A42	v21#337	專	𢥁	Regular		古惠。	c011a092		
@@ -14087,11 +14087,11 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_150_B41	v21#339	丹	雘	Regular		於玃反。善赤。	c011b024		
 5_150_B42	v21#339	丹	彤	Regular		徒宗反。赤也。	c011b031		
 5_150_B51	v21#339	丹	蚒	Regular		同上。	c011b032		
-5_150_B52	v21#339	丹	𣪂	Regular		補姦反。軄也。古■(班)。	c011b033		
+5_150_B52	v21#339	丹	𣪂	Regular		補姦反。軄也。古班。	c011b033		班：原文誤写。
 5_150_B61	v21#340	青	青	Regular		且經反。空青。	c011b041		
 5_151_A11	v21#340	青	𡴑	Regular		古青字。	c011b042		掲出字：宮澤作𡷉。呂同。
 5_151_A11-Miyazawa	v21#340	青	𡷉	Regular	宮		c011b042		
-5_151_A12	v21#340	青	䨼	Regular		胡故反。⿰星久屬也。	c011b043		⿰星久：呂作黝。
+5_151_A12	v21#340	青	䨼	Regular		胡故反。⿰星久属也。	c011b043		⿰星久：呂作黝。
 5_151_A21	v21#340	青	靜	Regular		胡井反。貞也、審也、謀也、安也、治也、息也、思也。	c011b051		
 5_151_A31	v21#341	氏	氏	Regular		都礼反。坁字。	c011b061		坁：呂作坻。
 5_151_A41	v21#341	氏	𨈐	Regular		居月反。木本也。	c011b062		掲出字：呂作氒。

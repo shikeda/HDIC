@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.22
+#	Version: 1.0.23
 #	Date published : 1 September 2016
-#	Last modified : 14 October 2016
+#	Last modified : 15 October 2016
 #
 #	Copyright (c) 2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -2643,7 +2643,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_003_A62	v4#53	見	𧠿	Regular		忍( 丑心)反。出頭視也。	a045b103		忍：二字誤認為一字，當作「丑心」。
 2_003_B11	v4#53	見	覬	Regular		羈致反。望也、幸也。	a046a011		
 2_003_B12	v4#53	見	㒻	Regular		莫勒反。抵觸也。	a046a013		
-2_003_B21	v4#53	見	覦	Regular		𢈔俱反。欲也。	a046a012		
+2_003_B21	v4#53	見	覦	Regular		庾俱反。欲也。	a046a012		
 2_003_B22	v4#53	見	䚎	Regular		丑江反。見不明也。	a046a014		
 2_003_B31	v4#53	見	𧢢	Regular		戈昭反。誤也。	a046a015		
 2_003_B32	v4#53	見	䚐	Regular		秦⿰禾犬反。目赤也。	a046a016		⿰禾犬：呂作「秓」。
@@ -14534,7 +14534,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_017_B32	v22#351	石	礩	Regular		之逸反。柱下石。	c018a036		
 6_017_B41	v22#351	石	碥	Regular		裨顯反。	c018a041		
 6_017_B42	v22#351	石	礥	Regular		丁研反。難。	c018a042	Y22000417-1	
-6_017_B51	v22#351	石	磼	Regular		寸含反。高也。	c018a043	Y22000417-2	
+6_017_B51	v22#351	石	磼	Regular		寸合反。高也。	c018a043	Y22000417-2	
 6_017_B52	v22#351	石	礏	Regular		五合反。礫。	c018a044	Y22000418-1	
 6_017_B61	v22#351	石	𥗝	Regular		人寸反。惡雄黃。	c018a045	Y22000418-2	
 6_017_B62	v22#351	石	䂳	Regular		又曰反。好雄黃。	c018a051		
@@ -14552,9 +14552,9 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_018_A61	v22#351	石	確	Regular		口角反。堅。	c018a065	Y22000423-2	
 6_018_A62	v22#351	石	碻	Regular		同上。	c018a066	Y22000424-1	
 6_018_B11	v22#351	石	磖	Regular		力合反。破物聲。	c018a071	Y22000424-2	
-6_018_B12	v22#351	石	砊	Regular		口虎(康)反。硠。	c018a074	Y22000425-1	
+6_018_B12	v22#351	石	砊	Regular		口康反。硠。	c018a074	Y22000425-1	康：原作虎。原本《玉篇》作康。
 6_018_B21	v22#351	石	䃛	Regular		力煎反。礦。	c018a075	Y22000425-2	
-6_018_B22	v22#351	石	𥗀	Regular		力胶反。鳥重。	c018a076	Y22000425-3	
+6_018_B22	v22#351	石	𥗀	Regular		力晈反。鳥重。	c018a076	Y22000425-3	晈：原作胶。
 6_018_B31	v22#351	石	硐	Regular		徒公反。摩。	c018a081	Y22000426-1	
 6_018_B311	v22#351	石	磟	Omitted		Omitted	c018a082	Y22000426-2	
 6_018_B32	v22#351	石	碡	Regular		徒毒反。磟。	c018a083	Y22000426-3	
@@ -14562,9 +14562,9 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_018_B42	v22#351	石	䃔	Regular		口冬反。同上。	c018a085	Y22000427-2	
 6_018_B51	v22#351	石	碊	Regular		子由反。棚、䜵也。	c018a091	Y22000427-3	䜵：疑當作攱。
 6_018_B52	v22#351	石	磃	Regular		此言反。宮名。席字。	c018a092	Y22000429-1	
-6_018_B61	v22#351	石	砫	Regular		之𢈔反。里。	c018a093	Y22000429-2	反。原作反也。
+6_018_B61	v22#351	石	砫	Regular		之庾反。里。	c018a093	Y22000429-2	反。：原作反也。
 6_018_B62	v22#351	石	硍	Regular		胡蕑反。石聲。	c018a095	Y22000430-1	
-6_019_A11	v22#351	石	磂	Regular		力牛反。敬也。	c018a094	Y22000430-2	
+6_019_A11	v22#351	石	磂	Regular		力牛反。煞也。	c018a094	Y22000430-2	
 6_019_A12	v22#351	石	䃸	Regular		子林反。楔。	c018a105	Y22000431-1	
 6_019_A21	v22#351	石	磹	Regular		達紺反。電光。	c018b011	Y22000432-1	
 6_019_A22	v22#351	石	硥	Regular		薄項反。𧉻。	c018a096	Y22000432-2	
@@ -14572,7 +14572,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_019_A32	v22#351	石	磲	Regular		鉅於反。硨。	c018a073	Y22000433-2	鉅：原作𨦍。
 6_019_A32-Shirafuji	v22#351	石	𥓼	Regular	白		c018a073	Y22000433-2	
 6_019_A41	v22#351	石	䃂	Regular		古混反。	△	Y22000433-3	
-6_019_A42	v22#351	石	碼	Regular		草⿰古兒反。	c018a103	Y22000435-1	⿰古兒：當作嘏。
+6_019_A42	v22#351	石	碼	Regular		草嘏反。	c018a103	Y22000435-1	嘏：原作⿰古兒。
 6_019_A51	v22#351	石	碯	Regular		奴道反。	c018a104	Y22000435-2	
 6_019_A52	v22#351	石	磾	Regular		都泥反。	c018a102	Y22000435-3	
 6_019_A61	v22#351	石	䂦	Regular		之仁反。碬。	c018b012	Y22000436-1	
@@ -14580,9 +14580,9 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_019_B11	v22#351	石	硱	Regular		口本反。石皃。	c018b014	Y22000437-1	
 6_019_B12	v22#351	石	磳	Regular		仕冰反。䂩。	c018b015	Y22000438-1	
 6_019_B21	v22#351	石	硂	Regular		且泉反。度也、量也、次也。	c018b022	Y22000438-2	
-6_019_B22	v22#351	石	碏	Regular		士畝反。敬。	c018b023	Y22000438-3	
+6_019_B22	v22#351	石	碏	Regular		士畝反。敬。	c018b023	Y22000438-3	畝：當作略。
 6_019_B31	v22#351	石	䃷	Regular		餘成反。翫習。	c018b025	Y22000440-1	
-6_019_B32	v22#351	石	礣	Regular		莫錧反。雷聲。	c018b024	Y22000440-2	錧：當作鎋。
+6_019_B32	v22#351	石	礣	Regular		莫鎋反。雷聲。	c018b024	Y22000440-2	鎋：原作錧。
 6_019_B41	v22#351	石	砎	Regular		胡瞎反。同上。	c018b021	Y22000441-1	瞎：原作𦟈。
 6_019_B42	v22#351	石	𥑐	Regular		古狎反。山側。	c018b031	Y22000441-2	
 6_019_B51	v22#351	石	砰	Regular		披前反。石聲。	c018b032	Y22000441-3	
@@ -14604,9 +14604,9 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_020_A62	v22#352	磬	㲈	Regular		徒勞反。小⿱殸土。	c019b043	Y22000453-2	
 6_020_A62-Miyazawa	v22#352	磬	𡄒	Regular	宮		c019b043	Y22000453-2	
 6_020_A621	v22#352	磬	㲆	Songben-Yupian		#	c019b041		
-6_020_B11	v22#352	磬	鏧	Regular		力宗反。同上。	c019b045	Y22000455-1	
+6_020_B11	v22#352	磬	㲇	Regular		除隆反。皷聲。	△	Y22000454-1	
 6_020_B111	v22#352	磬	𣫣	Songben-Yupian		#	c019b044		
-6_020_B12	v22#352	磬	㲇	Regular		除隆反。皷聲。	△	Y22000454-1	
+6_020_B12	v22#352	磬	鏧	Regular		力宗反。同上。	c019b045	Y22000455-1	
 6_020_B21	v22#352	磬	𣫤	Regular		他登反。同上。	c019b042	Y22000455-2	
 6_020_B22	v22#352	磬	𣫒	Regular		口庭反。不可近也。	c019b046	Y22000455-3	
 6_020_B31	v22#353	𠂤	𠂤	Regular		都逥反。小阜、小塊。	c019b051	Y22000457-1	
@@ -14638,7 +14638,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_021_B31	v22#354	阜	隥	Regular		都鄧反。阪也、仰也。	c020a031	Y22000507-1	
 6_021_B32	v22#354	阜	陋	Regular		力豆反。隱也、小也、陋也。	c020a032	Y22000508-1	揭出字：原作⿺辶丙。
 6_021_B41	v22#354	阜	陜	Regular		胡夾反。隘也。	c020a033	Y22000510-1	
-6_021_B42	v22#354	阜	陿	Regular		胡夾反。陝字。	△	Y22000510-2	
+6_021_B42	v22#354	阜	陿	Regular		胡夾反。陜字。	△	Y22000510-2	
 6_021_B51	v22#354	阜	陟	Regular		徵棘反。登也。	c020a034	Y22000511-1	棘：原作𣘐。
 6_021_B52	v22#354	阜	陷	Regular		音沒。隤也。	c020a041	Y22000513-1	
 6_021_B61	v22#354	阜	隰	Regular		辞立反。	c020a042	Y22000515-1	
@@ -14648,7 +14648,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_022_A21	v22#354	阜	隊	Regular		馳愧反。苦也、墜也。	c020a051	Y22000520-1	
 6_022_A22	v22#354	阜	降	Regular		皷恭反。落也、歸也。	c020a052	Y22000522-1	
 6_022_A31	v22#354	阜	隉	Regular		魚結反。免也。	c020a061	Y22000526-1	
-6_022_A32	v22#354	阜	隕	Regular		為敏反。隋也、𨻇也。	c020a053	Y22000527-1	隋：原作⿰⿱阝老目。
+6_022_A32	v22#354	阜	隕	Regular		為敏反。隋也、𨻇也。	c020a053	Y22000527-1	隋：原作⿰阝⿱老目。
 6_022_A41	v22#354	阜	阤	Regular		除堅反。溚也。	c020a063	Y22000528-1	
 6_022_A42	v22#354	阜	𨻺	Regular		口營反。	c020a064	Y22000530-1	
 6_022_A51	v22#354	阜	陊	Regular		徒可反。落也、崩也。	c020a062	Y22000530-2	
@@ -14673,7 +14673,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_023_A12	v22#354	阜	隈	Regular		於逥反。水曲也。	c020b012	Y22000558-1	
 6_023_A21	v22#354	阜	𠳋	Regular		丘善反。小塊也。	c019b063	Y22000559-1	
 6_023_A22	v22#354	阜	𨼬	Regular		胡灑反。	c020b013	Y22000559-2	
-6_023_A31	v22#354	阜	附	Regular		扶付反。灑也、近也、著也、至也、益也。	c020a103	Y22000560-1	
+6_023_A31	v22#354	阜	附	Regular		扶付反。灑也、近也、著也、至也、益也。	c020a103	Y22000560-1	扶：原作狹。
 6_023_A32	v22#354	阜	隴	Regular		力鞏反。大阪也。	c020b014	Y22000565-1	
 6_023_A41	v22#354	阜	䧇	Regular		於幾反。	c020b022	Y22000566-1	揭出字：原作依。
 6_023_A41-Shirafuji	v22#354	阜	依	Regular	白		c020b022	Y22000566-1	
@@ -14688,7 +14688,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_023_B21	v22#354	阜	𨺟	Regular		徵京反。	c020b031	Y22000571-2	
 6_023_B22	v22#354	阜	陚	Regular		万勾反。土也、小也、陂也。	c020b035	Y22000572-1	
 6_023_B31	v22#354	阜	䦺	Regular		都庭反。	c020b023		
-6_023_B32	v22#354	阜	䧦	Regular		虛爲反。	c020b041	Y22000572-2	
+6_023_B32	v22#354	阜	䧦	Regular		虛為反。	c020b041	Y22000572-2	
 6_023_B41	v22#354	阜	陼	Regular		之与反。水中高。	c020b043	Y22000573-1	
 6_023_B42	v22#354	阜	陳	Regular		除珎反。列也、故也、處也。	c020b044	Y22000573-2	
 6_023_B51	v22#354	阜	𨸬	Regular		同上。	c020b051	Y22000578-1	
@@ -14696,7 +14696,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_023_B61	v22#354	阜	陶	Regular		徒高反。除也、養也。	c020b052	Y22000579-1	
 6_023_B62	v22#354	阜	阽	Regular		餘占反。壁危也。	c020b061	Y22000585-1	
 6_024_A11	v22#354	阜	除	Regular		雉居反。去也、道也。	c020b062	Y22000585-2	
-6_024_A12	v22#354	阜	階	Regular		階古諧也。道也、梯也、陛。	c020b063	Y22000587-1	揭出字：原作队。
+6_024_A12	v22#354	阜	階	Regular		階：古諧也。道也、梯也、陛。	c020b063	Y22000587-1	揭出字：原作队。呂云「此字音義脱」。古諧也：當作「古諧反」。
 6_024_A21	v22#354	阜	阼	Regular		辞故反。酢也、主階也。	c020b064	Y22000590-1	
 6_024_A22	v22#354	阜	陔	Regular		古臺反。次也、重也、隴也。	c020b053	Y22000591-1	
 6_024_A31	v22#354	阜	陛	Regular		蒲礼反。天子階。	c020b072	Y22000592-1	
@@ -14717,7 +14717,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_024_B321	v22#354	阜	阰	Songben-Yupian		#	c020b104		
 6_024_B41	v22#354	阜	隆	Regular		力弓反。多也、豊大也。	c021a011	Y22000612-1	
 6_024_B42	v22#354	阜	陀	Regular		徒阿反。長陛也、靡迆也。	c021a012	Y22000613-1	此項應參照圖書寮本《類聚名義抄》。
-6_024_B51	v22#354	阜	陙	Regular		時㘬反。小阜也。	c020b081	Y22000609-1	㘬：當作均。此項、當在前前行。
+6_024_B51	v22#354	阜	陙	Regular		時均反。小阜也。	c020b081	Y22000609-1	均：原作㘬。此項、當在前前行。
 6_024_B52	v22#354	阜	陯	Regular		力昆反。沒也、卛也。	c020b101	Y22000610-1	此項、當在前前行。
 6_024_B61	v22#354	阜	陞	Regular		奴繩反。上也、進也。	c021a013	Y22000615-1	
 6_024_B62	v22#354	阜	𨹃	Regular		丁戈反。小堆也。	c021a014	Y22000616-1	
@@ -14749,8 +14749,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_025_B611	v22#354	阜	䧁	Omitted		Omitted	c021a063	Y22000630-2	
 6_025_B62	v22#354	阜	𨻱	Regular		補用反。壞也、死也。	c021a064	Y22000631-1	
 6_026_A11	v22#354	阜	隑	Regular		牛哀反。長也、倚也。	c021a065	Y22000631-2	
-6_026_A12	v22#354	阜	䧆	Regular		胡公反。坑也。	c021a071	Y22000633-1	
-6_026_A21	v22#354	阜	𨼒	Regular		死善反。水名。	c021a072	Y22000633-2	
+6_026_A12	v22#354	阜	䧆	Regular		胡公反。坑。	c021a071	Y22000633-1	
+6_026_A21	v22#354	阜	𨼒	Regular		充善反。水名。	c021a072	Y22000633-2	
 6_026_A22	v22#354	阜	陌	Regular		武佰反。勱也、道也。	c021a073	Y22000634-1	
 6_026_A31	v22#354	阜	隧	Regular		辞醉反。俓也。	c021a074	Y22000635-1	
 6_026_A32	v22#354	阜	𨼰	Regular		許規反。癈、毀也、損也。	c021a075	Y22000639-1	
@@ -14763,17 +14763,17 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_026_A61	v22#354	阜	隁	Regular		於建反。𦁎也、坑也。	c021a092	Y22000644-3	
 6_026_A62	v22#354	阜	䧫	Regular		故勞反。	c021a093	Y22000647-1	
 6_026_B11	v22#354	阜	陏	Regular		辞親反。	△	Y22000648-1	
-6_026_B12	v22#354	阜	𨻻	Regular		力侯反。	c021a094	Y22000649-1	
+6_026_B12	v22#354	阜	𨻻	Regular		力候反。	c021a094	Y22000649-1	
 6_026_B21	v22#355	𨺅	𨺅	Regular		扶救反。兩阜之間。	c021b071	Y22000651-1	
-6_026_B22	v22#355	𨺅	𨽄	Regular		所覬反。阜䆕也。	c021b073	Y22000651-2	
+6_026_B22	v22#355	𨺅	𨽄	Regular		所覬反。阜䆕也。	c021b073	Y22000651-2	䆕：原作𥥜。
 6_026_B31	v22#355	𨺅	𨽝	Regular		於賣反。陋也。	c021b074	Y22000651-3	
 6_026_B32	v22#355	𨺅	𨽡	Regular		似季反。近道。	c021b072	Y22000652-1	
 6_026_B33	v22#355	𨺅	𤓫	Regular		燧字。	△	Y22000652-2	
-6_026_B41	v22#356	厽	厽	Regular		力揆反。塹也、亦也。	c021b091	Y22000655-1	
+6_026_B41	v22#356	厽	厽	Regular		力捶反。參字。音含。	c021b091	Y22000655-1	
 6_026_B42	v22#356	厽	絫	Regular		力捶反。重也、増也、積也。	△	Y22000655-2	捶：原文訛。
 6_026_B51	v22#356	厽	垒	Regular		力揆反。塹也、亦也。	c021b101	Y22000658-1	
 6_026_B52	v22#356	厽	參	Regular		虐躭反。分也。	c021b092	Y22000658-2	虐：残巻作廣。躭：原作𨈣。Z22尾(Z22:616字)。
-6_026_B61	v23#357	馬	馬	Regular		莫推(雅)反。武也、怒也。〔𢒗：古馬也。〕〔𢒠：馬字。〕	c022a101		有埋字B二字。Z23首。
+6_026_B61	v23#357	馬	馬	Regular		莫雅反。武也、怒也。〔𢒗：古馬也。〕〔𢒠：馬字。〕	c022a101		有埋字B二字。Z23首。雅：原作推。
 6_026_B62	v23#357	馬	𢒗	Embedded_clerical		𢒗：古馬也。	c022a102		埋字B。
 6_026_B621	v23#357	馬	𢒠	Embedded_clerical		𢒠：馬字。	c022a103		埋字B。
 6_027_A11	v23#357	馬	騭	Regular		之逸反。定也、升也。	c022a104		
@@ -15419,7 +15419,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_051_A121	v23#372	鹿	麃	Omitted		Omitted	c030b064		
 6_051_A21	v23#372	鹿	麠	Regular		記复反。鹿牛尾一角。	c031a011		
 6_051_A22	v23#372	鹿	麖	Regular		同上。似鹿、爪黒。	c031a012		
-6_051_A31	v23#372	鹿	麈	Regular		之𢈔反。似鹿尾節巾。	c030b065		
+6_051_A31	v23#372	鹿	麈	Regular		之庾反。似鹿尾節巾。	c030b065		
 6_051_A32	v23#372	鹿	麑	Regular		魚雞反。師子走五百里。	c030b066		
 6_051_A41	v23#372	鹿	𪋳	Regular		力丁反。似羊大角。	c030b072		
 6_051_A41-Miyazawa	v23#372	鹿	麢	Regular	宮		c030b072		

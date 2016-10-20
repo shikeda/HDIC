@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.28
+#	Version: 1.0.29
 #	Date published : 1 September 2016
 #	Last modified : 20 October 2016
 #
@@ -15068,7 +15068,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_038_A31	v23#358	牛	𤙡	Regular		息營反。赤也。	c025b072		
 6_038_A32	v23#358	牛	㹏	Regular		君隱反。善也、柔牛馴也。	c025b066		
 6_038_A41	v23#358	牛	犝	Regular		徒東反。无角牛。	c025b071		
-6_038_A42	v23#358	牛	㹉	Regular		魚闇反。牛三足也。	c025b073		：原作囙。《新撰字鏡》作闇。上田云「下字不明」。呂云「此處"囙"疑當釋作"圓"」。
+6_038_A42	v23#358	牛	㹉	Regular		魚闇反。牛三足也。	c025b073		闇：原作囙。《新撰字鏡》作闇。上田云「下字不明」。呂云「此處"囙"疑當釋作"圓"」。
 6_038_A51	v23#358	牛	牥	Regular		甫防反。流沙行牛。	c025b074		
 6_038_A511	v23#358	牛	犇	Songben-Yupian		#	c025b081		
 6_038_A61	v23#359	氂	氂	Regular		亡勞反。旄字。	c026a071		
@@ -15142,7 +15142,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_040_B61	v23#362	𦫳	𦫳	Regular		公瓦反。羊角也。	c027a031		
 6_040_B62	v23#362	𦫳	𦮃	Regular		古懷反。背也、離也、差也。	c027a032		
 6_041_A11	v23#362	𦫳	芇	Regular		亡殄反。相當。	c027a041		
-6_041_A12	v23#362	𦫳	𦹬	Regular		枯蛙䅅反。離絶也。	c027a042		掲出字：宮澤作䔪、白藤作䓙・𦴂。呂作𦹬。枯蛙：原作「枯䅅」、宋本《玉篇》作「苦蛙」、上田作「枯蛙」。《新撰字鏡》作「古圭」。
+6_041_A12	v23#362	𦫳	𦹬	Regular		枯蛙反。離絶也。	c027a042		掲出字：宮澤作䔪、白藤作䓙・𦴂。呂作𦹬。枯蛙：原作「枯䅅」、宋本《玉篇》作「苦蛙」、上田作「枯蛙」。《新撰字鏡》作「古圭」。
 6_041_A12-Shirafuji-1	v23#362	𦫳	䓙	Regular	白		c027a042		
 6_041_A12-Shirafuji-2	v23#362	𦫳	𦴂	Regular	白		c027a042		
 6_041_A21	v23#363	萈	萈	Regular		候端反。羊細角也。	c027a051		

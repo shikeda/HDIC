@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.30
+#	Version: 1.0.31
 #	Date published : 1 September 2016
-#	Last modified : 22 October 2016
+#	Last modified : 24 October 2016
 #
 #	Copyright (c) 2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -15736,9 +15736,9 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_062_B52	v24#390	鳥	鳲	Regular		舒祗反。食其子。	c034b061		
 6_062_B61	v24#390	鳥	鴀	Regular		夫有反。	c034b062		
 6_062_B62	v24#390	鳥	𪂉	Regular		餘国反。	c034b063		
-6_063_A11	v24#390	鳥	䳫	Regular		距隹反。荊鳩。	c034b064		
+6_063_A11	v24#390	鳥	䳫	Regular		距隹反。荊鳩。	c034b064		掲出字：原作䳾。
 6_063_A12	v24#390	鳥	䳕	Regular		扶優反。伇鳩。	c034b065		
-6_063_A21	v24#390	鳥	鸁	Regular		力戈反。䳡𩿊。	c034b066		
+6_063_A21	v24#390	鳥	鸁	Regular		力戈反。鷦𩿊。	c034b066		鷦：原作䳡。𩿊：疑當作𪃦。
 6_063_A22	v24#390	鳥	鸝	Regular		力貲反。玄鳥。	c034b067		
 6_063_A31	v24#390	鳥	鵹	Regular		同上。	c034b071		
 6_063_A32	v24#390	鳥	鵌	Regular		達都反。同穴。	c034b072		
@@ -15750,29 +15750,29 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_063_A62	v24#390	鳥	𩾵	Regular		同上。	c034b083		
 6_063_B11	v24#390	鳥	䳳	Regular		思律反。	c034b084		
 6_063_B12	v24#390	鳥	𪇲	Regular		子列反。小鷄也。	c034b085		
-6_063_B21	v24#390	鳥	𪄭	Regular		次要(栗)反。	c034b086		
+6_063_B21	v24#390	鳥	𪄭	Regular		次栗反。	c034b086		栗：原作要。《新撰字鏡》作栗。
 6_063_B22	v24#390	鳥	𪁾	Regular		烏道反。	c034b087		
-6_063_B31	v24#390	鳥	鶹	Regular		來鳩反。	c034b088		
-6_063_B32	v24#390	鳥	鷦	Regular		子姚反。桃虫。鷦(鳭)文。	c034b091		
+6_063_B31	v24#390	鳥	鶹	Regular		来鳩反。	c034b088		
+6_063_B32	v24#390	鳥	鷦	Regular		子姚反。桃虫。鷦文。	c034b091		鷦：：原作䳡。疑當作鳭。
 6_063_B41	v24#390	鳥	𪃦	Regular		亡消反。工雀。	c034b092		
 6_063_B42	v24#390	鳥	鷯	Regular		力梟反。小鳥。	c034b093		
 6_063_B51	v24#390	鳥	鶨	Regular		徒損反。癡鳥也。	c034b094		
 6_063_B52	v24#390	鳥	𪁑	Regular		餘出反。水鳥。	c034b101		
 6_063_B61	v24#390	鳥	𩿢	Regular		大口反。水鳥黒。	c034b102		
-6_063_B62	v24#390	鳥	鴲	Regular		至時反。臏鴲也。	c034b103		
+6_063_B62	v24#390	鳥	鴲	Regular		至時反。瞑鴲也。	c034b103		瞑：原作臏。
 6_064_A11	v24#390	鳥	鵅	Regular		柯鵅反。弟鳩。	c034b105		
-6_064_A12	v24#390	鳥	𪃈	Regular		古枯反。梟屬。	c035a011		
+6_064_A12	v24#390	鳥	𪃈	Regular		古結反。梟属。	c035a011		結：原作枯、誤。據上田訂。
 6_064_A21	v24#390	鳥	𪃤	Regular		𪃈字。	c035a012		
 6_064_A22	v24#390	鳥	鸏	Regular		莫公反。水鳥也、鳩也。	c034b104		
 6_064_A22-Miyazawa	v24#390	鳥	䴌	Regular	宮		c034b104		
-6_064_A31	v24#390	鳥	𪈟	Regular		雅礼(札)反。水鳥。	c035a013		
+6_064_A31	v24#390	鳥	𪈟	Regular		雅札反。水鳥。	c035a013		札：原作礼。《新撰字鏡》作札。
 6_064_A32	v24#390	鳥	鷸	Regular		市律反。似燕紺也。	c035a014		
 6_064_A41	v24#390	鳥	𪈄	Regular		同上。知天時也。	c035a015		掲出字：呂作𨙧。
 6_064_A41-Shirafuji	v24#390	鳥	鷸	Regular	白		c035a015		
 6_064_A42	v24#390	鳥	𪀐	Regular		北及反。戴䋕也。	c035a021		
 6_064_A51	v24#390	鳥	鵖	Regular		房及反。同上。	c035a016		
 6_064_A52	v24#390	鳥	鷗	Regular		烏侯反。水鴞。	c035a022		
-6_064_A61	v24#390	鳥	䳁	Regular		薄達反。似⿰山隹(雉)朱毛。	c035a023		
+6_064_A61	v24#390	鳥	䳁	Regular		薄達反。似雉朱毛。	c035a023		雉：原作⿰山隹。
 6_064_A62	v24#390	鳥	鷛	Regular		庾恭反。似梟也。	c035a024		
 6_064_B11	v24#390	鳥	鳽	Regular		五田反。鵁鶄也、養之猒火灾。	c035a025		鵁：原文誤写。
 6_064_B11-Shirafuji	v24#390	鳥	鳽	Regular	白		c035a025		
@@ -15780,7 +15780,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_064_B21	v24#390	鳥	鷊	Regular		同上。	c035a032		
 6_064_B22	v24#390	鳥	𪁌	Regular		同上。	c035a033		
 6_064_B31	v24#390	鳥	鷁	Regular		同上。	c035a034		
-6_064_B32	v24#390	鳥	鵁	Regular		古文(交)反。	c035a035		
+6_064_B32	v24#390	鳥	鵁	Regular		古爻反。	c035a035		爻：原作文。
 6_064_B41	v24#390	鳥	鶄	Regular		子盈反。	c035a036		
 6_064_B42	v24#390	鳥	𪇳	Regular		止深反。	c035a041		
 6_064_B51	v24#390	鳥	鴜	Regular		子奇反。水鳥。	c035a042		
@@ -15790,56 +15790,56 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_065_A11	v24#390	鳥	鷂	Regular		与招反。鷙小。	c035a052		
 6_065_A12	v24#390	鳥	鴪	Regular		有必反。疾飛也。	c035a053		
 6_065_A21	v24#390	鳥	鶯	Regular		於耕反。	c035a054		
-6_065_A22	v24#390	鳥	鷩	Regular		俾藝反。鷄屬、立秋冬爲蛤。	c035a055		
+6_065_A22	v24#390	鳥	鷩	Regular		俾藝反。鷄属、立秋冬為蛤。	c035a055		
 6_065_A31	v24#390	鳥	鵔	Regular		思俊反。如鵄足赤喙黃見旱。	c035a061		
-6_065_A32	v24#390	鳥	鸃	Regular		語奇反。鳳皇屬。	c035a062		
-6_065_A41	v24#390	鳥	𪄱	Regular		知隔反。雉屬。	c035a063		
+6_065_A32	v24#390	鳥	鸃	Regular		語奇反。鳳皇属。	c035a062		
+6_065_A41	v24#390	鳥	𪄱	Regular		知隔反。雉属。	c035a063		
 6_065_A42	v24#390	鳥	鷕	Regular		与挍反。雉鳴也。	c035a064		
 6_065_A51	v24#390	鳥	鶾	Regular		何半反。	c035a071		
 6_065_A52	v24#390	鳥	鴆	Regular		除禁反。如鵰、食虵、禁。	c035a072		
-6_065_A61	v24#390	鳥	鷇	Regular		枯候反。燕雀屬。	c035a073		
+6_065_A61	v24#390	鳥	鷇	Regular		枯候反。燕雀属。	c035a073		
 6_065_A62	v24#390	鳥	鸓	Regular		力追反。似蝙也、大尾。	c035a074		
 6_065_A621	v24#390	鳥	𤴒	Songben-Yupian		#	c035a081		
 6_065_B11	v24#390	鳥	鳴	Regular		義京反。唫也、聒耳也。	c035a082		
 6_065_B12	v24#390	鳥	鶱	Regular		許言反。擧也。	c035a083		
 6_065_B201	v24#390	鳥	鳻	Songben-Yupian		#	c035a084		
-6_065_B21	v24#390	鳥	𩿈	Regular		林(扶)雲反。鳥飛皃。	c035a085		
-6_065_B22	v24#390	鳥	鶞	Regular		日(丑)倫反。	c035a086		
+6_065_B21	v24#390	鳥	𩿈	Regular		扶雲反。鳥飛皃。	c035a085		扶：原作林。《新撰字鏡》作扶。
+6_065_B22	v24#390	鳥	鶞	Regular		丑倫反。	c035a086		丑：原作日。《新撰字鏡》作丑。
 6_065_B31	v24#390	鳥	鳸	Regular		胡古反。雇字。	c035a091		
 6_065_B32	v24#390	鳥	𪄮	Regular		同上。	c035a092		
 6_065_B41	v24#390	鳥	鴽	Regular		汝居反。鴿。	c035a093		
 6_065_B42	v24#390	鳥	鴑	Regular		同上。	c036b054		
-6_065_B51	v24#390	鳥	鶢	Regular		虫(禹)飜反。	c035a094		
+6_065_B51	v24#390	鳥	鶢	Regular		禹飜反。	c035a094		禹：原作虫。上田作于、又云「原虫飜反」。
 6_065_B52	v24#390	鳥	鶋	Regular		擧魚反。如釣。	c035a095		
 6_065_B61	v24#390	鳥	鶅	Regular		阻釐反。菟軌。	c035a096		掲出字：原作𪅕。
 6_065_B611	v24#390	鳥	鳼	Songben-Yupian		#	c035a102		
-6_065_B62	v24#390	鳥	鶛	Regular		柯諧反。鶬屬。	c035a103		
+6_065_B62	v24#390	鳥	鶛	Regular		柯諧反。鶬属。	c035a103		
 6_066_A11	v24#390	鳥	𪇘	Regular		逵輈反。四方雉名也。	c035a104		
 6_066_A111	v24#390	鳥	𪆇	Songben-Yupian		#	c035a105		
 6_066_A12	v24#390	鳥	鵗	Regular		虚衣反。同上。	c035a106		
 6_066_A21	v24#390	鳥	鷷	Regular		作句反。同上。	c035a101		句：原作勾。
 6_066_A22	v24#390	鳥	䲬	Regular		渠支反。	c035b011		
 6_066_A31	v24#390	鳥	鶼	Regular		古嫌反。似鳧青黒。	c035b012		
-6_066_A32	v24#390	鳥	𪀗	Regular		九彼反。布穀。	c035b013		
-6_066_A41	v24#390	鳥	䳤	Regular		方引(列)反。如鷄三首六目六足。	c035b014		
+6_066_A32	v24#390	鳥	𪀗	Regular		九彼反。布穀。	c035b013		穀：原作縠。
+6_066_A41	v24#390	鳥	䳤	Regular		方列反。如鷄三首六目六足。	c035b014		列：原作引。
 6_066_A42	v24#390	鳥	𩿧	Regular		方迂反。同上。	c035b015		
-6_066_A51	v24#390	鳥	䴑	Regular		徒頰反。如鵲赤里(黒)四足。	c035b016		
-6_066_A52	v24#390	鳥	䳐	Regular		子異反。鵂鶹屬。	c035b021		
+6_066_A51	v24#390	鳥	䴑	Regular		徒頰反。如鵲赤黒四足。	c035b016		黒：原作里。
+6_066_A52	v24#390	鳥	䳐	Regular		子異反。鵂鶹属。	c035b021		
 6_066_A61	v24#390	鳥	𪆻	Regular		都敢反。同上。	c035b022		
-6_066_A62	v24#390	鳥	𪄀	Regular		薄肝反。鳥人面。	c035b023		
+6_066_A62	v24#390	鳥	𪄀	Regular		薄肝反。鳥人面。	c035b023		鳥：原作烏。
 6_066_A621	v24#390	鳥	𪃑	Songben-Yupian		#	c035b024		
 6_066_B11	v24#390	鳥	鷶	Regular		靡解反。舊字。	c035b032		
-6_066_B12	v24#390	鳥	𪁛	Regular		瑜襞反。鳩。	c035b025		
+6_066_B12	v24#390	鳥	𪁛	Regular		瑜襞反。鳩。	c035b025		襞：原作㵨。《新撰字鏡》作襞。
 6_066_B21	v24#390	鳥	鳻	Regular		補姦反。鳩也。	c035b031		
 6_066_B21-Miyazawa	v24#390	鳥	𪂽	Regular	宮		c035b031		
 6_066_B22	v24#390	鳥	𪂽	Regular		同上。	△		掲出字：宮澤作⿰尊鳥。
-6_066_B31	v24#390	鳥	𪀣	Regular		淭陸反。鳩。	c035b033		
-6_066_B32	v24#390	鳥	𪁜	Regular		路唐反。䳨(鸅)。	c035b034		
+6_066_B31	v24#390	鳥	𪀣	Regular		渠陸反。鳩。	c035b033		渠：原作淭。
+6_066_B32	v24#390	鳥	𪁜	Regular		路唐反。鷱。	c035b034		鷱：原作䳨。
 6_066_B41	v24#390	鳥	鷱	Regular		古豪反。鳩。	c035b052		掲出字：原作䳨。
 6_066_B41-Shirafuji	v24#390	鳥	䳨	Regular	白		c035b052		
 6_066_B42	v24#390	鳥	𪇭	Regular		且賴反。鳩。	c035b035		
 6_066_B51	v24#390	鳥	䳝	Regular		匹部反。雀鳥。	c035b053		掲出字：原作鴗。
-6_066_B52	v24#390	鳥	𪃓	Regular		扶九反。准鷣。	c035b036		
+6_066_B52	v24#390	鳥	𪃓	Regular		扶九反。雀鷣。	c035b036		雀：原作准。
 6_066_B61	v24#390	鳥	𪀘	Regular		似醬反。工雀。	c035b041		
 6_066_B62	v24#390	鳥	𪇴	Regular		莫結反。同上。	c035b042		
 6_067_A11	v24#390	鳥	鵐	Regular		武倶反。雀中鴦也。	c035b043		
@@ -15848,20 +15848,20 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_067_A22	v24#390	鳥	𪁙	Regular		午吾反。如狐似蝙。	c035b054		
 6_067_A31	v24#390	鳥	𪅮	Regular		摩結反。	c035b046		
 6_067_A32	v24#390	鳥	鶧	Regular		猗迎反。	c035b051		
-6_067_A41	v24#390	鳥	鴱	Regular		我奏(泰)反。	c035b061		掲出字：原作䳢。呂云：此字音義缺。池田按、此説、字順有難。
+6_067_A41	v24#390	鳥	鴱	Regular		我泰反。	c035b061		掲出字：原作䳢。呂云「此字音義缺」。池田按、此説、字順有難。泰：原作奏。《新撰字鏡》作泰。
 6_067_A42	v24#390	鳥	鵀	Regular		女林反。戴勝。	c035b062		
 6_067_A51	v24#390	鳥	鶝	Regular		方陸反。同上。	c035b063		
 6_067_A52	v24#390	鳥	鷝	Regular		比謚反。見有灾。	c035b055		
 6_067_A61	v24#390	鳥	䲽	Regular		祖擿反。鳥鳽也。	c035b064		
-6_067_A62	v24#390	鳥	𪁞	Regular		逵侯反。鴞𪆻。	c035b065		鴞𪆻：未勘。
+6_067_A62	v24#390	鳥	𪁞	Regular		達侯反。鴞𪅠。	c035b065		鴞𪅠：未勘。呂作鴢𪁞。《新撰字鏡》作鶢鵁鴟。
 6_067_B11	v24#390	鳥	鳭	Regular		竹交反。	▽		掲出字：原作⿰力鳥。
 6_067_B12	v24#390	鳥	䴃	Regular		女交反。鳭。	c035b066		
 6_067_B21	v24#390	鳥	鵋	Regular		渠記反。䳢、鵅也。	c035b071		
 6_067_B22	v24#390	鳥	䳢	Regular		墟之反。同上。	c035b072		
 6_067_B31	v24#390	鳥	𩿬	Regular		餘周反。似鼠。	c035b073		
 6_067_B32	v24#390	鳥	鵵	Regular		他路反。軌。	c035b074		
-6_067_B41	v24#390	鳥	鵩	Regular		扶木反。似鶉大。	c035b075		呂云：「《玉篇》作"鳥似鶄而大"。胡吉宣改為"鳥似鵲而大。"」
-6_067_B42	v24#390	鳥	鸗	Regular		口恭反。野鳥。	c035b076		口恭反：當作呂恭反。《新撰字鏡》作「口恭反」。
+6_067_B41	v24#390	鳥	鵩	Regular		扶木反。似鶉大。	c035b075		呂云「《玉篇》作"鳥似鶄而大"。胡吉宣改為"鳥似鵲而大。"」
+6_067_B42	v24#390	鳥	鸗	Regular		口恭反。野鳥。	c035b076		反切：疑當作「呂恭反」。《新撰字鏡》作「口恭反」。
 6_067_B51	v24#390	鳥	𩿣	Regular		莫哲反。鴨也。	c035b081		
 6_067_B52	v24#390	鳥	鴄	Regular		芳謚反。鶩。	c035b082		
 6_067_B61	v24#390	鳥	𪀸	Regular		世力反。似鳧有𨱞。	c035b083		
@@ -15881,9 +15881,9 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_068_A62	v24#390	鳥	鶥	Regular		莫飢反。鶬。	c035b102		
 6_068_A621	v24#390	鳥	𪄹	Omitted		Omitted	c035b106		
 6_068_B11	v24#390	鳥	鵂	Regular		許牛反。舊。	c036a011		
-6_068_B12	v24#390	鳥	鶜	Regular		莫郊反。似膺(鷹)白。	c036a012		
+6_068_B12	v24#390	鳥	鶜	Regular		莫郊反。似鷹白。	c036a012		鷹：原作膺。
 6_068_B21	v24#390	鳥	鵟	Regular		瞿方反。同上。	c036b033		
-6_068_B22	v24#390	鳥	鴟	Regular		充尸反。鳶屬。	c036a014		
+6_068_B22	v24#390	鳥	鴟	Regular		充尸反。鳶属。	c036a014		
 6_068_B31	v24#390	鳥	鵄	Regular		革囊也。同上。	c036a015		
 6_068_B32	v24#390	鳥	𪁪	Regular		莫孔反。䲭。	c036a013		
 6_068_B41	v24#390	鳥	鶈	Regular		且奚反。東夷鳥也、恠鳥也。	c035b103		
@@ -15894,15 +15894,15 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_068_B62	v24#390	鳥	䳦	Regular		呼元反。同上。	c036a023		
 6_069_A11	v24#390	鳥	鶊	Regular		古衝反。𨿯黃。	c036a024		
 6_069_A12	v24#390	鳥	鶷	Regular		胡獺反。似伯勞小。	c036a025		
-6_069_A21	v24#390	鳥	𪆰	Regular		五錧(鎋)反。鳥。	c036a031		
+6_069_A21	v24#390	鳥	𪆰	Regular		五鎋反。鳥。	c036a031		鎋：原作錧。
 6_069_A22	v24#390	鳥	鷋	Regular		達胡反。𪁰也。	c036a032		
 6_069_A31	v24#390	鳥	鵛	Regular		居刑反。同上。	c036a033		
 6_069_A32	v24#390	鳥	𩾞	Regular		胡官反。	c036a034		掲出字：原作鳩。
 6_069_A32-Shirafuji	v24#390	鳥	鳩	Regular	白		c036a034		
 6_069_A41	v24#390	鳥	鸆	Regular		語倶反。	c036a035		
 6_069_A42	v24#390	鳥	鴮	Regular		於胡反。鵜鶘。	c036a036		
-6_069_A51	v24#390	鳥	鴘	Regular		匹反反。鷹色。	c036a041		
-6_069_A52	v24#390	鳥	鵳	Regular		公千反。䳨。	c036a042		
+6_069_A51	v24#390	鳥	鴘	Regular		匹反反。鷹色。	c036a041		反：疑當作免。
+6_069_A52	v24#390	鳥	鵳	Regular		公千反。鷱。	c036a042		鷱：原作䳨。
 6_069_A61	v24#390	鳥	鷹	Regular		於凝反。鷙也。	c036a043		
 6_069_A62	v24#390	鳥	鶆	Regular		呂拜反。爽鳩。	c036a044		
 6_069_B11	v24#390	鳥	鵚	Regular		吐谷反。𪀖。	c036a045		
@@ -15919,7 +15919,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_069_B51	v24#390	鳥	𪇕	Regular		同上。	c036a065		注文：次項、誤入。
 6_069_B52	v24#390	鳥	𪈥	Regular		匹仁反。飛皃。	c036a066		注文：前項𪇕字之音義、誤入。
 6_069_B61	v24#390	鳥	䲨	Regular		互圭反。嶲。	c036a071		注文：前項𪈥字之音義、誤入。
-6_069_B62	v24#390	鳥	𪇹	Regular		力圔反。鳥飛初起皃。	c036a072		
+6_069_B62	v24#390	鳥	𪇹	Regular		力闔反。鳥飛初起皃。	c036a072		闔：原作圔。《新撰字鏡》作闔。
 6_070_A11	v24#390	鳥	䳴	Regular		恥闔反。𦑲字。	c036a073		
 6_070_A12	v24#390	鳥	䳂	Regular		呼條反。胡字。	c036a074		
 6_070_A21	v24#390	鳥	鸅	Regular		儲郭反。■(鸆)鴋。	c036a075		

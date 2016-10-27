@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.32
+#	Version: 1.0.33
 #	Date published : 1 September 2016
-#	Last modified : 26 October 2016
+#	Last modified : 27 October 2016
 #
 #	Copyright (c) 2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -15927,11 +15927,11 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_070_A31	v24#390	鳥	鳹	Regular		渠炎反。	c036a081		炎：原作火。
 6_070_A32	v24#390	鳥	𩾷	Regular		古和[反]。鳥也。	▽		
 6_070_A41	v24#390	鳥	䲪	Regular		乎利反。	c036a082		
-6_070_A42	v24#390	鳥	鴉	Regular		於牙反。雅。	c036a083		牙：原作万。雅：呂作雕。
+6_070_A42	v24#390	鳥	鴉	Regular		於牙反。雅。	c036a083		掲出字：原作殦。牙：原作万。雅：呂作雕。
 6_070_A51	v24#390	鳥	𪅼	Regular		力的反。似鷹大。	c036a084		
 6_070_A52	v24#390	鳥	梟	Regular		古條反。惡鳴鳥也。	c036a085		
 6_070_A61	v24#390	鳥	鳦	Regular		於秩反。	c036a091		於秩：原文誤写。
-6_070_A62	v24#390	鳥	䳧	Regular		胡溝反。雕。	c036a092		雅：呂作雕。
+6_070_A62	v24#390	鳥	䳧	Regular		胡溝反。雅。	c036a092		雅：呂作雕。
 6_070_B11	v24#390	鳥	鵲	Regular		且雀反。	c036a093		
 6_070_B12	v24#390	鳥	鴊	Regular		之盈反。	c036a094		
 6_070_B21	v24#390	鳥	鵑	Regular		古玄反。受火食。	c036a095		
@@ -16075,7 +16075,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_076_A11	v24#397	魚	鮍	Regular		濞皮反。𩹄魚之。	c038b078		之：呂云「"也"之誤」。
 6_076_A12	v24#397	魚	䱂	Regular		於燒反。鱒也。	c038b081		
 6_076_A21	v24#397	魚	鮒	Regular		扶句反。鯖。	c038b082		
-6_076_A22	v24#397	魚	𩷏	Regular		渠成反。𩸥也。	c038b083		淭：原作淭。呂作深、非。
+6_076_A22	v24#397	魚	𩷏	Regular		渠成反。𩸥也。	c038b083		渠：原作𣸔。呂作深、非。
 6_076_A31	v24#397	魚	鱏	Regular		徐林反。	c038b084		
 6_076_A32	v24#397	魚	𩼝	Regular		上羊反。楊。	c038b085		
 6_076_A41	v24#397	魚	鯢	Regular		語難反。大魚。	c038b086		
@@ -16116,7 +16116,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_077_B11	v24#397	魚	鮮	Regular		思連反。好也、善也。	c039a031		
 6_077_B12	v24#397	魚	鰅	Regular		娛恭反。	c039a041		
 6_077_B21	v24#397	魚	鱅	Regular		与恭反。	c039a045		
-6_077_B22	v24#397	魚	鰂	Regular		才勒反。背有大骨、腹中黒■。	c039a042		■：未勘。
+6_077_B22	v24#397	魚	鰂	Regular		才勒反。背有大骨、腹中黒■。	c039a042		■：未勘。呂作？。
 6_077_B31	v24#397	魚	鱡	Regular		同上。	c039a043		
 6_077_B32	v24#397	魚	鰞	Regular		於胡反。	c039a044		
 6_077_B41	v24#397	魚	鮊	Regular		平亞反。	c039a046		反切：宋本《玉篇》作「手亞切」。

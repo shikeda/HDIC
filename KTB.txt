@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.35
+#	Version: 1.0.36
 #	Date published : 1 September 2016
 #	Last modified : 7 November 2016
 #
@@ -4179,7 +4179,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_058_B11	v7#77	足	躟	Regular		仁羊反。疾行也。	a067a093		
 2_058_B12	v7#77	足	蹍	Regular		女展反。蹈也。	a067a094		
 2_058_B121	v7#77	足	跒	Songben-Yupian		#	a067a102		
-2_058_B21	v7#77	足	跈	Regular		除珎反。履也、上也。	a067a103		珎：呂作殄。
+2_058_B21	v7#77	足	跈	Regular		除珍反。履也、上也。	a067a103		珎：呂作殄。
 2_058_B22	v7#77	足	𨃘	Regular		俎流反。獸足也。	a067a104		
 2_058_B31	v7#77	足	跁	Regular		蒲瓦反。不肯前。	a067a101		
 2_058_B32	v7#77	足	踥	Regular		且獵反。行皃。	a067a105		
@@ -11651,7 +11651,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_062_A401	v18#269	金	鎖	Songben-Yupian		#	b063b064		
 5_062_A41	v18#269	金	鏁	Regular		思果反。連環也。	b063b065		
 5_062_A42	v18#269	金	鑠	Regular		舒灼反。	△		
-5_062_A51	v18#269	金	鉁	Regular		知陣反。珍字也。	△		
+5_062_A51	v18#269	金	鉁	Regular		知陣反。珍字也。	△		珍：原作珎。
 5_062_A52	v18#269	金	鏚	Regular		且狄反。斧。	△		
 5_062_A52-Miyazawa	v18#269	金	錻	Regular	宮		△		
 5_062_A61	v18#269	金	欽	Regular		去音反。慕也。	△		
@@ -11841,7 +11841,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_068_B62	v18#274	工	巨	Regular		渠舉反。大也。〔𢀑：古文。〕〔㠪：上文。〕	b067a023		有埋字B。
 5_068_B63	v18#274	工	𢀑	Embedded_clerical		𢀑：古文	b067a024		埋字B。
 5_068_B64	v18#274	工	㠪	Embedded_clerical		㠪：上文。	b067a024		埋字B。
-5_069_A11	v18#275	㠭	㠭	Regular		珎輦反。極巧視之。	b067a041		
+5_069_A11	v18#275	㠭	㠭	Regular		珍輦反。極巧視之。	b067a041		
 5_069_A21	v18#275	㠭	𡫟	Regular		先則反。古塞字。	b067a042		
 5_069_A31	v18#276	巫	巫	Regular		武俱反。事鬼神者、男巫女覡。	b067a051		
 5_069_A41	v18#276	巫	𢍮	Regular		古文。〔覡：胡的反。巫。〕	b067a052		有埋字A。
@@ -11926,7 +11926,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_072_B21	v18#282	車	軑	Regular		徒計反。𨊾也、轄也。	b068a023		
 5_072_B22	v18#282	車	輨	Regular		古緩反。轂端鐇。	b068a024		
 5_072_B31	v18#282	車	轅	Regular		禹无反。輈。	b068a025		
-5_072_B32	v18#282	車	輈	Regular		珎留反。轅。	b068a026		轅：原作⿰車表。據宋本《玉篇》訂。
+5_072_B32	v18#282	車	輈	Regular		珍留反。轅。	b068a026		轅：原作⿰車表。據宋本《玉篇》訂。
 5_072_B41	v18#282	車	𨏺	Regular		籀文。〔暈(𨍯)：儿足反。直轅車。〕	b068a031		轅：原作⿰車表。據宋本《玉篇》訂。
 5_072_B42	v18#282	車	𨍯	Embedded_clerical		暈(𨍯)：几足反。直轅車。	b068a032		埋字A。
 5_072_B42-Shirafuji	v18#282	車	䡞	Regular	白		b068a032		
@@ -14690,7 +14690,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_023_B31	v22#354	阜	䦺	Regular		都庭反。	c020b023		
 6_023_B32	v22#354	阜	䧦	Regular		虛為反。	c020b041	Y22000572-2	
 6_023_B41	v22#354	阜	陼	Regular		之与反。水中高。	c020b043	Y22000573-1	
-6_023_B42	v22#354	阜	陳	Regular		除珎反。列也、故也、處也。	c020b044	Y22000573-2	
+6_023_B42	v22#354	阜	陳	Regular		除珍反。列也、故也、處也。	c020b044	Y22000573-2	
 6_023_B51	v22#354	阜	𨸬	Regular		同上。	c020b051	Y22000578-1	
 6_023_B52	v22#354	阜	𨹸	Regular		之曜反。界也、場也。	c020b042	Y22000578-2	掲出字：宋本《玉篇》作⿱昭土。
 6_023_B61	v22#354	阜	陶	Regular		徒高反。除也、養也。	c020b052	Y22000579-1	

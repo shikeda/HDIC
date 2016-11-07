@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.36
+#	Version: 1.0.37
 #	Date published : 1 September 2016
 #	Last modified : 7 November 2016
 #
@@ -364,7 +364,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_024_A51	v1#7	玉	瑬	Regular_seal		力牛反。垂玉餝也。	a009a074		
 1_024_A52	v1#7	玉	璹	Regular_seal		視六反。玉器。	a009a082		
 1_024_A521	v1#7	玉	𤩈	Songben-Yupian		#	a009a081		
-1_024_A61	v1#7	玉	珍	Regular_seal		張陳反。寶也、獻也、重也。〔珍β(空白)：古文。〕	a009a084		有埋字B。
+1_024_A61	v1#7	玉	珍	Regular_seal		張陳反。寶也、獻也、重也。〔珍β(空白)：古文。〕	a009a084		有埋字B。掲出字：原作玲。
 1_024_A611	v1#7	玉	珎	Embedded-omitted		珍β(空白)：古文。	a009a085		埋字B。
 1_024_A62	v1#7	玉	珤	Regular_seal		補抱反。珍也、端也。	a009a083		
 1_024_B11	v1#7	玉	琚	Regular_seal		紀餘反。佩也。	a009a091		

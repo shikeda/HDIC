@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.38
+#	Version: 1.0.39
 #	Date published : 1 September 2016
-#	Last modified : 9 November 2016
+#	Last modified : 23 November 2016
 #
 #	Copyright (c) 2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -16662,11 +16662,11 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_098_A41	v25#401	虫	𧐍	Regular		尸庸反。蚣蝑。	c044b095		蝑：原作蛸。《新撰字鏡》作蝑。
 6_098_A42	v25#401	虫	蝳	Regular		徒篤反。杜公。	c044b101		
 6_098_A51	v25#401	虫	蜍	Regular		与諸反。蛛蝚。	c044b102		
-6_098_A52	v25#401	虫	𧉆	Regular		子搮反。麦梨雌。	c044b103		
+6_098_A52	v25#401	虫	𧉆	Regular		子搮反。麦梨雌。	c044b103		掲出字：原作⿰虫丈。搮：上田作慄。《新撰字鏡》作慄。
 6_098_A61	v25#401	虫	蚱	Regular		莊額反。蟬七月生。	c044b104		
-6_098_A62	v25#401	虫	𧐙	Regular		亡旬反。⿱水虫樂。	c045b063		⿱水虫樂：未勘。
+6_098_A62	v25#401	虫	𧐙	Regular		亡句反。⿱水虫樂。	c045b063		句：原作旬。《新撰字鏡》作句。⿱水虫樂：未勘。《新撰字鏡》作裘。
 6_098_B11	v25#401	虫	蟚	Regular		蒲衡反。蟹脚有毛。	c045a012		
-6_098_B12	v25#401	虫	蜝	Regular		渠疑反。	c045a014		疑：原作凝。上田云名原渠凝誤。
+6_098_B12	v25#401	虫	蜝	Regular		渠疑反。蟚。	c045a014		疑：原作凝。《新撰字鏡》作疑。上田云「名原渠凝誤」。
 6_098_B21	v25#401	虫	䗗	Regular		古奚反。渠也、蛾也。	c044b105		
 6_098_B22	v25#401	虫	蝖	Regular		虚元反。蝤螬也、螜也。	c045a011		
 6_098_B31	v25#401	虫	蛝	Regular		胡間反。馬䗃也、馬蠲。	c045a015		
@@ -16674,18 +16674,18 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_098_B41	v25#401	虫	𧋛	Regular		渠周反。多足虫。	c045a021		
 6_098_B42	v25#401	虫	蚢	Regular		胡唐反。蝅也。	c045a022		
 6_098_B51	v25#401	虫	𧍮	Regular		古迥反。蛙小也。	c045a023		
-6_098_B52	v25#401	虫	𧑗	Regular		⿰亻刀洽。蝙。	c045a024		
+6_098_B52	v25#401	虫	𧑗	Regular		乃冷反。蝙。	c045a024		乃冷：原作⿰亻刀洽。《新撰字鏡》作「乃泠」。上田作「乃冷」。上田云「名原乃洽誤」。呂作「仍洽」。呂云「當作"乃泠反"」。
 6_098_B61	v25#401	虫	𧍔	Regular		於照反。虵也。	c045a031		
 6_098_B62	v25#401	虫	𧏜	Regular		古姪反。蠸也、𧍸也。	c045a032		
-6_099_A11	v25#401	虫	䗓	Regular		且公反。青蛤也。	c045a033		掲出字：白藤・呂作蟌。
+6_099_A11	v25#401	虫	䗓	Regular		且公反。青蛉也。	c045a033		掲出字：原作⿰虫忩。白藤・呂作蟌。蛉：原作蛤。《新撰字鏡》作蛉。
 6_099_A11-Shirafuji	v25#401	虫	蟌	Regular	白		c045a033		
 6_099_A12	v25#401	虫	蜢	Regular		莫更反。上文也。	c045a035		
 6_099_A21	v25#401	虫	蚥	Regular		扶甫反。蟾也。	c045a036		
-6_099_A22	v25#401	虫	蝰	Regular		口主(圭)反。	c045a037		
+6_099_A22	v25#401	虫	蝰	Regular		口圭反。	c045a037		圭：原作主。《新撰字鏡》作圭。
 6_099_A31	v25#401	虫	蠍	Regular		呼遏反。蠚也。	c045a041		
 6_099_A32	v25#401	虫	𧑍	Regular		胡瓜反。大虵。	c046b021		
-6_099_A41	v25#401	虫	虸	Regular		姿理反。■蠀。	c046a103		
-6_099_A42	v25#401	虫	𧍭	Regular		辞鈴反。白黃文貝。	c045b036		
+6_099_A41	v25#401	虫	虸	Regular		姿理反。⿰⿱止天虫蠀。	c046a103		⿰⿱止天虫：未勘。
+6_099_A42	v25#401	虫	𧍭	Regular		辞鉛反。白黃文貝。	c045b036		鉛：原作鈴。據上田訂。呂云「當作"辞銓反"」。
 6_099_A51	v25#401	虫	䖧	Regular		奴菖反。痛也。	c046b022		
 6_099_A52	v25#401	虫	蝩	Regular		丈恭反。蝅。	c045a042		
 6_099_A61	v25#401	虫	蝶	Regular		徒頰反。蛺也。	c045a044		
@@ -16696,11 +16696,11 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_099_B22	v25#401	虫	𧓋	Regular		持連反。守宮也。	c045a043		
 6_099_B31	v25#401	虫	蜲	Regular		於詭反。䖬⿰虫武。	c045a051		䖬⿰虫武：呂作「𧉅蝛」。
 6_099_B32	v25#401	虫	𧑓	Regular		尸与反。同上。	c045a052		
-6_099_B41	v25#401	虫	蜫	Regular		古𩲡(魂)反。	c045a053		
-6_099_B42	v25#401	虫	蠊	Regular		■反。飛𫋧(蠊)。	c045a055		■：上田云原反切不明。呂作？。
+6_099_B41	v25#401	虫	蜫	Regular		古魂反。	c045a053		魂：原作𩲡、誤。
+6_099_B42	v25#401	虫	蠊	Regular		■反。飛蠊。	c045a055		■：上田云「原反切不明」。呂作？。《新撰字鏡》作「於瞻」。飛蠊：原作飛𫋧。據《新撰字鏡》訂。
 6_099_B51	v25#401	虫	螿	Regular		子羊反。蟬也。	c045a056		
 6_099_B52	v25#401	虫	螒	Regular		胡旱反。天雞也。	c045a054		
-6_099_B61	v25#401	虫	𧍙	Regular		音犯反。蜂。	c045a061		
+6_099_B61	v25#401	虫	𧍙	Regular		音犯反。蜂。	c045a061		反：衍字。
 6_099_B62	v25#401	虫	𧌉	Regular		力竹反。蚶也、鬿。	c045a062		鬿：呂作魁。
 6_100_A11	v25#401	虫	蝟	Regular		禹貴反。彙字。	c045a063		
 6_100_A12	v25#401	虫	蚍	Regular		禆之反。大螘。	c045a064		
@@ -16716,14 +16716,14 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_100_A61	v25#401	虫	𧑒	Regular		池郭反。𧍪也、青扶也、蟬長。	c045a081		参看《校釋》。
 6_100_A62	v25#401	虫	𧍪	Regular		牛倶反。敦也。	c045a082		
 6_100_B11	v25#401	虫	蚲	Regular		皮兵反。䗽也、𧉻也。	c045a083		
-6_100_B12	v25#401	虫	䗽	Regular		胡悸反。𫋁。	c045a084		𫋁：呂作■。
-6_100_B21	v25#401	虫	蟴	Regular		思移反。蚣蝑也、■(蜈)也。	c042a101		■：原作⿰虫⿱口玉。
+6_100_B12	v25#401	虫	䗽	Regular		胡悸反。𫋁。	c045a084		𫋁：呂作蚲。
+6_100_B21	v25#401	虫	蟴	Regular		思移反。蚣蝑也、蜈也。	c042a101		蜈：原作⿰虫⿱口玉。
 6_100_B22	v25#401	虫	蟖	Regular		同上。	c042a102		
-6_100_B31	v25#401	虫	蛥	Regular		士列反。蚨𧊿也、惠姑。	c043a071		蚨：呂作蚗。
+6_100_B31	v25#401	虫	蛥	Regular		士列反。蚨𧊿也、惠姑也。	c043a071		蚨：呂作蚗。
 6_100_B32	v25#401	虫	䖺	Regular		徒彫反。如黃虵魚翼出入有光。	c045a085		
 6_100_B41	v25#401	虫	蜜	Regular		弭質反。蜂也。	c045a091		
 6_100_B42	v25#401	虫	蚻	Regular		側黠反。蟬小青。	c045a092		
-6_100_B51	v25#401	虫	𧕍	Regular		相馰反。腐草爲。	c045b014		
+6_100_B51	v25#401	虫	𧕍	Regular		相馰反。腐草為。	c045b014		
 6_100_B51-Miyazawa	v25#401	虫	𧓌	Regular	宮		c045b014		
 6_100_B52	v25#401	虫	蟗	Regular		牙由反。祛⿰虫予。	c045a093		祛⿰虫予：呂作松蚅。
 6_100_B52-Shirafuji	v25#401	虫	𧏋	Regular	白		c045a093		
@@ -16734,7 +16734,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_101_A12	v25#401	虫	𧔥	Regular		餘䧾反。虵也、一首兩身、六足四翼。	c045a104		
 6_101_A21	v25#401	虫	䖳	Regular		除姹反。水母也、蜻也。	c045b011		掲出字：宮澤作蛇、非。
 6_101_A31	v25#402	䖵	䖵	Regular		古䰟反。蜫字。	c046b041		
-6_101_A32	v25#402	䖵	蠶	Regular		存合(含)反。吐絲也。	c046b042		
+6_101_A32	v25#402	䖵	蠶	Regular		存含反。吐絲也。	c046b042		含：原作合。
 6_101_A41	v25#402	䖵	𧒎	Regular		千何反。蠶。作蛾。	c046b043		掲出字：原作𧕶。
 6_101_A41-Shirafuji	v25#402	䖵	𧕶	Regular	白		c046b043		
 6_101_A411	v25#402	䖵	𧎮	Omitted		Omitted	c046b044		
@@ -16744,9 +16744,9 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_101_A52	v25#402	䖵	𧕠	Regular		同上。	c046b052		
 6_101_A61	v25#402	䖵	𧒝	Regular		徴蹇反。	c046b053		
 6_101_A61-Miyazawa	v25#402	䖵	𧔡	Regular	宮		c046b053		
-6_101_A62	v25#402	䖵	𧕾	Regular		子列反。似禪(蟬)小。	c046b061		
+6_101_A62	v25#402	䖵	𧕾	Regular		子列反。似蟬小。	c046b061		蟬：原作禪。
 6_101_B11	v25#402	䖵	蟊	Regular		莫侯反。蝳蜍也、松公。	c046b062		
-6_101_B12	v25#402	䖵	𧖀	Regular		之𢙝(悦)反。蟊。	c046b063		
+6_101_B12	v25#402	䖵	𧖀	Regular		之悦反。蟊。	c046b063		悦：原作𢙝。
 6_101_B21	v25#402	䖵	𧕐	Regular		俎高反。齊螬也。	c046b065		
 6_101_B22	v25#402	䖵	𧕝	Regular		乃丁反。	c046b064		
 6_101_B31	v25#402	䖵	𧕱	Regular		同上。	c046b071		
@@ -16774,7 +16774,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_102_A421	v25#402	䖵	蠢	Songben-Yupian		#	c046b103		
 6_102_A51	v25#402	䖵	𧓱	Regular		獻於反。螗蜓也。	c046b104		
 6_102_A52	v25#402	䖵	䘅	Regular		乃北[ ]戴[二]反。小班齧人。	c046b105		
-6_102_A61	v25#402	䖵	𧓵	Regular		丑芹(芥)反。萬虫也。	c047a011		
+6_102_A61	v25#402	䖵	𧓵	Regular		丑芥反。萬虫也。	c047a011		芥：原作芹。
 6_102_A61-Miyazawa	v25#402	䖵	䘍	Regular	宮		c047a011		
 6_102_A62	v25#402	䖵	蠚	Regular		丑略反。	▽		
 6_102_B11	v25#402	䖵	𧓑	Regular		渠支反。蚔也。	△		

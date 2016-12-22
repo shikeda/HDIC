@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.39
+#	Version: 1.0.40
 #	Date published : 1 September 2016
-#	Last modified : 23 November 2016
+#	Last modified : 22 December 2016
 #
 #	Copyright (c) 2016 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -16796,11 +16796,11 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_103_A22	v25#404	它	蛇	Regular		時遮反。虵也。	c047a052		
 6_103_A31	v25#404	它	𡖟	Regular		恥支[反]。螭也。无角龍。	c047a061		恥：原文模糊。據《校釋》。
 6_103_A41	v25#405	龜	龜	Regular		居逵反。腐也、貨。	c047a071		
-6_103_A42	v25#405	龜	𠃾	Regular		古文。	c047a072		
+6_103_A42	v25#405	龜	𠃾	Regular		古文。	c047a072		注文大字。
 6_103_A43	v25#405	龜	𪚮	Regular		人三反。甲縁、甲邊也。	c047a073		
 6_103_A51	v25#405	龜	䶱	Regular		之融反。龜。	c047a081		
 6_103_A52	v25#405	龜	𪓔	Regular		奇摎反。虬也、龍无角。	△		宮澤無△符号。呂作⿱卝龜。又云「此字頭未詳」。
-6_103_A61	v25#406	黽	黽	Regular		莫耿反。蟆也。	c047a091		
+6_103_A61	v25#406	黽	黽	Regular		莫耿反。蟆也。	c047a091		掲出字：原作⿱宀电。
 6_103_A62	v25#406	黽	𪓕	Regular		同上。	c047a092		
 6_103_B11	v25#406	黽	鼈	Regular		補滅反。六足有珠。	c047a093		滅：原文模糊。呂作搣。
 6_103_B12	v25#406	黽	黿	Regular		魚園反。大龞。	c047a101		
@@ -16830,7 +16830,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_104_A521	v25#407	卵	孵	Songben-Yupian		#	c047b044		
 6_104_A61	v25#408	貝	貝	Regular		補盖反。甲也、海介虫。	c047b061		
 6_104_A62	v25#408	貝	𧴪	Regular		蘇果反。貝聲。	c047b062		
-6_104_B11	v25#408	貝	䞈	Regular		五犯(化)反。貨也。	c047b071		
+6_104_B11	v25#408	貝	䞈	Regular		五犯反。貨也。	c047b071		反切：上田作五瓦、又云「原五犯誤」。呂云「疑為"五化反"之誤」。
 6_104_B12	v25#408	貝	𧵥	Regular		同上。	c047b072		参看張磊（2012:35）
 6_104_B21	v25#408	貝	財	Regular		在裁反。貨也、僅也、分也。	c047b073		
 6_104_B22	v25#408	貝	賄	Regular		呼猥反。送也、贈也。	c047b074		

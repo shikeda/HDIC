@@ -3,11 +3,11 @@
 #
 #	SYP: Songben Yupian database
 #
-#	Version: 1.0.18
+#	Version: 1.0.19
 #	Date: 20 October 2015
-#	Last update : 22 December 2016 
+#	Last update : 14 January 2017
 #
-#	Copyright (c) 2014-2016 HDIC project, IKEDA Shoju (Chair)
+#	Copyright (c) 2014-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
 #	Department of Linguistic Sciences, Hokkaido University Graduate School of Letters
 #	North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan
@@ -13781,7 +13781,7 @@ b066a052	v18#270	攴	㪇		&#x3A87;	先見切。散也。
 b066a053	v18#270	攴	𢽇		&#xD84B;&#xDF47;	大合切。𢽇𢽇盡。	
 b066a054	v18#270	攴	敁		&#x6541;	多兼切。敁掇稱量也。	
 b066a055	v18#270	攴	㪑		&#x3A91;	猗輒切。㪑𣀳相反也。	
-b066a056	v18#270	攴	𣀳	⿰聶攴	&#xD84C;&#xDC33;	女渉切。	
+b066a056	v18#270	攴	𣀳	⿰聶攴	&#xD84C;&#xDC33;	女渉切。㪑𣀳。	
 b066a061	v18#270	攴	敺		&#x657A;	丘倶切。撃也。	
 b066a062	v18#270	攴	㪐		&#x3A90;	力沒切。㪐㩿不滑利也。	
 b066a063	v18#270	攴	㩿	⿰乞攴	&#x3A7F;	苦沒切。㪐㩿。	

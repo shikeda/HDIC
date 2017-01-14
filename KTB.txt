@@ -8,11 +8,11 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.40
+#	Version: 1.0.41
 #	Date published : 1 September 2016
-#	Last modified : 22 December 2016
+#	Last modified : 14 January 2017
 #
-#	Copyright (c) 2016 HDIC project, IKEDA Shoju (Chair)
+#	Copyright (c) 2016-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
 #	Department of Linguistic Sciences, Hokkaido University Graduate School of Letters
 #	North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan
@@ -14425,7 +14425,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_013_B12	v22#349	高	髞	Regular		蘇悼反。高皃。	c017a043	Y22000334-2	
 6_013_B21	v22#349	高	𩫥	Regular		俱高反。高也。	c017a044	Y22000335-1	
 6_013_B31	v22#350	危	危	Regular		遇為反。疾、厲也、高也、隤也、正也。	c017a051	Y22000337-1	
-6_013_B32	v22#350	危	㩻	Regular		立知反。䧢也。攲字。	c017a052	Y22000342-1	
+6_013_B32	v22#350	危	㩻	Regular		丘知反。䧢也。攲字。	c017a052	Y22000342-1	丘：原作立。據原本《玉篇》訂。
 6_013_B41	v22#350	危	𦤞	Regular		牛結反。隉字。	c017a053	Y22000344-1	隉：原文模糊、誤写。
 6_013_B42	v22#350	危	卼	Regular		五忽反。不安言危也。	c017a054	Y22000345-1	
 6_013_B51	v22#351	石	石	Regular		時亦反。祐也。	c017a061	Y22000347-1	

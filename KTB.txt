@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.42
+#	Version: 1.0.43
 #	Date published : 1 September 2016
-#	Last modified : 14 January 2017
+#	Last modified : 22 January 2017
 #
 #	Copyright (c) 2016-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -1433,7 +1433,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_058_A22	v3#23	人	仸	Embedded_clerical		仸：乚	a027a103		埋字A。
 1_058_A23	v3#23	人	咎	Regular		渠柳反。惡也、遇也、病也、交也。	a030b092		
 1_058_A31	v3#23	人	仇	Regular		渠牛反。仇也、雔也、傲也、惡也。	a027a094		
-1_058_A32	v3#23	人	僇	Regular		居幻力救反。具也、癡行也。	a027b012		
+1_058_A32	v3#23	人	僇	Regular		居幼力救反。具也、癡行也。	a027b012		幼：原作幻。據《新撰字鏡》訂。
 1_058_A41	v3#23	人	儡	Regular		力逥反。相敗也。	a027b011		
 1_058_A42	v3#23	人	倃	Regular		公勞渠九反。毀也。	a027b013		
 1_058_A51	v3#23	人	仳	Regular		匹視反。別也、離也。	a024a063		
@@ -5545,7 +5545,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_016_A22	v9#91	言	詤	Regular		詡冈反。恩也、夢言也。	a084b084	Y09101117-2	宋字体差。
 3_016_A31	v9#91	言	謈	Regular		蒱卓反。大呼也。	a084b083	Y09101118-1	
 3_016_A32	v9#91	言	訬	Regular		仕交反。擾也、獪也、健也、疾也。	a084b091	Y09101118-2	
-3_016_A41	v9#91	言	謬	Regular		靡幻反。僻也、誤也、詐也、差也。	a084b092	Y09101120-1	
+3_016_A41	v9#91	言	謬	Regular		靡幼反。僻也、誤也、詐也、差也。	a084b092	Y09101120-1	幼：原作幻。據原本《玉篇》訂。
 3_016_A42	v9#91	言	諆	Regular		居疑反。謨也。	a084b093	Y09101122-1	
 3_016_A51	v9#91	言	誋	Regular		渠記反。誡也、告也。忌字。	a084b094	Y09101122-2	
 3_016_A52	v9#91	言	譎	Regular		公穴反。詐也、奇恠也。	a084b101	Y09101123-1	
@@ -5947,7 +5947,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_030_B61	v9#112	欠	㰶	Regular		於垢反。蹙鼻也、歐也、吐也。	a090a101	Y09203184-1	
 3_030_B62	v9#112	欠	𣤢	Regular		呼狄反。小㗛也。	a090a094	Y09203185-1	
 3_031_A11	v9#112	欠	歙	Regular		尸葉反。縮鼻也。	a090a095	Y09203185-2	
-3_031_A12	v9#112	欠	𣢜	Regular		於幻反。呦字。幽鹿鳴也。	a090a102	Y09203186-1	掲出字：呂作⿰口𣢜、白藤・宮澤作𣢜。原本《玉篇》残巻作𣣜。
+3_031_A12	v9#112	欠	𣢜	Regular		於糾反。呦字。幽鹿鳴也。	a090a102	Y09203186-1	掲出字：呂作⿰口𣢜、白藤・宮澤作𣢜。原本《玉篇》残巻作𣣜。糾：原作幻。原本《玉篇》作糾、《新撰字鏡》作幼。上田作糾、呂云當作"於幼反"。據原本《玉篇》訂。
 3_031_A21	v9#112	欠	欪	Regular		火八反。無漸也、訶也、詞也。	a090a103	Y09203186-2	
 3_031_A22	v9#112	欠	次	Regular		且吏反。位也、幄也、止生也、第也、近也、比舍也、敘也。	a090a104	Y09203187-1	
 3_031_A221	v9#112	欠	⿱⿱小小⿱冖比	Omitted		Omitted		Y09203197-1	原本《玉篇》「⿱⿱小小⿱冖比　聲類古文次字也」。《新撰字鏡》「⿳小冖比　上古文」。諸橋M16758「𣬌」類似。
@@ -7275,7 +7275,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_080_B21	v11#149	疒	瘂	Regular		於蝦反。瘖也、吞炭為瘂也。	b009b082		
 3_080_B22	v11#149	疒	𤺻	Regular		才允反。養反(以上二字傍注)。蛘也。	b009b083		
 3_080_B31	v11#149	疒	𤷃	Regular		辞剪反。踐、小蛘也。	b009b084		辞：原作蛘。上田作辞、張作止、呂作蛘。今據上田改。
-3_080_B32	v11#149	疒	㾭	Regular		壯幻反。縮小也。	b009b085		
+3_080_B32	v11#149	疒	㾭	Regular		壯幼反。縮小也。	b009b085		
 3_080_B41	v11#149	疒	𤸷	Regular		渠軍反。𤹝也。	b009b086		
 3_080_B42	v11#149	疒	瘠	Regular		才跡反。瘦也。膌字。	b009b091		
 3_080_B421	v11#149	疒	㾊	Songben-Yupian		#	b009b092		
@@ -13886,7 +13886,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_143_A11	v21#323	火	缹	Regular		甫久反。熟鮮魚。	c008a061		
 5_143_A12	v21#323	火	熟	Regular		時祝反。孰字。	c008a062		
 5_143_A12-Shirafuji	v21#323	火	⿱孰火	Regular	白		c008a062		
-5_143_A21	v21#323	火	烋	Regular		義懼反、虚樛反。美也、微也、福也、度也、善也、嘉也。	c008a063		
+5_143_A21	v21#323	火	烋	Regular		義懼反、虚樛反。美也、微也、福也、度也、善也、嘉也。	c008a063		義懼：上田作羲膠、又云原義懼誤。呂作羲懼。
 5_143_A31	v21#324	炎	炎	Regular		為晛反、菩沾反。熱也、燒也、重也。	c008b071		重：疑當作熏。或誤引「重火」。
 5_143_A41	v21#324	炎	燄	Regular		移瞻反。火。	c008b072		
 5_143_A42	v21#324	炎	煔	Regular		他僣反。火光。	△		

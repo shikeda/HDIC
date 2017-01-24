@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.43
+#	Version: 1.0.44
 #	Date published : 1 September 2016
-#	Last modified : 22 January 2017
+#	Last modified : 25 January 2017
 #
 #	Copyright (c) 2016-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -9646,7 +9646,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_073_B32	v14#188	瓜	㼏	Regular		乃罪反。餒膓瓜也。	b041a091		掲出字：原作委爪。
 4_073_B41	v14#188	瓜	𤬓	Regular		力玷反。瓜子也。	b041a092		
 4_073_B42	v14#188	瓜	㼔	Regular		於魂反。㼊、瓜也。	b041a093		
-4_073_B51	v14#188	瓜	𤫭	Regular		徒昆反。⿰瓜昷㼊也。	b041a094		
+4_073_B51	v14#188	瓜	𤫭	Regular		徒昆反。𤬒𤫭也。	b041a094		
 4_073_B51-Miyazawa	v14#188	瓜	㼊	Regular	宮		b041a094		
 4_073_B52	v14#188	瓜	㼐	Regular		扶田反。駢。白㼐瓜。	b041a095		駢：呂云疑爲注音用字。
 4_073_B61	v14#188	瓜	𤬉	Regular		苦携反。藈、茹(菇)、𤫱𤬏也。	b041a096		

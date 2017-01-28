@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.44
+#	Version: 1.0.45
 #	Date published : 1 September 2016
-#	Last modified : 25 January 2017
+#	Last modified : 28 January 2017
 #
 #	Copyright (c) 2016-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -10897,7 +10897,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_036_B33	v17#258	弓	⿱丸弓	Embedded_clerical		⿱丸弓：同上。	b056b082		埋字B。
 5_036_B41	v17#258	弓	㢰	Regular		皮僞反。張弓。	b056b083		
 5_036_B42	v17#258	弓	㢻	Regular		女恚反。㢰。	b056b084		
-5_036_B51	v17#258	弓	𢏗	Regular		明弟反。羿字。	b056b074		
+5_036_B51	v17#258	弓	𢏗	Regular		明弟反。羿字。	b056b074		明弟反：《新撰字鏡》作「胡弟牛弟二反」。上田作「胡悌」、又云「原明弟誤」。
 5_036_B52	v17#258	弓	㢵	Regular		虚葉反。弓弽。〔㢻：女志反。㢰。〕	b056b085		有埋字A。
 5_036_B53	v17#258	弓	㢻	Embedded_clerical		女志反。㢰。	b056b084		埋字A。宮澤無此字。
 5_036_B61	v17#258	弓	弰	Regular		山交反。使箭。	b056b086		

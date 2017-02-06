@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.46
+#	Version: 1.0.47
 #	Date published : 1 September 2016
-#	Last modified : 29 January 2017
+#	Last modified : 7 February 2017
 #
 #	Copyright (c) 2016-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -16381,7 +16381,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_087_A62	v25#401	虫	䖯	Regular		口圭反。蠆也。	c042a108		
 6_087_B11	v25#401	虫	蚔	Regular		渠支反。𧓑字。	c042a109		𧓑：原文模糊、據《校釋》。
 6_087_B12	v25#401	虫	𧕌	Regular		同上。	△		掲出字：原作⿱⿰⿱旧䖝各䖝、呂作𧕌。宮澤作⿱毀虫。
-6_087_B21	v25#401	虫	蠆	Regular		丑芥反。𥭥也、尾未似人人髪末回。	c042b011		
+6_087_B21	v25#401	虫	蠆	Regular		丑芥反。𥭥也、尾末似人人髪末回。	c042b011		
 6_087_B22	v25#401	虫	蝎	Regular		胡葛反。桑蠹也、逆也、萬虫也。	c042b012		蠹：原作■。
 6_087_B31	v25#401	虫	蝤	Regular		才尤反。齊、蝎、在水中。	c042b013		尤：原作在。
 6_087_B32	v25#401	虫	𧓉	Regular		在梨反。曹虫也。	c042b014		

@@ -3,9 +3,9 @@
 #
 #	SYP: Songben Yupian database
 #
-#	Version: 1.0.19
+#	Version: 1.0.20
 #	Date: 20 October 2015
-#	Last update : 14 January 2017
+#	Last update : 10 February 2017
 #
 #	Copyright (c) 2014-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -10317,7 +10317,7 @@ b029b045	v13#162	艸	蓼		&#x84FC;	力鞠切。《詩》曰：蓼彼蕭斯。蓼
 b029b051	v13#162	艸	𦾷		&#xD85B;&#xDFB7;	同上。	
 b029b052	v13#162	艸	蓫		&#x84EB;	抽陸切。《詩》曰：言采其蓫牛⿱艹頺也。又音逐。馬尾草也。	
 b029b053	v13#162	艸	蓄		&#x84C4;	丑六切。蓄積也。	
-b029b054	v13#162	艸	藬		&#x85EC;	他雷切。牛⿱艹頺也。江東有高尺餘葉長而銳花紫縹色、可淋以爲飲。	
+b029b054	v13#162	艸	藬		&#x85EC;	他雷切。牛𬟒也。江東有高尺餘葉長而銳花紫縹色、可淋以爲飲。	
 b029b061	v13#162	艸	𧄕		&#xD85C;&#xDD15;	諸翼切。𧄕草葉似酸漿。	
 b029b062	v13#162	艸	蘵		&#x8635;	同上。	
 b029b063	v13#162	艸	葞		&#x845E;	亡此切。春草。	

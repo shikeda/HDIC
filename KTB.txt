@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.47
+#	Version: 1.0.48
 #	Date published : 1 September 2016
-#	Last modified : 7 February 2017
+#	Last modified : 9 February 2017
 #
 #	Copyright (c) 2016-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -6596,7 +6596,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_054_B42	v10#127	走	趆	Regular		丁計反。趍也。	a097a102		
 3_054_B51	v10#127	走	趍	Regular		且駒反。趙久也。	a096a041		
 3_054_B52	v10#127	走	赾	Regular		居隱反。難也、行謹也。	a097a085		
-3_054_B61	v10#127	走	趙	Regular		除矯反。㓨(刺)也、騰也、小也、久也、郡也。	a096a042		
+3_054_B61	v10#127	走	趙	Regular		除矯反。刺也、騰也、小也、久也、郡也。	a096a042		
 3_054_B62	v10#127	走	𧾣	Regular		九出反。走也。	a097a065		
 3_055_A11	v10#127	走	趠	Regular		丑狡反。擿遠也。	a097a071		
 3_055_A12	v10#127	走	䟑	Regular		翼灼反。趠也。	a096b036		
@@ -8477,8 +8477,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_032_B31	v13#162	艸	茦	Regular		楚草反。筞字也。草木刾人。	b025a014		
 4_032_B32	v13#162	艸	薞	Regular		蘇昆反。蘾也、蕪也。	b025a015		注文大字。
 4_032_B41	v13#162	艸	莿	Regular		且清反。針也。	b025a021		注文大字。
-4_032_B42	v13#162	艸	葎	Regular		陵出反。似葛有㓨(刺)。蔓也、㓨(刺)。	b025a022		
-4_032_B51	v13#162	艸	薋	Regular		钗咨反。蒺蔾布地蔓生子。有三角㓨(刺)人。	b025a042		
+4_032_B42	v13#162	艸	葎	Regular		陵出反。似葛有刺。蔓也、刺。	b025a022		
+4_032_B51	v13#162	艸	薋	Regular		釵咨反。蒺蔾布地蔓生子。有三角刺人。	b025a042		
 4_032_B52	v13#162	艸	蒺	Regular		祠栗反。薋字。	b025a043		注文大字。
 4_032_B61	v13#162	艸	蔾	Regular		力尸反。蒺蔾也。	b025a044		
 4_032_B62	v13#162	艸	藜	Regular		旅題反。葉如荻華赤、蓬類也。	b025a045		

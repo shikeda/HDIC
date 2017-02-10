@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.48
+#	Version: 1.0.49
 #	Date published : 1 September 2016
-#	Last modified : 9 February 2017
+#	Last modified : 11 February 2017
 #
 #	Copyright (c) 2016-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -8802,7 +8802,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_043_B61	v13#162	艸	芑	Regular		去紀反。白梁粟也、香草也。	b025b084		
 4_043_B62	v13#162	艸	蔗	Regular		諸夜反。藷、甘蔗也。	b025b091		
 4_044_A11	v13#162	艸	藷	Regular		之餘反。蔗也。署預、蓴苴也。	b025b092		
-4_044_A12	v13#162	艸	荓	Regular		薄丁反。似蓍、為帚也。	b025b093		
+4_044_A12	v13#162	艸	荓	Regular		薄丁反。似蓍、為帚也。	b025b093		為：當作馬。
 4_044_A121	v13#162	艸	𧂛	Songben-Yupian		#	b025b094		
 4_044_A21	v13#162	艸	𦿏	Regular		莫耕反。萠(萌)也、亂不明也。	b025b095		
 4_044_A21-Shirafuji	v13#162	艸	夢	Regular	白		b025b095		
@@ -8899,7 +8899,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_047_A41	v13#162	艸	菩	Regular		防誘反。香草也。	b026b054		
 4_047_A42	v13#162	艸	𦺴	Regular		徐立反。菩也。	b026b064		注文大字。
 4_047_A51	v13#162	艸	蔁	Regular		之羊反。	b026b065		注文大字。
-4_047_A52	v13#162	艸	䔴	Regular		又測反。⿱罒𠚿草。	b026b066		
+4_047_A52	v13#162	艸	䔴	Regular		叉測反。⿱罒𠚿草。	b026b066		叉：原作又。⿱罒𠚿：呂作苅、又云「原訛」。
 4_047_A61	v13#162	艸	芪	Regular		渠支反。母也、苺也。	b026b071		
 4_047_A62	v13#162	艸	𧃣	Regular		公魂反。□(菎)草。	b026b072		
 4_047_A621	v13#162	艸	菎	Songben-Yupian		#	b026b073		

@@ -9023,7 +9023,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_051_B42	v13#162	艸	蕓	Regular		禹軍反。蕓□(薹)、胡菜也。	b030a026		
 4_051_B51	v13#162	艸	薹	Regular		達𧨹反。菜也。	b031b026		注文大字。
 4_051_B52	v13#162	艸	蒥	Regular		力牛反。香草也。	b030a031		注文大字。
-4_051_B61	v13#162	艸	蕞	Regular		音權也。聚也。	b030a032		音權也：直音注。
+4_051_B61	v13#162	艸	蕞	Regular		音摧也。聚也。	b030a032		音權也：原作權。直音注。音、小字書写。
 4_051_B62	v13#162	艸	𦿌	Regular		力焦反。盛上草器也。	b030a034		注文大字。
 4_052_A11	v13#162	艸	𦼫	Regular		渠与(與)反。⿱艸舌(苦)蕒也、菜也。	b030a033		
 4_052_A12	v13#162	艸	𦸦	Regular		薄骨反。繁母也。	b030a041		

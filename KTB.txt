@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.51
+#	Version: 1.0.52
 #	Date published : 1 September 2016
-#	Last modified : 12 February 2017
+#	Last modified : 14 February 2017
 #
 #	Copyright (c) 2016-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -9215,7 +9215,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_058_B11	v14#166	竹	節	Regular		子結反。箹也、量也、止也、適也、視也、信也、驗也、度也、期也、制也、摻(操)也、省也、時也。	b035a015		一部注文大字。
 4_058_B21	v14#166	竹	筡	Regular		達胡反。空也、析也、笢公也、中也、分也。	b035a021		
 4_058_B22	v14#166	竹	笢	Regular		亡忍反。竹表也、竹膚也、厲也。	b035a014		
-4_058_B31	v14#166	竹	笨	Regular		蒲大反。竹裏白也。	b035a022		
+4_058_B31	v14#166	竹	笨	Regular		蒲本反。竹裏白也。	b035a022		本：原作大。
 4_058_B32	v14#166	竹	䈵	Regular		於孔反。竹也、盛也。	b035a023		
 4_058_B41	v14#166	竹	⿱竹瀏	Regular		力九反。竹聲也。	△		
 4_058_B41-Shirafuji	v14#166	竹	䉧	Regular	白		△		

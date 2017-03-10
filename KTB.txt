@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.52
+#	Version: 1.0.53
 #	Date published : 1 September 2016
-#	Last modified : 14 February 2017
+#	Last modified : 11 March 2017
 #
 #	Copyright (c) 2016-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -16643,7 +16643,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_097_A62	v25#401	虫	蟡	Regular		於危反。侗水精一頭兩耳、如虵八尺。	c044b063		危：原作免。侗以下七字：《新撰字鏡》作「洞水之精一頭兩耳」。参看《校釋》。
 6_097_B11	v25#401	虫	蟞	Regular		俾滅反。似龜。	c044b065		掲出字：⿱敞虫。
 6_097_B12	v25#401	虫	蝐	Regular		亡載反。大龜。瑁字。	c044b071		
-6_097_B21	v25#401	虫	虶	Regular		於倶反。蚰蜓。	c044b072		
+6_097_B21	v25#401	虫	虶	Regular		於倶反。蚰蜒。	c044b072		
 6_097_B22	v25#401	虫	蚞	Regular		莫穀反。螇螰。	c044b073		
 6_097_B31	v25#401	虫	螔	Regular		思移反。螔䗔、虵醫。	c044b074		掲出字：原作𧍝。
 6_097_B32	v25#401	虫	䗔	Regular		胡溝反。螔。	c044b075		掲出字：原作蜼。前項注文之䗔字、同作。

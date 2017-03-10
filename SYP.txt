@@ -3,9 +3,9 @@
 #
 #	SYP: Songben Yupian database
 #
-#	Version: 1.0.21
+#	Version: 1.0.22
 #	Date: 20 October 2015
-#	Last update : 11 February 2017
+#	Last update : 11 March 2017
 #
 #	Copyright (c) 2014-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -20001,7 +20001,7 @@ c044b063	v25#401	虫	蟡		&#x87E1;	於爲切。形似蛇。又音詭。
 c044b064	v25#401	虫	蝂		&#x8742;	百限切。𧐕⿰虫貟也。	
 c044b065	v25#401	虫	蟞		&#x87DE;	俾滅切。亦作鼈。	
 c044b071	v25#401	虫	蝐		&#x8750;	亡代切。蝳蝐。亦作𣫹𤲰。又莫沃切。	
-c044b072	v25#401	虫	虶		&#x8676;	於于切。蚨虶、蚰蜓也。	
+c044b072	v25#401	虫	虶		&#x8676;	於于切。蚨虶、蚰蜒也。	
 c044b073	v25#401	虫	蚞		&#x869E;	莫卜切。螇螰子。	
 c044b074	v25#401	虫	螔		&#x8794;	思移切。螔䗔似蜥蜴。	
 c044b075	v25#401	虫	䗔		&#x45D4;	音侯。螔䗔。	

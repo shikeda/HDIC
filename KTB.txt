@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.53
+#	Version: 1.0.54
 #	Date published : 1 September 2016
-#	Last modified : 11 March 2017
+#	Last modified : 21 March 2017
 #
 #	Copyright (c) 2016-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -1464,7 +1464,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_059_A41	v3#23	人	伉	Regular		苦浪反。敵也、儷也、耦也。	a027b073		
 1_059_A42	v3#23	人	僎	Regular		士巻反。具也、撰也。或遵。	a027b084		
 1_059_A51	v3#23	人	偉	Regular		禹鬼禹貴二反。奇也。或⿰阝韋。	a030b033		
-1_059_A52	v3#23	人	傀	Regular		古回反(見消)古靡二反。怪也、美也、盛也。	a027b085		
+1_059_A52	v3#23	人	傀	Regular		古回反古靡二反。怪也、美也、盛也。	a027b085		古回反：反字之右、有抹消符。
 1_059_A521	v3#23	人	𠐤	Songben-Yupian		#	a027b091		
 1_059_A61	v3#23	人	侗	Regular		吐公敕動二反。大也、愿也。	a027b072		
 1_059_A62	v3#23	人	僤	Regular		大且敕旱二反。棹也、戰也、疾也、明也、單也。	a027b093		
@@ -1601,11 +1601,11 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_064_A412	v3#23	人	低	Songben-Yupian		#	a029a034		
 1_064_A42	v3#23	人	仾	Regular		丁泥反。舍也、屯也、俛也、垂也。	a029a035		
 1_064_A51	v3#23	人	𠏤	Regular		渠往反。戴器也。	a029a071		
-1_064_B31	v3#23	人	𠌮	Regular		之車反。儸也。	△(a029a041)		此字上有補入記號、左側記有：「此次可入之處有奧」。
+1_064_B31	v3#23	人	𠌮	Regular		之車反。儸也。	△(a029a041)		此字上有補入記號、右側記有：「此次可入之處有奧」。
 1_064_B32	v3#23	人	俸	Regular		補孔反。屏俸也、上小皃也。	△(a029a042)		
 1_064_B41	v3#23	人	佄	Regular		胡甘反。樂酒。或酣。	a029a082		
 1_064_B42	v3#23	人	儅	Regular		丁盎反。伃儅也。或黨。	a024a054		
-1_064_B51	v3#23	人	㑜	Regular		尹世反。合板除也。或䇩。ヘクヒユ。	a029a084		和訓付
+1_064_B51	v3#23	人	㑜	Regular		尹世反。合板除也。或䇩。ヘクヒユ。	a029a084		和訓付。
 1_064_B52	v3#23	人	伄	Regular		丁𥅟反。當不當也。	a024a053		
 1_064_B61	v3#23	人	倖	Regular		胡耿反。大也、見親也。	a029a085		
 1_064_B62	v3#23	人	𠌫	Regular		卑䛑反。或䟆止行也。	a029a091		
@@ -1768,7 +1768,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_070_A41	v3#35	女	媼	Regular		烏道反。女老稱也、母別名也。	a036a021		
 1_070_A42	v3#35	女	姁	Regular		盱羽具俱二反。嫗也、呂也。	△		
 1_070_A51	v3#35	女	㜼	Regular		古姪。	a036a024		
-1_070_A52	v3#35	女	姐	Regular		子我反。子倚反。毑、古文。	a035b051		有埋字B。(異部首)
+1_070_A52	v3#35	女	姐	Regular		子我反。子倚反。毑、古文。	a035b051		有埋字B。(異部首)。子我反：反字之右、有抹消符。
 1_070_A53	v3#35	女	她	Songben-Yupian		#	a035b052		
 1_070_A61	v3#35	女	姑	Regular		故胡反。故也、始也、且也。	a036b062		
 1_070_A62	v3#35	女	威	Regular		於歸反。畏也、則也、德也、力也。	a037a012		
@@ -1922,7 +1922,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_075_B42	v3#35	女	𡝩	Regular		於鴞反。小也、巧也。	a033b024		呂按此字頭原訛、p.45。
 1_075_B51	v3#35	女	嫈	Regular		迂丁反。契清也。	a036b033		
 1_075_B52	v3#35	女	佞	Regular		奴定反。口杖也。	a033b025		
-1_075_B61	v3#35	女	嫪	Regular		力高反（見消）力報二反。⿰女目也、妬也、惜也、戀不去也。	a033b031		
+1_075_B61	v3#35	女	嫪	Regular		力高反力報二反。姻也、妬也、惜也、戀不去也。	a033b031		力高反：反字之右、有抹消符。
 1_075_B62	v3#35	女	婟	Regular		胡故反。妬也、孌惜也。	a033b032		
 1_075_B621	v3#35	女	嫭	Songben-Yupian		#	a033b033		
 1_076_A11	v3#35	女	姿	Regular		子私反。態也。	a035a043		
@@ -8844,8 +8844,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_045_A51	v13#162	艸	䔄	Regular		餘照反。菟絲也、蒲桑也。	b026a063		
 4_045_A52	v13#162	艸	葶	Regular		都挺反。如蘇、赤華也、葶䔭也。	b026a052		
 4_045_A61	v13#162	艸	䔭	Regular		奴挺反。葶薴也。	b032b011		
-4_045_A62	v13#162	艸	葹	Regular		舒移反。枲耳也。□也、拨心不乱(見消)死。	b026b053		
-4_045_B11	v13#162	艸	藃	Regular		呼到反。縮也、秏(耗)也、減也、損也。	b026b061		掲出字：原作⿱⿰艸商欠。
+4_045_A62	v13#162	艸	葹	Regular		舒移反。枲耳也。□也、拔心不乱死。	b026a053		乱：有抹消符。
+4_045_B11	v13#162	艸	藃	Regular		呼到反。縮也、秏(耗)也、減也、損也。	b026a061		掲出字：原作⿱⿰艸商欠。
 4_045_B12	v13#162	艸	莬	Regular		亡運反。新生也、槀乾也。	b033b051		
 4_045_B21	v13#162	艸	蕤	Regular		汝誰反。繼也、導也、敬也。	b026a065		
 4_045_B22	v13#162	艸	茫	Regular		莫唐反。𦼫也、□也、大遠皃。	b026a064		

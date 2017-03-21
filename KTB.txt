@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.54
+#	Version: 1.0.55
 #	Date published : 1 September 2016
 #	Last modified : 21 March 2017
 #
@@ -83,7 +83,7 @@
 TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_remarks
 1_016_A51	v1#1	一	一	Regular_seal		於逸反。少也、初也、同也。〔弌：古文。〕	a005a101		有埋字B。G01首
 1_016_A52	v1#1	一	弌	Embedded_clerical		弌：古文。	a005b011		埋字B。
-1_016_A53	v1#1	一	天	Regular_seal		秦堅反。顛也、顯也、君也。〔𠀡：古文。〕〔𠀘：古文。〕〔兲：古文。〕〔𠕹：古文。〕	a005b012		有埋字B。
+1_016_A53	v1#1	一	天	Regular_seal		泰堅反。顛也、顯也、君也。〔𠀡：古文。〕〔𠀘：古文。〕〔兲：古文。〕〔𠕹：古文。〕	a005b012		有埋字B。泰：原作秦。
 1_016_A54	v1#1	一	𠀡	Embedded_clerical		𠀡：古文。	a005b051		埋字B。
 1_016_A55	v1#1	一	𠀘	Embedded_clerical		𠀘：古文。	a005b052		埋字B。
 1_016_A56	v1#1	一	兲	Embedded_clerical		兲：古文。	△		埋字B。
@@ -92,7 +92,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_016_A611	v1#1	一	元	Embedded_seal		元(seal)：古文。			埋字B。篆書字形。
 1_016_A62	v1#1	一	丕	Regular_seal		普坻反。㶨也、大也、多也。	a005b071		
 1_016_B11	v1#1	一	吏	Regular_seal		理致反。使也、君所使也。〔吏(seal)：古文。〕三吏、三公也。	a005b072		有埋字B。
-1_016_B111	v1#1	一	吏	Embedded_seal		吏(seal)：古文。			埋字B。篆書字形。
+1_016_B111	v1#1	一	吏	Embedded_seal		吏(seal)：古文。			埋字B。篆書字形。吏(seal)：呂作⿱⿱山一⿱口又。
 1_016_B31	v1#2	上	上	Regular_seal		時讓反。前也、遠也、君也、登也。〔丄：古文。〕	a005b101		有埋字B。
 1_016_B32	v1#2	上	丄	Embedded_clerical		丄：古文	a006a011		埋字B。
 1_016_B33	v1#2	上	帝	Regular_seal		都麗反。君也、諦也、天也。〔𢂇(seal)：古文。〕〔𠫦(seal)：古文。〕	a006a012		有埋字B。
@@ -113,20 +113,20 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_017_A14	v1#3	示	神β	Embedded_clerical		神β：古文。			埋字B。
 1_017_A15	v1#3	示	神γ	Embedded_clerical		神γ：古文。			埋字B。
 1_017_A21	v1#3	示	祇	Regular_seal		渠支反。大也、敬也。	a006a091		
-1_017_A22	v1#3	示	齋	Regular_seal		側階反。洗心曰齋、防患曰戒、敬也、㽵(莊)也。〔𪗒：古文。〕〔⿰𧆞眞：齋文也。〕	a006a101		有埋字Bニ字。
-1_017_A23	v1#3	示	𪗒	Embedded_clerical		𪗒：古文。	a006a102		埋字B。
-1_017_A24	v1#3	示	⿰𧆞眞	Embedded_clerical		⿰𧆞眞：齋文也。			埋字B。齋文也：呂作「籀文也」。
+1_017_A22	v1#3	示	齋	Regular_seal		側階反。洗心曰齋、防患曰戒、敬也、㽵(莊)也。〔𥜷：古文。〕〔𪗒：齋文也。〕	a006a101		有埋字Bニ字。
+1_017_A23	v1#3	示	𥜷	Embedded_clerical		𥜷：古文。	a006a102		埋字B。
+1_017_A24	v1#3	示	𪗒	Embedded_clerical		𪗒：齋文也。			埋字B。掲出字：原作⿰⿱⿰丿示⿵冂示⿱巛真。齋：呂作籀。
 1_017_A31	v1#3	示	祕	Regular_seal		鄙冀反。神也、視也、勞也、察也。	a006b001		
 1_017_A32	v1#3	示	祗	Regular_seal		諸時反。敬也。〔祗β：古文。〕	a006b002		有埋字B。
-1_017_A33	v1#3	示	祗β	Embedded_clerical		祗β：古文。			埋字B。宮澤無此字。
-1_017_A41	v1#3	示	祭	Regular_seal		子𧜟反。察也、至也、薦也、享也、祀也。〔祭λ：古文。〕	a006b013		有埋字B。反切下字：據呂《校釋》。
-1_017_A411	v1#3	示	祭λ	Embedded_clerical		祭λ：古文。			埋字B。祭λ：呂作肧。
+1_017_A33	v1#3	示	祗β	Embedded_clerical		祗β：古文。			埋字B。宮澤無此字。祇β：原作⿰⿱水幵⿱入⿰｜𡿨。
+1_017_A41	v1#3	示	祭	Regular_seal		子裔反。察也、至也、薦也、享也、祀也。〔祭λ：古文。〕	a006b013		有埋字B。裔：原文似𧜟。
+1_017_A411	v1#3	示	祭λ	Embedded_clerical		祭λ：古文。			埋字B。祭λ：呂作⿰月𡭕、臧作䏡。
 1_017_A43	v1#3	示	祀	Regular_seal		徐理反。祭也、歳也。〔裸衣(禩β)：上文。〕〔䃾：俾利反。〕〔又祼大(禩γ)。〕	a006b022		有埋字A・B。裸衣(禩β)、祼大(禩γ):一字誤作二字歟。祼大(禩γ)。
 1_017_A44	v1#3	示	禩	Embedded_clerical		裸衣(禩β)：上文。	a006b023		埋字B(禩β)。裸衣：禩之誤。
 1_017_A45	v1#3	示	䃾	Embedded_clerical		䃾：俾利反。	a006b021		埋字A。次項同。宮澤無△印。
 1_017_A46	v1#3	示	禩	Embedded_clerical		裸大(禩γ)：上文。	a006b023		埋字B(禩γ)。裸大：禩之誤。
-1_017_A51	v1#3	示	䃾	Regular_seal		俾利反。祭伺（祠）命名也。	△(a006b021)		
-1_017_A52	v1#3	示	祏	Regular_seal		殊亦反。宗廟以石爲主也。	a006b024		
+1_017_A51	v1#3	示	䃾	Regular_seal		俾利反。祭伺命名也。	△(a006b021)		伺：當作祠。
+1_017_A52	v1#3	示	祏	Regular_seal		殊亦反。宗廟以石為主也。	a006b024		
 1_017_A61	v1#3	示	禋	Regular_seal		於神反。燎柴、祭也、敬也。〔𥛛：古文。〕	a006b025		有埋字B。
 1_017_A62	v1#3	示	𥛛	Embedded_clerical		𥛛：古文。	a006b031		埋字B。
 1_017_A62-Shirafuji	v1#3	示	𡫚	Regular	白		a006b031		

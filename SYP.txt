@@ -3,9 +3,9 @@
 #
 #	SYP: Songben Yupian database
 #
-#	Version: 1.0.23
+#	Version: 1.0.24
 #	Date: 20 October 2015
-#	Last update : 11 March 2017
+#	Last update : 19 May 2017
 #
 #	Copyright (c) 2014-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -19258,7 +19258,7 @@ c037b022	v24#391	隹	𨿯		&#xD863;&#xDFEF;	力奚切。𨿯黃楚雀其色黎�
 c037b023	v24#391	隹	雁		&#x96C1;	五諫切。鳥也。	
 c037b024	v24#391	隹	霍		&#x970D;	呼郭切。鳥飛急疾皃也、揮霍也。	
 c037b031	v24#391	隹	𨾵		&#xD863;&#xDFB5;	汝居切。𨾵鴾毋、即䨄也。或作鴐。	
-c037b032	v24#391	隹	雇		&#x96C7;	乎古切。亦作鳸。今以爲雇。僦字。古護切。	
+c037b032	v24#391	隹	雇		&#x96C7;	乎古切。亦作鳸。今以爲雇僦字。古護切。	
 c037b033	v24#391	隹	𩁌		&#xD864;&#xDC4C;	弋垂切。飛也。	
 c037b041	v24#391	隹	䧴		&#x49F4;	志移切。鳥也、度也、武帝造䧴鵲觀、在雲陽。	
 c037b042	v24#391	隹	𨾊		&#xD863;&#xDF8A;	戸工切。傭也、鳥肥大也。	

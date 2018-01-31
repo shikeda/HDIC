@@ -8,11 +8,11 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.56
+#	Version: 1.0.57
 #	Date published : 1 September 2016
-#	Last modified : 4 June 2017
+#	Last modified : 31 January 2018
 #
-#	Copyright (c) 2016-2017 HDIC project, IKEDA Shoju (Chair)
+#	Copyright (c) 2016-2018 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
 #	Department of Linguistic Sciences, Hokkaido University Graduate School of Letters
 #	North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan
@@ -2229,7 +2229,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_087_A62-Shirafuji	v4#36	頁	𩕦	Regular	白		a039a064		
 1_087_B11	v4#36	頁	𩔁	Regular		呼憒反。洗面。	a039a065		
 1_087_B12	v4#36	頁	䫳	Regular		達椽反。體作。	a039a071		掲出字：原作⿰巻頁。
-1_087_B21	v4#36	頁	䫫	Regular		力候反。體也。	a039a072		
+1_087_B21	v4#36	頁	䫫	Regular		力侯反。體也。	a039a072		
 1_087_B22	v4#36	頁	頕	Regular		丁甘反。	a039a074		
 1_087_B31	v4#36	頁	𩕖	Regular		先全反。謀也。	a039a081		
 1_087_B32	v4#36	頁	頧	Regular		都雷反。追字。	a039b045		

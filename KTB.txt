@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.58
+#	Version: 1.0.59
 #	Date published : 1 September 2016
 #	Last modified : 13 February 2018
 #
@@ -47,7 +47,7 @@
 #
 #	Group c -- Omitted headword
 #	6 Omitted				: 脱字 項目全体 脱落
-#	7 Omitted-regular		: 脱字 隷書掲出字 脱落
+#	7 Omitted_regular		: 脱字 隷書掲出字 脱落
 #
 #	Group d -- Variant of the Songben Yupian
 #	8 Songben-Yupian		: 宋本《玉篇》増補之異体字
@@ -2777,7 +2777,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_008_A42	v4#56	耳	聶	Regular		女獦反。附耳小語也。	a047b091		G13尾。
 2_008_A52	v5#57	口	口	Regular		苦後反。脾門也。	a048a081		G14首。
 2_008_A521	v5#57	口	𠙵	Songben-Yupian		#	a048a082		
-2_008_A61	v5#57	口	噣	Omitted-regular_seal		竹又反。	a048a091		隷書揭出字脱。篆書字形。
+2_008_A61	v5#57	口	噣	Omitted_regular_seal		竹又反。	a048a091		隷書揭出字脱。篆書字形。
 2_008_A62	v5#57	口	喙	Regular_seal		詡穢反。息也。	a048a093		
 2_008_B11	v5#57	口	㖧	Regular		古文。	a048a101		掲出字：原作⿱呡曰。
 2_008_B12	v5#57	口	吻	Regular		莫粉反。口邊也。	a048a094		
@@ -2832,7 +2832,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_010_A52	v5#57	口	嘽	Regular_seal		勅丹反。喘息也。	a049a033		
 2_010_A61	v5#57	口	咦	Regular_seal		火尸反。大笑也。	a049a041		
 2_010_A62	v5#57	口	呬	Regular_seal		火利反。息也。	a049a042		
-2_010_B11	v5#57	口	喘	Omitted-regular_seal		充兖反。轉也、疾息也。	a049a043		隷書揭出字脱。篆書字形。
+2_010_B11	v5#57	口	喘	Omitted_regular_seal		充兖反。轉也、疾息也。	a049a043		隷書揭出字脱。篆書字形。
 2_010_B12	v5#57	口	呼	Regular_seal		火胡反。息出曰呼也。	a049a044		
 2_010_B21	v5#57	口	吸	Regular		義及反。引也、飲也。	a049a051		《詩經・大東》：維南有箕、載翕其舌。《広韻》：吸：…、噏：上同。
 2_010_B22	v5#57	口	噓	Regular		熙居反。吹噓也。	a049a062		
@@ -2848,7 +2848,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_011_A11	v5#57	口	名	Regular_seal		弭成反。自命也、令盟也、号也、大也、必也、功也、聞也、大也、成也。	a049a082		
 2_011_A12	v5#57	口	召	Regular_seal		馳廣反。評(𧦝)也。	a049a083		
 2_011_A21	v5#57	口	吾	Regular_seal		誤都反。我也、禦也。	a049a084		
-2_011_A211	v5#57	口	喆	Omitted-regular		喆(空白)：古文。	a049a092		
+2_011_A211	v5#57	口	喆	Omitted_regular		喆(空白)：古文。	a049a092		
 2_011_A212	v5#57	口	嚞	Regular		古文。	a049a093		
 2_011_A22	v5#57	口	哲	Regular		知列反。智也。	a049a091		「嚞」之上下、有「古文」注記。
 2_011_A31	v5#57	口	君	Regular_seal		居云反。尊也。	a049a094		
@@ -2896,7 +2896,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_012_B31	v5#57	口	启	Regular_seal		苦礼反。開也、刻也、發也、別也、踞也。	a049b101		
 2_012_B32	v5#57	口	哯	Regular_seal		又殄反。不歐而吐也。	a049b102		
 2_012_B321	v5#57	口	咞	Songben-Yupian		#	a049b103		
-2_012_B41	v5#57	口	右	Omitted-regular_seal		禹九反。助也、道也、亮也。	a049b104		隷書揭出字脱。篆書字形。反切上字大字。
+2_012_B41	v5#57	口	右	Omitted_regular_seal		禹九反。助也、道也、亮也。	a049b104		隷書揭出字脱。篆書字形。反切上字大字。
 2_012_B42	v5#57	口	啻	Regular_seal		詩豉反。諟也、言也。	a050a012		
 2_012_B51	v5#57	口	吉	Regular_seal		居實反。善也。	a050a011		
 2_012_B52	v5#57	口	嚋	Regular_seal		除留反。誰。	a050a013		

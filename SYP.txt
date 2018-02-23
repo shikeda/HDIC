@@ -3,9 +3,9 @@
 #
 #	SYP: Songben Yupian database
 #
-#	Version: 1.0.24
+#	Version: 1.0.25
 #	Date: 20 October 2015
-#	Last update : 19 May 2017
+#	Last update : 24 February 2018
 #
 #	Copyright (c) 2014-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -1332,7 +1332,7 @@ a024b062	v3#23	人	份		&#x4EFD;	彼陳切。《説文》云：份、文質備�
 a024b063	v3#23	人	僚		&#x50DA;	旅條切。《書》曰：百僚師師、僚官也。又同官曰僚也。	
 a024b071	v3#23	人	佖		&#x4F56;	皮筆頻必二切。怭威儀也。	
 a024b072	v3#23	人	仜		&#x4EDC;	胡東切。大腹也。	
-a024b073	v3#23	人	僝		&#x50DD;	士簡切。《虞書》曰：共工方鳩僝功	
+a024b073	v3#23	人	僝		&#x50DD;	士簡切。《虞書》曰：共工方鳩僝功。僝見也。又具也。	
 a024b081	v3#23	人	儠		&#x5120;	理攝切。《說文》云：長壯儠儠也。	
 a024b082	v3#23	人	儦		&#x5126;	彼鴞切。《詩》云：朱幩儦儦盛貌也。	
 a024b083	v3#23	人	儺		&#x513A;	奴何切。《説文》云：行有節也。《詩》云：佩玉之儺。又奴可切。	

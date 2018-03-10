@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.60
+#	Version: 1.0.61
 #	Date published : 1 September 2016
 #	Last modified : 10 March 2018
 #
@@ -12343,7 +12343,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_087_B62	v19#285	水	瀏	Regular		力周反。深皃、風疾皃。	b071a032		
 5_088_A11	v19#285	水	濊	Regular		呼活反。澤注也、流也。	b071a033		
 5_088_A12	v19#285	水	汪	Regular		烏光反。池也。	b071a034		
-5_088_A21	v19#285	水	漻	Regular		胡江反。彫反、清也。	b071a041		
+5_088_A21	v19#285	水	漻	Regular		胡江反。[　]彫反。清也。	b071a041		
 5_088_A22	v19#285	水	泚	Regular		且礼反。清也、測也、度也。	b071a042		
 5_088_A31	v19#285	水	況	Regular		呼放反。寒水也。	b071a043		
 5_088_A32	v19#285	水	沄	Regular		有門反。沆。	b071a051		

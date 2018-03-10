@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.59
+#	Version: 1.0.60
 #	Date published : 1 September 2016
-#	Last modified : 13 February 2018
+#	Last modified : 10 March 2018
 #
 #	Copyright (c) 2016-2018 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -12264,7 +12264,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_085_A111	v19#285	水	沶	Songben-Yupian		#	b074a061		
 5_085_A12	v19#285	水	浯	Regular		牛都反。	b074a062		
 5_085_A21	v19#285	水	湡	Regular		魚俱反。	b074a063		
-5_085_A22	v19#285	水	汶	Regular		魚運反。	b074a071		
+5_085_A22	v19#285	水	汶	Regular		魚運反。	b074a071		魚：當作莫。
 5_085_A31	v19#285	水	治	Regular		除飢反。修也、理也、故也。	b074a064		
 5_085_A32	v19#285	水	寖	Regular		子社反。漸也、清也。〔浸：同上。〕	b074a072		有埋字B。
 5_085_A33	v19#285	水	浸	Embedded_clerical		浸：同上。	b074a073		埋字B。

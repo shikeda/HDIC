@@ -3,9 +3,9 @@
 #
 #	SYP: Songben Yupian database
 #
-#	Version: 1.0.25
+#	Version: 1.0.26
 #	Date: 20 October 2015
-#	Last update : 24 February 2018
+#	Last update : 2 May 2018
 #
 #	Copyright (c) 2014-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -16758,7 +16758,7 @@ c013a012	v22#343	山	㠆		&#x3806;	丁安切。㠆孤山。
 c013a013	v22#343	山	岟		&#x5C9F;	於兩切。山足也。	
 c013a014	v22#343	山	嵐		&#x5D50;	力含切。大風也。又岢嵐、山名。	
 c013a015	v22#343	山	崥		&#x5D25;	方爾切。峽崥山足也。又歩兮切。崥崹。	
-c013a021	v22#343	山	㟍		&#x37CD;	力唐切。冬至曰所入峻㟍之山也。	
+c013a021	v22#343	山	㟍		&#x37CD;	力唐切。冬至日所入峻㟍之山也。	
 c013a022	v22#343	山	岭		&#x5CAD;	力丁切。岭巆山深小皃。	
 c013a023	v22#343	山	巉		&#x5DC9;	士衫切。巉巖高危。	
 c013a024	v22#343	山	岌		&#x5C8C;	魚及切。山高皃。	

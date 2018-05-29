@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.63
+#	Version: 1.0.64
 #	Date published : 1 September 2016
-#	Last modified : 13 March 2018
+#	Last modified : 29 May 2018
 #
 #	Copyright (c) 2016-2018 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -2299,7 +2299,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_090_A51	v4#44	𦣝	𦣝	Regular		翼之反。長也、美也。	a041a061		
 1_090_A52	v4#44	𦣝	賾	Regular		仕革万反。幽深極稱也。	a041a071		
 1_090_B11	v4#44	𦣝	巸	Regular		与之反。長也、美也。	a041a062		
-1_090_B12	v4#45	亢	亢	Regular		下君反。咽也。	a041a081		
+1_090_B12	v4#45	亢	亢	Regular		下唐反。咽也。	a041a081		唐：原作君、原本誤写。
 1_090_B121	v4#45	亢	䶳	Songben-Yupian		#	a041a082		
 1_090_B21	v4#45	亢	𡕬	Regular		下朗反。倨也。	a041a083		
 1_090_B22	v4#45	亢	𠿕	Regular		己灼反。仰也。	a041a084		

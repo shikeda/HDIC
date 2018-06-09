@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.65
+#	Version: 1.0.6
 #	Date published : 1 September 2016
-#	Last modified : 8 June 2018
+#	Last modified : 9 June 2018
 #
 #	Copyright (c) 2016-2018 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -7634,7 +7634,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_004_B52	v12#158	木	桔	Regular		居頡反。桔梗也、藥也。	b014b081		
 4_004_B61	v12#158	木	柃	Regular_seal		力井反。木似荊也、染灰。	b014b082		
 4_004_B62	v12#158	木	柞	Regular		才落反。櫟也。	b014b083		
-4_005_A11	v12#158	木	㭩	Regular		力胡反。坼㭩也。	b014b091		
+4_005_A11	v12#158	木	㭔	Regular		力胡反。坼㭩也。	b014b091		掲出字：原作㭩。上田・宮澤作㭔。
 4_005_A12	v12#158	木	榗	Regular		子賤反。箭也、大也、名也。	b014b092		宋字体差。
 4_005_A21	v12#158	木	橪	Regular		於堅反。酸棗也。	b014b093		
 4_005_A211	v12#158	木	檖	Songben-Yupian		#	b021b106		

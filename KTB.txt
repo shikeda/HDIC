@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.66
+#	Version: 1.0.67
 #	Date published : 1 September 2016
 #	Last modified : 10 June 2018
 #

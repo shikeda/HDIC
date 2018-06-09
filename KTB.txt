@@ -8,7 +8,7 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.67
+#	Version: 1.0.68
 #	Date published : 1 September 2016
 #	Last modified : 10 June 2018
 #
@@ -6576,7 +6576,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_053_B62-Miyazawa	v10#127	走	趙	Regular	宮		a096a106		
 3_054_A11	v10#127	走	𧽋	Regular		於杜反。走輕也。	a096a105		
 3_054_A12	v10#127	走	𧾱	Regular		渠俱反。走顧也。	a096b011		
-3_054_A21	v10#127	走	䞤	Regular		趯字。	a096b012		
+3_054_A21	v10#127	走	䞤	Regular		𧾱字。	a096b012		
 3_054_A22	v10#127	走	䞿	Regular		虛言反。走也。	a096b013		
 3_054_A31	v10#127	走	䞗	Regular		千戈反。疑之起而去也。	a096b014		
 3_054_A32	v10#127	走	𧺼	Regular		日紙反。淺渡也。	a096b021		

@@ -8,9 +8,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.6
+#	Version: 1.0.66
 #	Date published : 1 September 2016
-#	Last modified : 9 June 2018
+#	Last modified : 10 June 2018
 #
 #	Copyright (c) 2016-2018 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -8682,7 +8682,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_039_A41	v13#162	艸	芏	Regular		兔杜二音也。似莞藺也。	b029b064		
 4_039_A42	v13#162	艸	蕎	Regular		居妖反。大戟也。藥也。	b029b071		
 4_039_A51	v13#162	艸	𦻝	Regular		居逆反。大戟、藥草也。	b029b072		
-4_039_A52	v13#162	艸	萿	Regular		皷活反。萿麋舌也、以舌也。	b029b073		皷：原作皼。
+4_039_A52	v13#162	艸	萿	Regular		皷活反。萿麋舌也、以舌也。	b029b073		掲出字：原作⿱艹⿰扌后、誤。皷：原作皼。以：當作似。
 4_039_A61	v13#162	艸	虇	Regular		枯遠反。蘆荀也。	b029b081		
 4_039_A62	v13#162	艸	葩	Regular		普華反。華也。	b029b084		注文大字。
 4_039_B11	v13#162	艸	荂	Regular		妨俱反。榮也、大也、華別名也。	b029b085		

@@ -5,12 +5,12 @@
 #	KTB : Kosanjibon Tenrei Bansho Meigi database -- Full text version
 #
 #	Kosanjibon Tenrei bansho meigi 篆隷万象名義, Kosanji copy 高山寺本.
-#	monk Kukai of the Heian period 空海, c. 827-835.
+#	Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.69
+#	Version: 1.0.70
 #	Date published : 1 September 2016
-#	Last modified : 11 June 2018
+#	Last modified : 14 June 2018
 #
 #	Copyright (c) 2016-2018 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)

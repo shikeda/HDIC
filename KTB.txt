@@ -8,7 +8,7 @@
 #	Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.0.70
+#	Version: 1.0.71
 #	Date published : 1 September 2016
 #	Last modified : 14 June 2018
 #
@@ -30,7 +30,7 @@
 #	Entry_type	: For details, refer to the following section
 #	Entry_diff	: Differences of transliteration with other scholars
 #	TB_def		: Definition of pronunciation, meaning and variant(s)
-#	SYID (vwwwxyyyzz)	: Book(v), leaf(www), recto-verso(x), line(yy) and number(z)
+#	SYID (vwwwxyyz)	: Book(v), leaf(www), recto-verso(x), line(yy) and number(z)
 #	YYID (Ywwxxxyyy-z)	: Volume(ww), leaf(xxx), line(yyy) and number(z)
 #	TB_remarks	: Editor's notes
 #

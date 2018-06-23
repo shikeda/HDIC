@@ -99,6 +99,14 @@ Ikeda Shoju 池田 証壽, Chair 代表
 Li Yuan 李 媛, Person charge of text data proofreading データ入力・点検の担当   
 Liu Guanwei 劉 冠偉, Person in charge of image database design and implementation 画像データベース設計・実装の担当   
 
+* TSJ_definitions.tsv -- Headwords and difinitions  
+Date: 23 June 2018  
+初版公開日  
+Ikeda Shoju 池田 証壽, Chair 代表  
+Li Yuan 李 媛, Person charge of text data proofreading データ入力・点検の担当   
+Liu Guanwei 劉 冠偉, Person in charge of image database design and implementation 画像データベース設計・実装の担当   
+
+
 ### Zushoryobon Ruiju Myogisho 図書寮本類聚名義抄
 #### ZRM: Zushoryobon Ruiju Myogisho database
 

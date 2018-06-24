@@ -92,7 +92,7 @@ Shinsen jikyō 新撰字鏡, Tenji copy 天治本. Buddhist monk Shōju 昌住, 
 
 #### Files
 
-* TSJ_entries.tsv -- Full list of headwords (Test version) 
+* TSJ_entries.tsv -- Full list of headwords (Test version)  
 Date: 24 June 2018  
 初版公開日  
 Ikeda Shoju 池田 証壽, Chair 代表  

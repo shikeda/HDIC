@@ -5,7 +5,7 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 平安時代漢字字書綜合數據庫  
 
 Date published : 18 October 2015  
-Last modified : 24 June 2018  
+Last modified : 28 June 2018  
 
 ---
 ## Medieval China dictionaries
@@ -92,15 +92,15 @@ Shinsen jikyō 新撰字鏡, Tenji copy 天治本. Buddhist monk Shōju 昌住, 
 
 #### Files
 
-* TSJ_entries.tsv -- Full list of headwords (Test version)  
-Date: 24 June 2018  
+* TSJ_entries.tsv -- Full list of headwords  
+Date: 28 June 2018  
 初版公開日  
 Ikeda Shoju 池田 証壽, Chair 代表  
 Li Yuan 李 媛, Person charge of text data proofreading データ入力・点検の担当   
 Liu Guanwei 劉 冠偉, Person in charge of image database design and implementation 画像データベース設計・実装の担当   
 
-* TSJ_definitions.tsv -- Headwords and definitions (Test version)  
-Date: 24 June 2018  
+* TSJ_definitions.tsv -- Headwords and definitions  
+Date: 28 June 2018  
 初版公開日  
 Ikeda Shoju 池田 証壽, Chair 代表  
 Li Yuan 李 媛, Person charge of text data proofreading データ入力・点検の担当   

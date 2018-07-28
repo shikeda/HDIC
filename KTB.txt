@@ -8,9 +8,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.73
+#   Version: 1.0.74
 #   Date published: 1 September 2016
-#   Last modified: 23 June 2018
+#   Last modified: 28 June 2018
 #
 #   Copyright (c) 2016-2018 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -2353,7 +2353,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_092_A62	v4#49	目	𥌭	Regular		亡(右：下)犬反。邈也。	a041b104		
 1_092_A621	v4#49	目	𥌣	Songben-Yupian		#	a041b105		
 1_092_B11	v4#49	目	瞦	Regular		虛之反。目精。	a041b106		
-1_092_B12	v4#49	目	矏	Regular		⿰⿱ 目白出分。莫緣反。點也、蜜也。	a042a011		双隷(17)。呂按「此處衍「矏」字。「蜜」似當作「密」，《爾雅釋言》：「矏，密也」。」
+1_092_B12	v4#49	目	矏	Regular		⿰⿱目白出分。莫緣反。點也、蜜也。	a042a011		双隷(17)。呂按「此處衍「矏」字。「蜜」似當作「密」，《爾雅釋言》：「矏，密也」。」
 1_092_B21	v4#49	目	𥇖	Regular		匹非反。大目也。	a042a012		
 1_092_B22	v4#49	目	䁂	Regular		杏眼反。大目也。	a042a073		
 1_092_B31	v4#49	目	睅	Regular		何板反。大目也。	a042a013		

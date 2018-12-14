@@ -9,10 +9,10 @@
 #   Buddhist monk Shoju 昌住, c. 898-901.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   TSJ_definitions.txt -- Test version
-#   Version: 1.0.3
+#   TSJ_definitions.tsv
+#   Version: 1.0.4
 #   Date published: 28 June 2018
-#   Last modified: 31 October 2018
+#   Last modified: 15 December 2018
 #
 #   Copyright (c) 2018 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in charge of text data proofreading)
@@ -15545,7 +15545,7 @@ s1017a502	□	(無注)
 s1017a503	擀	(無注)	
 s1017a701	貝	方外反。去：螺也。	
 s1017a702	財	才音。貨也、衆穀也。	
-s1017a703a	䝭𧵈	二形同、古候反、購也、阿加不。	
+s1017a703a	䝭𧵈	二形同。古候反。贖也、阿加不。	
 s1017a705	賁	正：彼寄反。又去。扶云反。平：黄白色也、色飾也、又曰無色也、封名、卦名、勇也。	
 s1017a801	質	正：之逸反。入：體也、平也、斷也、問也、定也、信也、主也、誠也、□也、猶樸也、實也、成、□(試)也、□(躰)也。借：知□□。□任子也、各也。	
 s1017b101	賂	力故反。去：遺也。	

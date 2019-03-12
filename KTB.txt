@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.75
+#   Version: 1.0.76
 #   Date published: 1 September 2016
 #   Last modified: 12 March 2019
 #
@@ -11313,7 +11313,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_050_B41	v18#269	金	鑪	Regular		力胡反。盛火。	△		
 5_050_B42	v18#269	金	鍱	Regular		余攝反。	b064b097		
 5_050_B51	v18#269	金	鏇	Regular		囚絹反。環治木器。	b065a031		
-5_050_B52	v18#269	金	𨪉	Regular		丈奚反。器。	b065a015		
+5_050_B52	v18#269	金	𨪉	Regular		大奚反。器。	b065a015		大：原作丈。
 5_050_B52-Miyazawa	v18#269	金	⿰金盧	Regular	宮		△		
 5_050_B61	v18#269	金	鏤	Regular		力闘反。堅金。	b063b101		
 5_050_B62	v18#269	金	釦	Regular		枯后反。金餝器。	b065a024		

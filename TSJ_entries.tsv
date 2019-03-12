@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.0.16
+#   Version: 1.0.17
 #   Date published: 23 June 2018
-#   Last modified: 12 March 2019
+#   Last modified: 13 March 2019
 #
 #   Copyright (c) 2018 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -10945,7 +10945,7 @@ s0627b201	s0627b201	新372-21	v6#67	金部第六十八	鈐	◯	玉篇		5_052_A41
 s0627b202	s0627b202	新372-22	v6#67	金部第六十八	𨬍	◯	玉篇	參看「䤻」字。	5_052_A42	b061b054
 s0627b203	s0627b203	新372-23	v6#67	金部第六十八	䥯	◯	玉篇		5_052_B11	b061b065
 s0627b204	s0627b204	新372-24	v6#67	金部第六十八	鉊	◯	玉篇		5_052_B22	b061b073
-s0627b301	s0627b301	新372-31	v6#67	金部第六十八	銸	◯	玉篇		5_052_B52	b061b082
+s0627b301	s0627b301	新372-31	v6#67	金部第六十八	銸	鋷	玉篇		5_052_B52	b061b082
 s0627b302	s0627b302	新372-32	v6#67	金部第六十八	鑷	◯	玉篇		5_051_A61	b061b083*
 s0627b303	s0627b303	新372-33	v6#67	金部第六十八	鉗	◯	玉篇		5_053_A11	b061b085
 s0627b401	s0627b401	新372-41	v6#67	金部第六十八	釱	◯	玉篇		5_052_B61	b061b084

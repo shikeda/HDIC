@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_definitions.tsv
-#   Version: 1.0.20
+#   Version: 1.0.21
 #   Date published: 28 June 2018
-#   Last modified: 13 March 2019
+#   Last modified: 14 March 2019
 #
 #   Copyright (c) 2018 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in charge of text data proofreading)
@@ -39,7 +39,7 @@
 #
 TSJ2ID	Entry_word	SJ_def	SJ_remarks
 s0104a601	天	躰年他前二反。平聲：顛也、尊也、頂也、君清輕在上也。	
-s0104a602a	⿱丆⿵𠘨⿰｜｜⿳一丷兀𠕹⿳一⿰从兀	四字皆天、古文。	
+s0104a602a	𬻃⿳一丷兀𠕹⿳一⿰从兀	四字皆天、古文。	
 s0104a701	⿸疒⿱龷天	天字。	
 s0104a702a	昊⿱⿰日白平	二同。下老反。上聲：昊天夏天也。	
 s0104a704	⿱曰⿰干乇	上同字。	

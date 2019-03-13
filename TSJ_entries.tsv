@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.0.17
+#   Version: 1.0.18
 #   Date published: 23 June 2018
-#   Last modified: 13 March 2019
+#   Last modified: 14 March 2019
 #
 #   Copyright (c) 2018 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -95,7 +95,7 @@
 #
 SJID	SJ2ID	SJ_Rinsen	SJ_vol_radical	SJ_radical	Entry	Entry_original	SJ_source	SJ_entry_remarks	TBID	SYID
 s0104a601	s0104a601	新21-61	v1#1	天部第一	天	◯	出所不詳		1_016_A53	a005b012
-s0104a602	s0104a602a	新21-62	v1#1	天部第一	⿱丆⿵𠘨⿰｜｜	zihai-000453	出所不詳	字頭、原作「zihai-000453」。		
+s0104a602	s0104a602a	新21-62	v1#1	天部第一	𬻃	○	出所不詳			
 s0104a603	s0104a602a	新21-63	v1#1	天部第一	𠀘	⿱⿱一丷兀	出所不詳	字頭、原作「⿱⿱一丷兀」。	1_016_A55	a005b052
 s0104a604	s0104a602a	新21-64	v1#1	天部第一	𠕹	◯	出所不詳			
 s0104a605	s0104a602a	新21-65	v1#1	天部第一	⿳一⿰从兀	◯	出所不詳			

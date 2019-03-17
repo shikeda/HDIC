@@ -8,11 +8,11 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.79
+#   Version: 1.0.80
 #   Date published: 1 September 2016
-#   Last modified: 16 March 2019
+#   Last modified: 17 March 2019
 #
-#   Copyright (c) 2016-2018 HDIC project, IKEDA Shoju (Chair)
+#   Copyright (c) 2016-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
 #   LIU Guanwei (Person in charge of image database design and implementation)
 #   Department of Linguistic Sciences, Hokkaido University Graduate School of Letters
@@ -11535,13 +11535,13 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_058_A22	v18#269	金	鐰	Regular		且消反。臿。〔鍫：如上。〕	b063a025		有埋字B。
 5_058_A23	v18#269	金	鍫	Embedded_clerical		鍫：如上。	b063a024		埋字B。
 5_058_A31	v18#269	金	鋡	Regular		胡躭反。受、盛。	b063a031		
-5_058_A32	v18#269	金	鋟	Regular		子廉反。㤡也、以爪也、刻也。	b064a085		
+5_058_A32	v18#269	金	鋟	Regular		子廉反。㤡也、以爪也刻也。	b064a085		爪也：也字衍。
 5_058_A41	v18#269	金	錧	Regular		公緩反。末金。	b064a072		
 5_058_A42	v18#269	金	䥂	Regular		亡弁反。鐅也。	△		
 5_058_A51	v18#269	金	鉷	Regular		胡公反。弩牙辟致。	b063b074		
 5_058_A52	v18#269	金	鏾	Regular		先旦反。弩牙緩。	b064a095		
 5_058_A61	v18#269	金	鑺	Regular		懼倶反。戟也、兵。	b065a013		
-5_058_A62	v18#269	金	鈯	Regular		火兀反。好鈍。	b065a014		
+5_058_A62	v18#269	金	鈯	Regular		大兀反。好鈍。	b065a014		大：原作火、《新撰字鏡》引《玉篇》作大。
 5_058_B11	v18#269	金	釥	Regular		千小反。好也。	b064a104		掲出字：原作鈄。
 5_058_B11-Miyazawa	v18#269	金	鈄	Regular	宮		△		
 5_058_B12	v18#269	金	錀	Regular		公云反。菟掩錀。	b063b086		
@@ -11557,8 +11557,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_058_B42	v18#269	金	䥈	Regular		模朗反。鈷也、小釜。	b063a043		
 5_058_B51	v18#269	金	鈳	Regular		於何反。䥈也、小釜。	b063a041		
 5_058_B52	v18#269	金	釜	Regular		扶甫反。	b063a044		
-5_058_B61	v18#269	金	釠	Regular		渠鳩反。弩釠。	b064a025		
-5_058_B61-Shirafuji	v18#269	金	釚	Regular	白		b064a025		
+5_058_B61	v18#269	金	釚	Regular		渠鳩反。弩釠。	b064a025		
+5_058_B61-Miyazawa	v18#269	金	釠	Regular	宮		b064a025*		
 5_058_B62	v18#269	金	釴	Regular		余力反。鼎取附外也。	b063a045		
 5_059_A11	v18#269	金	鏀	Regular		力古反。力。	b063a051		
 5_059_A12	v18#269	金	錃	Regular		方皮反。鈒鉏。	b063a052		

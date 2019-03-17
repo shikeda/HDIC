@@ -10,11 +10,11 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_definitions.tsv
-#   Version: 1.0.25
+#   Version: 1.0.26
 #   Date published: 28 June 2018
-#   Last modified: 16 March 2019
+#   Last modified: 17 March 2019
 #
-#   Copyright (c) 2018 HDIC project, IKEDA Shoju (Chair)
+#   Copyright (c) 2018-2019 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in charge of text data proofreading)
 #	LIU Guanwei (Person in charge of image database design and implementation)
 #   Department of Linguistic Sciences, Hokkaido University Graduate School of Letters
@@ -9451,9 +9451,9 @@ s0628a701	鉀	古盍反。小矢中有二穴戟也、鑪也。加夫止。
 s0628a702	鍋	古和反。釭也。佐須奈戸。	注文：享和本作「古和反。釭也、輠也、油器。佐須奈戸」。
 s0628a703	䤶	油器也、輠也。於到反。椎也。佐須奈戸。	注文：享和本作「於到反。推也。左須奈戸」。
 s0628a801	鐹	公臥反。刈也、煮食器也、划、鎌也。	
-s0628a802	鋡	古火反。合龍(龕)也、袋也、受入器。加奈万利。	
+s0628a802	鋡	古冘反。龕也、袋也、受入器。加奈万利。	冘：原作火、享和本作冘。龕：原作合龍二字、享和本作龕。
 s0628a803	鋺	宛音。鋤鋭頭。加奈万利。	
-s0628b101	鋟	子廉反。凡板也、金敷也。	
+s0628b101	鋟	子廉反。凡板也。金敷也。	凡：原作凢、疑當作爪。
 s0628b102	䥂	亡工反。鐅也、釪也、犁也。	
 s0628b103	鉷	古公反。弩辟致者也。	
 s0628b104	鏾	⬜︎(先)旦反。弩絞。	
@@ -9462,7 +9462,7 @@ s0628b202	釥	千小反。好也、嫽也、妖也。
 s0628b203	錀	公云反。菟掩也。	
 s0628b204	鋽	大弔反。鉎鋽。	
 s0628b205	鏳	仕曽反。鎗玉聲。	
-s0628b301	釠	巨休反。弩調度也。	
+s0628b301	釚	巨休反。弩調度也。	
 s0628b302	釴	与力反。釜耳。加太保己、又打奈太。	
 s0628b303	鏀	力古反。以木爲垂。	
 s0628b304	𨦭	力刀反。⬜︎(錍)罏。戸之久支。	

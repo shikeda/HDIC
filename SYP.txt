@@ -3,9 +3,9 @@
 #
 #	SYP: Songben Yupian database
 #
-#	Version: 1.0.29
+#	Version: 1.0.30
 #	Date: 20 October 2015
-#	Last update : 26 March 2019
+#	Last update : 27 March 2019
 #
 #	Copyright (c) 2014-2017 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in Charge)
@@ -15907,7 +15907,7 @@ b087a036	v20#304	日	曥		&#x66E5;	力魚切。
 b087a037	v20#304	日	𣉚		&#xD84C;&#xDE5A;	與章切。又子郎切。焦。	
 b087a041	v20#304	日	暄		&#x6684;	許圓切。春晩也。	
 b087a042	v20#304	日	旼		&#x65FC;	莫貧切。和也。	
-b087a043	v20#304	日	⿱日眞		&#x2FF1;&#x65E5;&#x771E;	必民切。古文也。	
+b087a043	v20#304	日	𣉮		&#xD84C;&#xDE6E;	必民切。古文也。	
 b087a044	v20#304	日	暋		&#x668B;	彌賓切。又眉殞切。強也。	
 b087a045	v20#304	日	㫟		&#x3ADF;	以專切。日行也。	
 b087a046	v20#304	日	旫		&#x65EB;	他調切。	

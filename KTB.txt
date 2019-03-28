@@ -8,9 +8,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.86
+#   Version: 1.0.87
 #   Date published: 1 September 2016
-#   Last modified: 28 March 2019
+#   Last modified: 29 March 2019
 #
 #   Copyright (c) 2016-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -8207,7 +8207,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_023_A41	v12#158	木	榠	Regular		宜鼎反。木似𣘻為茗草也。	b020b084		
 4_023_A42	v12#158	木	柉	Regular		扶廉反。木皮中索也、疲枯也。	b020b085		
 4_023_A51	v12#158	木	杺	Regular		思林反。車鈎心也。	b020b091		
-4_023_A52	v12#158	木	棦	Regular		又(叉)耕反。刺也。	b020b082		
+4_023_A52	v12#158	木	棦	Regular		叉耕反。刺也。	b020b082		掲出字：原作⿰木争、呂・臧同作、上田作⿰木爭。叉：原作又。
 4_023_A61	v12#158	木	槿	Regular		渠巾反。八千歳爲春、秋也、似李。為矜字。	b018a063		秋：大字書写。矜：呂作柃。
 4_023_B11	v12#158	木	朲	Regular		如神反。屋上間人也。	b020b092		
 4_023_B12	v12#158	木	𣖵	Regular		才戈反。麦李。	b020b093		

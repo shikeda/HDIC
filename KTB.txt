@@ -7990,7 +7990,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_017_B62-Miyazawa	v12#158	木	梐	Regular	宮		b018a054		
 4_018_A11	v12#158	木	棧	Regular		仕板反。橿木也、栘(棚)也、閣。	b018a062		
 4_018_A12	v12#158	木	极	Regular		居立反。擔輅也。	b021a015		
-4_018_A21	v12#158	木	㭕	Regular		去諸反。去板也。	b015a081		板：當作极。
+4_018_A21	v12#158	木	㭕	Regular		去諸反。去极也。	b015a081		极：原作板。
 4_018_A22	v12#158	木	槅	Regular		居責反。大車軛也。	b014a015		
 4_018_A31	v12#158	木	楇	Regular		古和反。盛膏器也。鍋字。	b015a074		
 4_018_A32	v12#158	木	槮	Regular		思㣪反。車轂中空也。	△		掲出字：原作⿰木⿱竹喿、宮澤同作。呂作槮。《新撰字鏡》作⿰木⿱竹喿。

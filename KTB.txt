@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.84
+#   Version: 1.0.85
 #   Date published: 1 September 2016
 #   Last modified: 28 March 2019
 #
@@ -7823,7 +7823,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_012_A11	v12#158	木	榱	Regular		所龜反。桷也、㭬也、題。	b016b102		
 4_012_A12	v12#158	木	楣	Regular		靡飢反。前梁門上橫樑梠也。	b016b083		上字下、三字空白。
 4_012_A21	v12#158	木	梠	Regular		力語反。屋檐也、楣也。	b016b103		
-4_012_A22	v12#158	木	㮰	Regular		稗■反。檐也、梠也。	b016b104		
+4_012_A22	v12#158	木	㮰	Regular		稗■反。檐也、梠也。	b016b104		掲出字：原作棍、誤。稗■：上田作裨低、呂作稗祗、臧作稗弤。上田云原稗低誤。
 4_012_A31	v12#158	木	檐	Regular		餘瞻反。梠也、長砌也、棍(㮰)也。	b017a011		
 4_012_A311	v12#158	木	櫩	Songben-Yupian		#	b017a012		
 4_012_A32	v12#158	木	櫋	Regular		弭旃反。聮也、屋笇也。	b016b101		

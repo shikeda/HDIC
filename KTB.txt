@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.83
+#   Version: 1.0.84
 #   Date published: 1 September 2016
 #   Last modified: 28 March 2019
 #
@@ -7672,7 +7672,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_006_A51	v12#158	木	楊	Regular		餘章反。柳也。	b015a052		
 4_006_A52	v12#158	木	檉	Regular		敕鳴反。河柳也、莖赤、小柳也。	b015a054		
 4_006_A521	v12#158	木	榶	Songben-Yupian		#	b015a055		
-4_006_A61	v12#158	木	柳	Regular		閭須反。小柳也。𨋖字。	b015a056		
+4_006_A61	v12#158	木	柳	Regular		閭酒反。小柳也。𨋖字。	b015a056		酒：原作須、誤。
 4_006_A611	v12#158	木	桺	Songben-Yupian		#	b015a061		
 4_006_A62	v12#158	木	𣖆	Regular		似苟(荀)反。大木可為鉏柄也。	b015a062		
 4_006_B11	v12#158	木	栘	Regular		餘支。移也。	b015a063		

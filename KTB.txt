@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.82
+#   Version: 1.0.83
 #   Date published: 1 September 2016
 #   Last modified: 28 March 2019
 #
@@ -7448,7 +7448,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_086_B42	v11#155	穴	窬	Regular		徒構反。空也、穿木戶也。	b012b031		
 3_086_B51	v11#155	穴	竀	Regular		丑生反。⿱穴視也。	b012b074		
 3_086_B52	v11#155	穴	窺	Regular		丘垂反。⿱穴視也。⿵門親(闚)字。	b012b032		
-3_086_B61	v11#155	穴	窡	Regular		竹㓤反。空才見也。	b012b024		㓤
+3_086_B61	v11#155	穴	窡	Regular		竹刮反。空才見也。	b012b024		刮：原作㓤、誤。
 3_086_B62	v11#155	穴	窋	Regular		知律反。空也。	b012b033		
 3_087_A11	v11#155	穴	窵	Regular		都胶反。深也。	b012b023		
 3_087_A12	v11#155	穴	𥧑	Regular		徒堅反。塞也。填字。	b012b041		

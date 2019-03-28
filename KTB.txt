@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.88
+#   Version: 1.0.89
 #   Date published: 1 September 2016
 #   Last modified: 29 March 2019
 #
@@ -8661,7 +8661,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_038_B11	v13#162	艸	藺	Regular		旅進反。莞屬。似龍鬚也。	b029b022		進：原作迮。呂作近、上田・宋本《玉篇》作進。今據上田。
 4_038_B12	v13#162	艸	蕼	Regular		相記反。赤蕼堇也。	b029b023		
 4_038_B21	v13#162	艸	菫	Regular		居隱反。菜也、鳥頭也、毒藥煞(殺)人。	△		
-4_038_B22	v13#162	艸	藘	Regular		旅居反。芳蒐也、茹藘也、蔳草。	b029b024		芳：呂作茅。
+4_038_B22	v13#162	艸	藘	Regular		旅居反。茅蒐也、茹蘆也、蔳草。	b029b024		掲出字：原作蘆、白藤・上田・呂同作。宋本《玉篇》・《新撰字鏡》作藘。茅：原作芳。
 4_038_B22-Shirafuji	v13#162	艸	蘆	Regular	白		b029b024		
 4_038_B31	v13#162	艸	芨	Regular		居及反。烏頭也。	b029b031		
 4_038_B32	v13#162	艸	蒐	Regular		所流反。䒸草也。	b029b032		

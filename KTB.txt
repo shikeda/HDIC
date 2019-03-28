@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.87
+#   Version: 1.0.88
 #   Date published: 1 September 2016
 #   Last modified: 29 March 2019
 #
@@ -8535,7 +8535,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_034_B121	v13#162	艸	莔β	Embedded_clerical		莔β：古文。			埋字B。
 4_034_B122	v13#162	艸	𦱋	Songben-Yupian		#	b031b035		
 4_034_B123	v13#162	艸	𦳶	Songben-Yupian		#	b031b036		
-4_034_B21	v13#162	艸	蘠	Regular		似漿反。⿺辶𦮔(蓬)、實如葵子也。	b028a031		
+4_034_B21	v13#162	艸	蘠	Regular		似漿反。似蓬、實如葵子也。	b028a031		掲出字：原作⿰木廧、呂同作。上田・臧作蘠、白藤作薔。蓬：原作⿺辶𦮔。
 4_034_B21-Shirafuji	v13#162	艸	薔	Regular	白		b028a031		
 4_034_B22	v13#162	艸	蘼	Regular		亡彼反。𧄸冬。	b033b022		
 4_034_B22-Miyazawa	v13#162	艸	蘪	Regular	宮		b033b022		

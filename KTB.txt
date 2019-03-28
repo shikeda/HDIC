@@ -8,9 +8,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.81
+#   Version: 1.0.82
 #   Date published: 1 September 2016
-#   Last modified: 27 March 2019
+#   Last modified: 28 March 2019
 #
 #   Copyright (c) 2016-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -7126,7 +7126,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_075_A32	v11#149	疒	痤	Regular		徐知反。腫𢋘痤也。	b008a103		
 3_075_A41	v11#149	疒	疽	Regular		且餘反。久𤻕也、二瘍也。	b008a104		
 3_075_A42	v11#149	疒	㿛	Regular		力計反。𤻕也、大膓也、瘦黑也。	b008a105		
-3_075_A51	v11#149	疒	癰	Regular		行恭反。漂疽疾𤻕也。〔癕字。〕	b008b011		有埋字B。掲出字：原作𤻕。
+3_075_A51	v11#149	疒	癰	Regular		紆恭反。漂疽疾𤻕也。〔癕字。〕	b008b011		有埋字B。掲出字：原作𤻕。
 3_075_A52	v11#149	疒	癕	Embedded_clerical		癕字。	b008b012		埋字B。疑當作癰。
 3_075_A53	v11#149	疒	瘜	Regular		思力反。奇肉也。𦞜字。	b008b013		
 3_075_A61	v11#149	疒	癬	Regular		思踐反。疥也、乾也、瘍也。	b008b014		

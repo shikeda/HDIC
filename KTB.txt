@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.89
+#   Version: 1.0.90
 #   Date published: 1 September 2016
 #   Last modified: 29 March 2019
 #
@@ -8770,7 +8770,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_042_B21	v13#162	艸	䔺	Regular		「音隹。」弋菙反。籃蓼秀也。	b033b054		音隹：傍注。弋：大字。
 4_042_B22	v13#162	艸	荄	Regular		居來犯。根也、草根也。	b031b033		
 4_042_B31	v13#162	艸	芮	Regular		而銳反。絮也、草也。	b032b103		
-4_042_B32	v13#162	艸	茂	Regular		□(莫)遘反。茂盛也、美也、豐也。枝葉曰婆婆也。	b031b022		
+4_042_B32	v13#162	艸	茂	Regular		莫遘反。茂盛也、美也、豐也。枝葉曰婆娑也。	b031b022		莫：原作䔬、誤。
 4_042_B41	v13#162	艸	蔋	Regular		徒的反。旱盡也。草旱氣也。	b033b011		
 4_042_B42	v13#162	艸	薈	Regular		烏會反。翳也、障也。	▽		
 4_042_B51	v13#162	艸	茬	Regular		敘之反。草盛也。	b033b013		注文大字。

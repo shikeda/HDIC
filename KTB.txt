@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.92
+#   Version: 1.0.93
 #   Date published: 1 September 2016
 #   Last modified: 29 March 2019
 #
@@ -8872,7 +8872,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_046_A413	v13#162	艸	𦺒	Omitted		Omitted	b026a105		宮澤作蓩、非。
 4_046_A42	v13#162	艸	藎	Regular		徐吝反。進也。草名、味苦也。	b026b011		吝：原作⿱又古。
 4_046_A51	v13#162	艸	𦳯	Regular		來密反。草也。	b026b012		
-4_046_A52	v13#162	艸	荵	Regular		如𨋎(軫)反。忍冬草、似蘇也。	b026b013		
+4_046_A52	v13#162	艸	荵	Regular		如軫反。忍冬草、似蘇也。	b026b013		軫：原作𨋎。
 4_046_A61	v13#162	艸	䖂	Regular		力九反。鳧葵也、茆也。𧄶䖂字也。	b026b021		有埋字B。
 4_046_A62	v13#162	艸	𧄶	Embedded_clerical		䖂字也。	b026b014		埋字B。
 4_046_A63	v13#162	艸	䓞	Regular		來計反。茈草也。青黃雜色也。	b026b022		
@@ -8961,7 +8961,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_049_B21	v13#162	艸	𦳊	Regular		舒理反。糞也。𡱁屎字。	b027a072		
 4_049_B22	v13#162	艸	苟	Regular		公后反。誠也、且也、得也、偷也、槀菜也。	b027a073		
 4_049_B31	v13#162	艸	蓸	Regular		在勞反。草也。	b027a074		
-4_049_B32	v13#162	艸	𦷿	Regular		与(與)周反。草。	b027a081		
+4_049_B32	v13#162	艸	𦷿	Regular		与周反。草。	b027a081		
 4_049_B321	v13#162	艸	𦵵	Songben-Yupian		#	b027a082		
 4_049_B41	v13#162	艸	菬	Regular		卬聊反。草。	b027a083		注文大字。宋本《玉篇》
 4_049_B41-Miyazawa	v13#162	艸	𦯐	Regular	宮		b027a083		
@@ -8972,7 +8972,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_049_B61	v13#162	艸	苳	Regular		丁彤反。荵苳也。	b027a086		注文大字。彤：上田作彫、呂作肜。
 4_049_B62	v13#162	艸	𦼪	Regular		妄候反。茂草。	b027a085		注文大字。
 4_050_A11	v13#162	艸	萶	Regular		蚩允反。蠢草也。	b027a087		注文大字。
-4_050_A12	v13#162	艸	茸	Regular		如隴反。⿰■辱字。鹿角初生也。	b027a091		⿰■辱：原文似𡭋。呂作⿰穴辱。
+4_050_A12	v13#162	艸	茸	Regular		如隴反。⿰■辱字。鹿角初生也。	b027a091		⿰■辱：原文似𡭋。呂・臧作⿰宂辱。
 4_050_A21	v13#162	艸	荈	Regular		蚩兗反。茶老者也、茗也。	b027a092		
 4_050_A22	v13#162	艸	葆	Regular		補到反。裒也、丕也、大也、菜也、本也。	b027a093		
 4_050_A31	v13#162	艸	荼	Regular		杜胡反。茅秀也、華也、萑苕也、借也。	b027a101		
@@ -9218,7 +9218,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_058_B22	v14#166	竹	笢	Regular		亡忍反。竹表也、竹膚也、厲也。	b035a014		
 4_058_B31	v14#166	竹	笨	Regular		蒲本反。竹裏白也。	b035a022		本：原作大。
 4_058_B32	v14#166	竹	䈵	Regular		於孔反。竹也、盛也。	b035a023		
-4_058_B41	v14#166	竹	⿱竹瀏	Regular		力九反。竹聲也。	△		
+4_058_B41	v14#166	竹	⿱竹瀏	Regular		力九反。竹聲也。	△		掲出字：原作⿱竹瀏、宮澤・《新撰字鏡》同作。白藤・上田・呂作䉧。
 4_058_B41-Shirafuji	v14#166	竹	䉧	Regular	白		△		
 4_058_B42	v14#166	竹	篸	Regular		楚林反。參差也、洞簫也。	b039a086		
 4_058_B51	v14#166	竹	笐	Regular		何當反。竹器也、樂器也。	b037b072		

@@ -8,9 +8,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.94
+#   Version: 1.0.95
 #   Date published: 1 September 2016
-#   Last modified: 29 March 2019
+#   Last modified: 30 March 2019
 #
 #   Copyright (c) 2016-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -10977,7 +10977,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_039_A41	v17#261	矛	矜	Regular		渠巾反。矛。	b057b046		
 5_039_A42	v17#261	矛	𥍧	Regular		呼歒反。矛。	b057b051		掲出字：呂作𥍰。
 5_039_A42-Miyazawa	v17#261	矛	𥍠	Regular	宮		b057b051		
-5_039_A51	v17#261	矛	𥎞	Regular		子莢(筭)反。金。〔𥎥：同上。〕〔𥍴：丈置反。矛。〕〔𥍹：魚偃反。矛。〕	b057b042		有埋字A一字・B二字。
+5_039_A51	v17#261	矛	𥎞	Regular		子筭反。金。〔𥎥：同上。〕〔𥍴：丈置反。矛。〕〔𥍹：魚偃反。矛。〕	b057b042		有埋字A一字・B二字。掲出字：原作𥎞、宮澤・上田・呂・臧同作、白藤作䂎。筭：原作莢。参看諸氏校釋。
 5_039_A51-Shirafuji	v17#261	矛	䂎	Regular	白		b057b042		
 5_039_A52	v17#261	矛	𥎥	Embedded_clerical		𥎥：同上。	b057b043		埋字B。
 5_039_A53	v17#261	矛	𥍴	Embedded_clerical		丈置反。矛也。	b057b054		埋字A。掲出字：宮澤作𥍪、呂作𥍴。今據呂。

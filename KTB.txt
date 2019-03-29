@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.93
+#   Version: 1.0.94
 #   Date published: 1 September 2016
 #   Last modified: 29 March 2019
 #
@@ -9937,7 +9937,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_084_A41	v15#195	禾	稵	Regular		子辞反。滋字。益也、長也、蒔也。	b044b086		
 4_084_A42	v15#195	禾	秲	Regular		時志反。蒔字。種也。	b044a073		
 4_084_A51	v15#195	禾	𥝕	Regular		武壃反。芒字。芸草端也。	b044b091		
-4_084_A52	v15#195	禾	䅧	Regular		於壃反。厭字。蔭字。	b044b092		
+4_084_A52	v15#195	禾	䅧	Regular		於塩反。厭字。蔭字。	b044b092		
 4_084_A61	v15#195	禾	𥞹	Regular		又廉。力壃反。米也、名。	b044b093		G50尾。尾題「篆隷萬象名義卷第十五之上」。
 5_002_A31	v15#195	禾	𪎭	Regular		靡爲反。糜也。	b044b094		Z15首。卷首「*篆隷萬象名義卷第十五之下〈續撰*惹〓三佛陁〉」「*禾部」、朱合點(*)。（Z:続撰部分之巻首尾）
 5_002_A31-Miyazawa	v15#195	禾	穈	Regular	宮		b044b094		

@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.102
+#   Version: 1.0.103
 #   Date published: 1 September 2016
 #   Last modified: 31 March 2019
 #
@@ -12126,7 +12126,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_079_B22	v18#283	舟	艟	Regular		充庸反。	b070a022		
 5_079_B31	v18#283	舟	䑳	Regular		力均反。舩。	b070a062		
 5_079_B32	v18#283	舟	舷	Regular		胡由反。船。	b070a025	Y18700001-1	
-5_079_B41	v18#283	舟	𦩏	Regular		子隣反。水度。	b070a026	Y18700001-2	
+5_079_B41	v18#283	舟	𦩏	Regular		子隣反。水度。	b070a026	Y18700001-2	掲出字：原作𦩏、《新撰字鏡》・白藤同作。原本《玉篇》・宋本《玉篇》作𦪉、宮澤・上田・呂・臧同作。
 5_079_B41-Miyazawa	v18#283	舟	𦪉	Regular	宮		b070a026	Y18700001-2	
 5_079_B411	v18#283	舟	𦩦	Songben-Yupian		#	b070a031		
 5_079_B42	v18#283	舟	𦨤	Regular		為命反。潛行水。	b070a032	Y18700001-3	

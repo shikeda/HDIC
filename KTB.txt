@@ -8,9 +8,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.100
+#   Version: 1.0.101
 #   Date published: 1 September 2016
-#   Last modified: 30 March 2019
+#   Last modified: 31 March 2019
 #
 #   Copyright (c) 2016-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -12019,7 +12019,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_075_B42	v18#282	車	輎	Regular		山交反。鹿毛餝。	b068b062		
 5_075_B421	v18#282	車	𨌬	Songben-Yupian		#	b068b063		
 5_075_B51	v18#282	車	轇	Regular		古爻反。往來皃。	b068b064		
-5_075_B52	v18#282	車	⿰車比	Regular		之幻反。𨋎上幹。	△		
+5_075_B52	v18#282	車	⿰車比	Regular		之幻反。𨋎上幹。	△		掲出字：呂作䡂。
 5_075_B61	v18#282	車	轓	Regular		甫表反。車有障蔽也、箱也。	b068b073	Y18600001-1	反切：原本《玉篇》作「甫遠甫袁二反」。
 5_075_B62	v18#282	車	𨋖	Regular		力酒反。四輪載官車。	b068b066	Y18600002-1	
 5_075_B621	v18#282	車	𨌡	Songben-Yupian		#	b068b071		

@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.96
+#   Version: 1.0.97
 #   Date published: 1 September 2016
 #   Last modified: 30 March 2019
 #
@@ -11295,7 +11295,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_050_A31	v18#269	金	鋗	Regular		呼玄反。小瓮也。	b061a104		掲出字：原作⿰金䏍。宮澤同作。
 5_050_A32	v18#269	金	鍵	Regular		奇蹇反。閞。	b062b095		
 5_050_A321	v18#269	金	鑳	Songben-Yupian		#	b062b101		
-5_050_A41	v18#269	金	鏏	Regular		于桂反。鼎。銕、䥫子。	b061b011		
+5_050_A41	v18#269	金	鏏	Regular		于桂反。鼎。銕、䥫子。	b061b011		掲出字：原作𨯚、呂同作。宋本《玉篇》・宮澤・臧作鏏。子：疑當作字。
 5_050_A42	v18#269	金	鉉	Regular		胡犬反。耳鼎。	b061b012		
 5_050_A51	v18#269	金	鋊	Regular		余鍾反。銅屑也。〔銕：䥫字。〕	b061b013		有埋字B。
 5_050_A52	v18#269	金	銕	Embedded_clerical		銕：䥫字。	b061a023		埋字B。呂云誤入。

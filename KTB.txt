@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.98
+#   Version: 1.0.99
 #   Date published: 1 September 2016
 #   Last modified: 30 March 2019
 #
@@ -11599,8 +11599,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_060_A51	v18#269	金	錤	Regular		渠基反。鉏也、𨭨也。	b063a095		
 5_060_A52	v18#269	金	錑	Regular		力内反。平版。	b063a096		版：原作叚。據《新撰字鏡》訂。
 5_060_A61	v18#269	金	䥗	Regular		口煥反。燒䥫灸。	b063a101		
-5_060_A62	v18#269	金	銗	Regular		下渫(溝)反。鏂、鎧。	b064a033		反切下字：上田作溝、張同作。呂云［下渫 (未詳)]。
-5_060_B11	v18#269	金	鉎	Regular		所京反。䥗(鏉)。	b063a102		
+5_060_A62	v18#269	金	銗	Regular		下溝反。鏂、鎧。	b064a033		溝：上田作溝、張・臧同作。呂云［下渫 (未詳)]。
+5_060_B11	v18#269	金	鉎	Regular		所京反。鏉。	b063a102		鏉：原作䥗、誤。
 5_060_B12	v18#269	金	銃	Regular		充仲反。銎也。	b063a104		
 5_060_B21	v18#269	金	鉠	Regular		於良反。和鈴。	b063a105		
 5_060_B22	v18#269	金	鏆	Regular		古換反。釧。	b063a106		
@@ -11626,7 +11626,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_061_A51	v18#269	金	𨬖	Regular		仕仙反。小鑿。	b063b033		
 5_061_A52	v18#269	金	钃	Regular		竹足反。〔⿰金属：上文。〕	b063b034		有埋字B。
 5_061_A53	v18#269	金	⿰金属	Embedded_clerical		⿰金属：上文。	▽		埋字B。
-5_061_A61	v18#269	金	錖	Regular		都吉(告)反。觼舌也。	b063b035		
+5_061_A61	v18#269	金	錖	Regular		都告反。觼舌也。	b063b035		告：原作吉、誤。
 5_061_A62	v18#269	金	鍸	Regular		戸徒反。瑚字。	b063b037		
 5_061_B11	v18#269	金	釿	Regular		魚斤反。鍔。	△(b057a086)		
 5_061_B12	v18#269	金	鍔	Regular		魚各反。刀刹。	b063b041		
@@ -11636,7 +11636,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_061_B32	v18#269	金	鐍	Regular		古穴反。〔𧤾字。〕	b063b044		有埋字B。
 5_061_B321	v18#269	金	𧤾	Embedded_clerical		𧤾字。			埋字B。
 5_061_B41	v18#269	金	鈘	Regular		魚倚反。有足釜。	b063b045		掲出字：宋本《玉篇》原作鈙。
-5_061_B42	v18#269	金	鐯	Regular		張略反。鑺(钁)也。	b063b051		
+5_061_B42	v18#269	金	鐯	Regular		張略反。鑺也。	b063b051		鑺：疑當作钁。
 5_061_B51	v18#269	金	鉾	Regular		莫候反。矛。	b063b052		掲出字：原作𨥨。白藤同。
 5_061_B51-Shirafuji	v18#269	金	𨥨	Regular	白		b063b052		
 5_061_B52	v18#269	金	𨬑	Regular		力狄反。古鬲。	b063b053		
@@ -11793,7 +11793,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_067_A32	v18#270	攴	㪝	Regular		力見反。蕳⿵門久。	b066b044		力：原作刀。⿵門久：呂作𨳲。
 5_067_A41	v18#270	攴	𣀳	Regular		女渉反。𢽱。	b066a056		
 5_067_A42	v18#270	攴	㪐	Regular		力沒反。斂不調利。	b066a062		
-5_067_A51	v18#270	攴	㩿	Regular		着(苦)沒反。	b066a063		
+5_067_A51	v18#270	攴	㩿	Regular		苦沒反。	b066a063		苦：原作着、誤。呂・臧作著。《新撰字鏡》作苦、上田同作。
 5_067_A52	v18#270	攴	𢾐	Regular		山汅反。證驗也、覧也。	b066a064		
 5_067_A61	v18#270	攴	㪃	Regular		口餓反。撃。	b066a066		掲出字：原作歌。
 5_067_A61-Shirafuji	v18#270	攴	歌	Regular	白		b066a066		

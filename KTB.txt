@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.95
+#   Version: 1.0.96
 #   Date published: 1 September 2016
 #   Last modified: 30 March 2019
 #
@@ -11233,7 +11233,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_047_B62	v17#266	刀	㓮	Regular		都堯反。琢。	b059b065		
 5_048_A11	v17#266	刀	劍	Regular		君欠反。劒。	b059b071		
 5_048_A12	v17#266	刀	㔆	Regular		壯咸反。𠞊。	b059b072		
-5_048_A21	v17#266	刀	𠞊	Regular		楚住(佳)反。上也。	b059b073		
+5_048_A21	v17#266	刀	𠞊	Regular		楚佳反。上也。	b059b073		佳：原作住、誤。
 5_048_A22	v17#266	刀	剆	Regular		力可反。撃。	b059b074		
 5_048_A31	v17#266	刀	刧	Regular		居業反。脅也。	△		
 5_048_A41	v17#266	刀	𣪩	Regular		所黠反。宰。〔𢁛𣪩β𢽅：古。〕〔煞：今作。〕〔𠮁：籀文。〕	△		有埋字B五字。殺部。

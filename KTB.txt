@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.103
+#   Version: 1.0.104
 #   Date published: 1 September 2016
 #   Last modified: 31 March 2019
 #
@@ -12156,7 +12156,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_080_B61	v19#285	水	沱	Regular		達河反。傍也。	b070b093		貢：呂云"貢"為誤訓。
 5_080_B611	v19#285	水	沲	Songben-Yupian		#	b070b094		
 5_080_B62	v19#285	水	池	Regular		除知反。	b070b095		
-5_081_A11	v19#285	水	淅	Regular		止世反。匕設反。江也、源也。	▽(b075a104)		疑当作「浙」。
+5_081_A11	v19#285	水	淅	Regular		止世反。匕設反。江也、源也。	▽(b075a104)		掲出字：當作「浙」。上田・呂・臧作浙。匕：當作止。
 5_081_A12	v19#285	水	湔	Regular		子田反。浣也、洗也。	b070b101		
 5_081_A21	v19#285	水	沫	Regular		亡達反。水出蜀、浮沫也、已也。	b070b103		
 5_081_A22	v19#285	水	溫	Regular		於魂反。善也、和也、尋也、微契。	b071a011		掲出字：原作温。
@@ -13158,7 +13158,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_117_A511	v20#299	風	飉	Songben-Yupian		#	b083b056		
 5_117_A52	v20#299	風	𩙁	Regular		胡光反。暴風。	b083b063		
 5_117_A521	v20#299	風	䬝	Songben-Yupian		#	b083b064		
-5_117_A61	v20#299	風	䬇	Regular		君絹反。小風。	b083b062		
+5_117_A61	v20#299	風	䬇	Regular		尹絹反。小風。	b083b062		尹：原作君、誤。
 5_117_A62	v20#299	風	𩙒	Regular		匹召反。䬌也。	b083b066		
 5_117_B11	v20#299	風	䬞	Regular		雉留反。風也。	b083b071		
 5_117_B12	v20#299	風	颸	Regular		楚飢反。疾風。	b083b067		

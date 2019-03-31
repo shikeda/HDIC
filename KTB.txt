@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.104
+#   Version: 1.0.105
 #   Date published: 1 September 2016
 #   Last modified: 31 March 2019
 #
@@ -13696,7 +13696,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_137_A23	v21#323	火	煕	Regular		假疑反。光明也、養也、燥也、廣也、興也。	c006b064		
 5_137_A31	v21#323	火	𤇯	Regular		於根反。微火温肉。〔煾：同上。〕	c006b065		有埋字B。
 5_137_A32	v21#323	火	煾	Embedded_clerical		煾：同上。	c006b071		埋字B。
-5_137_A33	v21#323	火	⿱前火	Regular		子連反。火乾也、熬也、消也、盡也。	c006b072		
+5_137_A33	v21#323	火	𤋎	Regular		子連反。火乾也、熬也、消也、盡也。	c006b072		掲出字：原作𤋎、白藤・呂同作。宮澤・上田・臧作煎。
 5_137_A33-Miyazawa	v21#323	火	煎	Regular	宮		c006b072		
 5_137_A41	v21#323	火	熬	Regular		五刀反。煎也、火乾也。	c006b073		
 5_137_A42	v21#323	火	炮	Regular		薄交反。裏燒。〔炰：同上。〕	c006b074		有埋字B。

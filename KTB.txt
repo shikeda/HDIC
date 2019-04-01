@@ -8,9 +8,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.105
+#   Version: 1.0.106
 #   Date published: 1 September 2016
-#   Last modified: 31 March 2019
+#   Last modified: 2 April 2019
 #
 #   Copyright (c) 2016-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -14537,7 +14537,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_017_B42	v22#351	石	礥	Regular		丁研反。難。	c018a042	Y22000417-1	
 6_017_B51	v22#351	石	磼	Regular		寸合反。高也。	c018a043	Y22000417-2	
 6_017_B52	v22#351	石	礏	Regular		五合反。礫。	c018a044	Y22000418-1	
-6_017_B61	v22#351	石	𥗝	Regular		人寸反。惡雄黃。	c018a045	Y22000418-2	
+6_017_B61	v22#351	石	𥗝	Regular		人丈反。惡雄黃。	c018a045	Y22000418-2	丈：原文似寸。
 6_017_B62	v22#351	石	䂳	Regular		又曰反。好雄黃。	c018a051		
 6_018_A11	v22#351	石	𥑻	Regular		思賢反。石次玉。	c018a052	Y22000418-3	
 6_018_A12	v22#351	石	𥕶	Regular		思移反。摩。	c018a053	Y22000419-1	

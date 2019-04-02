@@ -8,9 +8,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.106
+#   Version: 1.0.107
 #   Date published: 1 September 2016
-#   Last modified: 2 April 2019
+#   Last modified: 3 April 2019
 #
 #   Copyright (c) 2016-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -15195,7 +15195,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_042_B51	v23#364	犬	𤟬	Regular		同上。	c027b053		
 6_042_B52	v23#364	犬	狎	Regular		胡甲反。復也、近也、習也、更。	c027b055		
 6_042_B521	v23#364	犬	狹	Songben-Yupian		#	c027b056		
-6_042_B61   v23#364	犬	狃	Regular		乃久反。習、得也、就也、正也、復也。   c027b057        
+6_042_B61	v23#364	犬	狃	Regular		乃久反。習、得也、就也、正也、復也。	c027b057
 6_042_B62	v23#364	犬	獪	Regular		柯邁反。狡也、優也、㺒也。	c027b061		
 6_043_A11	v23#364	犬	狧	Regular		同上。	△(c027b054)		掲出字：白藤作狤、宮澤・呂作狧。呂云、"同上"所指不明。康熙字典云、《集韻》或作㹺。
 6_043_A11-Shirafuji	v23#364	犬	狤	Regular	白		△(c027b054)		掲出字：原作狧。

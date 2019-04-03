@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.109
+#   Version: 1.0.110
 #   Date published: 1 September 2016
 #   Last modified: 3 April 2019
 #
@@ -16851,7 +16851,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_105_A32	v25#408	貝	賛	Regular		子旦反。佐也、導也、助也、出也、見也。	c047b103		掲出字：白藤・呂作贊。
 6_105_A32-Shirafuji	v25#408	貝	贊	Regular	白		c047b103		
 6_105_A321	v25#408	貝	贊	Songben-Yupian		#	c047b104		
-6_105_A41	v25#408	貝	賮	Regular		才丑(刃)反。會礼也、財貨也。	c047b105		
+6_105_A41	v25#408	貝	賮	Regular		才刃反。會礼也、財貨也。	c047b105		刃：原作丑。
 6_105_A411	v25#408	貝	𧷽	Songben-Yupian		#	c048a011		
 6_105_A42	v25#408	貝	齎	Regular		子奚反。資也、附也、備也、足也、持遺也、㧼也、送也。	c048a012		附以下十三字、注文大字。㧼：據《校釋》、原文似掁。
 6_105_A51	v25#408	貝	賫	Regular		同上。	c048a013		

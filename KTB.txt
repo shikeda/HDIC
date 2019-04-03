@@ -8,7 +8,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.108
+#   Version: 1.0.109
 #   Date published: 1 September 2016
 #   Last modified: 3 April 2019
 #
@@ -16815,7 +16815,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_103_B51	v25#406	黽	𪓷	Regular		胡雞反。水虫似蜘蛛也。	c047b022		
 6_103_B52	v25#406	黽	𪓟	Regular		渠倶反。同上。	c047b023		掲出字：原文似⿱宀黽
 6_103_B52-Miyazawa	v25#406	黽	𪓞	Regular	宮		c047b023		
-6_103_B61	v25#406	黽	𪓩	Regular		同上。	c047b024		掲出字：宮澤・呂作𪓟。
+6_103_B61	v25#406	黽	𪓩	Regular		同上。	c047b024		掲出字：原作𪓩、白藤同作。宮澤・呂・臧作𪓟。
 6_103_B61-Miyazawa	v25#406	黽	𪓟	Regular	宮		c047b024		
 6_103_B62	v25#406	黽	鼅	Regular		徴奇反。蜘字。	c047b011		
 6_104_A11	v25#406	黽	鼄	Regular		徴厨反。同上。	c047b012		

@@ -8,9 +8,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.0.111
+#   Version: 1.0.112
 #   Date published: 1 September 2016
-#   Last modified: 3 April 2019
+#   Last modified: 6 April 2019
 #
 #   Copyright (c) 2016-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -3075,7 +3075,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_018_B62	v5#57	口	嘔	Regular		乙侯反。歌也、喜也、吟也。	a051b081		
 2_019_A11	v5#57	口	呥	Regular		仁廉反。噍皃也。	a051b082		
 2_019_A12	v5#57	口	嘁	Regular		子六反。咨有慙也。	a051b083		
-2_019_A12-Shirafuji	v5#57	口	㗤	Regular	白	5.1	a051b083		
+2_019_A12-Shirafuji	v5#57	口	㗤	Regular	白		a051b083		
 2_019_A21	v5#57	口	啒	Regular		古兀反。憂也。	a051b086		
 2_019_A22	v5#57	口	唼	Regular		所甲反。鴨食之聲謂唼也。	a051b087		
 2_019_A31	v5#57	口	啑	Regular		所甲反。⿱艹麦(啑)⿰氵𦯧(喋)也。	a051b091		
@@ -3303,7 +3303,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_027_A22	v5#66	髟	鬑	Regular		李兼反。鬋也。	a056a074		
 2_027_A31	v5#66	髟	䯾	Regular		直聊反。鬢也、多也。	a056a075		
 2_027_A32	v5#66	髟	䰏	Regular		作計反。少髪也。	a056a081		
-2_027_A32-Shirafuji	v5#66	髟	𩯰	Regular	白	5.1	a056a081		
+2_027_A32-Shirafuji	v5#66	髟	𩯰	Regular	白		a056a081		
 2_027_A41	v5#66	髟	髢	Regular		徒計反。髪也。鬄字。不屑髢也。	a056a082		鬄：大字。
 2_027_A41-Shirafuji	v5#66	髟	鬄	Regular	白		a056a082		
 2_027_A42	v5#66	髟	鬄	Regular		del（鬄字。不屑髢也。）	a056a083		掲出字之誤。
@@ -4094,7 +4094,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_055_B12	v7#77	足	跂	Regular		墟豉反。足指也、履也。	a066b033		
 2_055_B21	v7#77	足	跔	Regular		渠倶反。天寒足跔也、不伸也。	a066b034		
 2_055_B22	v7#77	足	䠅	Regular		口衮反。㧻足也。	a066b041		
-2_055_B22-Shirafuji	v7#77	足	𨁉	Regular	白	5.1	a066b041		
+2_055_B22-Shirafuji	v7#77	足	𨁉	Regular	白		a066b041		
 2_055_B31	v7#77	足	躧	Regular		所解反。舞履也。	a066b042		
 2_055_B311	v7#77	足	蹝	Songben-Yupian		#	a066b043		
 2_055_B32	v7#77	足	䠍	Regular		胡加反。足下。	a066b044		
@@ -4167,7 +4167,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_058_A21	v7#77	足	跙	Regular		才与反。行不進也。	a067a075		
 2_058_A22	v7#77	足	跐	Regular		祖解反。蹋也、蹈也、履也。	a067a082		
 2_058_A31	v7#77	足	𤗁	Regular		且欲反。迫也、速也、促也。	a067a083		
-2_058_A31-Shirafuji	v7#77	足	䟟	Regular	白	5.1	a067a083		
+2_058_A31-Shirafuji	v7#77	足	䟟	Regular	白		a067a083		
 2_058_A32	v7#77	足	蹨	Regular		乃殄反。蹂也。	a067a084		
 2_058_A321	v7#77	足	𨁏	Songben-Yupian		#	a067a085		
 2_058_A41	v7#77	足	䟫	Regular		充掌反。蹋也、踞也。	△		
@@ -5147,7 +5147,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_001_B611	v8#88	心	𢜪	Songben-Yupian		#	a080b032		宋a079b087
 3_001_B62	v8#88	心	悖	Regular		補潰反。逆也、乱也、擾也。	a076a072		
 3_002_A11	v8#88	心	愂	Regular		蒲骨反。迷惽也、乱也。	a081a014		
-3_002_A11-Shirafuji	v8#88	心	𢠜	Regular	白	5.1	a081a014		
+3_002_A11-Shirafuji	v8#88	心	𢠜	Regular	白		a081a014		
 3_002_A12	v8#88	心	㦜	Regular		胡郭反。驚也。	a077b013		
 3_002_A21	v8#88	心	㤿	Regular		猗劒反。愛也。	a078a091		
 3_002_A211	v8#88	心	𢜰	Songben-Yupian		#	a078a092		
@@ -5421,7 +5421,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_011_B52	v9#91	言	謝	Regular		以夜反。聽也、去也、辞也。	a083b063	Y09101024-1	
 3_011_B521	v9#91	言	𧬄	Songben-Yupian		#	a083b064		
 3_011_B61	v9#91	言	謠	Regular		与照反。獨歌。	a083b065	Y09101026-1	
-3_011_B61-Shirafuji	v9#91	言	謡	Regular	白	5.1	a083b065	Y09101026-1	
+3_011_B61-Shirafuji	v9#91	言	謡	Regular	白		a083b065	Y09101026-1	
 3_011_B62	v9#91	言	謳	Regular		於侯反。歌也、喜也。	a083b072	Y09101027-1	
 3_012_A11	v9#91	言	詠	Regular		爲命反。哥也、謳也。	a083b074	Y09101028-1	
 3_012_A12	v9#91	言	訖	Regular		居迄反。止也。	a083b071	Y09101029-1	
@@ -10025,7 +10025,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_005_A61-Shirafuji	v15#200	米	𥨱	Regular	白		b046a064		
 5_005_A62	v15#200	米	粻	Regular		徵良反。粮。	b046a066		
 5_005_B11	v15#200	米	粥	Regular		之育反。靡賣也、糜也。	b046a073		
-5_005_B12	v15#200	米	粔	Regular		渠渚反。⿰米𢗺也、密和米麴也。    b046a067		⿰米𢗺：呂作⿰禾鬯。
+5_005_B12	v15#200	米	粔	Regular		渠渚反。⿰米𢗺也、密和米麴也。	b046a067		⿰米𢗺：呂作⿰禾鬯。
 5_005_B201	v15#200	米	籹	Songben-Yupian		#	b046a071		
 5_005_B21	v15#200	米	𥹡	Regular		尼■(旅)反。粔也、餠。	b046a072		■：原作⿰方乍。當作旅。
 5_005_B22	v15#200	米	𥹇	Regular		凶願反。粉也、面也。	b046a074		
@@ -10543,7 +10543,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_024_B42	v16#242	瓦	𤮊	Embedded_clerical		𤮊：同上。	b052b103		埋字B。
 5_024_B43	v16#242	瓦	𤭔	Regular		丁并反。	b052b104		掲出字：白藤作𤭌、宮澤作𤭔、上田作㼯、呂同作。據宮澤。
 5_024_B43-Shirafuji	v16#242	瓦	𤭌	Regular	白		b053a067		
-5_024_B43-Ueda	v16#242	瓦	㼯	Regular	上	5.1	b052b104		
+5_024_B43-Ueda	v16#242	瓦	㼯	Regular	上		b052b104		
 5_024_B51	v16#242	瓦	𤮭	Regular		又濫反。甈。	b052b105		
 5_024_B52	v16#242	瓦	瓷	Regular		在茲反。𦈱。	b052b106		
 5_024_B61	v16#242	瓦	𤬾	Regular		徒果反。白𤬾。	b052b107		
@@ -16213,7 +16213,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_081_A12	v24#397	魚	鮩	Regular		蒲古反。白魚。	c039b075	Y24200002-1	
 6_081_A21	v24#397	魚	鱐	Regular		思陸反。鮐母。	c039b076		
 6_081_A22	v24#397	魚	䰴	Regular		居迄反。䉼魚。	c039b081		
-6_081_A31	v24#397	魚	䱣	Regular	子律反。鯈。	c039b082	鯈：原作鰴。宋本《玉篇》・《新撰字鏡》作鯈。
+6_081_A31	v24#397	魚	䱣	Regular		子律反。鯈。	c039b082	鯈：原作鰴。宋本《玉篇》・《新撰字鏡》作鯈。
 6_081_A32	v24#397	魚	䱝	Regular		薄涯反。	c039b083		
 6_081_A41	v24#397	魚	鮋	Regular		直流反。	c039b084		
 6_081_A42	v24#397	魚	𩹉	Regular		甫違反。似鮒。	c039b085		

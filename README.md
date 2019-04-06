@@ -5,7 +5,7 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 平安時代漢字字書綜合數據庫  
 
 Date published : 18 October 2015  
-Last modified : 28 June 2018  
+Last modified : 6 April 2019
 
 ---
 ## Medieval China dictionaries
@@ -33,7 +33,7 @@ Yuanben Yupian quoted fragments in other books
 Daguang Yihui Yupian 大広益会玉篇, Song print 宋本. Chen Pengnian of the Song dynasty 宋・陳彭年, 1013.
 
 #### File
-* SYP.txt  
+* SYP.tsv  
 Date: 20 October 2015  
 初版公開日  
 Ikeda Shoju 池田 証壽, Chair 代表  
@@ -72,7 +72,7 @@ Date: 29 April 2016
 Ikeda Shoju 池田　証壽, Chair 代表  
 Li Yuan 李　媛, Person in Charge 担当者    
 
-* KTB.txt  -- Full text version  
+* KTB.tsv  -- Full text version  
 Date: 1 September 2016  
 初版公開日  
 Ikeda Shoju 池田　証壽, Chair 代表  
@@ -122,7 +122,7 @@ In preparation.
 Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. anonymous Buddhist monk, the latter half of the 12th century.
 
 #### Files
-* KRM.txt  
+* KRM.tsv  
 under construction.
 
 * KRM_ndl.txt  

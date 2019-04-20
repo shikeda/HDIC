@@ -1,41 +1,38 @@
-#HDICProject
-#IntegratedDatabaseofHanziDictionariesinEarlyJapan
+#   HDIC Project
+#   Integrated Database of Hanzi Dictionaries in Early Japan
 #
-#TSJ:TenjibonShinsenJikyodatabase--Headwordsanddefinitions
-#=================================================================
+#   TSJ: Tenjibon Shinsen Jikyo database -- Headwords and definitions
 #
-#TenjibonShinsenJikyo新撰字鏡,Tenjicopy天治本.
-#Acompletemanuscriptof1124isheldbytheImperialHouseholdArchives.
-#BuddhistmonkShoju昌住,c.898-901.
-#AHanzi(Chinesecharacter)dictionary.
+#   Tenjibon Shinsen Jikyo 新撰字鏡, Tenji copy 天治本.
+#   A complete manuscript of 1124 is held by the Imperial Household Archives.
+#   Buddhist monk Shoju 昌住, c. 898-901.
+#   A Hanzi (Chinese character) dictionary.
 #
-#TSJ_definitions.tsv
-#Version:1.0.31
-#Datepublished:28June2018
-#Lastmodified:20April2019
+#   TSJ_definitions.tsv
+#   Version: 1.0.32
+#   Date published: 28 June 2018
+#   Last modified: 20 April 2019
 #
-#Copyright(c)2018-2019HDICproject,IKEDAShoju(Chair)
-#	LIYuan(Personinchargeoftextdataproofreading)
-#	LIUGuanwei(Personinchargeofimagedatabasedesignandimplementation)
-#DepartmentofLinguisticSciences,HokkaidoUniversityGraduateSchoolofLetters
-#North10,West7,Kita-kuSapporo,Hokkaido,060-0810Japan
-#Contact:hdic_info@let.hokudai.ac.jp
+#   Copyright (c) 2018-2019 HDIC project, IKEDA Shoju (Chair)
+#	LI Yuan (Person in charge of text data proofreading)
+#	LIU Guanwei (Person in charge of image database design and implementation)
+#   Department of Linguistic Sciences, Hokkaido University Graduate School of Letters
+#   North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan
+#   Contact: hdic_info@let.hokudai.ac.jp
 #
-#Feelfreetocopyanddistribute.
-#Sendbugreportsandfeaturerequestsviaemail.
+#   Feel free to copy and distribute.
+#   Send bug reports and feature requests via email.
 #
-#TSVformatinformation
-#----------------------
-#[SJID(svvwwxyyz)Book(vv),leaf(ww),recto-verso(x),line(yy)andnumber(z).RefertoTSJ_entries.tsv]
-#SJ2IDForheadwordoftwoormorecharacters,add'a,b,...,n'attheendofSJID
-#Entry_wordHeadword
-#SJ_defDefinitionofpronunciation,meaningandvariant(s)
-#SJ_def_remarksEditor'snotes(inpreparation)
+#   TSV format information:
+#   [SJID (svvwwxyyz)        Book(vv), leaf(ww), recto-verso(x), line(yy) and number(z). Refer to TSJ_entries.tsv]
+#   SJ2ID                    For headword of two or more characters, add 'a, b, ..., n' at the end of SJID
+#   Entry_word               Headword
+#   SJ_def                   Definition of pronunciation, meaning and variant(s)
+#   SJ_def_remarks           Editor's notes
 #
-#Acknowledgments
-#---------------
-#WearegratefultotheImperialHouseholdArchives宮内廳書陵部forpermissiontopublishthedeciphermenttextofTSJ.
-#ThisworkwassupportedbyJSPSKAKENHIGrantNumber25370506,16H03422.
+#   Acknowledgments:
+#   We are grateful to the Imperial Household Archives 宮内廳書陵部 for permission to publish the decipherment text of TSJ.
+#   This work was supported by JSPS KAKENHI Grant Number 25370506, 16H03422, 19H00526.
 #
 TSJ2ID	Entry_word	SJ_def	SJ_remarks
 s0104a601	天	躰年他前二反。平聲：顛也、尊也、頂也、君清輕在上也。	

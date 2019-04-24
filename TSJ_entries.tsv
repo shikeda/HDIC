@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.0.22
+#   Version: 1.0.23
 #   Date published: 23 June 2018
-#   Last modified: 23 April 2019
+#   Last modified: 24 April 2019
 #
 #   Copyright (c) 2018-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -24473,3 +24473,4 @@ s1231b309	s1231b308b	新786-39	v12#160	臨時雑要字第百六十載九章	菜	
 s1231b310	s1231b310c	新786-3A	v12#160	臨時雑要字第百六十載九章	紫	◯	臨時雜要字・海河菜章			
 s1231b401	s1231b310c	新786-41	v12#160	臨時雑要字第百六十載九章	苔	◯	臨時雜要字・海河菜章			
 s1231b402	s1231b402	新786-42	v12#160	臨時雑要字第百六十載九章	萱	◯	臨時雜要字・海河菜章			
+#   eof

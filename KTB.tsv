@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.0
+#   Version: 1.1.1
 #   Date published: 1 September 2016
-#   Last modified: 6 April 2019
+#   Last modified: 27 April 2019
 #
 #   Copyright (c) 2016-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -11603,7 +11603,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_060_B21	v18#269	金	鉠	Regular		於良反。和鈴。	b063a105			286	1365
 5_060_B22	v18#269	金	鏆	Regular		古換反。釧。	b063a106			286	1365
 5_060_B31	v18#269	金	鉌	Regular		胡戈反。鈴也。	b063b011			286	1365
-5_060_B32	v18#269	金	釧	Regular		齒椓反、昌椓反。臂鐶。	b063b012			286	1365
+5_060_B32	v18#269	金	釧	Regular		齒掾反、昌掾反。臂鐶。	b063b012		掾：原作椓。	286	1365
 5_060_B41	v18#269	金	銐	Regular		力世反。除利也。	b063b013			286	1365
 5_060_B42	v18#269	金	鈵	Regular		彼詠反。錮也、銅也。	b063b014		錮：原文模糊。	286	1365
 5_060_B51	v18#269	金	鎒	Regular		呼高反。	b063a103			286	1364
@@ -11644,7 +11644,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_062_A12	v18#269	金	鉄	Regular		池理反。治銍也。	b063b061			287	1367
 5_062_A21	v18#269	金	鈮	Regular		同上。〔𥿡：奴礼反。〕	b063b062		有埋字A。	287	1367
 5_062_A211	v18#269	金	𥿡	Embedded_clerical		𥿡：奴礼反。	b063b062		埋字A。𥿡：大字。	287	1367
-5_062_A22	v18#269	金	錎	Regular		伯(臽)反。陥字。	b063b063		伯(臽)反：呂云「”臽反”脱漏一反切字」。《新撰字鏡》作「臽音」。	287	1367
+5_062_A22	v18#269	金	錎	Regular		臽反。陥字。	b063b063		臽反：原作伯、誤。呂云「”臽反”脱漏一反切字」。《新撰字鏡》作「臽音」。	287	1367
 5_062_A31	v18#269	金	鏟	Regular		楚簡反。削。	b063b066		掲出字：原作𨩱。	287	1368
 5_062_A32	v18#269	金	鐄	Regular		胡盲反。大鍾。	b064a016			287	1370
 5_062_A401	v18#269	金	鎖	Songben-Yupian		#	b063b064				1368

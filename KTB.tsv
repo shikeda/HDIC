@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.3
+#   Version: 1.1.4
 #   Date published: 1 September 2016
-#   Last modified: 30 April 2019
+#   Last modified: 1 May 2019
 #
 #   Copyright (c) 2016-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -822,7 +822,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_038_A22	v2#11	𡏳	囏	Embedded_clerical		艱字。	a017a092		埋字B。	17	87
 1_038_A22-Miyazawa	v2#11	𡏳	𡆒	Regular	宮		a017a092			17	87
 1_038_A23	v2#11	𡏳	𩁬	Regular		乃安反。難、險也。	a017a081			17	87
-1_038_A24	v2#11	𡏳	難	Regular		上字義注字	a017a082		上字義注字。	17	87
+1_038_A24	v2#11	𡏳	難	Regular		〔難〕	a017a082		上字義注字。	17	87
 1_038_A31	v2#12	里	里	Regular-Omitted		旅擬反。	a017a101		掲出字脱字。池田按、反切存「里部」直下。	17	88
 1_038_A41	v2#12	里	野	Regular		餘者反。〔𡐨(seal)。〕百里郊、二百里州、三百[里]野也。	a017a102		有埋字B。	17	88
 1_038_A411	v2#12	里	𡐨	Embedded_seal		𡐨(seal)。			埋字B。篆書字形。	17	#N/A

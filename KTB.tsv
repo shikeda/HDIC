@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.5
+#   Version: 1.1.6
 #   Date published: 1 September 2016
-#   Last modified: 2 May 2019
+#   Last modified: 3 May 2019
 #
 #   Copyright (c) 2016-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -10723,7 +10723,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_031_A52	v16#250	匚	𠤼	Embedded_clerical		徒弔反。田器。	b054b092		埋字A。	266	1284
 5_031_A53	v16#250	匚	㔴	Regular		余軄反。田器。	b054b093			266	1284
 5_031_A61	v16#250	匚	匬	Regular		余主反。受十六斗。	b054b094			266	1284
-5_031_A62	v16#250	匚	匱	Regular		徒鹿渠愧反。籠也、匣也、乏也。	b054b095			266	1284
+5_031_A62	v16#250	匚	匱	Regular		徒鹿渠愧反。籠也、匣也、乏也。	b054b095		徒鹿：匵字之反切。	266	1284
 5_031_A621	v16#250	匚	匵	Omitted		Omitted	b054b101			266	1284
 5_031_B11	v16#250	匚	匣	Regular		胡甲反。匱。	b054b102			266	1284
 5_031_B12	v16#250	匚	匫	Regular		呼骨反。	b054b103			266	1284
@@ -11492,7 +11492,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_056_B31	v18#269	金	𨫒	Regular		力候反。	b062b062			283	1358
 5_056_B32	v18#269	金	鎦	Regular		力牛反。煞。	b062b065			283	1358
 5_056_B41	v18#269	金	鍲	Regular		靡巾反。業。	b062b063			283	1358
-5_056_B42	v18#269	金	鉅	Regular		許語洰擧二反。宛之䥫。	b062b066			283	1358
+5_056_B42	v18#269	金	鉅	Regular		渠語洰擧二反。宛之䥫。	b062b066		洰：上田作渠。	283	1358
 5_056_B51	v18#269	金	鎕	Regular		徒當反。銻也、犬齊也。	b062b071			283	1358
 5_056_B52	v18#269	金	銻	Regular		徒奚反。鎕也。	b062b072			283	1358
 5_056_B61	v18#269	金	鈋	Regular		五戈反。削去角也、玩圜。	b062b073			283	1358
@@ -11865,7 +11865,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_070_A22	v18#279	用	甯	Regular		奴定反。由也、用也。	b067b013	Y18200034-1		292	1411
 5_070_A31	v18#279	用	由	Regular		余周反。若角也、從也、於也、助也、經也、自也、輔也、或也、行也。	b067b014	Y18200035-1		292	1411
 5_070_A41	v18#280	爻	爻	Regular		胡交反。交。	b067b021	Y18200041-1		292	1411
-5_070_A51	v18#280	爻	棥	Regular		扶圍扶袁反。蕃。	b067b023	Y18200041-2		292	1412
+5_070_A51	v18#280	爻	棥	Regular		扶園扶袁反。蕃。	b067b023	Y18200041-2	反切：原本《玉篇》作「扶園反」。	292	1412
 5_070_A52	v18#280	爻	希	Regular		虚依反。疎。	b067b022	Y18200042-1		292	1412
 5_070_A61	v18#281	㸚	㸚	Regular		力計反。二交。	b067b031	Y18200045-1		293	1412
 5_070_B11	v18#281	㸚	爾	Regular		如紙反。靡也、汝也。	b067b032	Y18200045-2		293	1412
@@ -11892,7 +11892,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_071_A61	v18#282	車	䡊	Regular		甫遠反。⿰車𠷰也、出也。	b067b082	Y18302004-1		293	1416
 5_071_A62	v18#282	車	輯	Regular		徐入反。集也、和也。	b067b083	Y18302005-1		293	1416
 5_071_B11	v18#282	車	軓	Regular		音范也。軾也、載。	b069a081	Y18303006-1		293	1438
-5_071_B12	v18#282	車	軾	Regular		詩戈舒翼二反。𨋩。	b067b081	Y18303008-1		293	1415
+5_071_B12	v18#282	車	軾	Regular		詩弋舒翼二反。𨋩。	b067b081	Y18303008-1	弋：原作戈。反切：原本《玉篇》作「舒翼反」。	293	1415
 5_071_B21	v18#282	車	輅	Regular		何格反。車前橫木。	b069b011	Y18303010-1		293	1440
 5_071_B22	v18#282	車	䡈	Regular		古學反。見也、明也。〔較：同上。〕	b067b085	Y18303011-1	有埋字B。	293	1416
 5_071_B23	v18#282	車	較	Embedded_clerical		較：同上。	b067b084	Y18303014-1	埋字B。	293	1416

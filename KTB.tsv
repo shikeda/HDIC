@@ -7,7 +7,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.9
+#   Version: 1.1.10
 #   Date published: 1 September 2016
 #   Last modified: 6 May 2019
 #
@@ -1683,7 +1683,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_067_B51	v3#29	夫	規	Regular		癸支反。圓也、有也。	a031b033			39	204
 1_067_B52	v3#29	夫	㚘	Regular		蒲滿反。竝行也、旅行也。	a031b031			39	203
 1_067_B61	v3#29	夫	替	Regular		吐麗反。廢也、絕也、滅也、去也、待也、止住也。	a031b032			39	203
-1_067_B62	v3#30	予	予	Regular		異諸餘渚二反。予我也。	a031b041			39	204
+1_067_B62	v3#30	予	予	Regular		翼諸餘渚二反。予我也。	a031b041			39	204
 1_068_A11	v3#30	予	舒	Regular		尸諸反。緩也、徐也、泄也、敘也、緒也、藉也、伸也、遲也。	a031b042			40	204
 1_068_A12	v3#30	予	幻	Regular		⿰女書䘺反。相詐惑也、乱人目。	a031b051			40	204
 1_068_A12-Miyazawa	v3#30	予	𠄔	Regular	宮		a031b051			40	204

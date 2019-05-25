@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.10
+#   Version: 1.1.11
 #   Date published: 1 September 2016
-#   Last modified: 6 May 2019
+#   Last modified: 25 May 2019
 #
 #   Copyright (c) 2016-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -2242,7 +2242,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_087_B611	v4#36	頁	𩓨	Songben-Yupian		#	a039a094			54	268
 1_087_B62	v4#36	頁	𩔊	Regular		鉏轉反。具也。	a039a101			54	268
 1_088_A11	v4#37	頻	頻	Regular		裨賓反。急也、比也、近也。	a039b101			54	272
-1_088_A12	v4#37	頻	𩕘	Regular		非名義揭出字	a040a011		非《万象名義》揭出字	54	272
+1_088_A12	v4#37	頻	𩕘	Regular		(非名義揭出字)	a040a011		非《万象名義》揭出字	54	272
 1_088_A13	v4#37	頻	顰	Regular		裨賓反。頻也、煩頻也。	a040a012			54	272
 1_088_A31	v4#38	𦣻	𦣻	Regular		舒酉反。首也、始也。	a040a021			54	273
 1_088_A32	v4#38	𦣻	脜	Regular		如由反。面和也。	a040a022			54	273
@@ -11221,7 +11221,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_047_B12	v17#266	刀	剭	Regular		乙角反。刑。	b059b055			277	1331
 5_047_B21	v17#266	刀	剋	Regular		口勒反。勝也、急也。	b059b056		掲出字：宋本《玉篇》作尅。	277	1331
 5_047_B22	v17#266	刀	𠢤	Regular		渠月反。強。	△			277	#N/A
-5_047_B31	v17#266	刀	𠝥	Regular		古携反。㨒。	△			277	#N/A
+5_047_B31	v17#266	刀	𠝥	Regular		古携反。㨒。	△			277	1337
 5_047_B32	v17#266	刀	劘	Regular		莫何反。砥也、切也、迫也。	b059b061			277	1331
 5_047_B41	v17#266	刀	剠	Regular		力向反。奪也。掠也。	b059b057			277	1331
 5_047_B42	v17#266	刀	劗	Regular		子丸反。切也。	b059b062			277	1331
@@ -12157,7 +12157,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_081_A11	v19#285	水	淅	Regular		止世反。匕設反。江也、源也。	▽(b075a104)		掲出字：當作「浙」。上田・呂・臧作浙。匕：當作止。	301	#N/A
 5_081_A12	v19#285	水	湔	Regular		子田反。浣也、洗也。	b070b101			301	1459
 5_081_A21	v19#285	水	沫	Regular		亡達反。水出蜀、浮沫也、已也。	b070b103			301	1460
-5_081_A22	v19#285	水	溫	Regular		於魂反。善也、和也、尋也、微契。	b071a011		掲出字：原作温。	301	1460
+5_081_A22	v19#285	水	溫	Regular		於魂反。善也、和也、尋也、微契。	b071a011		掲出字：原作温。契：當作熱。	301	1460
 5_081_A31	v19#285	水	灊	Regular		似林反。出巴。	b071a012			301	1460
 5_081_A32	v19#285	水	滇	Regular		丁田反。池。	b071a013			301	1460
 5_081_A41	v19#285	水	沮	Regular		且居反。壞也、止也、非也、濕也。	b071a022			301	1460

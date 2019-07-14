@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.0.24
+#   Version: 1.0.25
 #   Date published: 23 June 2018
-#   Last modified: 27 April 2019
+#   Last modified: 14 July 2019
 #
 #   Copyright (c) 2018-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -14684,7 +14684,7 @@ s0813a206	s0813a206	新487-26	v8#75	鳥部第七十五	⿰〓鳥	◯	小學篇
 s0813a207	s0813a207	新487-27	v8#75	鳥部第七十五	⿰秦鳥	◯	小學篇			
 s0813a301	s0813a301	新487-31	v8#75	鳥部第七十五	⿰孝鳥	◯	小學篇			
 s0813a302	s0813a302a	新487-32	v8#75	鳥部第七十五	⿰為鳥	◯	小學篇			
-s0813a303	s0813a302a	新487-33	v8#75	鳥部第七十五	𪃱	◯	小學篇			
+s0813a303	s0813a302a	新487-33	v8#75	鳥部第七十五	鶉	◯	小學篇	字頭：原作「⿰⿸广⿱日子鳥」誤、享和本作「鶉」。		
 s0813a304	s0813a302a	新487-34	v8#75	鳥部第七十五	𪃙	◯	小學篇			
 s0813a305	s0813a305	新487-35	v8#75	鳥部第七十五	⿰㛰鳥	◯	小學篇			
 s0813a306	s0813a306a	新487-36	v8#75	鳥部第七十五	𪂹	◯	小學篇			c036b061

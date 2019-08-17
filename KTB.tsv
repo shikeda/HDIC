@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.13
+#   Version: 1.1.14
 #   Date published: 1 September 2016
-#   Last modified: 17 August 2019
+#   Last modified: 18 August 2019
 #
 #   Copyright (c) 2016-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -1056,7 +1056,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_045_A52	v2#20	邑	郫	Regular		毗移反。	a021a053		毗：原作⿰田止。	23	116
 1_045_A61	v2#20	邑	𨞪	Regular		除留反。	a021a054			23	116
 1_045_A62	v2#20	邑	䣢	Regular		慈各反。	a023a071			23	132
-1_045_B11	v2#20	邑	𨞼	Regular		亡顛反。	a021a061			23	116
+1_045_B11	v2#20	邑	𨞼	Regular		亡願反。	a021a061			23	116
 1_045_B12	v2#20	邑	邡	Regular		甫王反。	a021a064			23	117
 1_045_B21	v2#20	邑	䣕	Regular		亡嫁反。	a023a023			23	130
 1_045_B22	v2#20	邑	𨚔	Regular		白勞反。	a021a072			23	117
@@ -1131,7 +1131,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_048_A31	v2#20	邑	䣇	Regular		渠留反。	a022a045			24	123
 1_048_A32	v2#20	邑	𨟙	Regular		一井反。	a022a046			24	124
 1_048_A41	v2#20	邑	郉	Regular		苦田反。	a020b032			24	111
-1_048_A42	v2#20	邑	𨝘	Regular		呼土反。	a022a052			24	124
+1_048_A42	v2#20	邑	𨝘	Regular		呼土反。	a022a052		掲出字：原作“⿰𧆞⻏”，宋本玉篇作“𨛵”。	24	124
 1_048_A51	v2#20	邑	邩	Regular		呼果反。	a022a053			24	124
 1_048_A52	v2#20	邑	鄝	Regular		來鳥反。	a022a041			24	123
 1_048_A61	v2#20	邑	鄬	Regular		為彼反。地也。	a022a054			24	124

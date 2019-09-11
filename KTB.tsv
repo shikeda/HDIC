@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.16
+#   Version: 1.1.17
 #   Date published: 1 September 2016
-#   Last modified: 10 September 2019
+#   Last modified: 12 September 2019
 #
 #   Copyright (c) 2016-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -9033,7 +9033,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_052_A31-Shirafuji	v13#162	艸	菰	Regular	白		b030a044			225	1080
 4_052_A32	v13#162	艸	䒲	Regular		竹亞反。黃芩也。	b030a045			225	1080
 4_052_A41	v13#162	艸	葿	Regular		妄悲反。䒲葿也。	b030a051			225	1080
-4_052_A42	v13#162	艸	䓚	Regular		林餘反。𦱃似韭也，生塞下。	b030a052		掲出字：原作𦯣。據宋本《玉篇》改。𦱃：原文模糊，似蓋。宋本《玉篇》・呂作𦱃。	225	1080
+4_052_A42	v13#162	艸	䓚	Regular		材餘反。𦱃似韭也，生塞下。	b030a052		掲出字：原作“𦯣”。據宋本《玉篇》改。材餘：原作“林餘”，誤。宋本《玉篇》作“材餘”。𦱃：原文模糊，似“蓋”。宋本《玉篇》作“𦱃”。塞：當作“寒”。	225	1080
 4_052_A51	v13#162	艸	𦱃	Regular		禹俱反。𦱃草，葅𦱃。	b030a053		𦱃：原文模糊，似蓋。宋本《玉篇》・呂作𦱃。	225	1080
 4_052_A52	v13#162	艸	䕞	Regular		「音良。」力盎反。𦿆毒也。	b030a054		音良：傍書。疑此是増注。盎：原作⿱米皿。上田及呂作盎。薚：原作⿱艹𥓘。注文大字。	225	1080
 4_052_A61	v13#162	艸	菝	Regular		蒲秣反。香也。	b029b094		注文大字。	225	1078
@@ -15336,7 +15336,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_048_A12	v23#366	豕	豷	Regular		於麗反。豕息。	c029b062		息：原作⿱句心。《新撰字鏡》作息。	379	1906
 6_048_A21	v23#366	豕	豧	Regular		匹于反。豕息。	c029b063			380	1906
 6_048_A22	v23#366	豕	豢	Regular		胡串反。養犬豕。	c029b064			380	1906
-6_048_A31	v23#366	豕	豠	Regular		千餘反。豕属。	c029b065			380	1906
+6_048_A31	v23#366	豕	豠	Regular		才餘反。豕属。	c029b065		才餘：原作“千餘”，誤。《新撰字鏡・玉篇群》作“才余”。	380	1906
 6_048_A32	v23#366	豕	豲	Regular		胡端反。豕属。	c029b066			380	1906
 6_048_A321	v23#366	豕	𧱂	Songben-Yupian		#	c029b071			380	1906
 6_048_A41	v23#366	豕	豨	Regular		虚豈反。豕走。	c030a026			380	1909

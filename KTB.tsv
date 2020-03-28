@@ -9,7 +9,7 @@
 #
 #   Version: 1.1.20
 #   Date published: 1 September 2016
-#   Last modified: 12 January 2020
+#   Last modified: 29 March 2020
 #
 #   Copyright (c) 2016-2019 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -7305,7 +7305,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_081_B32	v11#150	𣦻	𠭮	Regular		才性反。坑也。穽字。穿地也，捕禽獸也。	b010b072		G37尾。	182	922
 3_081_B32-Miyazawa	v11#150	𣦻	𠭗	Regular	宮		b010b072			182	922
 3_081_B321	v11#150	𣦻	㕟	Songben-Yupian		#	b010b073			182	922
-3_081_B61	v11#151	歹	歹	Regular		年達反。銀巧反。骨殘。	b010b081		G38首。	182	922
+3_081_B61	v11#151	歹	歹	Regular		午達反。銀巧反。骨殘。	b010b081		G38首。午：原作“年”，誤。	182	922
 3_081_B611	v11#151	歹	歺	Songben-Yupian		#	b010b082			182	922
 3_082_A11	v11#151	歹	𣨙	Regular		於媯反。病也。痿字。	b010b084			182	923
 3_082_A12	v11#151	歹	殟	Regular		於門反。殙也，欲死也。	b011b084			182	931
@@ -11459,7 +11459,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_055_A61-Miyazawa	v18#269	金	錏	Regular	宮		b062a101			282	1355
 5_055_A62	v18#269	金	鍜	Regular		何迦反。	b062a102			282	1355
 5_055_B11	v18#269	金	鐗	Regular		柯鴈反。車軸䥫。	b062a105		参看鐧字。	282	1355
-5_055_B12	v18#269	金	釭	Regular		古紅[＿]雙二反。車中𣫂䥫。	b062a106		[＿]雙：上田作“古雙”，又云“原脫上字”。	282	135
+5_055_B12	v18#269	金	釭	Regular		古紅[＿]雙反。車中𣫂䥫。	b062a106		[＿]雙：上田作“古雙”，又云“原脫上字”。	282	1355
 5_055_B21	v18#269	金	銴	Regular		尸誓反。居逝反。車檔結。	b062b012		逝：原作近。	282	1355
 5_055_B22	v18#269	金	釳	Regular		許訖反。	b062b011			282	1355
 5_055_B31	v18#269	金	鑾	Regular		力見反。力完反。鈴也。	b062b013			282	1355
@@ -18267,7 +18267,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_159_A31	v28#435	衣	䘷	Regular		方結反。袂也，褾也。	c064b053			452	2254
 6_159_A32	v28#435	衣	䘾	Regular		公緩反。袴襱。	△			452	#N/A
 6_159_A41	v28#435	衣	䘢	Regular		竹与反。敝衣。	c064b054			452	2255
-6_159_A42	v28#435	衣	𧛢	Regular		竹袂反几反。䘢。	△		袂反：衍字。	452	#N/A
+6_159_A42	v28#435	衣	𧛢	Regular		竹袂反几反。䘢。	△		袂反：衍字。	452	2259
 6_159_A421	v28#435	衣	䙕	Omitted		Omitted	c064b055		宮澤宋本《玉篇》。	452	2255
 6_159_A51	v28#435	衣	𧘟	Regular		疋未反。袂。	c064b056		掲出字：原作補。	452	2255
 6_159_A52	v28#435	衣	裮	Regular		齒楊反。被不帶也。	c064b057			452	2255

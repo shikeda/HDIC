@@ -7,11 +7,11 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.20
+#   Version: 1.1.21
 #   Date published: 1 September 2016
-#   Last modified: 29 March 2020
+#   Last modified: 31 August 2020
 #
-#   Copyright (c) 2016-2019 HDIC project, IKEDA Shoju (Chair)
+#   Copyright (c) 2016-2020 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
 #   LIU Guanwei (Person in charge of image database design and implementation)
 #   Department of Linguistic Sciences, Hokkaido University Graduate School of Letters
@@ -150,7 +150,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_017_B511	v1#3	示	𨳾	Embedded_clerical		𨳾：古文。			埋字B。𨳾：據呂《校釋》。佑：原作估。	2	#N/A
 1_017_B52	v1#3	示	祺	Regular_seal		勤基反。祥也，吉也。〔祺β(seal)・禥：上文。〕	a006b064		有埋字B二字。祺β：篆書字形。	2	7
 1_017_B53	v1#3	示	禥	Embedded_clerical		禥：上文。	a006b071		埋字B。	2	7
-1_017_B61	v1#3	示	福	Regular_seal		甫伏反。昨也，羸也。〔福λ：古文。〕五福：一壽，二富，三康寧，四彼徳，五孝終命，鬼神所祐也，三人道所吉，又二天所貴二。	a006b061		有埋字B。注文上下二段。昨：當作胙。	2	6
+1_017_B61	v1#3	示	福	Regular_seal		甫伏反。昨也，羸也。〔福λ：古文。〕五福：一壽，二富，三康寧，四彼徳，五孝終命，鬼神所祐也，三人道所吉，又云天所貴二。	a006b061		有埋字B。注文上下二段。昨：當作胙。	2	6
 1_017_B611	v1#3	示	福λ	Embedded_clerical		福λ：古文。			埋字B。掲出字：臧作𤔜。	2	#N/A
 1_018_A11	v1#3	示	祿	Regular_seal		旅穀反。福也，録也。〔祿β：古文。〕	a006b072		有埋字B。	2	7
 1_018_A111	v1#3	示	祿β	Embedded_seal		祿β：古文。			埋字B。篆書字形。	2	#N/A

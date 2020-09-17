@@ -7,8 +7,8 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.21
-#   Date published: 1 September 2016
+#   Version: 1.1.22
+#   Date published: 17 September 2016
 #   Last modified: 31 August 2020
 #
 #   Copyright (c) 2016-2020 HDIC project, IKEDA Shoju (Chair)
@@ -3425,7 +3425,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_031_A62	v6#67	手	握	Regular		於角反。持也，具也。	a058a091			83	428
 2_031_B11	v6#67	手	撣	Regular		達安反。觸也，携也，持也，提也。	a058a092			83	428
 2_031_B12	v6#67	手	把	Regular		百賈反。持也，握也。	a058a094			83	428
-2_031_B21	v6#67	手	拏	Regular		狛牙反。抯捽也，相也，提也。	a057b034			83	420
+2_031_B21	v6#67	手	拏	Regular		狛牙反。抯捽也，相也，提也。	a057b034		狛：當作狃字。	83	420
 2_031_B22	v6#67	手	攜	Regular		胡珪反。持也，提將也。	a058a093			83	428
 2_031_B31	v6#67	手	提	Regular		徒雞反。擧也，擿也，挈也，正也，絶也。	a058a101			83	428
 2_031_B32	v6#67	手	𢬴	Regular		竹渉反。拈也，提撕也。	a058a102		提撕也，不審。	83	429
@@ -18816,7 +18816,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_181_A42	v30#527	子	孼	Regular		魚烈反。憂也。	c075b092			467	2332
 6_181_A51	v30#527	子	孳	Regular		子思反。汲也。孜字。	c075b093			467	2332
 6_181_A52	v30#527	子	𢀐	Regular		上字。	c075b094			467	2332
-6_181_A61	v30#527	子	孥	Regular		怒胡反。子也。怒字。	c075b095			467	2332
+6_181_A61	v30#527	子	孥	Regular		怒胡反。子也。怒字。	c075b095		怒：當作帑字。	467	2332
 6_181_A62	v30#527	子	孤	Regular		古胡反。特。	c075b096			467	2332
 6_181_B11	v30#527	子	孠	Regular		續也。副(嗣)字。	c075b101			467	2332
 6_181_B12	v30#527	子	存	Regular		徂魂反。省也，在也，察也，恤問。	c075b102		省：呂作“有”。	467	2332

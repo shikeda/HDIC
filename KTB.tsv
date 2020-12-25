@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.22
+#   Version: 1.1.23
 #   Date published: 17 September 2016
-#   Last modified: 31 August 2020
+#   Last modified: 25 December 2020
 #
 #   Copyright (c) 2016-2020 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -6052,7 +6052,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_034_A42	v9#113	食	䭡	Regular		於恨反。食欲飽也。	a091b031	Y09203282-1		149	764
 3_034_A51	v9#113	食	䭓	Regular		五寸反。食也。	a091b032	Y09203283-1		149	764
 3_034_A52	v9#113	食	餫	Regular		胡閣反。	a091b033	Y09203284-1		149	764
-3_034_A61	v9#113	食	餬	Regular		戶徒反。饘也，糜也，粘也，粥也，鬻也。	a091b034	Y09203284-2		149	765
+3_034_A61	v9#113	食	餬	Regular		戶徒反。饘也，糜也，䊀也，粥也，鬻也。	a091b034	Y09203284-2		149	765
 3_034_A611	v9#113	食	𩚩	Omitted		Omitted	a091b041	Y09203286-1		149	765
 3_034_A62	v9#113	食	飶	Regular		蒲結反。芳香也。𪏺字。	a091b042	Y09203286-2		149	765
 3_034_B11	v9#113	食	飫	Regular		於據反。賜也，飽也，猒也，醧也字。	a092a091	Y09203287-1	猒-厭	149	777

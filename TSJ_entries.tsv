@@ -10,11 +10,11 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.0.28
+#   Version: 1.0.29
 #   Date published: 23 June 2018
-#   Last modified: 12 September 2019
+#   Last modified: 7 February 2021
 #
-#   Copyright (c) 2018-2019 HDIC project, IKEDA Shoju (Chair)
+#   Copyright (c) 2018-2021 HDIC project, IKEDA Shoju (Chair)
 #   LI Yuan (Person in charge of text data proofreading)
 #   LIU Guanwei (Person in charge of image database design and implementation)
 #   Department of Linguistic Sciences, Hokkaido University Graduate School of Letters
@@ -15290,7 +15290,7 @@ s0820a703	s0820a703	新501-73	v8#83	虫部第八十三	虺	◯	一切經音義		
 s0820a801	s0820a801	新501-81	v8#83	虫部第八十三	螝	◯	一切經音義		6_086_A41	c042a045
 s0820a802	s0820a802	新501-82	v8#83	虫部第八十三	蝟	◯	一切經音義		6_100_A11	c045a063
 s0820a803	s0820a803a	新501-83	v8#83	虫部第八十三	蝤	◯	出所不詳		6_087_B31	c042b013
-s0820a804	s0820a804a	新501-84	v8#83	虫部第八十三	蛑	◯	出所不詳		6_100_A31	c043a031
+s0820a804	s0820a803a	新501-84	v8#83	虫部第八十三	蛑	◯	出所不詳		6_100_A31	c043a031
 s0820b101	s0820b101	新502-11	v8#83	虫部第八十三	蝥	◯	出所不詳		6_100_A22	c045b062
 s0820b102	s0820b102a	新502-12	v8#83	虫部第八十三	蠛	◯	出所不詳		6_090_B62	c043a073
 s0820b103	s0820b102a	新502-13	v8#83	虫部第八十三	蠛β	◯	出所不詳			

@@ -9,11 +9,11 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_definitions.tsv
-#   Version: 1.0.49
+#   Version: 1.0.50
 #   Date published: 28 June 2018
 #   Last modified: 7 February 2021
 #
-#   Copyright (c) 2018-2019 HDIC project, IKEDA Shoju (Chair)
+#   Copyright (c) 2018-2021 HDIC project, IKEDA Shoju (Chair)
 #	LI Yuan (Person in charge of text data proofreading)
 #	LIU Guanwei (Person in charge of image database design and implementation)
 #   Department of Linguistic Sciences, Hokkaido University Graduate School of Letters
@@ -12950,8 +12950,7 @@ s0820a701d	蜻	上：辞姓反。螥。下：旦井反。蟬之有文肴也，�
 s0820a703	虺	𧈭字。呼鬼反。平：毒虫蜂也，蝮也。	
 s0820a801	螝	上古文，虫字。	
 s0820a802	蝟	又作彚。于貴反。去：有兔蝟，鼠蝟等。	
-s0820a803a	蝤	上：以灸反。下：莫牟反。聚稻止而食黃稻之葉虫也。二字，加左女。	
-s0820a804a	蛑	上：以炙反。下：莫牟反。聚稻止而食黃稻之葉虫也。二字，加左女。	
+s0820a803a	蝤蛑	上：以灸反。下：莫牟反。聚稻止而食黃稻之葉虫也。二字，加左女。		
 s0820b101	蝥	蛑字。	
 s0820b102a	蠛蠛β	二形作。亡結反。蠓也，苗節食虫。又酒乃波戸。	
 s0820b104	蠓	莫孔反。蠛。	

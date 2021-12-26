@@ -5,7 +5,7 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 平安時代漢字字書綜合數據庫  
 
 Date published : 18 October 2015  
-Last modified : 6 April 2019
+Last modified : 26 December 2021
 
 ---
 ## Medieval China dictionaries
@@ -132,19 +132,25 @@ Date: 20 October 2015
 Ikeda Shoju 池田 証壽  
 
 ## Project Members
+
 The Editorial Committee of HDIC Database Project
 平安時代漢字字書総合データベース編纂委員会  
-Ikeda Shoju 池田 証壽, Chair 委員長  
+Ikeda Shoju (Professor Emeritus, Hokkaido University) 池田 証壽 (北海道大学名誉教授), Chair 委員長  
 
 
 ## Contact
-Department of Linguistic Sciences, Hokkaido University Graduate School of Letters  
+
+HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)  
+Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences  
 North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan  
-Contact: hdic_info@let.hokudai.ac.jp
+Contact: hdic_info@let.hokudai.ac.jp  
 
-## Licence
-Feel free to copy and distribute.  
-Send bug reports and feature requests via email.  
+## Data License Information and Access Rights
 
+### License
+Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)  
+
+### Access Rights (Availability)
+Open access  
 
 ---

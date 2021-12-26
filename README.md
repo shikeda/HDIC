@@ -7,7 +7,7 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 Date published: 18 October 2015  
 Last modified: 27 December 2021
 
-[HDIC Viewer](hdic.chise.org) by Liu Guanwei  
+[HDIC Viewer](https://hdic.chise.org) by Liu Guanwei  
 hdic2.let.hokudai.ac.jp  
 hdic.chise.org   
 

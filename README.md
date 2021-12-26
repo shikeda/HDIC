@@ -4,10 +4,10 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 平安時代漢字字書総合データベース  
 平安時代漢字字書綜合數據庫  
 
-Date published : 18 October 2015  
-Last modified : 27 December 2021
+Date published: 18 October 2015  
+Last modified: 27 December 2021
 
-HDIC Viewer by Liu Guanwei  
+[HDIC Viewer](hdic.chise.org) by Liu Guanwei  
 hdic2.let.hokudai.ac.jp  
 hdic.chise.org   
 
@@ -55,7 +55,7 @@ Longkan Shoujing 龍龕手鏡, Koryo print 高麗本. monk Xingjun of the Liao D
 In preparation.  
 
 * GLS_ndl.txt  
-A list of Gaoliben Longkan Shoujing radicals : Zhonghua Book Company edition (中華書局版), Keijo Imperial University edition (京城帝国大学版) and National Diet Library Digital Collections.  
+A list of Gaoliben Longkan Shoujing radicals: Zhonghua Book Company edition (中華書局版), Keijo Imperial University edition (京城帝国大学版) and National Diet Library Digital Collections.  
 Date: 9 May 2016  
 初版公開日  
 Ikeda Shoju 池田 証壽  
@@ -83,7 +83,7 @@ Ikeda Shoju 池田　証壽, Chair 代表
 Li Yuan 李　媛, Person in Charge 担当者    
 
 * KTB_ndl.txt  
-Kosanjibon Tenrei Bansho Meigi (KTB) : Subun sosho edition (崇文叢書版) and National Diet Library Digital Collections.
+Kosanjibon Tenrei Bansho Meigi (KTB): Subun sosho edition (崇文叢書版) and National Diet Library Digital Collections.
 Date: 4 September 2016  
 初版公開日  
 Ikeda Shoju 池田　証壽
@@ -130,7 +130,7 @@ Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edit
 under construction.
 
 * KRM_ndl.txt  
-Kanchiinbon Ruiju Myogisho (KRM) : Kazama Shobo edition, Tenri Zempon Sosho edition and National Diet Library Digital Collections.  
+Kanchiinbon Ruiju Myogisho (KRM): Kazama Shobo edition, Tenri Zempon Sosho edition and National Diet Library Digital Collections.  
 Date: 20 October 2015  
 初版公開日  
 Ikeda Shoju 池田 証壽  

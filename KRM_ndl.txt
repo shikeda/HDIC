@@ -2,17 +2,20 @@
 #	HDIC is an abbreviation of the Integrated Database of Hanzi Dictionaries in Early Japan
 #
 #	Kanchiinbon Ruiju-myogi-sho (KRM) : Kazama-shobo edition, Tenri-zenpon-sosho edition and National Diet Library Digital Collections
-#	Version: 1.0.3
+#	Version: 1.1.1
 #	Date: 20 October 2015
-#	Last update : 4 September 2016
+#	Last update : 26 December 2021
 #
-#	Copyright (c) 2014-2016 HDIC project, IKEDA Shoju (Chair)
-#	Department of Linguistic Sciences, Hokkaido University Graduate School of Letters
+#	Copyright (c) 2014-2021 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+#	Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
 #	North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan
 #	Contact: hdic_info@let.hokudai.ac.jp
 #
-#	Feel free to copy and distribute
-#	Send bug reports and feature requests via email
+#	Data License Information and Access Rights
+#	License: 
+#	Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
+#	Access Rights (Availability): 
+#	open access
 #
 Book	Radical	Kazama	Tenri	NDL_url
 仏上	人	1	23	http://dl.ndl.go.jp/info:ndljp/pid/2586891/6

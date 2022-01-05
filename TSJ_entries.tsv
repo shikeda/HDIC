@@ -10,19 +10,22 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.0.29
+#   Version: 1.1.1
 #   Date published: 23 June 2018
-#   Last modified: 7 February 2021
+#   Last modified: 5 January 2022
 #
-#   Copyright (c) 2018-2021 HDIC project, IKEDA Shoju (Chair)
+#   Copyright (c) 2018-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
 #   LIU Guanwei (Person in charge of image database design and implementation)
-#   Department of Linguistic Sciences, Hokkaido University Graduate School of Letters
+#   Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
 #   North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan
-#   Contact: hdic_info@let.hokudai.ac.jp
+#   Contact: ikeda.shoju@gmail.com, liyuansapporo@yahoo.co.jp, toyjack@gmail.com
 #
-#   Feel free to copy and distribute.
-#   Send bug reports and feature requests via email.
+#   Data License Information and Access Rights
+#   License: 
+#   Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
+#   Access Rights (Availability): 
+#   Open access
 #
 #   TSV format information
 #   ----------------------

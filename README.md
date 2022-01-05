@@ -9,7 +9,7 @@ Last modified: 27 December 2021
 
 [HDIC Viewer](https://hdic.chise.org) by Liu Guanwei  
 hdic2.let.hokudai.ac.jp  
-hdic.chise.org   
+viewer.hdic.jp   
 
 ---
 ## Medieval China dictionaries

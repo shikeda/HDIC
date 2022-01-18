@@ -7,9 +7,9 @@
 #	monk Kukai of the Heian period 空海, c. 827-835.
 #	A Hanzi (Chinese character) dictionary.
 #
-#	Version: 1.1.1
+#	Version: 1.1.2
 #	Date published : 4 September 2016
-#	Last modified : 5 January 2022
+#	Last modified : 18 January 2022
 #
 #   Copyright (c) 2016-2021 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)

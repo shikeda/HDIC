@@ -5,7 +5,7 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 平安時代漢字字書綜合數據庫  
 
 Date published: 18 October 2015  
-Last modified: 18 January 2022
+Last modified: 1 February 2022
 
 [HDIC Viewer](https://hdic.chise.org) by Liu Guanwei  
 viewer.hdic.jp   
@@ -110,9 +110,9 @@ Li Yuan 李 媛, Person charge of text data proofreading データ入力・点�
 Liu Guanwei 劉 冠偉, Person in charge of image database design and implementation 画像データベース設計・実装の担当   
 
 * TSJ_ndl.tsv
-Tenjibon Shinsen-Jikyo (TSJ): Rikugokan edition, Rinsen shoten edition and National Diet Library Digital Collections
-Date: 31 January 2022
-初版公開日 
+Tenjibon Shinsen-Jikyo (TSJ): Rikugokan edition, Rinsen shoten edition and National Diet Library Digital Collections  
+Date: 31 January 2022  
+初版公開日  
 Ikeda Shoju 池田 証壽
 
 

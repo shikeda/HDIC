@@ -5,14 +5,13 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 平安時代漢字字書綜合數據庫  
 
 Date published: 18 October 2015  
-Last modified: 1 February 2022
+Last modified: 2 February 2022
 
 [HDIC Viewer](https://hdic.chise.org) by Liu Guanwei  
 viewer.hdic.jp   
 
 ---
 ## Medieval China dictionaries
-
 ### Yuanben Yupian 原本玉篇
 #### YYP: Yuanben Yupian database
 
@@ -157,7 +156,8 @@ Contact: hdic_info@let.hokudai.ac.jp
 ## Data License Information and Access Rights
 
 ### License
-Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)  
+
+Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)
 
 ### Access Rights (Availability)
 Open access  

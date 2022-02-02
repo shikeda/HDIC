@@ -13,7 +13,7 @@
 #
 #	Data License Information and Access Rights
 #	License: 
-#	Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)
+#	Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)
 #	Access Rights (Availability): 
 #	Open access
 #

@@ -131,8 +131,8 @@ Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edit
 
 #### Files
 
-* KRM.tsv  -- Full text version 
-Date: 11 March 2022 
+* KRM.tsv  -- Full text version  
+Date: 11 March 2022  
 初版公開日  
 Ikeda Shoju 池田 証壽  
 

@@ -5,7 +5,7 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 平安時代漢字字書綜合數據庫  
 
 Date published: 18 October 2015  
-Last modified: 2 February 2022
+Last modified: 11 March 2022
 
 [HDIC Viewer](https://hdic.chise.org) by Liu Guanwei  
 viewer.hdic.jp   
@@ -132,7 +132,6 @@ Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edit
 #### Files
 
 * KRM.tsv  -- Full text version 
-
 Date: 11 March 2022 
 初版公開日  
 Ikeda Shoju 池田 証壽  

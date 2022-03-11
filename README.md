@@ -130,8 +130,12 @@ In preparation.
 Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. anonymous Buddhist monk, the latter half of the 12th century.
 
 #### Files
-* KRM.tsv  
-under construction.
+
+* KRM.tsv  -- Full text version 
+
+Date: 11 March 2022 
+初版公開日  
+Ikeda Shoju 池田 証壽  
 
 * KRM_ndl.txt  
 Kanchiinbon Ruiju Myogisho (KRM): Kazama Shobo edition, Tenri Zempon Sosho edition and National Diet Library Digital Collections.  

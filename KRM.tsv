@@ -6,9 +6,9 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.6
+# Version: 1.1.7
 # Date: 11 March 2022
-# Last update : 19 March 2022
+# Last update : 20 March 2022
 #
 # Copyright (c) 2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -23104,7 +23104,7 @@ F23053	S28613	K0800542	K08005421	Tc011421	僧上	艸	v8#81	聲／ー（花）	�
 F23054	S28615	K0800543	K08005431	Tc011431	僧上	艸	v8#81	㝡／ー（花）	〇／〇	ハツホ(HHR)	
 F23055	S28617	K0800544	K08005441	Tc011441	僧上	艸	v8#81	𣴎／ー（花）	〓／〇	*ムマヤ	
 F23056	S28619	K0800551	K08005511	Tc011511	僧上	艸	v8#81	芙／蓉	〇／〇	上音扶(L)　ハチス　下音容(L)　花色發也　ーー　ハチス	二十巻本和名抄巻20草木部第32蓮類第244「芙蕖　爾雅云荷芙蕖［符芙音同蕖音渠］郭璞注云芙蓉［音容］江東呼為荷也」。
-F23057	S28621	K0800553	K08005531	Tc011531	僧上	艸	v8#81	ー（芙）／蕖	〇／〇	音渠　ハチス　ーー(芙蓉)　ハチス	
+F23057	S28621	K0800553	K08005531	Tc011531	僧上	艸	v8#81	ー（芙）／蕖	〇／〇	音渠　ハチス　ーー(芙蕖)　ハチス	
 F23058	S28623	K0800554	K08005540	Tc011540	僧上	艸	v8#81	⿱艹⿰豦白	〇	俗	
 F23059	S28624	K0800561	K08005611	Tc011611	僧上	艸	v8#81	菡／萏	〇／〇	上胡感反　下徒感反　ーー(芙蓉)　ハチスノハナ	
 F23060	S28626	K0800563	K08005630	Tc011630	僧上	艸	v8#81	莟	𫟓	或菡字	

@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.2
+#   Version: 1.1.3
 #   Date published: 23 June 2018
-#   Last modified: 2 February 2022
+#   Last modified: 26 March 2022
 #
 #   Copyright (c) 2018-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -112,7 +112,7 @@ s0104a802	s0104a802	新21-82	v1#1	天部第一	呑	⿱天口	出所不詳	字頭
 s0104a803	s0104a803	新21-83	v1#1	天部第一	𡘸	◯	出所不詳			
 s0104a804	s0104a804	新21-84	v1#1	天部第一	昋	⿱天日	出所不詳	字頭：原作「⿱天日」。	5_126_B31	b086b034
 s0104b101	s0104b101	新22-11	v1#1	天部第一	䪞	⿱天非	出所不詳	字頭：原作「⿱天非」。		
-s0104b102	s0104b102	新22-12	v1#1	天部第一	𠿓	⿰口⿱天非	出所不詳	字頭：原作「⿰口⿱天非」。	2_017_A61	a051a101
+s0104b102	s0104b102	新22-12	v1#1	天部第一	𠿓	⿰口⿱天非	出所不詳	字頭：原作「⿰口⿱天非」。享和本作「𠿓」。	2_017_A61	a051a101
 s0104b103	s0104b103	新22-13	v1#1	天部第一	皮	◯	出所不詳		6_096_B62	c044b046
 s0104b201	s0104b201	新22-21	v1#1	天部第一	噆	⿰口⿱⿰天天日	出所不詳	字頭：原作「⿰口⿱⿰天天日」。「噆」或「𠾱」之異體字。		
 s0104b202	s0104b202	新22-22	v1#1	天部第一	忝	⿱天水	出所不詳	字頭：原作「⿱天水」。	2_091_B11	a077a024

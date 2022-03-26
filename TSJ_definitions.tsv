@@ -9,9 +9,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_definitions.tsv
-#   Version: 1.1.2
+#   Version: 1.1.3
 #   Date published: 28 June 2018
-#   Last modified: 2 February 2022
+#   Last modified: 26 March 2022
 #
 #   Copyright (c) 2018-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -49,8 +49,8 @@ s0104a802	呑	土天土言二反。平：食也，咽也，滅也。又曲音，
 s0104a803	𡘸	古典反。上：小束也。	
 s0104a804	昋	古惠反。去。或作炅。光明也，人姓也。和云比加利弖留。	
 s0104b101	䪞	才盍反。入：悪也。	
-s0104b102	𠿓	□(先)盍反。入：醜也。加太奈志。	
-s0104b103	蚕	丁殄反。上：竪蚕也。久礼〻〻弥受。	
+s0104b102	𠿓	□(先)盍反。入：醜也。加太奈志。	注文：享和本作「先盍反。入：醜。倭云加太奈志」。
+s0104b103	蚕	丁殄反。上：竪蚕也。久礼〻〻弥受。	注文：享和本作「丁典反。上：蜸蚕。久禮乃弥〻受」。
 s0104b201	噆	子盍反。入：䖵呪𠮾也。比留須比波牟。	
 s0104b202	忝	土點反。上：辰(辱)也。波豆。	
 s0104b203	吴	古胡反。国名。	
@@ -58,7 +58,7 @@ s0104b204	𥉁	苦普反。瞿字，在連字部。
 s0104b301	奡	午到反。傲字同。嫚也。	
 s0104b302	臩	嬀回(冋)反。驚走也，往来皃，走也。	
 s0104b303a	栞β𣓁	二形同。在木部。	
-s0104b305b	謂天宆隆又曰乹台	於保曽良。	
+s0104b305b	謂天宆隆又曰乹台	於保曽良。	字頭：享和本作「乾天台」。注文：享和本作「於保曽良」。
 s0104b406c	空天天中虚空	皆天台。	
 s0104b412d	謂九天	(無)	
 s0104b412e	蒼天	東方。	

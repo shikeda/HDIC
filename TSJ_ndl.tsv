@@ -1,10 +1,10 @@
 # HDIC Project
 # HDIC is an abbreviation of the Integrated Database of Hanzi Dictionaries in Early Japan
 #
-# Tenjibon Shinsen-Jikyo (TSJ) : Rikugokan edition, Rinsen shoten edition and National Diet Library Digital Collections
-# Version: 1.1.2
+# Tenjibon Shinsen-Jikyo (TSJ) : Rikugokan edition, Rinsen shoten edition ,National Diet Library Digital Collections and Database of Pre-Modern Japanese Works
+# Version: 1.1.3
 # Date: 1 January 2022
-# Last update : 2 February 2022
+# Last update : 27 March 2022
 #
 # Copyright (c) 2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -23,794 +23,794 @@
 # SJ_vol_leaf(svvwwx): Book(vv), leaf(ww) and recto-verso(x)
 # SJ_Rinsen_p: Page(xxx) in Rinsen shoten edition
 # NDL_URL_1916: 813.2-Sy968s, Rikugokan edition 1916
-# 
-SJ_vol	SJ_vol_leaf	SJ_Rinsen_p	NDL_URL_1916
-篇立次第	s0000a	1	https://dl.ndl.go.jp/info:ndljp/pid/3438195/7
-篇立次第	s0000b	2	https://dl.ndl.go.jp/info:ndljp/pid/3438195/8
-篇立次第	s0001a	3	https://dl.ndl.go.jp/info:ndljp/pid/3438195/8
-篇立次第	s0001b	4	https://dl.ndl.go.jp/info:ndljp/pid/3438195/9
-篇立次第	s0002a	5	https://dl.ndl.go.jp/info:ndljp/pid/3438195/9
-篇立次第	s0002b	6	https://dl.ndl.go.jp/info:ndljp/pid/3438195/10
-篇立次第	s0003a	7	https://dl.ndl.go.jp/info:ndljp/pid/3438195/10
-篇立次第	s0003b	8	https://dl.ndl.go.jp/info:ndljp/pid/3438195/11
-篇立次第	s0004a	9	https://dl.ndl.go.jp/info:ndljp/pid/3438195/11
-篇立次第	s0004b	10	https://dl.ndl.go.jp/info:ndljp/pid/3438195/12
-篇立次第	s0005a	11	https://dl.ndl.go.jp/info:ndljp/pid/3438195/12
-篇立次第	s0005b	12	https://dl.ndl.go.jp/info:ndljp/pid/3438195/13
-巻1	s0100a	13	https://dl.ndl.go.jp/info:ndljp/pid/3438195/13
-巻1	s0100b	14	https://dl.ndl.go.jp/info:ndljp/pid/3438195/14
-巻1	s0101a	15	https://dl.ndl.go.jp/info:ndljp/pid/3438195/14
-巻1	s0101b	16	https://dl.ndl.go.jp/info:ndljp/pid/3438195/15
-巻1	s0102a	17	https://dl.ndl.go.jp/info:ndljp/pid/3438195/15
-巻1	s0102b	18	https://dl.ndl.go.jp/info:ndljp/pid/3438195/16
-巻1	s0103a	19	https://dl.ndl.go.jp/info:ndljp/pid/3438195/16
-巻1	s0103b	20	https://dl.ndl.go.jp/info:ndljp/pid/3438195/17
-巻1	s0104a	21	https://dl.ndl.go.jp/info:ndljp/pid/3438195/17
-巻1	s0104b	22	https://dl.ndl.go.jp/info:ndljp/pid/3438195/18
-巻1	s0105a	23	https://dl.ndl.go.jp/info:ndljp/pid/3438195/18
-巻1	s0105b	24	https://dl.ndl.go.jp/info:ndljp/pid/3438195/19
-巻1	s0106a	25	https://dl.ndl.go.jp/info:ndljp/pid/3438195/19
-巻1	s0106b	26	https://dl.ndl.go.jp/info:ndljp/pid/3438195/20
-巻1	s0107a	27	https://dl.ndl.go.jp/info:ndljp/pid/3438195/20
-巻1	s0107b	28	https://dl.ndl.go.jp/info:ndljp/pid/3438195/21
-巻1	s0108a	29	https://dl.ndl.go.jp/info:ndljp/pid/3438195/21
-巻1	s0108b	30	https://dl.ndl.go.jp/info:ndljp/pid/3438195/22
-巻1	s0109a	31	https://dl.ndl.go.jp/info:ndljp/pid/3438195/22
-巻1	s0109b	32	https://dl.ndl.go.jp/info:ndljp/pid/3438195/23
-巻1	s0110a	33	https://dl.ndl.go.jp/info:ndljp/pid/3438195/23
-巻1	s0110b	34	https://dl.ndl.go.jp/info:ndljp/pid/3438195/24
-巻1	s0111a	35	https://dl.ndl.go.jp/info:ndljp/pid/3438195/24
-巻1	s0111b	36	https://dl.ndl.go.jp/info:ndljp/pid/3438195/25
-巻1	s0112a	37	https://dl.ndl.go.jp/info:ndljp/pid/3438195/25
-巻1	s0112b	38	https://dl.ndl.go.jp/info:ndljp/pid/3438195/26
-巻1	s0113a	39	https://dl.ndl.go.jp/info:ndljp/pid/3438195/26
-巻1	s0113b	40	https://dl.ndl.go.jp/info:ndljp/pid/3438195/27
-巻1	s0114a	41	https://dl.ndl.go.jp/info:ndljp/pid/3438195/27
-巻1	s0114b	42	https://dl.ndl.go.jp/info:ndljp/pid/3438195/28
-巻1	s0115a	43	https://dl.ndl.go.jp/info:ndljp/pid/3438195/28
-巻1	s0115b	44	https://dl.ndl.go.jp/info:ndljp/pid/3438195/29
-巻1	s0116a	45	https://dl.ndl.go.jp/info:ndljp/pid/3438195/29
-巻1	s0116b	46	https://dl.ndl.go.jp/info:ndljp/pid/3438195/30
-巻1	s0117a	47	https://dl.ndl.go.jp/info:ndljp/pid/3438195/30
-巻1	s0117b	48	https://dl.ndl.go.jp/info:ndljp/pid/3438195/31
-巻1	s0118a	49	https://dl.ndl.go.jp/info:ndljp/pid/3438195/31
-巻1	s0118b	50	https://dl.ndl.go.jp/info:ndljp/pid/3438195/32
-巻1	s0119a	51	https://dl.ndl.go.jp/info:ndljp/pid/3438195/32
-巻1	s0119b	52	https://dl.ndl.go.jp/info:ndljp/pid/3438195/33
-巻1	s0120a	53	https://dl.ndl.go.jp/info:ndljp/pid/3438195/33
-巻1	s0120b	54	https://dl.ndl.go.jp/info:ndljp/pid/3438195/34
-巻1	s0121a	55	https://dl.ndl.go.jp/info:ndljp/pid/3438195/34
-巻1	s0121b	56	https://dl.ndl.go.jp/info:ndljp/pid/3438195/35
-巻1	s0122a	57	https://dl.ndl.go.jp/info:ndljp/pid/3438195/35
-巻1	s0122b	58	https://dl.ndl.go.jp/info:ndljp/pid/3438195/36
-巻1	s0123a	59	https://dl.ndl.go.jp/info:ndljp/pid/3438195/36
-巻1	s0123b	60	https://dl.ndl.go.jp/info:ndljp/pid/3438195/37
-巻1	s0124a	61	https://dl.ndl.go.jp/info:ndljp/pid/3438195/37
-巻1	s0124b	62	https://dl.ndl.go.jp/info:ndljp/pid/3438195/38
-巻1	s0125a	63	https://dl.ndl.go.jp/info:ndljp/pid/3438195/38
-巻1	s0125b	64	https://dl.ndl.go.jp/info:ndljp/pid/3438195/39
-巻1	s0126a	65	https://dl.ndl.go.jp/info:ndljp/pid/3438195/39
-巻1	s0126b	66	https://dl.ndl.go.jp/info:ndljp/pid/3438195/40
-巻1	s0127a	67	https://dl.ndl.go.jp/info:ndljp/pid/3438195/40
-巻1	s0127b	68	https://dl.ndl.go.jp/info:ndljp/pid/3438195/41
-巻1	s0128a	69	https://dl.ndl.go.jp/info:ndljp/pid/3438195/41
-巻1	s0128b	70	https://dl.ndl.go.jp/info:ndljp/pid/3438195/42
-巻1	s0129a	71	https://dl.ndl.go.jp/info:ndljp/pid/3438195/42
-巻1	s0129b	72	https://dl.ndl.go.jp/info:ndljp/pid/3438195/43
-巻1	s0130a	73	https://dl.ndl.go.jp/info:ndljp/pid/3438195/43
-巻1	s0130b	74	https://dl.ndl.go.jp/info:ndljp/pid/3438195/44
-巻1	s0131a	75	https://dl.ndl.go.jp/info:ndljp/pid/3438195/44
-巻1	s0131b	76	https://dl.ndl.go.jp/info:ndljp/pid/3438195/45
-巻1	s0132a	77	https://dl.ndl.go.jp/info:ndljp/pid/3438195/45
-巻1	s0132b	78	https://dl.ndl.go.jp/info:ndljp/pid/3438195/46
-巻1	s0133a	79	https://dl.ndl.go.jp/info:ndljp/pid/3438195/46
-巻1	s0133b	80	https://dl.ndl.go.jp/info:ndljp/pid/3438195/47
-巻1	s0134a	81	https://dl.ndl.go.jp/info:ndljp/pid/3438195/47
-巻1	s0134b	82	https://dl.ndl.go.jp/info:ndljp/pid/3438195/48
-巻1	s0135a	83	https://dl.ndl.go.jp/info:ndljp/pid/3438195/48
-巻1	s0135b	84	https://dl.ndl.go.jp/info:ndljp/pid/3438195/49
-巻1	s0136a	85	https://dl.ndl.go.jp/info:ndljp/pid/3438195/49
-巻1	s0136b	86	https://dl.ndl.go.jp/info:ndljp/pid/3438195/50
-巻2	#N/A	87	https://dl.ndl.go.jp/info:ndljp/pid/3438195/50
-巻2	#N/A	88	https://dl.ndl.go.jp/info:ndljp/pid/3438195/51
-巻2	s0201a	89	https://dl.ndl.go.jp/info:ndljp/pid/3438195/51
-巻2	s0201b	90	https://dl.ndl.go.jp/info:ndljp/pid/3438195/52
-巻2	s0202a	91	https://dl.ndl.go.jp/info:ndljp/pid/3438195/52
-巻2	s0202b	92	https://dl.ndl.go.jp/info:ndljp/pid/3438195/53
-巻2	s0203a	93	https://dl.ndl.go.jp/info:ndljp/pid/3438195/53
-巻2	s0203b	94	https://dl.ndl.go.jp/info:ndljp/pid/3438195/54
-巻2	s0204a	95	https://dl.ndl.go.jp/info:ndljp/pid/3438195/54
-巻2	s0204b	96	https://dl.ndl.go.jp/info:ndljp/pid/3438195/55
-巻2	s0205a	97	https://dl.ndl.go.jp/info:ndljp/pid/3438195/55
-巻2	s0205b	98	https://dl.ndl.go.jp/info:ndljp/pid/3438195/56
-巻2	s0206a	99	https://dl.ndl.go.jp/info:ndljp/pid/3438195/56
-巻2	s0206b	100	https://dl.ndl.go.jp/info:ndljp/pid/3438195/57
-巻2	s0207a	101	https://dl.ndl.go.jp/info:ndljp/pid/3438195/57
-巻2	s0207b	102	https://dl.ndl.go.jp/info:ndljp/pid/3438195/58
-巻2	s0208a	103	https://dl.ndl.go.jp/info:ndljp/pid/3438195/58
-巻2	s0208b	104	https://dl.ndl.go.jp/info:ndljp/pid/3438195/59
-巻2	s0209a	105	https://dl.ndl.go.jp/info:ndljp/pid/3438195/59
-巻2	s0209b	106	https://dl.ndl.go.jp/info:ndljp/pid/3438195/60
-巻2	s0210a	107	https://dl.ndl.go.jp/info:ndljp/pid/3438195/60
-巻2	s0210b	108	https://dl.ndl.go.jp/info:ndljp/pid/3438195/61
-巻2	s0211a	109	https://dl.ndl.go.jp/info:ndljp/pid/3438195/61
-巻2	s0211b	110	https://dl.ndl.go.jp/info:ndljp/pid/3438195/62
-巻2	s0212a	111	https://dl.ndl.go.jp/info:ndljp/pid/3438195/62
-巻2	s0212b	112	https://dl.ndl.go.jp/info:ndljp/pid/3438195/63
-巻2	s0213a	113	https://dl.ndl.go.jp/info:ndljp/pid/3438195/63
-巻2	s0213b	114	https://dl.ndl.go.jp/info:ndljp/pid/3438195/64
-巻2	s0214a	115	https://dl.ndl.go.jp/info:ndljp/pid/3438195/64
-巻2	s0214b	116	https://dl.ndl.go.jp/info:ndljp/pid/3438195/65
-巻2	s0215a	117	https://dl.ndl.go.jp/info:ndljp/pid/3438195/65
-巻2	s0215b	118	https://dl.ndl.go.jp/info:ndljp/pid/3438195/66
-巻2	s0216a	119	https://dl.ndl.go.jp/info:ndljp/pid/3438195/66
-巻2	s0216b	120	https://dl.ndl.go.jp/info:ndljp/pid/3438195/67
-巻2	s0217a	121	https://dl.ndl.go.jp/info:ndljp/pid/3438195/67
-巻2	s0217b	122	https://dl.ndl.go.jp/info:ndljp/pid/3438195/68
-巻2	s0218a	123	https://dl.ndl.go.jp/info:ndljp/pid/3438195/68
-巻2	s0218b	124	https://dl.ndl.go.jp/info:ndljp/pid/3438195/69
-巻2	s0218b	125	https://dl.ndl.go.jp/info:ndljp/pid/3438195/69
-巻2	s0219b	126	https://dl.ndl.go.jp/info:ndljp/pid/3438195/70
-巻2	s0220a	127	https://dl.ndl.go.jp/info:ndljp/pid/3438195/70
-巻2	s0220b	128	https://dl.ndl.go.jp/info:ndljp/pid/3438195/71
-巻2	s0220b	129	https://dl.ndl.go.jp/info:ndljp/pid/3438195/71
-巻2	s0221a	130	https://dl.ndl.go.jp/info:ndljp/pid/3438195/72
-巻2	s0222a	131	https://dl.ndl.go.jp/info:ndljp/pid/3438195/72
-巻2	s0222b	132	https://dl.ndl.go.jp/info:ndljp/pid/3438195/73
-巻2	s0223a	133	https://dl.ndl.go.jp/info:ndljp/pid/3438195/73
-巻2	s0223b	134	https://dl.ndl.go.jp/info:ndljp/pid/3438195/74
-巻2	s0224a	135	https://dl.ndl.go.jp/info:ndljp/pid/3438195/74
-巻2	s0224b	136	https://dl.ndl.go.jp/info:ndljp/pid/3438195/75
-巻2	s0225a	137	https://dl.ndl.go.jp/info:ndljp/pid/3438195/75
-巻2	s0225b	138	https://dl.ndl.go.jp/info:ndljp/pid/3438195/76
-巻2	s0226a	139	https://dl.ndl.go.jp/info:ndljp/pid/3438195/76
-巻2	s0226b	140	https://dl.ndl.go.jp/info:ndljp/pid/3438195/77
-巻2	s0227a	141	https://dl.ndl.go.jp/info:ndljp/pid/3438195/77
-巻2	s0227b	142	https://dl.ndl.go.jp/info:ndljp/pid/3438195/78
-巻2	s0228a	143	https://dl.ndl.go.jp/info:ndljp/pid/3438195/78
-巻2	s0228b	144	https://dl.ndl.go.jp/info:ndljp/pid/3438195/79
-巻2	s0229a	145	https://dl.ndl.go.jp/info:ndljp/pid/3438195/79
-巻2	s0229b	146	https://dl.ndl.go.jp/info:ndljp/pid/3438195/80
-巻2	s0230a	147	https://dl.ndl.go.jp/info:ndljp/pid/3438195/80
-巻2	s0230b	148	https://dl.ndl.go.jp/info:ndljp/pid/3438195/81
-巻2	#N/A	149	https://dl.ndl.go.jp/info:ndljp/pid/3438195/81
-巻3	#N/A	150	https://dl.ndl.go.jp/info:ndljp/pid/3438196/2
-巻3	s0301a	151	https://dl.ndl.go.jp/info:ndljp/pid/3438196/3
-巻3	s0301b	152	https://dl.ndl.go.jp/info:ndljp/pid/3438196/4
-巻3	s0302a	153	https://dl.ndl.go.jp/info:ndljp/pid/3438196/4
-巻3	s0302b	154	https://dl.ndl.go.jp/info:ndljp/pid/3438196/5
-巻3	s0303a	155	https://dl.ndl.go.jp/info:ndljp/pid/3438196/5
-巻3	s0303b	156	https://dl.ndl.go.jp/info:ndljp/pid/3438196/6
-巻3	s0304a	157	https://dl.ndl.go.jp/info:ndljp/pid/3438196/6
-巻3	s0304b	158	https://dl.ndl.go.jp/info:ndljp/pid/3438196/7
-巻3	s0305a	159	https://dl.ndl.go.jp/info:ndljp/pid/3438196/7
-巻3	s0305b	160	https://dl.ndl.go.jp/info:ndljp/pid/3438196/8
-巻3	s0306a	161	https://dl.ndl.go.jp/info:ndljp/pid/3438196/8
-巻3	s0306b	162	https://dl.ndl.go.jp/info:ndljp/pid/3438196/9
-巻3	s0307a	163	https://dl.ndl.go.jp/info:ndljp/pid/3438196/9
-巻3	s0307b	164	https://dl.ndl.go.jp/info:ndljp/pid/3438196/10
-巻3	s0308a	165	https://dl.ndl.go.jp/info:ndljp/pid/3438196/10
-巻3	s0308b	166	https://dl.ndl.go.jp/info:ndljp/pid/3438196/11
-巻3	s0309a	167	https://dl.ndl.go.jp/info:ndljp/pid/3438196/11
-巻3	s0309b	168	https://dl.ndl.go.jp/info:ndljp/pid/3438196/12
-巻3	s0310a	169	https://dl.ndl.go.jp/info:ndljp/pid/3438196/12
-巻3	s0310b	170	https://dl.ndl.go.jp/info:ndljp/pid/3438196/13
-巻3	s0311a	171	https://dl.ndl.go.jp/info:ndljp/pid/3438196/13
-巻3	s0311b	172	https://dl.ndl.go.jp/info:ndljp/pid/3438196/14
-巻3	s0312a	173	https://dl.ndl.go.jp/info:ndljp/pid/3438196/14
-巻3	s0312b	174	https://dl.ndl.go.jp/info:ndljp/pid/3438196/15
-巻3	s0313a	175	https://dl.ndl.go.jp/info:ndljp/pid/3438196/15
-巻3	s0313b	176	https://dl.ndl.go.jp/info:ndljp/pid/3438196/16
-巻3	s0314a	177	https://dl.ndl.go.jp/info:ndljp/pid/3438196/16
-巻3	s0314b	178	https://dl.ndl.go.jp/info:ndljp/pid/3438196/17
-巻3	s0315a	179	https://dl.ndl.go.jp/info:ndljp/pid/3438196/17
-巻3	s0315b	180	https://dl.ndl.go.jp/info:ndljp/pid/3438196/18
-巻3	s0316a	181	https://dl.ndl.go.jp/info:ndljp/pid/3438196/18
-巻3	s0316b	182	https://dl.ndl.go.jp/info:ndljp/pid/3438196/19
-巻3	s0317a	183	https://dl.ndl.go.jp/info:ndljp/pid/3438196/19
-巻3	s0317b	184	https://dl.ndl.go.jp/info:ndljp/pid/3438196/20
-巻3	s0318a	185	https://dl.ndl.go.jp/info:ndljp/pid/3438196/20
-巻3	s0318b	186	https://dl.ndl.go.jp/info:ndljp/pid/3438196/21
-巻3	s0319a	187	https://dl.ndl.go.jp/info:ndljp/pid/3438196/21
-巻3	s0319a	188	https://dl.ndl.go.jp/info:ndljp/pid/3438196/22
-巻3	s0320a	189	https://dl.ndl.go.jp/info:ndljp/pid/3438196/22
-巻3	s0320b	190	https://dl.ndl.go.jp/info:ndljp/pid/3438196/23
-巻3	s0321a	191	https://dl.ndl.go.jp/info:ndljp/pid/3438196/23
-巻3	s0321b	192	https://dl.ndl.go.jp/info:ndljp/pid/3438196/24
-巻3	s0322a	193	https://dl.ndl.go.jp/info:ndljp/pid/3438196/24
-巻3	s0322b	194	https://dl.ndl.go.jp/info:ndljp/pid/3438196/25
-巻3	s0322b	195	https://dl.ndl.go.jp/info:ndljp/pid/3438196/25
-巻3	s0323b	196	https://dl.ndl.go.jp/info:ndljp/pid/3438196/26
-巻3	s0324a	197	https://dl.ndl.go.jp/info:ndljp/pid/3438196/26
-巻3	s0324b	198	https://dl.ndl.go.jp/info:ndljp/pid/3438196/27
-巻3	s0325a	199	https://dl.ndl.go.jp/info:ndljp/pid/3438196/27
-巻3	s0325b	200	https://dl.ndl.go.jp/info:ndljp/pid/3438196/28
-巻3	s0325b	201	https://dl.ndl.go.jp/info:ndljp/pid/3438196/28
-巻3	s0326b	202	https://dl.ndl.go.jp/info:ndljp/pid/3438196/29
-巻3	s0327a	203	https://dl.ndl.go.jp/info:ndljp/pid/3438196/29
-巻3	s0327b	204	https://dl.ndl.go.jp/info:ndljp/pid/3438196/30
-巻3	s0328a	205	https://dl.ndl.go.jp/info:ndljp/pid/3438196/30
-巻3	s0328b	206	https://dl.ndl.go.jp/info:ndljp/pid/3438196/31
-巻3	#N/A	207	https://dl.ndl.go.jp/info:ndljp/pid/3438196/31
-巻4	#N/A	208	https://dl.ndl.go.jp/info:ndljp/pid/3438196/32
-巻4	s0401a	209	https://dl.ndl.go.jp/info:ndljp/pid/3438196/32
-巻4	s0401b	210	https://dl.ndl.go.jp/info:ndljp/pid/3438196/33
-巻4	s0402a	211	https://dl.ndl.go.jp/info:ndljp/pid/3438196/33
-巻4	s0402b	212	https://dl.ndl.go.jp/info:ndljp/pid/3438196/34
-巻4	s0403a	213	https://dl.ndl.go.jp/info:ndljp/pid/3438196/34
-巻4	s0403b	214	https://dl.ndl.go.jp/info:ndljp/pid/3438196/35
-巻4	s0404a	215	https://dl.ndl.go.jp/info:ndljp/pid/3438196/35
-巻4	s0404b	216	https://dl.ndl.go.jp/info:ndljp/pid/3438196/36
-巻4	s0405a	217	https://dl.ndl.go.jp/info:ndljp/pid/3438196/36
-巻4	s0405b	218	https://dl.ndl.go.jp/info:ndljp/pid/3438196/37
-巻4	s0406a	219	https://dl.ndl.go.jp/info:ndljp/pid/3438196/37
-巻4	s0406b	220	https://dl.ndl.go.jp/info:ndljp/pid/3438196/38
-巻4	s0407a	221	https://dl.ndl.go.jp/info:ndljp/pid/3438196/38
-巻4	s0407b	222	https://dl.ndl.go.jp/info:ndljp/pid/3438196/39
-巻4	s0408a	223	https://dl.ndl.go.jp/info:ndljp/pid/3438196/39
-巻4	s0408b	224	https://dl.ndl.go.jp/info:ndljp/pid/3438196/40
-巻4	s0409a	225	https://dl.ndl.go.jp/info:ndljp/pid/3438196/40
-巻4	s0409a	226	https://dl.ndl.go.jp/info:ndljp/pid/3438196/41
-巻4	s0410a	227	https://dl.ndl.go.jp/info:ndljp/pid/3438196/41
-巻4	s0410b	228	https://dl.ndl.go.jp/info:ndljp/pid/3438196/42
-巻4	s0411a	229	https://dl.ndl.go.jp/info:ndljp/pid/3438196/42
-巻4	s0411b	230	https://dl.ndl.go.jp/info:ndljp/pid/3438196/43
-巻4	s0412a	231	https://dl.ndl.go.jp/info:ndljp/pid/3438196/43
-巻4	s0412b	232	https://dl.ndl.go.jp/info:ndljp/pid/3438196/44
-巻4	s0413a	233	https://dl.ndl.go.jp/info:ndljp/pid/3438196/44
-巻4	s0413b	234	https://dl.ndl.go.jp/info:ndljp/pid/3438196/45
-巻4	s0414a	235	https://dl.ndl.go.jp/info:ndljp/pid/3438196/45
-巻4	s0414b	236	https://dl.ndl.go.jp/info:ndljp/pid/3438196/46
-巻4	s0415a	237	https://dl.ndl.go.jp/info:ndljp/pid/3438196/46
-巻4	s0415b	238	https://dl.ndl.go.jp/info:ndljp/pid/3438196/47
-巻4	s0415b	239	https://dl.ndl.go.jp/info:ndljp/pid/3438196/47
-巻4	s0416b	240	https://dl.ndl.go.jp/info:ndljp/pid/3438196/48
-巻4	s0417a	241	https://dl.ndl.go.jp/info:ndljp/pid/3438196/48
-巻4	s0417b	242	https://dl.ndl.go.jp/info:ndljp/pid/3438196/49
-巻4	s0418a	243	https://dl.ndl.go.jp/info:ndljp/pid/3438196/49
-巻4	s0418b	244	https://dl.ndl.go.jp/info:ndljp/pid/3438196/50
-巻4	s0419a	245	https://dl.ndl.go.jp/info:ndljp/pid/3438196/50
-巻4	s0419b	246	https://dl.ndl.go.jp/info:ndljp/pid/3438196/51
-巻4	s0420a	247	https://dl.ndl.go.jp/info:ndljp/pid/3438196/51
-巻4	s0420a	248	https://dl.ndl.go.jp/info:ndljp/pid/3438196/52
-巻4	s0421a	249	https://dl.ndl.go.jp/info:ndljp/pid/3438196/52
-巻4	s0421b	250	https://dl.ndl.go.jp/info:ndljp/pid/3438196/53
-巻4	s0422a	251	https://dl.ndl.go.jp/info:ndljp/pid/3438196/53
-巻4	s0422b	252	https://dl.ndl.go.jp/info:ndljp/pid/3438196/54
-巻4	s0423a	253	https://dl.ndl.go.jp/info:ndljp/pid/3438196/54
-巻4	s0423b	254	https://dl.ndl.go.jp/info:ndljp/pid/3438196/55
-巻4	s0424a	255	https://dl.ndl.go.jp/info:ndljp/pid/3438196/55
-巻4	s0424b	256	https://dl.ndl.go.jp/info:ndljp/pid/3438196/56
-巻4	s0425a	257	https://dl.ndl.go.jp/info:ndljp/pid/3438196/56
-巻4	s0425b	258	https://dl.ndl.go.jp/info:ndljp/pid/3438196/57
-巻4	s0426a	259	https://dl.ndl.go.jp/info:ndljp/pid/3438196/57
-巻4	s0426b	260	https://dl.ndl.go.jp/info:ndljp/pid/3438196/58
-巻4	#N/A	261	https://dl.ndl.go.jp/info:ndljp/pid/3438196/58
-巻5	#N/A	262	https://dl.ndl.go.jp/info:ndljp/pid/3438197/2
-巻5	s0501a	263	https://dl.ndl.go.jp/info:ndljp/pid/3438197/2
-巻5	s0501b	264	https://dl.ndl.go.jp/info:ndljp/pid/3438197/3
-巻5	s0502a	265	https://dl.ndl.go.jp/info:ndljp/pid/3438197/3
-巻5	s0502b	266	https://dl.ndl.go.jp/info:ndljp/pid/3438197/4
-巻5	s0503a	267	https://dl.ndl.go.jp/info:ndljp/pid/3438197/4
-巻5	s0503b	268	https://dl.ndl.go.jp/info:ndljp/pid/3438197/5
-巻5	s0504a	269	https://dl.ndl.go.jp/info:ndljp/pid/3438197/5
-巻5	s0504b	270	https://dl.ndl.go.jp/info:ndljp/pid/3438197/6
-巻5	s0505a	271	https://dl.ndl.go.jp/info:ndljp/pid/3438197/6
-巻5	s0505b	272	https://dl.ndl.go.jp/info:ndljp/pid/3438197/7
-巻5	s0506a	273	https://dl.ndl.go.jp/info:ndljp/pid/3438197/7
-巻5	s0506b	274	https://dl.ndl.go.jp/info:ndljp/pid/3438197/8
-巻5	s0507a	275	https://dl.ndl.go.jp/info:ndljp/pid/3438197/8
-巻5	s0507b	276	https://dl.ndl.go.jp/info:ndljp/pid/3438197/9
-巻5	s0508a	277	https://dl.ndl.go.jp/info:ndljp/pid/3438197/9
-巻5	s0508b	278	https://dl.ndl.go.jp/info:ndljp/pid/3438197/10
-巻5	s0509a	279	https://dl.ndl.go.jp/info:ndljp/pid/3438197/10
-巻5	s0509b	280	https://dl.ndl.go.jp/info:ndljp/pid/3438197/11
-巻5	s0510a	281	https://dl.ndl.go.jp/info:ndljp/pid/3438197/11
-巻5	s0510b	282	https://dl.ndl.go.jp/info:ndljp/pid/3438197/12
-巻5	s0511a	283	https://dl.ndl.go.jp/info:ndljp/pid/3438197/12
-巻5	s0511b	284	https://dl.ndl.go.jp/info:ndljp/pid/3438197/13
-巻5	s0512a	285	https://dl.ndl.go.jp/info:ndljp/pid/3438197/13
-巻5	s0512b	286	https://dl.ndl.go.jp/info:ndljp/pid/3438197/14
-巻5	s0512b	287	https://dl.ndl.go.jp/info:ndljp/pid/3438197/14
-巻5	s0513b	288	https://dl.ndl.go.jp/info:ndljp/pid/3438197/15
-巻5	s0514a	289	https://dl.ndl.go.jp/info:ndljp/pid/3438197/15
-巻5	s0514b	290	https://dl.ndl.go.jp/info:ndljp/pid/3438197/16
-巻5	s0515a	291	https://dl.ndl.go.jp/info:ndljp/pid/3438197/16
-巻5	s0515b	292	https://dl.ndl.go.jp/info:ndljp/pid/3438197/17
-巻5	s0516a	293	https://dl.ndl.go.jp/info:ndljp/pid/3438197/17
-巻5	s0516b	294	https://dl.ndl.go.jp/info:ndljp/pid/3438197/18
-巻5	s0517a	295	https://dl.ndl.go.jp/info:ndljp/pid/3438197/18
-巻5	s0517b	296	https://dl.ndl.go.jp/info:ndljp/pid/3438197/19
-巻5	s0518a	297	https://dl.ndl.go.jp/info:ndljp/pid/3438197/19
-巻5	s0518b	298	https://dl.ndl.go.jp/info:ndljp/pid/3438197/20
-巻5	s0519a	299	https://dl.ndl.go.jp/info:ndljp/pid/3438197/20
-巻5	s0519b	300	https://dl.ndl.go.jp/info:ndljp/pid/3438197/21
-巻5	s0520a	301	https://dl.ndl.go.jp/info:ndljp/pid/3438197/21
-巻5	s0520b	302	https://dl.ndl.go.jp/info:ndljp/pid/3438197/22
-巻5	s0521a	303	https://dl.ndl.go.jp/info:ndljp/pid/3438197/22
-巻5	s0521b	304	https://dl.ndl.go.jp/info:ndljp/pid/3438197/23
-巻5	s0522a	305	https://dl.ndl.go.jp/info:ndljp/pid/3438197/23
-巻5	s0522b	306	https://dl.ndl.go.jp/info:ndljp/pid/3438197/24
-巻5	s0523a	307	https://dl.ndl.go.jp/info:ndljp/pid/3438197/24
-巻5	s0523b	308	https://dl.ndl.go.jp/info:ndljp/pid/3438197/25
-巻5	s0524a	309	https://dl.ndl.go.jp/info:ndljp/pid/3438197/25
-巻5	s0524b	310	https://dl.ndl.go.jp/info:ndljp/pid/3438197/26
-巻5	s0525a	311	https://dl.ndl.go.jp/info:ndljp/pid/3438197/26
-巻5	s0525b	312	https://dl.ndl.go.jp/info:ndljp/pid/3438197/27
-巻5	s0526a	313	https://dl.ndl.go.jp/info:ndljp/pid/3438197/27
-巻5	s0526b	314	https://dl.ndl.go.jp/info:ndljp/pid/3438197/28
-巻5	s0527a	315	https://dl.ndl.go.jp/info:ndljp/pid/3438197/28
-巻5	s0527b	316	https://dl.ndl.go.jp/info:ndljp/pid/3438197/29
-巻5	#N/A	317	https://dl.ndl.go.jp/info:ndljp/pid/3438197/29
-巻6	#N/A	318	https://dl.ndl.go.jp/info:ndljp/pid/3438197/30
-巻6	s0601a	319	https://dl.ndl.go.jp/info:ndljp/pid/3438197/30
-巻6	s0601b	320	https://dl.ndl.go.jp/info:ndljp/pid/3438197/31
-巻6	s0602a	321	https://dl.ndl.go.jp/info:ndljp/pid/3438197/31
-巻6	s0602b	322	https://dl.ndl.go.jp/info:ndljp/pid/3438197/32
-巻6	s0603a	323	https://dl.ndl.go.jp/info:ndljp/pid/3438197/32
-巻6	s0603b	324	https://dl.ndl.go.jp/info:ndljp/pid/3438197/33
-巻6	s0604a	325	https://dl.ndl.go.jp/info:ndljp/pid/3438197/33
-巻6	s0604a	326	https://dl.ndl.go.jp/info:ndljp/pid/3438197/34
-巻6	s0605a	327	https://dl.ndl.go.jp/info:ndljp/pid/3438197/34
-巻6	s0605b	328	https://dl.ndl.go.jp/info:ndljp/pid/3438197/35
-巻6	s0606a	329	https://dl.ndl.go.jp/info:ndljp/pid/3438197/35
-巻6	s0606b	330	https://dl.ndl.go.jp/info:ndljp/pid/3438197/36
-巻6	s0607a	331	https://dl.ndl.go.jp/info:ndljp/pid/3438197/36
-巻6	s0607b	332	https://dl.ndl.go.jp/info:ndljp/pid/3438197/37
-巻6	s0608a	333	https://dl.ndl.go.jp/info:ndljp/pid/3438197/37
-巻6	s0608b	334	https://dl.ndl.go.jp/info:ndljp/pid/3438197/38
-巻6	s0609a	335	https://dl.ndl.go.jp/info:ndljp/pid/3438197/38
-巻6	s0609b	336	https://dl.ndl.go.jp/info:ndljp/pid/3438197/39
-巻6	s0610a	337	https://dl.ndl.go.jp/info:ndljp/pid/3438197/39
-巻6	s0610b	338	https://dl.ndl.go.jp/info:ndljp/pid/3438197/40
-巻6	s0611a	339	https://dl.ndl.go.jp/info:ndljp/pid/3438197/40
-巻6	s0611b	340	https://dl.ndl.go.jp/info:ndljp/pid/3438197/41
-巻6	s0612a	341	https://dl.ndl.go.jp/info:ndljp/pid/3438197/41
-巻6	s0612b	342	https://dl.ndl.go.jp/info:ndljp/pid/3438197/42
-巻6	s0613a	343	https://dl.ndl.go.jp/info:ndljp/pid/3438197/42
-巻6	s0613b	344	https://dl.ndl.go.jp/info:ndljp/pid/3438197/43
-巻6	s0614a	345	https://dl.ndl.go.jp/info:ndljp/pid/3438197/43
-巻6	s0614b	346	https://dl.ndl.go.jp/info:ndljp/pid/3438197/44
-巻6	s0615a	347	https://dl.ndl.go.jp/info:ndljp/pid/3438197/44
-巻6	s0615b	348	https://dl.ndl.go.jp/info:ndljp/pid/3438197/45
-巻6	s0616a	349	https://dl.ndl.go.jp/info:ndljp/pid/3438197/45
-巻6	s0616b	350	https://dl.ndl.go.jp/info:ndljp/pid/3438197/46
-巻6	s0617a	351	https://dl.ndl.go.jp/info:ndljp/pid/3438197/46
-巻6	s0617b	352	https://dl.ndl.go.jp/info:ndljp/pid/3438197/47
-巻6	s0618a	353	https://dl.ndl.go.jp/info:ndljp/pid/3438197/47
-巻6	s0618a	354	https://dl.ndl.go.jp/info:ndljp/pid/3438197/48
-巻6	s0618b	355	https://dl.ndl.go.jp/info:ndljp/pid/3438197/48
-巻6	s0619b	356	https://dl.ndl.go.jp/info:ndljp/pid/3438197/49
-巻6	s0620a	357	https://dl.ndl.go.jp/info:ndljp/pid/3438197/49
-巻6	s0620b	358	https://dl.ndl.go.jp/info:ndljp/pid/3438197/50
-巻6	s0621a	359	https://dl.ndl.go.jp/info:ndljp/pid/3438197/50
-巻6	s0621b	360	https://dl.ndl.go.jp/info:ndljp/pid/3438197/51
-巻6	s0622a	361	https://dl.ndl.go.jp/info:ndljp/pid/3438197/51
-巻6	s0622b	362	https://dl.ndl.go.jp/info:ndljp/pid/3438197/52
-巻6	s0623a	363	https://dl.ndl.go.jp/info:ndljp/pid/3438197/52
-巻6	s0623b	364	https://dl.ndl.go.jp/info:ndljp/pid/3438197/53
-巻6	s0624a	365	https://dl.ndl.go.jp/info:ndljp/pid/3438197/53
-巻6	s0624a	366	https://dl.ndl.go.jp/info:ndljp/pid/3438197/54
-巻6	s0625a	367	https://dl.ndl.go.jp/info:ndljp/pid/3438197/54
-巻6	s0625b	368	https://dl.ndl.go.jp/info:ndljp/pid/3438197/55
-巻6	s0626a	369	https://dl.ndl.go.jp/info:ndljp/pid/3438197/55
-巻6	s0626b	370	https://dl.ndl.go.jp/info:ndljp/pid/3438197/56
-巻6	s0627a	371	https://dl.ndl.go.jp/info:ndljp/pid/3438197/56
-巻6	s0627b	372	https://dl.ndl.go.jp/info:ndljp/pid/3438197/57
-巻6	s0627b	373	https://dl.ndl.go.jp/info:ndljp/pid/3438197/57
-巻6	s0628b	374	https://dl.ndl.go.jp/info:ndljp/pid/3438197/58
-巻6	s0629a	375	https://dl.ndl.go.jp/info:ndljp/pid/3438197/58
-巻6	s0629b	376	https://dl.ndl.go.jp/info:ndljp/pid/3438197/59
-巻6	s0630a	377	https://dl.ndl.go.jp/info:ndljp/pid/3438197/59
-巻6	s0630b	378	https://dl.ndl.go.jp/info:ndljp/pid/3438197/60
-巻6	s0631a	379	https://dl.ndl.go.jp/info:ndljp/pid/3438197/60
-巻6	s0631b	380	https://dl.ndl.go.jp/info:ndljp/pid/3438197/61
-巻6	s0632a	381	https://dl.ndl.go.jp/info:ndljp/pid/3438197/61
-巻6	s0632b	382	https://dl.ndl.go.jp/info:ndljp/pid/3438197/62
-巻6	s0633a	383	https://dl.ndl.go.jp/info:ndljp/pid/3438197/62
-巻6	s0633b	384	https://dl.ndl.go.jp/info:ndljp/pid/3438197/63
-巻6	#N/A	385	https://dl.ndl.go.jp/info:ndljp/pid/3438197/63
-巻7	#N/A	386	https://dl.ndl.go.jp/info:ndljp/pid/3438198/2
-巻7	s0701a	387	https://dl.ndl.go.jp/info:ndljp/pid/3438198/2
-巻7	s0701b	388	https://dl.ndl.go.jp/info:ndljp/pid/3438198/3
-巻7	s0702a	389	https://dl.ndl.go.jp/info:ndljp/pid/3438198/3
-巻7	s0702b	390	https://dl.ndl.go.jp/info:ndljp/pid/3438198/4
-巻7	s0703a	391	https://dl.ndl.go.jp/info:ndljp/pid/3438198/4
-巻7	s0703b	392	https://dl.ndl.go.jp/info:ndljp/pid/3438198/5
-巻7	s0704a	393	https://dl.ndl.go.jp/info:ndljp/pid/3438198/5
-巻7	s0704b	394	https://dl.ndl.go.jp/info:ndljp/pid/3438198/6
-巻7	s0705a	395	https://dl.ndl.go.jp/info:ndljp/pid/3438198/6
-巻7	s0705b	396	https://dl.ndl.go.jp/info:ndljp/pid/3438198/7
-巻7	s0706a	397	https://dl.ndl.go.jp/info:ndljp/pid/3438198/7
-巻7	s0706a	398	https://dl.ndl.go.jp/info:ndljp/pid/3438198/8
-巻7	s0707a	399	https://dl.ndl.go.jp/info:ndljp/pid/3438198/8
-巻7	s0707b	400	https://dl.ndl.go.jp/info:ndljp/pid/3438198/9
-巻7	s0708a	401	https://dl.ndl.go.jp/info:ndljp/pid/3438198/9
-巻7	s0708b	402	https://dl.ndl.go.jp/info:ndljp/pid/3438198/10
-巻7	s0709a	403	https://dl.ndl.go.jp/info:ndljp/pid/3438198/10
-巻7	s0709b	404	https://dl.ndl.go.jp/info:ndljp/pid/3438198/11
-巻7	s0710a	405	https://dl.ndl.go.jp/info:ndljp/pid/3438198/11
-巻7	s0710b	406	https://dl.ndl.go.jp/info:ndljp/pid/3438198/12
-巻7	s0711a	407	https://dl.ndl.go.jp/info:ndljp/pid/3438198/12
-巻7	s0711b	408	https://dl.ndl.go.jp/info:ndljp/pid/3438198/13
-巻7	s0712a	409	https://dl.ndl.go.jp/info:ndljp/pid/3438198/13
-巻7	s0712b	410	https://dl.ndl.go.jp/info:ndljp/pid/3438198/14
-巻7	s0713a	411	https://dl.ndl.go.jp/info:ndljp/pid/3438198/14
-巻7	s0713b	412	https://dl.ndl.go.jp/info:ndljp/pid/3438198/15
-巻7	s0714a	413	https://dl.ndl.go.jp/info:ndljp/pid/3438198/15
-巻7	s0714b	414	https://dl.ndl.go.jp/info:ndljp/pid/3438198/16
-巻7	s0715a	415	https://dl.ndl.go.jp/info:ndljp/pid/3438198/16
-巻7	s0715b	416	https://dl.ndl.go.jp/info:ndljp/pid/3438198/17
-巻7	s0716a	417	https://dl.ndl.go.jp/info:ndljp/pid/3438198/17
-巻7	s0716b	418	https://dl.ndl.go.jp/info:ndljp/pid/3438198/18
-巻7	s0717a	419	https://dl.ndl.go.jp/info:ndljp/pid/3438198/18
-巻7	s0717b	420	https://dl.ndl.go.jp/info:ndljp/pid/3438198/19
-巻7	s0718a	421	https://dl.ndl.go.jp/info:ndljp/pid/3438198/19
-巻7	s0718b	422	https://dl.ndl.go.jp/info:ndljp/pid/3438198/20
-巻7	s0719a	423	https://dl.ndl.go.jp/info:ndljp/pid/3438198/20
-巻7	s0719b	424	https://dl.ndl.go.jp/info:ndljp/pid/3438198/21
-巻7	s0720a	425	https://dl.ndl.go.jp/info:ndljp/pid/3438198/21
-巻7	s0720b	426	https://dl.ndl.go.jp/info:ndljp/pid/3438198/22
-巻7	s0721a	427	https://dl.ndl.go.jp/info:ndljp/pid/3438198/22
-巻7	s0721b	428	https://dl.ndl.go.jp/info:ndljp/pid/3438198/23
-巻7	s0722a	429	https://dl.ndl.go.jp/info:ndljp/pid/3438198/23
-巻7	s0722b	430	https://dl.ndl.go.jp/info:ndljp/pid/3438198/24
-巻7	s0723a	431	https://dl.ndl.go.jp/info:ndljp/pid/3438198/24
-巻7	s0723b	432	https://dl.ndl.go.jp/info:ndljp/pid/3438198/25
-巻7	s0724a	433	https://dl.ndl.go.jp/info:ndljp/pid/3438198/25
-巻7	s0724b	434	https://dl.ndl.go.jp/info:ndljp/pid/3438198/26
-巻7	s0725a	435	https://dl.ndl.go.jp/info:ndljp/pid/3438198/26
-巻7	s0725b	436	https://dl.ndl.go.jp/info:ndljp/pid/3438198/27
-巻7	s0726a	437	https://dl.ndl.go.jp/info:ndljp/pid/3438198/27
-巻7	s0726b	438	https://dl.ndl.go.jp/info:ndljp/pid/3438198/28
-巻7	s0727a	439	https://dl.ndl.go.jp/info:ndljp/pid/3438198/28
-巻7	s0727b	440	https://dl.ndl.go.jp/info:ndljp/pid/3438198/29
-巻7	s0728a	441	https://dl.ndl.go.jp/info:ndljp/pid/3438198/29
-巻7	s0728b	442	https://dl.ndl.go.jp/info:ndljp/pid/3438198/30
-巻7	s0729a	443	https://dl.ndl.go.jp/info:ndljp/pid/3438198/30
-巻7	s0729b	444	https://dl.ndl.go.jp/info:ndljp/pid/3438198/31
-巻7	s0730a	445	https://dl.ndl.go.jp/info:ndljp/pid/3438198/31
-巻7	s0730b	446	https://dl.ndl.go.jp/info:ndljp/pid/3438198/32
-巻7	s0731a	447	https://dl.ndl.go.jp/info:ndljp/pid/3438198/32
-巻7	s0731b	448	https://dl.ndl.go.jp/info:ndljp/pid/3438198/33
-巻7	s0732a	449	https://dl.ndl.go.jp/info:ndljp/pid/3438198/33
-巻7	s0732b	450	https://dl.ndl.go.jp/info:ndljp/pid/3438198/34
-巻7	s0733a	451	https://dl.ndl.go.jp/info:ndljp/pid/3438198/34
-巻7	s0733b	452	https://dl.ndl.go.jp/info:ndljp/pid/3438198/35
-巻7	s0734a	453	https://dl.ndl.go.jp/info:ndljp/pid/3438198/35
-巻7	s0734b	454	https://dl.ndl.go.jp/info:ndljp/pid/3438198/36
-巻7	s0735a	455	https://dl.ndl.go.jp/info:ndljp/pid/3438198/36
-巻7	s0735b	456	https://dl.ndl.go.jp/info:ndljp/pid/3438198/37
-巻7	s0736a	457	https://dl.ndl.go.jp/info:ndljp/pid/3438198/37
-巻7	s0736b	458	https://dl.ndl.go.jp/info:ndljp/pid/3438198/38
-巻7	s0737a	459	https://dl.ndl.go.jp/info:ndljp/pid/3438198/38
-巻7	s0737b	460	https://dl.ndl.go.jp/info:ndljp/pid/3438198/39
-巻7	#N/A	461	https://dl.ndl.go.jp/info:ndljp/pid/3438198/39
-巻8	#N/A	462	https://dl.ndl.go.jp/info:ndljp/pid/3438198/40
-巻8	s0801a	463	https://dl.ndl.go.jp/info:ndljp/pid/3438198/40
-巻8	s0801b	464	https://dl.ndl.go.jp/info:ndljp/pid/3438198/41
-巻8	s0802a	465	https://dl.ndl.go.jp/info:ndljp/pid/3438198/41
-巻8	s0802b	466	https://dl.ndl.go.jp/info:ndljp/pid/3438198/42
-巻8	s0803a	467	https://dl.ndl.go.jp/info:ndljp/pid/3438198/42
-巻8	s0803b	468	https://dl.ndl.go.jp/info:ndljp/pid/3438198/43
-巻8	s0804a	469	https://dl.ndl.go.jp/info:ndljp/pid/3438198/43
-巻8	s0804b	470	https://dl.ndl.go.jp/info:ndljp/pid/3438198/44
-巻8	s0805a	471	https://dl.ndl.go.jp/info:ndljp/pid/3438198/44
-巻8	s0805b	472	https://dl.ndl.go.jp/info:ndljp/pid/3438198/45
-巻8	s0806a	473	https://dl.ndl.go.jp/info:ndljp/pid/3438198/45
-巻8	s0806b	474	https://dl.ndl.go.jp/info:ndljp/pid/3438198/46
-巻8	s0807a	475	https://dl.ndl.go.jp/info:ndljp/pid/3438198/46
-巻8	s0807b	476	https://dl.ndl.go.jp/info:ndljp/pid/3438198/47
-巻8	s0808a	477	https://dl.ndl.go.jp/info:ndljp/pid/3438198/47
-巻8	s0808b	478	https://dl.ndl.go.jp/info:ndljp/pid/3438198/48
-巻8	s0809a	479	https://dl.ndl.go.jp/info:ndljp/pid/3438198/48
-巻8	s0809b	480	https://dl.ndl.go.jp/info:ndljp/pid/3438198/49
-巻8	s0810a	481	https://dl.ndl.go.jp/info:ndljp/pid/3438198/49
-巻8	s0810b	482	https://dl.ndl.go.jp/info:ndljp/pid/3438198/50
-巻8	s0811a	483	https://dl.ndl.go.jp/info:ndljp/pid/3438198/50
-巻8	s0811b	484	https://dl.ndl.go.jp/info:ndljp/pid/3438198/51
-巻8	s0812a	485	https://dl.ndl.go.jp/info:ndljp/pid/3438198/51
-巻8	s0812b	486	https://dl.ndl.go.jp/info:ndljp/pid/3438198/52
-巻8	s0813a	487	https://dl.ndl.go.jp/info:ndljp/pid/3438198/52
-巻8	s0813b	488	https://dl.ndl.go.jp/info:ndljp/pid/3438198/53
-巻8	s0814a	489	https://dl.ndl.go.jp/info:ndljp/pid/3438198/53
-巻8	s0814b	490	https://dl.ndl.go.jp/info:ndljp/pid/3438198/54
-巻8	s0815a	491	https://dl.ndl.go.jp/info:ndljp/pid/3438198/54
-巻8	s0815b	492	https://dl.ndl.go.jp/info:ndljp/pid/3438198/55
-巻8	s0816a	493	https://dl.ndl.go.jp/info:ndljp/pid/3438198/55
-巻8	s0816b	494	https://dl.ndl.go.jp/info:ndljp/pid/3438198/56
-巻8	s0817a	495	https://dl.ndl.go.jp/info:ndljp/pid/3438198/56
-巻8	s0817b	496	https://dl.ndl.go.jp/info:ndljp/pid/3438198/57
-巻8	s0818a	497	https://dl.ndl.go.jp/info:ndljp/pid/3438198/57
-巻8	s0818b	498	https://dl.ndl.go.jp/info:ndljp/pid/3438198/58
-巻8	s0819a	499	https://dl.ndl.go.jp/info:ndljp/pid/3438198/58
-巻8	s0819b	500	https://dl.ndl.go.jp/info:ndljp/pid/3438198/59
-巻8	s0820a	501	https://dl.ndl.go.jp/info:ndljp/pid/3438198/59
-巻8	s0820b	502	https://dl.ndl.go.jp/info:ndljp/pid/3438198/60
-巻8	s0821a	503	https://dl.ndl.go.jp/info:ndljp/pid/3438198/60
-巻8	s0821b	504	https://dl.ndl.go.jp/info:ndljp/pid/3438198/61
-巻8	s0821b	505	https://dl.ndl.go.jp/info:ndljp/pid/3438198/61
-巻8	s0822b	506	https://dl.ndl.go.jp/info:ndljp/pid/3438198/62
-巻8	s0823a	507	https://dl.ndl.go.jp/info:ndljp/pid/3438198/62
-巻8	s0823b	508	https://dl.ndl.go.jp/info:ndljp/pid/3438198/63
-巻8	s0824a	509	https://dl.ndl.go.jp/info:ndljp/pid/3438198/63
-巻8	s0824b	510	https://dl.ndl.go.jp/info:ndljp/pid/3438198/64
-巻8	s0825a	511	https://dl.ndl.go.jp/info:ndljp/pid/3438198/64
-巻8	s0825b	512	https://dl.ndl.go.jp/info:ndljp/pid/3438198/65
-巻9	#N/A	513	https://dl.ndl.go.jp/info:ndljp/pid/3438199/2
-巻9	#N/A	514	https://dl.ndl.go.jp/info:ndljp/pid/3438199/3
-巻9	s0901a	515	https://dl.ndl.go.jp/info:ndljp/pid/3438199/3
-巻9	s0901b	516	https://dl.ndl.go.jp/info:ndljp/pid/3438199/4
-巻9	s0902a	517	https://dl.ndl.go.jp/info:ndljp/pid/3438199/4
-巻9	s0902b	518	https://dl.ndl.go.jp/info:ndljp/pid/3438199/5
-巻9	s0903a	519	https://dl.ndl.go.jp/info:ndljp/pid/3438199/5
-巻9	s0903b	520	https://dl.ndl.go.jp/info:ndljp/pid/3438199/6
-巻9	s0904a	521	https://dl.ndl.go.jp/info:ndljp/pid/3438199/6
-巻9	s0904b	522	https://dl.ndl.go.jp/info:ndljp/pid/3438199/7
-巻9	s0905a	523	https://dl.ndl.go.jp/info:ndljp/pid/3438199/7
-巻9	s0905b	524	https://dl.ndl.go.jp/info:ndljp/pid/3438199/8
-巻9	s0906a	525	https://dl.ndl.go.jp/info:ndljp/pid/3438199/8
-巻9	s0906b	526	https://dl.ndl.go.jp/info:ndljp/pid/3438199/9
-巻9	s0907a	527	https://dl.ndl.go.jp/info:ndljp/pid/3438199/9
-巻9	s0907b	528	https://dl.ndl.go.jp/info:ndljp/pid/3438199/10
-巻9	s0908a	529	https://dl.ndl.go.jp/info:ndljp/pid/3438199/10
-巻9	s0908b	530	https://dl.ndl.go.jp/info:ndljp/pid/3438199/11
-巻9	s0909a	531	https://dl.ndl.go.jp/info:ndljp/pid/3438199/11
-巻9	s0909b	532	https://dl.ndl.go.jp/info:ndljp/pid/3438199/12
-巻9	s0910a	533	https://dl.ndl.go.jp/info:ndljp/pid/3438199/12
-巻9	s0910b	534	https://dl.ndl.go.jp/info:ndljp/pid/3438199/13
-巻9	s0911a	535	https://dl.ndl.go.jp/info:ndljp/pid/3438199/13
-巻9	s0911b	536	https://dl.ndl.go.jp/info:ndljp/pid/3438199/14
-巻9	s0912a	537	https://dl.ndl.go.jp/info:ndljp/pid/3438199/14
-巻9	s0912b	538	https://dl.ndl.go.jp/info:ndljp/pid/3438199/15
-巻9	s0913a	539	https://dl.ndl.go.jp/info:ndljp/pid/3438199/15
-巻9	s0913b	540	https://dl.ndl.go.jp/info:ndljp/pid/3438199/16
-巻9	s0914a	541	https://dl.ndl.go.jp/info:ndljp/pid/3438199/16
-巻9	s0914b	542	https://dl.ndl.go.jp/info:ndljp/pid/3438199/17
-巻9	s0915a	543	https://dl.ndl.go.jp/info:ndljp/pid/3438199/17
-巻9	s0915b	544	https://dl.ndl.go.jp/info:ndljp/pid/3438199/18
-巻9	s0916a	545	https://dl.ndl.go.jp/info:ndljp/pid/3438199/18
-巻9	s0916b	546	https://dl.ndl.go.jp/info:ndljp/pid/3438199/19
-巻9	s0917a	547	https://dl.ndl.go.jp/info:ndljp/pid/3438199/19
-巻9	s0917b	548	https://dl.ndl.go.jp/info:ndljp/pid/3438199/20
-巻9	s0918a	549	https://dl.ndl.go.jp/info:ndljp/pid/3438199/20
-巻9	s0918b	550	https://dl.ndl.go.jp/info:ndljp/pid/3438199/21
-巻9	s0919a	551	https://dl.ndl.go.jp/info:ndljp/pid/3438199/21
-巻9	s0919b	552	https://dl.ndl.go.jp/info:ndljp/pid/3438199/22
-巻9	s0920a	553	https://dl.ndl.go.jp/info:ndljp/pid/3438199/22
-巻9	s0920b	554	https://dl.ndl.go.jp/info:ndljp/pid/3438199/23
-巻9	s0921a	555	https://dl.ndl.go.jp/info:ndljp/pid/3438199/23
-巻9	s0921a	556	https://dl.ndl.go.jp/info:ndljp/pid/3438199/24
-巻9	s0922a	557	https://dl.ndl.go.jp/info:ndljp/pid/3438199/24
-巻9	s0922b	558	https://dl.ndl.go.jp/info:ndljp/pid/3438199/25
-巻9	s0923a	559	https://dl.ndl.go.jp/info:ndljp/pid/3438199/25
-巻9	s0923b	560	https://dl.ndl.go.jp/info:ndljp/pid/3438199/26
-巻9	s0924a	561	https://dl.ndl.go.jp/info:ndljp/pid/3438199/26
-巻9	s0924b	562	https://dl.ndl.go.jp/info:ndljp/pid/3438199/27
-巻9	s0925a	563	https://dl.ndl.go.jp/info:ndljp/pid/3438199/27
-巻9	s0925b	564	https://dl.ndl.go.jp/info:ndljp/pid/3438199/28
-巻10	#N/A	565	https://dl.ndl.go.jp/info:ndljp/pid/3438199/28
-巻10	#N/A	566	https://dl.ndl.go.jp/info:ndljp/pid/3438199/29
-巻10	s1001a	567	https://dl.ndl.go.jp/info:ndljp/pid/3438199/29
-巻10	s1001b	568	https://dl.ndl.go.jp/info:ndljp/pid/3438199/30
-巻10	s1002a	569	https://dl.ndl.go.jp/info:ndljp/pid/3438199/30
-巻10	s1002b	570	https://dl.ndl.go.jp/info:ndljp/pid/3438199/31
-巻10	s1003a	571	https://dl.ndl.go.jp/info:ndljp/pid/3438199/31
-巻10	s1003b	572	https://dl.ndl.go.jp/info:ndljp/pid/3438199/32
-巻10	s1004a	573	https://dl.ndl.go.jp/info:ndljp/pid/3438199/32
-巻10	s1004b	574	https://dl.ndl.go.jp/info:ndljp/pid/3438199/33
-巻10	s1005a	575	https://dl.ndl.go.jp/info:ndljp/pid/3438199/33
-巻10	s1005b	576	https://dl.ndl.go.jp/info:ndljp/pid/3438199/34
-巻10	s1006a	577	https://dl.ndl.go.jp/info:ndljp/pid/3438199/34
-巻10	s1006b	578	https://dl.ndl.go.jp/info:ndljp/pid/3438199/35
-巻10	s1007a	579	https://dl.ndl.go.jp/info:ndljp/pid/3438199/35
-巻10	s1007b	580	https://dl.ndl.go.jp/info:ndljp/pid/3438199/36
-巻10	s1008a	581	https://dl.ndl.go.jp/info:ndljp/pid/3438199/36
-巻10	s1008b	582	https://dl.ndl.go.jp/info:ndljp/pid/3438199/37
-巻10	s1009a	583	https://dl.ndl.go.jp/info:ndljp/pid/3438199/37
-巻10	s1009b	584	https://dl.ndl.go.jp/info:ndljp/pid/3438199/38
-巻10	s1010a	585	https://dl.ndl.go.jp/info:ndljp/pid/3438199/38
-巻10	s1010b	586	https://dl.ndl.go.jp/info:ndljp/pid/3438199/39
-巻10	s1011a	587	https://dl.ndl.go.jp/info:ndljp/pid/3438199/39
-巻10	s1011b	588	https://dl.ndl.go.jp/info:ndljp/pid/3438199/40
-巻10	s1012a	589	https://dl.ndl.go.jp/info:ndljp/pid/3438199/40
-巻10	s1012b	590	https://dl.ndl.go.jp/info:ndljp/pid/3438199/41
-巻10	s1013a	591	https://dl.ndl.go.jp/info:ndljp/pid/3438199/41
-巻10	s1013b	592	https://dl.ndl.go.jp/info:ndljp/pid/3438199/42
-巻10	s1013b	593	https://dl.ndl.go.jp/info:ndljp/pid/3438199/42
-巻10	s1014b	594	https://dl.ndl.go.jp/info:ndljp/pid/3438199/43
-巻10	s1015a	595	https://dl.ndl.go.jp/info:ndljp/pid/3438199/43
-巻10	s1015b	596	https://dl.ndl.go.jp/info:ndljp/pid/3438199/44
-巻10	s1016a	597	https://dl.ndl.go.jp/info:ndljp/pid/3438199/44
-巻10	s1016b	598	https://dl.ndl.go.jp/info:ndljp/pid/3438199/45
-巻10	s1017a	599	https://dl.ndl.go.jp/info:ndljp/pid/3438199/45
-巻10	s1017b	600	https://dl.ndl.go.jp/info:ndljp/pid/3438199/46
-巻10	s1018a	601	https://dl.ndl.go.jp/info:ndljp/pid/3438199/46
-巻10	s1018b	602	https://dl.ndl.go.jp/info:ndljp/pid/3438199/47
-巻10	s1019a	603	https://dl.ndl.go.jp/info:ndljp/pid/3438199/47
-巻10	s1019b	604	https://dl.ndl.go.jp/info:ndljp/pid/3438199/48
-巻10	s1020a	605	https://dl.ndl.go.jp/info:ndljp/pid/3438199/48
-巻10	s1020b	606	https://dl.ndl.go.jp/info:ndljp/pid/3438199/49
-巻10	s1021a	607	https://dl.ndl.go.jp/info:ndljp/pid/3438199/49
-巻10	s1021b	608	https://dl.ndl.go.jp/info:ndljp/pid/3438199/50
-巻10	s1022a	609	https://dl.ndl.go.jp/info:ndljp/pid/3438199/50
-巻10	s1022b	610	https://dl.ndl.go.jp/info:ndljp/pid/3438199/51
-巻10	s1023a	611	https://dl.ndl.go.jp/info:ndljp/pid/3438199/51
-巻10	s1023b	612	https://dl.ndl.go.jp/info:ndljp/pid/3438199/52
-巻10	s1024a	613	https://dl.ndl.go.jp/info:ndljp/pid/3438199/52
-巻10	s1024b	614	https://dl.ndl.go.jp/info:ndljp/pid/3438199/53
-巻10	s1025a	615	https://dl.ndl.go.jp/info:ndljp/pid/3438199/53
-巻10	s1025b	616	https://dl.ndl.go.jp/info:ndljp/pid/3438199/54
-巻10	s1026a	617	https://dl.ndl.go.jp/info:ndljp/pid/3438199/54
-巻10	s1026b	618	https://dl.ndl.go.jp/info:ndljp/pid/3438199/55
-巻10	s1027a	619	https://dl.ndl.go.jp/info:ndljp/pid/3438199/55
-巻10	s1027b	620	https://dl.ndl.go.jp/info:ndljp/pid/3438199/56
-巻10	s1028a	621	https://dl.ndl.go.jp/info:ndljp/pid/3438199/56
-巻10	s1028b	622	https://dl.ndl.go.jp/info:ndljp/pid/3438199/57
-巻10	s1029a	623	https://dl.ndl.go.jp/info:ndljp/pid/3438199/57
-巻10	s1029b	624	https://dl.ndl.go.jp/info:ndljp/pid/3438199/58
-巻10	s1030a	625	https://dl.ndl.go.jp/info:ndljp/pid/3438199/58
-巻10	s1030a	626	https://dl.ndl.go.jp/info:ndljp/pid/3438199/59
-巻10	s1031a	627	https://dl.ndl.go.jp/info:ndljp/pid/3438199/59
-巻10	s1031b	628	https://dl.ndl.go.jp/info:ndljp/pid/3438199/60
-巻10	s1032a	629	https://dl.ndl.go.jp/info:ndljp/pid/3438199/60
-巻10	s1032b	630	https://dl.ndl.go.jp/info:ndljp/pid/3438199/61
-巻10	s1033a	631	https://dl.ndl.go.jp/info:ndljp/pid/3438199/61
-巻10	s1033b	632	https://dl.ndl.go.jp/info:ndljp/pid/3438199/62
-巻10	s1034a	633	https://dl.ndl.go.jp/info:ndljp/pid/3438199/62
-巻10	s1034b	634	https://dl.ndl.go.jp/info:ndljp/pid/3438199/63
-巻10	#N/A	635	https://dl.ndl.go.jp/info:ndljp/pid/3438199/63
-巻10	#N/A	636	https://dl.ndl.go.jp/info:ndljp/pid/3438199/64
-巻11	s1101a	637	https://dl.ndl.go.jp/info:ndljp/pid/3438200/2
-巻11	s1101b	638	https://dl.ndl.go.jp/info:ndljp/pid/3438200/3
-巻11	s1102a	639	https://dl.ndl.go.jp/info:ndljp/pid/3438200/3
-巻11	s1102b	640	https://dl.ndl.go.jp/info:ndljp/pid/3438200/4
-巻11	s1103a	641	https://dl.ndl.go.jp/info:ndljp/pid/3438200/4
-巻11	s1103b	642	https://dl.ndl.go.jp/info:ndljp/pid/3438200/5
-巻11	s1104a	643	https://dl.ndl.go.jp/info:ndljp/pid/3438200/5
-巻11	s1104b	644	https://dl.ndl.go.jp/info:ndljp/pid/3438200/6
-巻11	s1105a	645	https://dl.ndl.go.jp/info:ndljp/pid/3438200/6
-巻11	s1105b	646	https://dl.ndl.go.jp/info:ndljp/pid/3438200/7
-巻11	s1105b	647	https://dl.ndl.go.jp/info:ndljp/pid/3438200/7
-巻11	s1106b	648	https://dl.ndl.go.jp/info:ndljp/pid/3438200/8
-巻11	s1107a	649	https://dl.ndl.go.jp/info:ndljp/pid/3438200/8
-巻11	s1107b	650	https://dl.ndl.go.jp/info:ndljp/pid/3438200/9
-巻11	s1108a	651	https://dl.ndl.go.jp/info:ndljp/pid/3438200/9
-巻11	s1108b	652	https://dl.ndl.go.jp/info:ndljp/pid/3438200/10
-巻11	s1109a	653	https://dl.ndl.go.jp/info:ndljp/pid/3438200/10
-巻11	s1109b	654	https://dl.ndl.go.jp/info:ndljp/pid/3438200/11
-巻11	s1110a	655	https://dl.ndl.go.jp/info:ndljp/pid/3438200/11
-巻11	s1110b	656	https://dl.ndl.go.jp/info:ndljp/pid/3438200/12
-巻11	s1111a	657	https://dl.ndl.go.jp/info:ndljp/pid/3438200/12
-巻11	s1111b	658	https://dl.ndl.go.jp/info:ndljp/pid/3438200/13
-巻11	s1112a	659	https://dl.ndl.go.jp/info:ndljp/pid/3438200/13
-巻11	s1112b	660	https://dl.ndl.go.jp/info:ndljp/pid/3438200/14
-巻11	s1113a	661	https://dl.ndl.go.jp/info:ndljp/pid/3438200/14
-巻11	s1113b	662	https://dl.ndl.go.jp/info:ndljp/pid/3438200/15
-巻11	s1114a	663	https://dl.ndl.go.jp/info:ndljp/pid/3438200/15
-巻11	s1114b	664	https://dl.ndl.go.jp/info:ndljp/pid/3438200/16
-巻11	s1115a	665	https://dl.ndl.go.jp/info:ndljp/pid/3438200/16
-巻11	s1115b	666	https://dl.ndl.go.jp/info:ndljp/pid/3438200/17
-巻11	s1116a	667	https://dl.ndl.go.jp/info:ndljp/pid/3438200/17
-巻11	s1116b	668	https://dl.ndl.go.jp/info:ndljp/pid/3438200/18
-巻11	s1117a	669	https://dl.ndl.go.jp/info:ndljp/pid/3438200/18
-巻11	s1117b	670	https://dl.ndl.go.jp/info:ndljp/pid/3438200/19
-巻11	s1118a	671	https://dl.ndl.go.jp/info:ndljp/pid/3438200/19
-巻11	s1118b	672	https://dl.ndl.go.jp/info:ndljp/pid/3438200/20
-巻11	s1119a	673	https://dl.ndl.go.jp/info:ndljp/pid/3438200/20
-巻11	s1119b	674	https://dl.ndl.go.jp/info:ndljp/pid/3438200/21
-巻11	s1120a	675	https://dl.ndl.go.jp/info:ndljp/pid/3438200/21
-巻11	s1120b	676	https://dl.ndl.go.jp/info:ndljp/pid/3438200/22
-巻11	s1121a	677	https://dl.ndl.go.jp/info:ndljp/pid/3438200/22
-巻11	s1121b	678	https://dl.ndl.go.jp/info:ndljp/pid/3438200/23
-巻11	s1122a	679	https://dl.ndl.go.jp/info:ndljp/pid/3438200/23
-巻11	s1122b	680	https://dl.ndl.go.jp/info:ndljp/pid/3438200/24
-巻11	s1123a	681	https://dl.ndl.go.jp/info:ndljp/pid/3438200/24
-巻11	s1123b	682	https://dl.ndl.go.jp/info:ndljp/pid/3438200/25
-巻11	s1124a	683	https://dl.ndl.go.jp/info:ndljp/pid/3438200/25
-巻11	s1124b	684	https://dl.ndl.go.jp/info:ndljp/pid/3438200/26
-巻11	s1125a	685	https://dl.ndl.go.jp/info:ndljp/pid/3438200/26
-巻11	s1125b	686	https://dl.ndl.go.jp/info:ndljp/pid/3438200/27
-巻11	s1126a	687	https://dl.ndl.go.jp/info:ndljp/pid/3438200/27
-巻11	s1126b	688	https://dl.ndl.go.jp/info:ndljp/pid/3438200/28
-巻11	s1127a	689	https://dl.ndl.go.jp/info:ndljp/pid/3438200/28
-巻11	s1127b	690	https://dl.ndl.go.jp/info:ndljp/pid/3438200/29
-巻11	s1128a	691	https://dl.ndl.go.jp/info:ndljp/pid/3438200/29
-巻11	s1128b	692	https://dl.ndl.go.jp/info:ndljp/pid/3438200/30
-巻11	s1129a	693	https://dl.ndl.go.jp/info:ndljp/pid/3438200/30
-巻11	s1129b	694	https://dl.ndl.go.jp/info:ndljp/pid/3438200/31
-巻11	s1130a	695	https://dl.ndl.go.jp/info:ndljp/pid/3438200/31
-巻11	s1130b	696	https://dl.ndl.go.jp/info:ndljp/pid/3438200/32
-巻11	s1131a	697	https://dl.ndl.go.jp/info:ndljp/pid/3438200/32
-巻11	s1131b	698	https://dl.ndl.go.jp/info:ndljp/pid/3438200/33
-巻11	s1132a	699	https://dl.ndl.go.jp/info:ndljp/pid/3438200/33
-巻11	s1132b	700	https://dl.ndl.go.jp/info:ndljp/pid/3438200/34
-巻11	s1133a	701	https://dl.ndl.go.jp/info:ndljp/pid/3438200/34
-巻11	s1133b	702	https://dl.ndl.go.jp/info:ndljp/pid/3438200/35
-巻11	s1134a	703	https://dl.ndl.go.jp/info:ndljp/pid/3438200/35
-巻11	s1134b	704	https://dl.ndl.go.jp/info:ndljp/pid/3438200/36
-巻11	s1135a	705	https://dl.ndl.go.jp/info:ndljp/pid/3438200/36
-巻11	s1135b	706	https://dl.ndl.go.jp/info:ndljp/pid/3438200/37
-巻11	s1136a	707	https://dl.ndl.go.jp/info:ndljp/pid/3438200/37
-巻11	s1136b	708	https://dl.ndl.go.jp/info:ndljp/pid/3438200/38
-巻11	s1137a	709	https://dl.ndl.go.jp/info:ndljp/pid/3438200/38
-巻11	s1137b	710	https://dl.ndl.go.jp/info:ndljp/pid/3438200/39
-巻11	s1138a	711	https://dl.ndl.go.jp/info:ndljp/pid/3438200/39
-巻11	s1138b	712	https://dl.ndl.go.jp/info:ndljp/pid/3438200/40
-巻11	s1139a	713	https://dl.ndl.go.jp/info:ndljp/pid/3438200/40
-巻11	s1139b	714	https://dl.ndl.go.jp/info:ndljp/pid/3438200/41
-巻11	s1140a	715	https://dl.ndl.go.jp/info:ndljp/pid/3438200/41
-巻11	s1140b	716	https://dl.ndl.go.jp/info:ndljp/pid/3438200/42
-巻11	s1141a	717	https://dl.ndl.go.jp/info:ndljp/pid/3438200/42
-巻11	s1141b	718	https://dl.ndl.go.jp/info:ndljp/pid/3438200/43
-巻11	s1142a	719	https://dl.ndl.go.jp/info:ndljp/pid/3438200/43
-巻11	s1142b	720	https://dl.ndl.go.jp/info:ndljp/pid/3438200/44
-巻11	s1143a	721	https://dl.ndl.go.jp/info:ndljp/pid/3438200/44
-巻11	s1143b	722	https://dl.ndl.go.jp/info:ndljp/pid/3438200/45
-巻11	#N/A	723	https://dl.ndl.go.jp/info:ndljp/pid/3438200/45
-巻12	#N/A	724	https://dl.ndl.go.jp/info:ndljp/pid/3438200/46
-巻12	s1201a	725	https://dl.ndl.go.jp/info:ndljp/pid/3438200/46
-巻12	s1201b	726	https://dl.ndl.go.jp/info:ndljp/pid/3438200/47
-巻12	s1202a	727	https://dl.ndl.go.jp/info:ndljp/pid/3438200/47
-巻12	s1202b	728	https://dl.ndl.go.jp/info:ndljp/pid/3438200/48
-巻12	s1203a	729	https://dl.ndl.go.jp/info:ndljp/pid/3438200/48
-巻12	s1203a	730	https://dl.ndl.go.jp/info:ndljp/pid/3438200/49
-巻12	s1204a	731	https://dl.ndl.go.jp/info:ndljp/pid/3438200/49
-巻12	s1204b	732	https://dl.ndl.go.jp/info:ndljp/pid/3438200/50
-巻12	s1205a	733	https://dl.ndl.go.jp/info:ndljp/pid/3438200/50
-巻12	s1205a	734	https://dl.ndl.go.jp/info:ndljp/pid/3438200/51
-巻12	s1206a	735	https://dl.ndl.go.jp/info:ndljp/pid/3438200/51
-巻12	s1206b	736	https://dl.ndl.go.jp/info:ndljp/pid/3438200/52
-巻12	s1207a	737	https://dl.ndl.go.jp/info:ndljp/pid/3438200/52
-巻12	s1207b	738	https://dl.ndl.go.jp/info:ndljp/pid/3438200/53
-巻12	s1208a	739	https://dl.ndl.go.jp/info:ndljp/pid/3438200/53
-巻12	s1208b	740	https://dl.ndl.go.jp/info:ndljp/pid/3438200/54
-巻12	s1209a	741	https://dl.ndl.go.jp/info:ndljp/pid/3438200/54
-巻12	s1209b	742	https://dl.ndl.go.jp/info:ndljp/pid/3438200/55
-巻12	s1210a	743	https://dl.ndl.go.jp/info:ndljp/pid/3438200/55
-巻12	s1210b	744	https://dl.ndl.go.jp/info:ndljp/pid/3438200/56
-巻12	s1211a	745	https://dl.ndl.go.jp/info:ndljp/pid/3438200/56
-巻12	s1211b	746	https://dl.ndl.go.jp/info:ndljp/pid/3438200/57
-巻12	s1212a	747	https://dl.ndl.go.jp/info:ndljp/pid/3438200/57
-巻12	s1212b	748	https://dl.ndl.go.jp/info:ndljp/pid/3438200/58
-巻12	s1213a	749	https://dl.ndl.go.jp/info:ndljp/pid/3438200/58
-巻12	s1213b	750	https://dl.ndl.go.jp/info:ndljp/pid/3438200/59
-巻12	s1214a	751	https://dl.ndl.go.jp/info:ndljp/pid/3438200/59
-巻12	s1214b	752	https://dl.ndl.go.jp/info:ndljp/pid/3438200/60
-巻12	s1215a	753	https://dl.ndl.go.jp/info:ndljp/pid/3438200/60
-巻12	s1215b	754	https://dl.ndl.go.jp/info:ndljp/pid/3438200/61
-巻12	s1216a	755	https://dl.ndl.go.jp/info:ndljp/pid/3438200/61
-巻12	s1216b	756	https://dl.ndl.go.jp/info:ndljp/pid/3438200/62
-巻12	s1217a	757	https://dl.ndl.go.jp/info:ndljp/pid/3438200/62
-巻12	s1217b	758	https://dl.ndl.go.jp/info:ndljp/pid/3438200/63
-巻12	s1218a	759	https://dl.ndl.go.jp/info:ndljp/pid/3438200/63
-巻12	s1218b	760	https://dl.ndl.go.jp/info:ndljp/pid/3438200/64
-巻12	s1218b	761	https://dl.ndl.go.jp/info:ndljp/pid/3438200/64
-巻12	s1219b	762	https://dl.ndl.go.jp/info:ndljp/pid/3438200/65
-巻12	s1220a	763	https://dl.ndl.go.jp/info:ndljp/pid/3438200/65
-巻12	s1220b	764	https://dl.ndl.go.jp/info:ndljp/pid/3438200/66
-巻12	s1221a	765	https://dl.ndl.go.jp/info:ndljp/pid/3438200/66
-巻12	s1221b	766	https://dl.ndl.go.jp/info:ndljp/pid/3438200/67
-巻12	s1221b	767	https://dl.ndl.go.jp/info:ndljp/pid/3438200/67
-巻12	s1222b	768	https://dl.ndl.go.jp/info:ndljp/pid/3438200/68
-巻12	s1222b	769	https://dl.ndl.go.jp/info:ndljp/pid/3438200/68
-巻12	s1223b	770	https://dl.ndl.go.jp/info:ndljp/pid/3438200/69
-巻12	s1224a	771	https://dl.ndl.go.jp/info:ndljp/pid/3438200/69
-巻12	s1224b	772	https://dl.ndl.go.jp/info:ndljp/pid/3438200/70
-巻12	s1224b	773	https://dl.ndl.go.jp/info:ndljp/pid/3438200/70
-巻12	s1225b	774	https://dl.ndl.go.jp/info:ndljp/pid/3438200/71
-巻12	s1226a	775	https://dl.ndl.go.jp/info:ndljp/pid/3438200/71
-巻12	s1226b	776	https://dl.ndl.go.jp/info:ndljp/pid/3438200/72
-巻12	s1227a	777	https://dl.ndl.go.jp/info:ndljp/pid/3438200/72
-巻12	s1227b	778	https://dl.ndl.go.jp/info:ndljp/pid/3438200/73
-巻12	s1228a	779	https://dl.ndl.go.jp/info:ndljp/pid/3438200/73
-巻12	s1228b	780	https://dl.ndl.go.jp/info:ndljp/pid/3438200/74
-巻12	s1229a	781	https://dl.ndl.go.jp/info:ndljp/pid/3438200/74
-巻12	s1229b	782	https://dl.ndl.go.jp/info:ndljp/pid/3438200/75
-巻12	s1230a	783	https://dl.ndl.go.jp/info:ndljp/pid/3438200/75
-巻12	s1230b	784	https://dl.ndl.go.jp/info:ndljp/pid/3438200/76
-巻12	s1231a	785	https://dl.ndl.go.jp/info:ndljp/pid/3438200/76
-巻12	s1231b	786	https://dl.ndl.go.jp/info:ndljp/pid/3438200/77
-巻12	s1232a	787	https://dl.ndl.go.jp/info:ndljp/pid/3438200/77
-巻12	s1232b	788	https://dl.ndl.go.jp/info:ndljp/pid/3438200/78
-巻12	s1233a	789	https://dl.ndl.go.jp/info:ndljp/pid/3438200/78
+# NIJL_URL_micro:Database of Pre-Modern Japanese Works, National Institute of Japanese Literature, 宮内庁書陵部 書陵部蔵マイクロデジタル変換 DOI 10.20730/100290337
+SJ_vol	SJ_vol_leaf	SJ_Rinsen_p	NDL_URL_813.2-Sy968s_1916	NIJL_Shoryobu_micro
+篇立次第	s0000a	1	https://dl.ndl.go.jp/info:ndljp/pid/3438195/7	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/9
+篇立次第	s0000b	2	https://dl.ndl.go.jp/info:ndljp/pid/3438195/8	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/10
+篇立次第	s0001a	3	https://dl.ndl.go.jp/info:ndljp/pid/3438195/8	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/11
+篇立次第	s0001b	4	https://dl.ndl.go.jp/info:ndljp/pid/3438195/9	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/12
+篇立次第	s0002a	5	https://dl.ndl.go.jp/info:ndljp/pid/3438195/9	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/13
+篇立次第	s0002b	6	https://dl.ndl.go.jp/info:ndljp/pid/3438195/10	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/14
+篇立次第	s0003a	7	https://dl.ndl.go.jp/info:ndljp/pid/3438195/10	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/15
+篇立次第	s0003b	8	https://dl.ndl.go.jp/info:ndljp/pid/3438195/11	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/16
+篇立次第	s0004a	9	https://dl.ndl.go.jp/info:ndljp/pid/3438195/11	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/17
+篇立次第	s0004b	10	https://dl.ndl.go.jp/info:ndljp/pid/3438195/12	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/18
+篇立次第	s0005a	11	https://dl.ndl.go.jp/info:ndljp/pid/3438195/12	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/19
+篇立次第	s0005b	12	https://dl.ndl.go.jp/info:ndljp/pid/3438195/13	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/20
+巻1	s0100a	13	https://dl.ndl.go.jp/info:ndljp/pid/3438195/13	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/21
+巻1	s0100b	14	https://dl.ndl.go.jp/info:ndljp/pid/3438195/14	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/22
+巻1	s0101a	15	https://dl.ndl.go.jp/info:ndljp/pid/3438195/14	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/23
+巻1	s0101b	16	https://dl.ndl.go.jp/info:ndljp/pid/3438195/15	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/24
+巻1	s0102a	17	https://dl.ndl.go.jp/info:ndljp/pid/3438195/15	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/25
+巻1	s0102b	18	https://dl.ndl.go.jp/info:ndljp/pid/3438195/16	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/26
+巻1	s0103a	19	https://dl.ndl.go.jp/info:ndljp/pid/3438195/16	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/27
+巻1	s0103b	20	https://dl.ndl.go.jp/info:ndljp/pid/3438195/17	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/28
+巻1	s0104a	21	https://dl.ndl.go.jp/info:ndljp/pid/3438195/17	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/29
+巻1	s0104b	22	https://dl.ndl.go.jp/info:ndljp/pid/3438195/18	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/30
+巻1	s0105a	23	https://dl.ndl.go.jp/info:ndljp/pid/3438195/18	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/31
+巻1	s0105b	24	https://dl.ndl.go.jp/info:ndljp/pid/3438195/19	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/32
+巻1	s0106a	25	https://dl.ndl.go.jp/info:ndljp/pid/3438195/19	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/33
+巻1	s0106b	26	https://dl.ndl.go.jp/info:ndljp/pid/3438195/20	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/34
+巻1	s0107a	27	https://dl.ndl.go.jp/info:ndljp/pid/3438195/20	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/35
+巻1	s0107b	28	https://dl.ndl.go.jp/info:ndljp/pid/3438195/21	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/36
+巻1	s0108a	29	https://dl.ndl.go.jp/info:ndljp/pid/3438195/21	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/37
+巻1	s0108b	30	https://dl.ndl.go.jp/info:ndljp/pid/3438195/22	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/38
+巻1	s0109a	31	https://dl.ndl.go.jp/info:ndljp/pid/3438195/22	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/39
+巻1	s0109b	32	https://dl.ndl.go.jp/info:ndljp/pid/3438195/23	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/40
+巻1	s0110a	33	https://dl.ndl.go.jp/info:ndljp/pid/3438195/23	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/41
+巻1	s0110b	34	https://dl.ndl.go.jp/info:ndljp/pid/3438195/24	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/42
+巻1	s0111a	35	https://dl.ndl.go.jp/info:ndljp/pid/3438195/24	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/43
+巻1	s0111b	36	https://dl.ndl.go.jp/info:ndljp/pid/3438195/25	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/44
+巻1	s0112a	37	https://dl.ndl.go.jp/info:ndljp/pid/3438195/25	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/45
+巻1	s0112b	38	https://dl.ndl.go.jp/info:ndljp/pid/3438195/26	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/46
+巻1	s0113a	39	https://dl.ndl.go.jp/info:ndljp/pid/3438195/26	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/47
+巻1	s0113b	40	https://dl.ndl.go.jp/info:ndljp/pid/3438195/27	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/48
+巻1	s0114a	41	https://dl.ndl.go.jp/info:ndljp/pid/3438195/27	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/49
+巻1	s0114b	42	https://dl.ndl.go.jp/info:ndljp/pid/3438195/28	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/50
+巻1	s0115a	43	https://dl.ndl.go.jp/info:ndljp/pid/3438195/28	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/51
+巻1	s0115b	44	https://dl.ndl.go.jp/info:ndljp/pid/3438195/29	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/52
+巻1	s0116a	45	https://dl.ndl.go.jp/info:ndljp/pid/3438195/29	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/53
+巻1	s0116b	46	https://dl.ndl.go.jp/info:ndljp/pid/3438195/30	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/54
+巻1	s0117a	47	https://dl.ndl.go.jp/info:ndljp/pid/3438195/30	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/55
+巻1	s0117b	48	https://dl.ndl.go.jp/info:ndljp/pid/3438195/31	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/56
+巻1	s0118a	49	https://dl.ndl.go.jp/info:ndljp/pid/3438195/31	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/57
+巻1	s0118b	50	https://dl.ndl.go.jp/info:ndljp/pid/3438195/32	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/58
+巻1	s0119a	51	https://dl.ndl.go.jp/info:ndljp/pid/3438195/32	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/59
+巻1	s0119b	52	https://dl.ndl.go.jp/info:ndljp/pid/3438195/33	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/60
+巻1	s0120a	53	https://dl.ndl.go.jp/info:ndljp/pid/3438195/33	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/61
+巻1	s0120b	54	https://dl.ndl.go.jp/info:ndljp/pid/3438195/34	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/62
+巻1	s0121a	55	https://dl.ndl.go.jp/info:ndljp/pid/3438195/34	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/63
+巻1	s0121b	56	https://dl.ndl.go.jp/info:ndljp/pid/3438195/35	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/64
+巻1	s0122a	57	https://dl.ndl.go.jp/info:ndljp/pid/3438195/35	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/65
+巻1	s0122b	58	https://dl.ndl.go.jp/info:ndljp/pid/3438195/36	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/66
+巻1	s0123a	59	https://dl.ndl.go.jp/info:ndljp/pid/3438195/36	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/67
+巻1	s0123b	60	https://dl.ndl.go.jp/info:ndljp/pid/3438195/37	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/68
+巻1	s0124a	61	https://dl.ndl.go.jp/info:ndljp/pid/3438195/37	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/69
+巻1	s0124b	62	https://dl.ndl.go.jp/info:ndljp/pid/3438195/38	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/70
+巻1	s0125a	63	https://dl.ndl.go.jp/info:ndljp/pid/3438195/38	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/71
+巻1	s0125b	64	https://dl.ndl.go.jp/info:ndljp/pid/3438195/39	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/72
+巻1	s0126a	65	https://dl.ndl.go.jp/info:ndljp/pid/3438195/39	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/73
+巻1	s0126b	66	https://dl.ndl.go.jp/info:ndljp/pid/3438195/40	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/74
+巻1	s0127a	67	https://dl.ndl.go.jp/info:ndljp/pid/3438195/40	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/75
+巻1	s0127b	68	https://dl.ndl.go.jp/info:ndljp/pid/3438195/41	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/76
+巻1	s0128a	69	https://dl.ndl.go.jp/info:ndljp/pid/3438195/41	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/77
+巻1	s0128b	70	https://dl.ndl.go.jp/info:ndljp/pid/3438195/42	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/78
+巻1	s0129a	71	https://dl.ndl.go.jp/info:ndljp/pid/3438195/42	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/79
+巻1	s0129b	72	https://dl.ndl.go.jp/info:ndljp/pid/3438195/43	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/80
+巻1	s0130a	73	https://dl.ndl.go.jp/info:ndljp/pid/3438195/43	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/81
+巻1	s0130b	74	https://dl.ndl.go.jp/info:ndljp/pid/3438195/44	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/82
+巻1	s0131a	75	https://dl.ndl.go.jp/info:ndljp/pid/3438195/44	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/83
+巻1	s0131b	76	https://dl.ndl.go.jp/info:ndljp/pid/3438195/45	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/84
+巻1	s0132a	77	https://dl.ndl.go.jp/info:ndljp/pid/3438195/45	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/85
+巻1	s0132b	78	https://dl.ndl.go.jp/info:ndljp/pid/3438195/46	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/86
+巻1	s0133a	79	https://dl.ndl.go.jp/info:ndljp/pid/3438195/46	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/87
+巻1	s0133b	80	https://dl.ndl.go.jp/info:ndljp/pid/3438195/47	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/88
+巻1	s0134a	81	https://dl.ndl.go.jp/info:ndljp/pid/3438195/47	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/89
+巻1	s0134b	82	https://dl.ndl.go.jp/info:ndljp/pid/3438195/48	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/90
+巻1	s0135a	83	https://dl.ndl.go.jp/info:ndljp/pid/3438195/48	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/91
+巻1	s0135b	84	https://dl.ndl.go.jp/info:ndljp/pid/3438195/49	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/92
+巻1	s0136a	85	https://dl.ndl.go.jp/info:ndljp/pid/3438195/49	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/93
+巻1	s0136b	86	https://dl.ndl.go.jp/info:ndljp/pid/3438195/50	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/94
+巻2	#N/A	87	https://dl.ndl.go.jp/info:ndljp/pid/3438195/50	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/95
+巻2	#N/A	88	https://dl.ndl.go.jp/info:ndljp/pid/3438195/51	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/96
+巻2	s0201a	89	https://dl.ndl.go.jp/info:ndljp/pid/3438195/51	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/99
+巻2	s0201b	90	https://dl.ndl.go.jp/info:ndljp/pid/3438195/52	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/100
+巻2	s0202a	91	https://dl.ndl.go.jp/info:ndljp/pid/3438195/52	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/100
+巻2	s0202b	92	https://dl.ndl.go.jp/info:ndljp/pid/3438195/53	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/101
+巻2	s0203a	93	https://dl.ndl.go.jp/info:ndljp/pid/3438195/53	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/101
+巻2	s0203b	94	https://dl.ndl.go.jp/info:ndljp/pid/3438195/54	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/102
+巻2	s0204a	95	https://dl.ndl.go.jp/info:ndljp/pid/3438195/54	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/102
+巻2	s0204b	96	https://dl.ndl.go.jp/info:ndljp/pid/3438195/55	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/103
+巻2	s0205a	97	https://dl.ndl.go.jp/info:ndljp/pid/3438195/55	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/103
+巻2	s0205b	98	https://dl.ndl.go.jp/info:ndljp/pid/3438195/56	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/104
+巻2	s0206a	99	https://dl.ndl.go.jp/info:ndljp/pid/3438195/56	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/104
+巻2	s0206b	100	https://dl.ndl.go.jp/info:ndljp/pid/3438195/57	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/105
+巻2	s0207a	101	https://dl.ndl.go.jp/info:ndljp/pid/3438195/57	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/105
+巻2	s0207b	102	https://dl.ndl.go.jp/info:ndljp/pid/3438195/58	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/106
+巻2	s0208a	103	https://dl.ndl.go.jp/info:ndljp/pid/3438195/58	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/106
+巻2	s0208b	104	https://dl.ndl.go.jp/info:ndljp/pid/3438195/59	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/107
+巻2	s0209a	105	https://dl.ndl.go.jp/info:ndljp/pid/3438195/59	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/107
+巻2	s0209b	106	https://dl.ndl.go.jp/info:ndljp/pid/3438195/60	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/108
+巻2	s0210a	107	https://dl.ndl.go.jp/info:ndljp/pid/3438195/60	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/108
+巻2	s0210b	108	https://dl.ndl.go.jp/info:ndljp/pid/3438195/61	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/109
+巻2	s0211a	109	https://dl.ndl.go.jp/info:ndljp/pid/3438195/61	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/109
+巻2	s0211b	110	https://dl.ndl.go.jp/info:ndljp/pid/3438195/62	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/110
+巻2	s0212a	111	https://dl.ndl.go.jp/info:ndljp/pid/3438195/62	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/110
+巻2	s0212b	112	https://dl.ndl.go.jp/info:ndljp/pid/3438195/63	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/111
+巻2	s0213a	113	https://dl.ndl.go.jp/info:ndljp/pid/3438195/63	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/111
+巻2	s0213b	114	https://dl.ndl.go.jp/info:ndljp/pid/3438195/64	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/112
+巻2	s0214a	115	https://dl.ndl.go.jp/info:ndljp/pid/3438195/64	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/112
+巻2	s0214b	116	https://dl.ndl.go.jp/info:ndljp/pid/3438195/65	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/113
+巻2	s0215a	117	https://dl.ndl.go.jp/info:ndljp/pid/3438195/65	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/113
+巻2	s0215b	118	https://dl.ndl.go.jp/info:ndljp/pid/3438195/66	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/114
+巻2	s0216a	119	https://dl.ndl.go.jp/info:ndljp/pid/3438195/66	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/114
+巻2	s0216b	120	https://dl.ndl.go.jp/info:ndljp/pid/3438195/67	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/115
+巻2	s0217a	121	https://dl.ndl.go.jp/info:ndljp/pid/3438195/67	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/115
+巻2	s0217b	122	https://dl.ndl.go.jp/info:ndljp/pid/3438195/68	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/116
+巻2	s0218a	123	https://dl.ndl.go.jp/info:ndljp/pid/3438195/68	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/116
+巻2	s0218b	124	https://dl.ndl.go.jp/info:ndljp/pid/3438195/69	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/117
+巻2	s0218b	125	https://dl.ndl.go.jp/info:ndljp/pid/3438195/69	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/117
+巻2	s0219b	126	https://dl.ndl.go.jp/info:ndljp/pid/3438195/70	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/118
+巻2	s0220a	127	https://dl.ndl.go.jp/info:ndljp/pid/3438195/70	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/118
+巻2	s0220b	128	https://dl.ndl.go.jp/info:ndljp/pid/3438195/71	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/119
+巻2	s0220b	129	https://dl.ndl.go.jp/info:ndljp/pid/3438195/71	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/119
+巻2	s0221a	130	https://dl.ndl.go.jp/info:ndljp/pid/3438195/72	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/120
+巻2	s0222a	131	https://dl.ndl.go.jp/info:ndljp/pid/3438195/72	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/120
+巻2	s0222b	132	https://dl.ndl.go.jp/info:ndljp/pid/3438195/73	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/121
+巻2	s0223a	133	https://dl.ndl.go.jp/info:ndljp/pid/3438195/73	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/121
+巻2	s0223b	134	https://dl.ndl.go.jp/info:ndljp/pid/3438195/74	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/122
+巻2	s0224a	135	https://dl.ndl.go.jp/info:ndljp/pid/3438195/74	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/122
+巻2	s0224b	136	https://dl.ndl.go.jp/info:ndljp/pid/3438195/75	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/123
+巻2	s0225a	137	https://dl.ndl.go.jp/info:ndljp/pid/3438195/75	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/123
+巻2	s0225b	138	https://dl.ndl.go.jp/info:ndljp/pid/3438195/76	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/124
+巻2	s0226a	139	https://dl.ndl.go.jp/info:ndljp/pid/3438195/76	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/124
+巻2	s0226b	140	https://dl.ndl.go.jp/info:ndljp/pid/3438195/77	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/125
+巻2	s0227a	141	https://dl.ndl.go.jp/info:ndljp/pid/3438195/77	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/125
+巻2	s0227b	142	https://dl.ndl.go.jp/info:ndljp/pid/3438195/78	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/126
+巻2	s0228a	143	https://dl.ndl.go.jp/info:ndljp/pid/3438195/78	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/126
+巻2	s0228b	144	https://dl.ndl.go.jp/info:ndljp/pid/3438195/79	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/127
+巻2	s0229a	145	https://dl.ndl.go.jp/info:ndljp/pid/3438195/79	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/127
+巻2	s0229b	146	https://dl.ndl.go.jp/info:ndljp/pid/3438195/80	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/128
+巻2	s0230a	147	https://dl.ndl.go.jp/info:ndljp/pid/3438195/80	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/128
+巻2	s0230b	148	https://dl.ndl.go.jp/info:ndljp/pid/3438195/81	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/129
+巻2	#N/A	149	https://dl.ndl.go.jp/info:ndljp/pid/3438195/81	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/129
+巻3	#N/A	150	https://dl.ndl.go.jp/info:ndljp/pid/3438196/2	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/131
+巻3	s0301a	151	https://dl.ndl.go.jp/info:ndljp/pid/3438196/3	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/133
+巻3	s0301b	152	https://dl.ndl.go.jp/info:ndljp/pid/3438196/4	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/134
+巻3	s0302a	153	https://dl.ndl.go.jp/info:ndljp/pid/3438196/4	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/135
+巻3	s0302b	154	https://dl.ndl.go.jp/info:ndljp/pid/3438196/5	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/136
+巻3	s0303a	155	https://dl.ndl.go.jp/info:ndljp/pid/3438196/5	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/137
+巻3	s0303b	156	https://dl.ndl.go.jp/info:ndljp/pid/3438196/6	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/138
+巻3	s0304a	157	https://dl.ndl.go.jp/info:ndljp/pid/3438196/6	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/139
+巻3	s0304b	158	https://dl.ndl.go.jp/info:ndljp/pid/3438196/7	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/140
+巻3	s0305a	159	https://dl.ndl.go.jp/info:ndljp/pid/3438196/7	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/141
+巻3	s0305b	160	https://dl.ndl.go.jp/info:ndljp/pid/3438196/8	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/142
+巻3	s0306a	161	https://dl.ndl.go.jp/info:ndljp/pid/3438196/8	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/143
+巻3	s0306b	162	https://dl.ndl.go.jp/info:ndljp/pid/3438196/9	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/144
+巻3	s0307a	163	https://dl.ndl.go.jp/info:ndljp/pid/3438196/9	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/145
+巻3	s0307b	164	https://dl.ndl.go.jp/info:ndljp/pid/3438196/10	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/146
+巻3	s0308a	165	https://dl.ndl.go.jp/info:ndljp/pid/3438196/10	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/147
+巻3	s0308b	166	https://dl.ndl.go.jp/info:ndljp/pid/3438196/11	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/148
+巻3	s0309a	167	https://dl.ndl.go.jp/info:ndljp/pid/3438196/11	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/149
+巻3	s0309b	168	https://dl.ndl.go.jp/info:ndljp/pid/3438196/12	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/150
+巻3	s0310a	169	https://dl.ndl.go.jp/info:ndljp/pid/3438196/12	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/151
+巻3	s0310b	170	https://dl.ndl.go.jp/info:ndljp/pid/3438196/13	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/152
+巻3	s0311a	171	https://dl.ndl.go.jp/info:ndljp/pid/3438196/13	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/153
+巻3	s0311b	172	https://dl.ndl.go.jp/info:ndljp/pid/3438196/14	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/154
+巻3	s0312a	173	https://dl.ndl.go.jp/info:ndljp/pid/3438196/14	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/155
+巻3	s0312b	174	https://dl.ndl.go.jp/info:ndljp/pid/3438196/15	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/156
+巻3	s0313a	175	https://dl.ndl.go.jp/info:ndljp/pid/3438196/15	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/157
+巻3	s0313b	176	https://dl.ndl.go.jp/info:ndljp/pid/3438196/16	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/158
+巻3	s0314a	177	https://dl.ndl.go.jp/info:ndljp/pid/3438196/16	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/159
+巻3	s0314b	178	https://dl.ndl.go.jp/info:ndljp/pid/3438196/17	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/160
+巻3	s0315a	179	https://dl.ndl.go.jp/info:ndljp/pid/3438196/17	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/161
+巻3	s0315b	180	https://dl.ndl.go.jp/info:ndljp/pid/3438196/18	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/162
+巻3	s0316a	181	https://dl.ndl.go.jp/info:ndljp/pid/3438196/18	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/163
+巻3	s0316b	182	https://dl.ndl.go.jp/info:ndljp/pid/3438196/19	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/164
+巻3	s0317a	183	https://dl.ndl.go.jp/info:ndljp/pid/3438196/19	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/165
+巻3	s0317b	184	https://dl.ndl.go.jp/info:ndljp/pid/3438196/20	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/166
+巻3	s0318a	185	https://dl.ndl.go.jp/info:ndljp/pid/3438196/20	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/167
+巻3	s0318b	186	https://dl.ndl.go.jp/info:ndljp/pid/3438196/21	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/168
+巻3	s0319a	187	https://dl.ndl.go.jp/info:ndljp/pid/3438196/21	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/169
+巻3	s0319a	188	https://dl.ndl.go.jp/info:ndljp/pid/3438196/22	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/170
+巻3	s0320a	189	https://dl.ndl.go.jp/info:ndljp/pid/3438196/22	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/171
+巻3	s0320b	190	https://dl.ndl.go.jp/info:ndljp/pid/3438196/23	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/172
+巻3	s0321a	191	https://dl.ndl.go.jp/info:ndljp/pid/3438196/23	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/173
+巻3	s0321b	192	https://dl.ndl.go.jp/info:ndljp/pid/3438196/24	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/174
+巻3	s0322a	193	https://dl.ndl.go.jp/info:ndljp/pid/3438196/24	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/175
+巻3	s0322b	194	https://dl.ndl.go.jp/info:ndljp/pid/3438196/25	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/176
+巻3	s0322b	195	https://dl.ndl.go.jp/info:ndljp/pid/3438196/25	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/177
+巻3	s0323b	196	https://dl.ndl.go.jp/info:ndljp/pid/3438196/26	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/178
+巻3	s0324a	197	https://dl.ndl.go.jp/info:ndljp/pid/3438196/26	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/179
+巻3	s0324b	198	https://dl.ndl.go.jp/info:ndljp/pid/3438196/27	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/180
+巻3	s0325a	199	https://dl.ndl.go.jp/info:ndljp/pid/3438196/27	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/181
+巻3	s0325b	200	https://dl.ndl.go.jp/info:ndljp/pid/3438196/28	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/182
+巻3	s0325b	201	https://dl.ndl.go.jp/info:ndljp/pid/3438196/28	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/183
+巻3	s0326b	202	https://dl.ndl.go.jp/info:ndljp/pid/3438196/29	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/184
+巻3	s0327a	203	https://dl.ndl.go.jp/info:ndljp/pid/3438196/29	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/185
+巻3	s0327b	204	https://dl.ndl.go.jp/info:ndljp/pid/3438196/30	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/186
+巻3	s0328a	205	https://dl.ndl.go.jp/info:ndljp/pid/3438196/30	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/187
+巻3	s0328b	206	https://dl.ndl.go.jp/info:ndljp/pid/3438196/31	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/188
+巻3	#N/A	207	https://dl.ndl.go.jp/info:ndljp/pid/3438196/31	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/189
+巻4	#N/A	208	https://dl.ndl.go.jp/info:ndljp/pid/3438196/32	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/191
+巻4	s0401a	209	https://dl.ndl.go.jp/info:ndljp/pid/3438196/32	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/193
+巻4	s0401b	210	https://dl.ndl.go.jp/info:ndljp/pid/3438196/33	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/194
+巻4	s0402a	211	https://dl.ndl.go.jp/info:ndljp/pid/3438196/33	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/194
+巻4	s0402b	212	https://dl.ndl.go.jp/info:ndljp/pid/3438196/34	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/195
+巻4	s0403a	213	https://dl.ndl.go.jp/info:ndljp/pid/3438196/34	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/195
+巻4	s0403b	214	https://dl.ndl.go.jp/info:ndljp/pid/3438196/35	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/196
+巻4	s0404a	215	https://dl.ndl.go.jp/info:ndljp/pid/3438196/35	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/196
+巻4	s0404b	216	https://dl.ndl.go.jp/info:ndljp/pid/3438196/36	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/197
+巻4	s0405a	217	https://dl.ndl.go.jp/info:ndljp/pid/3438196/36	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/197
+巻4	s0405b	218	https://dl.ndl.go.jp/info:ndljp/pid/3438196/37	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/198
+巻4	s0406a	219	https://dl.ndl.go.jp/info:ndljp/pid/3438196/37	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/198
+巻4	s0406b	220	https://dl.ndl.go.jp/info:ndljp/pid/3438196/38	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/199
+巻4	s0407a	221	https://dl.ndl.go.jp/info:ndljp/pid/3438196/38	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/199
+巻4	s0407b	222	https://dl.ndl.go.jp/info:ndljp/pid/3438196/39	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/200
+巻4	s0408a	223	https://dl.ndl.go.jp/info:ndljp/pid/3438196/39	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/200
+巻4	s0408b	224	https://dl.ndl.go.jp/info:ndljp/pid/3438196/40	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/201
+巻4	s0409a	225	https://dl.ndl.go.jp/info:ndljp/pid/3438196/40	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/201
+巻4	s0409a	226	https://dl.ndl.go.jp/info:ndljp/pid/3438196/41	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/202
+巻4	s0410a	227	https://dl.ndl.go.jp/info:ndljp/pid/3438196/41	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/202
+巻4	s0410b	228	https://dl.ndl.go.jp/info:ndljp/pid/3438196/42	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/203
+巻4	s0411a	229	https://dl.ndl.go.jp/info:ndljp/pid/3438196/42	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/203
+巻4	s0411b	230	https://dl.ndl.go.jp/info:ndljp/pid/3438196/43	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/204
+巻4	s0412a	231	https://dl.ndl.go.jp/info:ndljp/pid/3438196/43	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/204
+巻4	s0412b	232	https://dl.ndl.go.jp/info:ndljp/pid/3438196/44	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/205
+巻4	s0413a	233	https://dl.ndl.go.jp/info:ndljp/pid/3438196/44	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/205
+巻4	s0413b	234	https://dl.ndl.go.jp/info:ndljp/pid/3438196/45	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/206
+巻4	s0414a	235	https://dl.ndl.go.jp/info:ndljp/pid/3438196/45	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/206
+巻4	s0414b	236	https://dl.ndl.go.jp/info:ndljp/pid/3438196/46	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/207
+巻4	s0415a	237	https://dl.ndl.go.jp/info:ndljp/pid/3438196/46	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/207
+巻4	s0415b	238	https://dl.ndl.go.jp/info:ndljp/pid/3438196/47	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/208
+巻4	s0415b	239	https://dl.ndl.go.jp/info:ndljp/pid/3438196/47	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/208
+巻4	s0416b	240	https://dl.ndl.go.jp/info:ndljp/pid/3438196/48	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/209
+巻4	s0417a	241	https://dl.ndl.go.jp/info:ndljp/pid/3438196/48	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/209
+巻4	s0417b	242	https://dl.ndl.go.jp/info:ndljp/pid/3438196/49	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/210
+巻4	s0418a	243	https://dl.ndl.go.jp/info:ndljp/pid/3438196/49	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/210
+巻4	s0418b	244	https://dl.ndl.go.jp/info:ndljp/pid/3438196/50	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/211
+巻4	s0419a	245	https://dl.ndl.go.jp/info:ndljp/pid/3438196/50	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/211
+巻4	s0419b	246	https://dl.ndl.go.jp/info:ndljp/pid/3438196/51	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/212
+巻4	s0420a	247	https://dl.ndl.go.jp/info:ndljp/pid/3438196/51	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/212
+巻4	s0420a	248	https://dl.ndl.go.jp/info:ndljp/pid/3438196/52	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/213
+巻4	s0421a	249	https://dl.ndl.go.jp/info:ndljp/pid/3438196/52	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/213
+巻4	s0421b	250	https://dl.ndl.go.jp/info:ndljp/pid/3438196/53	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/214
+巻4	s0422a	251	https://dl.ndl.go.jp/info:ndljp/pid/3438196/53	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/214
+巻4	s0422b	252	https://dl.ndl.go.jp/info:ndljp/pid/3438196/54	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/215
+巻4	s0423a	253	https://dl.ndl.go.jp/info:ndljp/pid/3438196/54	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/215
+巻4	s0423b	254	https://dl.ndl.go.jp/info:ndljp/pid/3438196/55	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/216
+巻4	s0424a	255	https://dl.ndl.go.jp/info:ndljp/pid/3438196/55	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/216
+巻4	s0424b	256	https://dl.ndl.go.jp/info:ndljp/pid/3438196/56	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/217
+巻4	s0425a	257	https://dl.ndl.go.jp/info:ndljp/pid/3438196/56	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/217
+巻4	s0425b	258	https://dl.ndl.go.jp/info:ndljp/pid/3438196/57	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/218
+巻4	s0426a	259	https://dl.ndl.go.jp/info:ndljp/pid/3438196/57	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/218
+巻4	s0426b	260	https://dl.ndl.go.jp/info:ndljp/pid/3438196/58	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/219
+巻4	#N/A	261	https://dl.ndl.go.jp/info:ndljp/pid/3438196/58	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/219
+巻5	#N/A	262	https://dl.ndl.go.jp/info:ndljp/pid/3438197/2	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/222
+巻5	s0501a	263	https://dl.ndl.go.jp/info:ndljp/pid/3438197/3	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/226
+巻5	s0501b	264	https://dl.ndl.go.jp/info:ndljp/pid/3438197/4	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/227
+巻5	s0502a	265	https://dl.ndl.go.jp/info:ndljp/pid/3438197/4	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/228
+巻5	s0502b	266	https://dl.ndl.go.jp/info:ndljp/pid/3438197/5	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/229
+巻5	s0503a	267	https://dl.ndl.go.jp/info:ndljp/pid/3438197/5	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/230
+巻5	s0503b	268	https://dl.ndl.go.jp/info:ndljp/pid/3438197/6	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/231
+巻5	s0504a	269	https://dl.ndl.go.jp/info:ndljp/pid/3438197/6	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/232
+巻5	s0504b	270	https://dl.ndl.go.jp/info:ndljp/pid/3438197/7	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/233
+巻5	s0505a	271	https://dl.ndl.go.jp/info:ndljp/pid/3438197/7	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/234
+巻5	s0505b	272	https://dl.ndl.go.jp/info:ndljp/pid/3438197/8	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/235
+巻5	s0506a	273	https://dl.ndl.go.jp/info:ndljp/pid/3438197/8	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/236
+巻5	s0506b	274	https://dl.ndl.go.jp/info:ndljp/pid/3438197/9	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/237
+巻5	s0507a	275	https://dl.ndl.go.jp/info:ndljp/pid/3438197/9	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/238
+巻5	s0507b	276	https://dl.ndl.go.jp/info:ndljp/pid/3438197/10	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/239
+巻5	s0508a	277	https://dl.ndl.go.jp/info:ndljp/pid/3438197/10	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/240
+巻5	s0508b	278	https://dl.ndl.go.jp/info:ndljp/pid/3438197/11	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/241
+巻5	s0509a	279	https://dl.ndl.go.jp/info:ndljp/pid/3438197/11	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/242
+巻5	s0509b	280	https://dl.ndl.go.jp/info:ndljp/pid/3438197/12	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/243
+巻5	s0510a	281	https://dl.ndl.go.jp/info:ndljp/pid/3438197/12	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/244
+巻5	s0510b	282	https://dl.ndl.go.jp/info:ndljp/pid/3438197/13	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/245
+巻5	s0511a	283	https://dl.ndl.go.jp/info:ndljp/pid/3438197/13	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/246
+巻5	s0511b	284	https://dl.ndl.go.jp/info:ndljp/pid/3438197/14	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/247
+巻5	s0512a	285	https://dl.ndl.go.jp/info:ndljp/pid/3438197/14	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/248
+巻5	s0512b	286	https://dl.ndl.go.jp/info:ndljp/pid/3438197/15	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/249
+巻5	s0512b	287	https://dl.ndl.go.jp/info:ndljp/pid/3438197/15	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/250
+巻5	s0513b	288	https://dl.ndl.go.jp/info:ndljp/pid/3438197/16	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/251
+巻5	s0514a	289	https://dl.ndl.go.jp/info:ndljp/pid/3438197/16	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/252
+巻5	s0514b	290	https://dl.ndl.go.jp/info:ndljp/pid/3438197/17	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/253
+巻5	s0515a	291	https://dl.ndl.go.jp/info:ndljp/pid/3438197/17	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/254
+巻5	s0515b	292	https://dl.ndl.go.jp/info:ndljp/pid/3438197/18	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/255
+巻5	s0516a	293	https://dl.ndl.go.jp/info:ndljp/pid/3438197/18	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/256
+巻5	s0516b	294	https://dl.ndl.go.jp/info:ndljp/pid/3438197/19	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/257
+巻5	s0517a	295	https://dl.ndl.go.jp/info:ndljp/pid/3438197/19	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/258
+巻5	s0517b	296	https://dl.ndl.go.jp/info:ndljp/pid/3438197/20	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/259
+巻5	s0518a	297	https://dl.ndl.go.jp/info:ndljp/pid/3438197/20	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/260
+巻5	s0518b	298	https://dl.ndl.go.jp/info:ndljp/pid/3438197/21	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/261
+巻5	s0519a	299	https://dl.ndl.go.jp/info:ndljp/pid/3438197/21	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/262
+巻5	s0519b	300	https://dl.ndl.go.jp/info:ndljp/pid/3438197/22	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/263
+巻5	s0520a	301	https://dl.ndl.go.jp/info:ndljp/pid/3438197/22	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/264
+巻5	s0520b	302	https://dl.ndl.go.jp/info:ndljp/pid/3438197/23	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/265
+巻5	s0521a	303	https://dl.ndl.go.jp/info:ndljp/pid/3438197/23	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/266
+巻5	s0521b	304	https://dl.ndl.go.jp/info:ndljp/pid/3438197/24	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/267
+巻5	s0522a	305	https://dl.ndl.go.jp/info:ndljp/pid/3438197/24	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/268
+巻5	s0522b	306	https://dl.ndl.go.jp/info:ndljp/pid/3438197/25	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/269
+巻5	s0523a	307	https://dl.ndl.go.jp/info:ndljp/pid/3438197/25	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/270
+巻5	s0523b	308	https://dl.ndl.go.jp/info:ndljp/pid/3438197/26	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/271
+巻5	s0524a	309	https://dl.ndl.go.jp/info:ndljp/pid/3438197/26	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/272
+巻5	s0524b	310	https://dl.ndl.go.jp/info:ndljp/pid/3438197/27	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/273
+巻5	s0525a	311	https://dl.ndl.go.jp/info:ndljp/pid/3438197/27	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/274
+巻5	s0525b	312	https://dl.ndl.go.jp/info:ndljp/pid/3438197/28	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/275
+巻5	s0526a	313	https://dl.ndl.go.jp/info:ndljp/pid/3438197/28	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/276
+巻5	s0526b	314	https://dl.ndl.go.jp/info:ndljp/pid/3438197/29	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/277
+巻5	s0527a	315	https://dl.ndl.go.jp/info:ndljp/pid/3438197/29	#N/A
+巻5	s0527b	316	https://dl.ndl.go.jp/info:ndljp/pid/3438197/30	#N/A
+巻5	#N/A	317	https://dl.ndl.go.jp/info:ndljp/pid/3438197/30	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/279
+巻6	#N/A	318	https://dl.ndl.go.jp/info:ndljp/pid/3438197/30	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/280
+巻6	s0601a	319	https://dl.ndl.go.jp/info:ndljp/pid/3438197/31	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/282
+巻6	s0601b	320	https://dl.ndl.go.jp/info:ndljp/pid/3438197/32	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/283
+巻6	s0602a	321	https://dl.ndl.go.jp/info:ndljp/pid/3438197/32	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/284
+巻6	s0602b	322	https://dl.ndl.go.jp/info:ndljp/pid/3438197/33	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/285
+巻6	s0603a	323	https://dl.ndl.go.jp/info:ndljp/pid/3438197/33	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/286
+巻6	s0603b	324	https://dl.ndl.go.jp/info:ndljp/pid/3438197/34	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/287
+巻6	s0604a	325	https://dl.ndl.go.jp/info:ndljp/pid/3438197/34	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/288
+巻6	s0604a	326	https://dl.ndl.go.jp/info:ndljp/pid/3438197/35	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/289
+巻6	s0605a	327	https://dl.ndl.go.jp/info:ndljp/pid/3438197/35	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/290
+巻6	s0605b	328	https://dl.ndl.go.jp/info:ndljp/pid/3438197/36	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/291
+巻6	s0606a	329	https://dl.ndl.go.jp/info:ndljp/pid/3438197/36	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/292
+巻6	s0606b	330	https://dl.ndl.go.jp/info:ndljp/pid/3438197/37	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/293
+巻6	s0607a	331	https://dl.ndl.go.jp/info:ndljp/pid/3438197/37	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/294
+巻6	s0607b	332	https://dl.ndl.go.jp/info:ndljp/pid/3438197/38	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/295
+巻6	s0608a	333	https://dl.ndl.go.jp/info:ndljp/pid/3438197/38	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/296
+巻6	s0608b	334	https://dl.ndl.go.jp/info:ndljp/pid/3438197/39	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/297
+巻6	s0609a	335	https://dl.ndl.go.jp/info:ndljp/pid/3438197/39	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/298
+巻6	s0609b	336	https://dl.ndl.go.jp/info:ndljp/pid/3438197/40	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/299
+巻6	s0610a	337	https://dl.ndl.go.jp/info:ndljp/pid/3438197/40	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/300
+巻6	s0610b	338	https://dl.ndl.go.jp/info:ndljp/pid/3438197/41	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/301
+巻6	s0611a	339	https://dl.ndl.go.jp/info:ndljp/pid/3438197/41	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/302
+巻6	s0611b	340	https://dl.ndl.go.jp/info:ndljp/pid/3438197/42	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/303
+巻6	s0612a	341	https://dl.ndl.go.jp/info:ndljp/pid/3438197/42	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/304
+巻6	s0612b	342	https://dl.ndl.go.jp/info:ndljp/pid/3438197/43	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/305
+巻6	s0613a	343	https://dl.ndl.go.jp/info:ndljp/pid/3438197/43	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/306
+巻6	s0613b	344	https://dl.ndl.go.jp/info:ndljp/pid/3438197/44	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/307
+巻6	s0614a	345	https://dl.ndl.go.jp/info:ndljp/pid/3438197/44	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/308
+巻6	s0614b	346	https://dl.ndl.go.jp/info:ndljp/pid/3438197/45	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/309
+巻6	s0615a	347	https://dl.ndl.go.jp/info:ndljp/pid/3438197/45	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/310
+巻6	s0615b	348	https://dl.ndl.go.jp/info:ndljp/pid/3438197/46	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/311
+巻6	s0616a	349	https://dl.ndl.go.jp/info:ndljp/pid/3438197/46	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/312
+巻6	s0616b	350	https://dl.ndl.go.jp/info:ndljp/pid/3438197/47	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/313
+巻6	s0617a	351	https://dl.ndl.go.jp/info:ndljp/pid/3438197/47	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/314
+巻6	s0617b	352	https://dl.ndl.go.jp/info:ndljp/pid/3438197/48	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/315
+巻6	s0618a	353	https://dl.ndl.go.jp/info:ndljp/pid/3438197/48	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/316
+巻6	s0618a	354	https://dl.ndl.go.jp/info:ndljp/pid/3438197/49	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/317
+巻6	s0618b	355	https://dl.ndl.go.jp/info:ndljp/pid/3438197/49	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/318
+巻6	s0619b	356	https://dl.ndl.go.jp/info:ndljp/pid/3438197/50	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/319
+巻6	s0620a	357	https://dl.ndl.go.jp/info:ndljp/pid/3438197/50	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/320
+巻6	s0620b	358	https://dl.ndl.go.jp/info:ndljp/pid/3438197/51	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/321
+巻6	s0621a	359	https://dl.ndl.go.jp/info:ndljp/pid/3438197/51	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/322
+巻6	s0621b	360	https://dl.ndl.go.jp/info:ndljp/pid/3438197/52	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/323
+巻6	s0622a	361	https://dl.ndl.go.jp/info:ndljp/pid/3438197/52	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/324
+巻6	s0622b	362	https://dl.ndl.go.jp/info:ndljp/pid/3438197/53	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/325
+巻6	s0623a	363	https://dl.ndl.go.jp/info:ndljp/pid/3438197/53	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/326
+巻6	s0623b	364	https://dl.ndl.go.jp/info:ndljp/pid/3438197/54	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/327
+巻6	s0624a	365	https://dl.ndl.go.jp/info:ndljp/pid/3438197/54	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/328
+巻6	s0624a	366	https://dl.ndl.go.jp/info:ndljp/pid/3438197/55	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/329
+巻6	s0625a	367	https://dl.ndl.go.jp/info:ndljp/pid/3438197/55	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/330
+巻6	s0625b	368	https://dl.ndl.go.jp/info:ndljp/pid/3438197/56	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/331
+巻6	s0626a	369	https://dl.ndl.go.jp/info:ndljp/pid/3438197/56	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/332
+巻6	s0626b	370	https://dl.ndl.go.jp/info:ndljp/pid/3438197/57	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/333
+巻6	s0627a	371	https://dl.ndl.go.jp/info:ndljp/pid/3438197/57	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/334
+巻6	s0627b	372	https://dl.ndl.go.jp/info:ndljp/pid/3438197/58	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/335
+巻6	s0627b	373	https://dl.ndl.go.jp/info:ndljp/pid/3438197/58	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/336
+巻6	s0628b	374	https://dl.ndl.go.jp/info:ndljp/pid/3438197/59	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/337
+巻6	s0629a	375	https://dl.ndl.go.jp/info:ndljp/pid/3438197/59	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/338
+巻6	s0629b	376	https://dl.ndl.go.jp/info:ndljp/pid/3438197/60	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/339
+巻6	s0630a	377	https://dl.ndl.go.jp/info:ndljp/pid/3438197/60	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/340
+巻6	s0630b	378	https://dl.ndl.go.jp/info:ndljp/pid/3438197/61	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/341
+巻6	s0631a	379	https://dl.ndl.go.jp/info:ndljp/pid/3438197/61	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/342
+巻6	s0631b	380	https://dl.ndl.go.jp/info:ndljp/pid/3438197/62	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/343
+巻6	s0632a	381	https://dl.ndl.go.jp/info:ndljp/pid/3438197/62	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/344
+巻6	s0632b	382	https://dl.ndl.go.jp/info:ndljp/pid/3438197/63	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/345
+巻6	s0633a	383	https://dl.ndl.go.jp/info:ndljp/pid/3438197/63	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/346
+巻6	s0633b	384	https://dl.ndl.go.jp/info:ndljp/pid/3438197/64	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/347
+巻6	#N/A	385	https://dl.ndl.go.jp/info:ndljp/pid/3438197/64	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/348
+巻7	#N/A	386	https://dl.ndl.go.jp/info:ndljp/pid/3438198/2	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/350
+巻7	s0701a	387	https://dl.ndl.go.jp/info:ndljp/pid/3438198/3	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/352
+巻7	s0701b	388	https://dl.ndl.go.jp/info:ndljp/pid/3438198/4	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/353
+巻7	s0702a	389	https://dl.ndl.go.jp/info:ndljp/pid/3438198/4	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/354
+巻7	s0702b	390	https://dl.ndl.go.jp/info:ndljp/pid/3438198/5	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/355
+巻7	s0703a	391	https://dl.ndl.go.jp/info:ndljp/pid/3438198/5	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/356
+巻7	s0703b	392	https://dl.ndl.go.jp/info:ndljp/pid/3438198/6	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/357
+巻7	s0704a	393	https://dl.ndl.go.jp/info:ndljp/pid/3438198/6	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/358
+巻7	s0704b	394	https://dl.ndl.go.jp/info:ndljp/pid/3438198/7	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/359
+巻7	s0705a	395	https://dl.ndl.go.jp/info:ndljp/pid/3438198/7	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/360
+巻7	s0705b	396	https://dl.ndl.go.jp/info:ndljp/pid/3438198/8	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/361
+巻7	s0706a	397	https://dl.ndl.go.jp/info:ndljp/pid/3438198/8	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/362
+巻7	s0706a	398	https://dl.ndl.go.jp/info:ndljp/pid/3438198/9	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/363
+巻7	s0707a	399	https://dl.ndl.go.jp/info:ndljp/pid/3438198/9	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/364
+巻7	s0707b	400	https://dl.ndl.go.jp/info:ndljp/pid/3438198/10	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/365
+巻7	s0708a	401	https://dl.ndl.go.jp/info:ndljp/pid/3438198/10	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/366
+巻7	s0708b	402	https://dl.ndl.go.jp/info:ndljp/pid/3438198/11	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/367
+巻7	s0709a	403	https://dl.ndl.go.jp/info:ndljp/pid/3438198/11	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/368
+巻7	s0709b	404	https://dl.ndl.go.jp/info:ndljp/pid/3438198/12	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/369
+巻7	s0710a	405	https://dl.ndl.go.jp/info:ndljp/pid/3438198/12	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/370
+巻7	s0710b	406	https://dl.ndl.go.jp/info:ndljp/pid/3438198/13	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/371
+巻7	s0711a	407	https://dl.ndl.go.jp/info:ndljp/pid/3438198/13	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/372
+巻7	s0711b	408	https://dl.ndl.go.jp/info:ndljp/pid/3438198/14	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/373
+巻7	s0712a	409	https://dl.ndl.go.jp/info:ndljp/pid/3438198/14	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/374
+巻7	s0712b	410	https://dl.ndl.go.jp/info:ndljp/pid/3438198/15	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/375
+巻7	s0713a	411	https://dl.ndl.go.jp/info:ndljp/pid/3438198/15	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/376
+巻7	s0713b	412	https://dl.ndl.go.jp/info:ndljp/pid/3438198/16	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/377
+巻7	s0714a	413	https://dl.ndl.go.jp/info:ndljp/pid/3438198/16	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/378
+巻7	s0714b	414	https://dl.ndl.go.jp/info:ndljp/pid/3438198/17	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/379
+巻7	s0715a	415	https://dl.ndl.go.jp/info:ndljp/pid/3438198/17	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/380
+巻7	s0715b	416	https://dl.ndl.go.jp/info:ndljp/pid/3438198/18	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/381
+巻7	s0716a	417	https://dl.ndl.go.jp/info:ndljp/pid/3438198/18	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/382
+巻7	s0716b	418	https://dl.ndl.go.jp/info:ndljp/pid/3438198/19	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/383
+巻7	s0717a	419	https://dl.ndl.go.jp/info:ndljp/pid/3438198/19	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/384
+巻7	s0717b	420	https://dl.ndl.go.jp/info:ndljp/pid/3438198/20	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/385
+巻7	s0718a	421	https://dl.ndl.go.jp/info:ndljp/pid/3438198/20	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/386
+巻7	s0718b	422	https://dl.ndl.go.jp/info:ndljp/pid/3438198/21	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/387
+巻7	s0719a	423	https://dl.ndl.go.jp/info:ndljp/pid/3438198/21	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/388
+巻7	s0719b	424	https://dl.ndl.go.jp/info:ndljp/pid/3438198/22	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/389
+巻7	s0720a	425	https://dl.ndl.go.jp/info:ndljp/pid/3438198/22	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/390
+巻7	s0720b	426	https://dl.ndl.go.jp/info:ndljp/pid/3438198/23	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/391
+巻7	s0721a	427	https://dl.ndl.go.jp/info:ndljp/pid/3438198/23	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/392
+巻7	s0721b	428	https://dl.ndl.go.jp/info:ndljp/pid/3438198/24	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/393
+巻7	s0722a	429	https://dl.ndl.go.jp/info:ndljp/pid/3438198/24	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/394
+巻7	s0722b	430	https://dl.ndl.go.jp/info:ndljp/pid/3438198/25	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/395
+巻7	s0723a	431	https://dl.ndl.go.jp/info:ndljp/pid/3438198/25	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/396
+巻7	s0723b	432	https://dl.ndl.go.jp/info:ndljp/pid/3438198/26	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/397
+巻7	s0724a	433	https://dl.ndl.go.jp/info:ndljp/pid/3438198/26	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/398
+巻7	s0724b	434	https://dl.ndl.go.jp/info:ndljp/pid/3438198/27	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/399
+巻7	s0725a	435	https://dl.ndl.go.jp/info:ndljp/pid/3438198/27	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/400
+巻7	s0725b	436	https://dl.ndl.go.jp/info:ndljp/pid/3438198/28	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/401
+巻7	s0726a	437	https://dl.ndl.go.jp/info:ndljp/pid/3438198/28	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/402
+巻7	s0726b	438	https://dl.ndl.go.jp/info:ndljp/pid/3438198/29	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/403
+巻7	s0727a	439	https://dl.ndl.go.jp/info:ndljp/pid/3438198/29	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/404
+巻7	s0727b	440	https://dl.ndl.go.jp/info:ndljp/pid/3438198/30	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/406
+巻7	s0728a	441	https://dl.ndl.go.jp/info:ndljp/pid/3438198/30	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/407
+巻7	s0728b	442	https://dl.ndl.go.jp/info:ndljp/pid/3438198/31	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/408
+巻7	s0729a	443	https://dl.ndl.go.jp/info:ndljp/pid/3438198/31	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/409
+巻7	s0729b	444	https://dl.ndl.go.jp/info:ndljp/pid/3438198/32	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/410
+巻7	s0730a	445	https://dl.ndl.go.jp/info:ndljp/pid/3438198/32	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/411
+巻7	s0730b	446	https://dl.ndl.go.jp/info:ndljp/pid/3438198/33	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/412
+巻7	s0731a	447	https://dl.ndl.go.jp/info:ndljp/pid/3438198/33	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/413
+巻7	s0731b	448	https://dl.ndl.go.jp/info:ndljp/pid/3438198/34	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/414
+巻7	s0732a	449	https://dl.ndl.go.jp/info:ndljp/pid/3438198/34	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/415
+巻7	s0732b	450	https://dl.ndl.go.jp/info:ndljp/pid/3438198/35	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/416
+巻7	s0733a	451	https://dl.ndl.go.jp/info:ndljp/pid/3438198/35	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/417
+巻7	s0733b	452	https://dl.ndl.go.jp/info:ndljp/pid/3438198/36	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/418
+巻7	s0734a	453	https://dl.ndl.go.jp/info:ndljp/pid/3438198/36	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/419
+巻7	s0734b	454	https://dl.ndl.go.jp/info:ndljp/pid/3438198/37	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/420
+巻7	s0735a	455	https://dl.ndl.go.jp/info:ndljp/pid/3438198/37	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/421
+巻7	s0735b	456	https://dl.ndl.go.jp/info:ndljp/pid/3438198/38	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/422
+巻7	s0736a	457	https://dl.ndl.go.jp/info:ndljp/pid/3438198/38	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/423
+巻7	s0736b	458	https://dl.ndl.go.jp/info:ndljp/pid/3438198/39	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/424
+巻7	s0737a	459	https://dl.ndl.go.jp/info:ndljp/pid/3438198/39	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/425
+巻7	s0737b	460	https://dl.ndl.go.jp/info:ndljp/pid/3438198/40	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/426
+巻7	#N/A	461	#N/A	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/427
+巻8	#N/A	462	https://dl.ndl.go.jp/info:ndljp/pid/3438198/40	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/431
+巻8	s0801a	463	https://dl.ndl.go.jp/info:ndljp/pid/3438198/41	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/433
+巻8	s0801b	464	https://dl.ndl.go.jp/info:ndljp/pid/3438198/42	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/434
+巻8	s0802a	465	https://dl.ndl.go.jp/info:ndljp/pid/3438198/42	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/435
+巻8	s0802b	466	https://dl.ndl.go.jp/info:ndljp/pid/3438198/43	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/436
+巻8	s0803a	467	https://dl.ndl.go.jp/info:ndljp/pid/3438198/43	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/437
+巻8	s0803b	468	https://dl.ndl.go.jp/info:ndljp/pid/3438198/44	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/438
+巻8	s0804a	469	https://dl.ndl.go.jp/info:ndljp/pid/3438198/44	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/439
+巻8	s0804b	470	https://dl.ndl.go.jp/info:ndljp/pid/3438198/45	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/440
+巻8	s0805a	471	https://dl.ndl.go.jp/info:ndljp/pid/3438198/45	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/441
+巻8	s0805b	472	https://dl.ndl.go.jp/info:ndljp/pid/3438198/46	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/442
+巻8	s0806a	473	https://dl.ndl.go.jp/info:ndljp/pid/3438198/46	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/443
+巻8	s0806b	474	https://dl.ndl.go.jp/info:ndljp/pid/3438198/47	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/444
+巻8	s0807a	475	https://dl.ndl.go.jp/info:ndljp/pid/3438198/47	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/445
+巻8	s0807b	476	https://dl.ndl.go.jp/info:ndljp/pid/3438198/48	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/446
+巻8	s0808a	477	https://dl.ndl.go.jp/info:ndljp/pid/3438198/48	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/447
+巻8	s0808b	478	https://dl.ndl.go.jp/info:ndljp/pid/3438198/49	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/448
+巻8	s0809a	479	https://dl.ndl.go.jp/info:ndljp/pid/3438198/49	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/449
+巻8	s0809b	480	https://dl.ndl.go.jp/info:ndljp/pid/3438198/50	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/450
+巻8	s0810a	481	https://dl.ndl.go.jp/info:ndljp/pid/3438198/50	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/451
+巻8	s0810b	482	https://dl.ndl.go.jp/info:ndljp/pid/3438198/51	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/452
+巻8	s0811a	483	https://dl.ndl.go.jp/info:ndljp/pid/3438198/51	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/453
+巻8	s0811b	484	https://dl.ndl.go.jp/info:ndljp/pid/3438198/52	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/454
+巻8	s0812a	485	https://dl.ndl.go.jp/info:ndljp/pid/3438198/52	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/455
+巻8	s0812b	486	https://dl.ndl.go.jp/info:ndljp/pid/3438198/53	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/456
+巻8	s0813a	487	https://dl.ndl.go.jp/info:ndljp/pid/3438198/53	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/457
+巻8	s0813b	488	https://dl.ndl.go.jp/info:ndljp/pid/3438198/54	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/458
+巻8	s0814a	489	https://dl.ndl.go.jp/info:ndljp/pid/3438198/54	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/459
+巻8	s0814b	490	https://dl.ndl.go.jp/info:ndljp/pid/3438198/55	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/460
+巻8	s0815a	491	https://dl.ndl.go.jp/info:ndljp/pid/3438198/55	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/461
+巻8	s0815b	492	https://dl.ndl.go.jp/info:ndljp/pid/3438198/56	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/462
+巻8	s0816a	493	https://dl.ndl.go.jp/info:ndljp/pid/3438198/56	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/463
+巻8	s0816b	494	https://dl.ndl.go.jp/info:ndljp/pid/3438198/57	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/464
+巻8	s0817a	495	https://dl.ndl.go.jp/info:ndljp/pid/3438198/57	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/465
+巻8	s0817b	496	https://dl.ndl.go.jp/info:ndljp/pid/3438198/58	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/466
+巻8	s0818a	497	https://dl.ndl.go.jp/info:ndljp/pid/3438198/58	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/467
+巻8	s0818b	498	https://dl.ndl.go.jp/info:ndljp/pid/3438198/59	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/468
+巻8	s0819a	499	https://dl.ndl.go.jp/info:ndljp/pid/3438198/59	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/469
+巻8	s0819b	500	https://dl.ndl.go.jp/info:ndljp/pid/3438198/60	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/470
+巻8	s0820a	501	https://dl.ndl.go.jp/info:ndljp/pid/3438198/60	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/471
+巻8	s0820b	502	https://dl.ndl.go.jp/info:ndljp/pid/3438198/61	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/472
+巻8	s0821a	503	https://dl.ndl.go.jp/info:ndljp/pid/3438198/61	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/473
+巻8	s0821b	504	https://dl.ndl.go.jp/info:ndljp/pid/3438198/62	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/474
+巻8	s0821b	505	https://dl.ndl.go.jp/info:ndljp/pid/3438198/62	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/475
+巻8	s0822b	506	https://dl.ndl.go.jp/info:ndljp/pid/3438198/63	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/476
+巻8	s0823a	507	https://dl.ndl.go.jp/info:ndljp/pid/3438198/63	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/477
+巻8	s0823b	508	https://dl.ndl.go.jp/info:ndljp/pid/3438198/64	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/478
+巻8	s0824a	509	https://dl.ndl.go.jp/info:ndljp/pid/3438198/64	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/479
+巻8	s0824b	510	https://dl.ndl.go.jp/info:ndljp/pid/3438198/65	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/480
+巻8	s0825a	511	https://dl.ndl.go.jp/info:ndljp/pid/3438198/65	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/481
+巻8	s0825b	512	https://dl.ndl.go.jp/info:ndljp/pid/3438198/66	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/482
+巻9	#N/A	513	https://dl.ndl.go.jp/info:ndljp/pid/3438199/2	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/485
+巻9	#N/A	514	https://dl.ndl.go.jp/info:ndljp/pid/3438199/3	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/486
+巻9	s0901a	515	https://dl.ndl.go.jp/info:ndljp/pid/3438199/3	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/487
+巻9	s0901b	516	https://dl.ndl.go.jp/info:ndljp/pid/3438199/4	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/488
+巻9	s0902a	517	https://dl.ndl.go.jp/info:ndljp/pid/3438199/4	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/489
+巻9	s0902b	518	https://dl.ndl.go.jp/info:ndljp/pid/3438199/5	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/490
+巻9	s0903a	519	https://dl.ndl.go.jp/info:ndljp/pid/3438199/5	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/491
+巻9	s0903b	520	https://dl.ndl.go.jp/info:ndljp/pid/3438199/6	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/492
+巻9	s0904a	521	https://dl.ndl.go.jp/info:ndljp/pid/3438199/6	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/493
+巻9	s0904b	522	https://dl.ndl.go.jp/info:ndljp/pid/3438199/7	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/494
+巻9	s0905a	523	https://dl.ndl.go.jp/info:ndljp/pid/3438199/7	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/495
+巻9	s0905b	524	https://dl.ndl.go.jp/info:ndljp/pid/3438199/8	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/496
+巻9	s0906a	525	https://dl.ndl.go.jp/info:ndljp/pid/3438199/8	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/497
+巻9	s0906b	526	https://dl.ndl.go.jp/info:ndljp/pid/3438199/9	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/498
+巻9	s0907a	527	https://dl.ndl.go.jp/info:ndljp/pid/3438199/9	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/499
+巻9	s0907b	528	https://dl.ndl.go.jp/info:ndljp/pid/3438199/10	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/500
+巻9	s0908a	529	https://dl.ndl.go.jp/info:ndljp/pid/3438199/10	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/501
+巻9	s0908b	530	https://dl.ndl.go.jp/info:ndljp/pid/3438199/11	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/502
+巻9	s0909a	531	https://dl.ndl.go.jp/info:ndljp/pid/3438199/11	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/503
+巻9	s0909b	532	https://dl.ndl.go.jp/info:ndljp/pid/3438199/12	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/504
+巻9	s0910a	533	https://dl.ndl.go.jp/info:ndljp/pid/3438199/12	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/505
+巻9	s0910b	534	https://dl.ndl.go.jp/info:ndljp/pid/3438199/13	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/506
+巻9	s0911a	535	https://dl.ndl.go.jp/info:ndljp/pid/3438199/13	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/507
+巻9	s0911b	536	https://dl.ndl.go.jp/info:ndljp/pid/3438199/14	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/508
+巻9	s0912a	537	https://dl.ndl.go.jp/info:ndljp/pid/3438199/14	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/509
+巻9	s0912b	538	https://dl.ndl.go.jp/info:ndljp/pid/3438199/15	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/510
+巻9	s0913a	539	https://dl.ndl.go.jp/info:ndljp/pid/3438199/15	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/511
+巻9	s0913b	540	https://dl.ndl.go.jp/info:ndljp/pid/3438199/16	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/512
+巻9	s0914a	541	https://dl.ndl.go.jp/info:ndljp/pid/3438199/16	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/513
+巻9	s0914b	542	https://dl.ndl.go.jp/info:ndljp/pid/3438199/17	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/514
+巻9	s0915a	543	https://dl.ndl.go.jp/info:ndljp/pid/3438199/17	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/515
+巻9	s0915b	544	https://dl.ndl.go.jp/info:ndljp/pid/3438199/18	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/516
+巻9	s0916a	545	https://dl.ndl.go.jp/info:ndljp/pid/3438199/18	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/517
+巻9	s0916b	546	https://dl.ndl.go.jp/info:ndljp/pid/3438199/19	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/518
+巻9	s0917a	547	https://dl.ndl.go.jp/info:ndljp/pid/3438199/19	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/519
+巻9	s0917b	548	https://dl.ndl.go.jp/info:ndljp/pid/3438199/20	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/520
+巻9	s0918a	549	https://dl.ndl.go.jp/info:ndljp/pid/3438199/20	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/521
+巻9	s0918b	550	https://dl.ndl.go.jp/info:ndljp/pid/3438199/21	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/522
+巻9	s0919a	551	https://dl.ndl.go.jp/info:ndljp/pid/3438199/21	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/523
+巻9	s0919b	552	https://dl.ndl.go.jp/info:ndljp/pid/3438199/22	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/524
+巻9	s0920a	553	https://dl.ndl.go.jp/info:ndljp/pid/3438199/22	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/525
+巻9	s0920b	554	https://dl.ndl.go.jp/info:ndljp/pid/3438199/23	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/526
+巻9	s0921a	555	https://dl.ndl.go.jp/info:ndljp/pid/3438199/23	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/527
+巻9	s0921a	556	https://dl.ndl.go.jp/info:ndljp/pid/3438199/24	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/528
+巻9	s0922a	557	https://dl.ndl.go.jp/info:ndljp/pid/3438199/24	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/529
+巻9	s0922b	558	https://dl.ndl.go.jp/info:ndljp/pid/3438199/25	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/530
+巻9	s0923a	559	https://dl.ndl.go.jp/info:ndljp/pid/3438199/25	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/531
+巻9	s0923b	560	https://dl.ndl.go.jp/info:ndljp/pid/3438199/26	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/532
+巻9	s0924a	561	https://dl.ndl.go.jp/info:ndljp/pid/3438199/26	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/533
+巻9	s0924b	562	https://dl.ndl.go.jp/info:ndljp/pid/3438199/27	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/534
+巻9	s0925a	563	https://dl.ndl.go.jp/info:ndljp/pid/3438199/27	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/535
+巻9	s0925b	564	https://dl.ndl.go.jp/info:ndljp/pid/3438199/28	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/536
+巻10	#N/A	565	https://dl.ndl.go.jp/info:ndljp/pid/3438199/28	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/540
+巻10	#N/A	566	https://dl.ndl.go.jp/info:ndljp/pid/3438199/29	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/541
+巻10	s1001a	567	https://dl.ndl.go.jp/info:ndljp/pid/3438199/29	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/542
+巻10	s1001b	568	https://dl.ndl.go.jp/info:ndljp/pid/3438199/30	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/543
+巻10	s1002a	569	https://dl.ndl.go.jp/info:ndljp/pid/3438199/30	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/543
+巻10	s1002b	570	https://dl.ndl.go.jp/info:ndljp/pid/3438199/31	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/544
+巻10	s1003a	571	https://dl.ndl.go.jp/info:ndljp/pid/3438199/31	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/544
+巻10	s1003b	572	https://dl.ndl.go.jp/info:ndljp/pid/3438199/32	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/545
+巻10	s1004a	573	https://dl.ndl.go.jp/info:ndljp/pid/3438199/32	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/545
+巻10	s1004b	574	https://dl.ndl.go.jp/info:ndljp/pid/3438199/33	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/546
+巻10	s1005a	575	https://dl.ndl.go.jp/info:ndljp/pid/3438199/33	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/546
+巻10	s1005b	576	https://dl.ndl.go.jp/info:ndljp/pid/3438199/34	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/547
+巻10	s1006a	577	https://dl.ndl.go.jp/info:ndljp/pid/3438199/34	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/547
+巻10	s1006b	578	https://dl.ndl.go.jp/info:ndljp/pid/3438199/35	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/548
+巻10	s1007a	579	https://dl.ndl.go.jp/info:ndljp/pid/3438199/35	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/548
+巻10	s1007b	580	https://dl.ndl.go.jp/info:ndljp/pid/3438199/36	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/549
+巻10	s1008a	581	https://dl.ndl.go.jp/info:ndljp/pid/3438199/36	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/549
+巻10	s1008b	582	https://dl.ndl.go.jp/info:ndljp/pid/3438199/37	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/550
+巻10	s1009a	583	https://dl.ndl.go.jp/info:ndljp/pid/3438199/37	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/550
+巻10	s1009b	584	https://dl.ndl.go.jp/info:ndljp/pid/3438199/38	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/551
+巻10	s1010a	585	https://dl.ndl.go.jp/info:ndljp/pid/3438199/38	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/551
+巻10	s1010b	586	https://dl.ndl.go.jp/info:ndljp/pid/3438199/39	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/552
+巻10	s1011a	587	https://dl.ndl.go.jp/info:ndljp/pid/3438199/39	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/552
+巻10	s1011b	588	https://dl.ndl.go.jp/info:ndljp/pid/3438199/40	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/553
+巻10	s1012a	589	https://dl.ndl.go.jp/info:ndljp/pid/3438199/40	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/553
+巻10	s1012b	590	https://dl.ndl.go.jp/info:ndljp/pid/3438199/41	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/554
+巻10	s1013a	591	https://dl.ndl.go.jp/info:ndljp/pid/3438199/41	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/554
+巻10	s1013b	592	https://dl.ndl.go.jp/info:ndljp/pid/3438199/42	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/555
+巻10	s1013b	593	https://dl.ndl.go.jp/info:ndljp/pid/3438199/42	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/555
+巻10	s1014b	594	https://dl.ndl.go.jp/info:ndljp/pid/3438199/43	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/556
+巻10	s1015a	595	https://dl.ndl.go.jp/info:ndljp/pid/3438199/43	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/556
+巻10	s1015b	596	https://dl.ndl.go.jp/info:ndljp/pid/3438199/44	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/557
+巻10	s1016a	597	https://dl.ndl.go.jp/info:ndljp/pid/3438199/44	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/557
+巻10	s1016b	598	https://dl.ndl.go.jp/info:ndljp/pid/3438199/45	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/558
+巻10	s1017a	599	https://dl.ndl.go.jp/info:ndljp/pid/3438199/45	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/558
+巻10	s1017b	600	https://dl.ndl.go.jp/info:ndljp/pid/3438199/46	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/559
+巻10	s1018a	601	https://dl.ndl.go.jp/info:ndljp/pid/3438199/46	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/559
+巻10	s1018b	602	https://dl.ndl.go.jp/info:ndljp/pid/3438199/47	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/560
+巻10	s1019a	603	https://dl.ndl.go.jp/info:ndljp/pid/3438199/47	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/560
+巻10	s1019b	604	https://dl.ndl.go.jp/info:ndljp/pid/3438199/48	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/561
+巻10	s1020a	605	https://dl.ndl.go.jp/info:ndljp/pid/3438199/48	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/561
+巻10	s1020b	606	https://dl.ndl.go.jp/info:ndljp/pid/3438199/49	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/562
+巻10	s1021a	607	https://dl.ndl.go.jp/info:ndljp/pid/3438199/49	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/562
+巻10	s1021b	608	https://dl.ndl.go.jp/info:ndljp/pid/3438199/50	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/563
+巻10	s1022a	609	https://dl.ndl.go.jp/info:ndljp/pid/3438199/50	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/563
+巻10	s1022b	610	https://dl.ndl.go.jp/info:ndljp/pid/3438199/51	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/564
+巻10	s1023a	611	https://dl.ndl.go.jp/info:ndljp/pid/3438199/51	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/564
+巻10	s1023b	612	https://dl.ndl.go.jp/info:ndljp/pid/3438199/52	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/565
+巻10	s1024a	613	https://dl.ndl.go.jp/info:ndljp/pid/3438199/52	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/565
+巻10	s1024b	614	https://dl.ndl.go.jp/info:ndljp/pid/3438199/53	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/566
+巻10	s1025a	615	https://dl.ndl.go.jp/info:ndljp/pid/3438199/53	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/566
+巻10	s1025b	616	https://dl.ndl.go.jp/info:ndljp/pid/3438199/54	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/567
+巻10	s1026a	617	https://dl.ndl.go.jp/info:ndljp/pid/3438199/54	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/567
+巻10	s1026b	618	https://dl.ndl.go.jp/info:ndljp/pid/3438199/55	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/568
+巻10	s1027a	619	https://dl.ndl.go.jp/info:ndljp/pid/3438199/55	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/568
+巻10	s1027b	620	https://dl.ndl.go.jp/info:ndljp/pid/3438199/56	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/569
+巻10	s1028a	621	https://dl.ndl.go.jp/info:ndljp/pid/3438199/56	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/569
+巻10	s1028b	622	https://dl.ndl.go.jp/info:ndljp/pid/3438199/57	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/570
+巻10	s1029a	623	https://dl.ndl.go.jp/info:ndljp/pid/3438199/57	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/570
+巻10	s1029b	624	https://dl.ndl.go.jp/info:ndljp/pid/3438199/58	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/571
+巻10	s1030a	625	https://dl.ndl.go.jp/info:ndljp/pid/3438199/58	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/571
+巻10	s1030a	626	https://dl.ndl.go.jp/info:ndljp/pid/3438199/59	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/572
+巻10	s1031a	627	https://dl.ndl.go.jp/info:ndljp/pid/3438199/59	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/572
+巻10	s1031b	628	https://dl.ndl.go.jp/info:ndljp/pid/3438199/60	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/573
+巻10	s1032a	629	https://dl.ndl.go.jp/info:ndljp/pid/3438199/60	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/573
+巻10	s1032b	630	https://dl.ndl.go.jp/info:ndljp/pid/3438199/61	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/574
+巻10	s1033a	631	https://dl.ndl.go.jp/info:ndljp/pid/3438199/61	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/574
+巻10	s1033b	632	https://dl.ndl.go.jp/info:ndljp/pid/3438199/62	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/575
+巻10	s1034a	633	https://dl.ndl.go.jp/info:ndljp/pid/3438199/62	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/575
+巻10	s1034b	634	https://dl.ndl.go.jp/info:ndljp/pid/3438199/63	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/576
+巻10	#N/A	635	https://dl.ndl.go.jp/info:ndljp/pid/3438199/63	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/576
+巻10	#N/A	636	https://dl.ndl.go.jp/info:ndljp/pid/3438199/64	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/577
+巻11	s1101a	637	https://dl.ndl.go.jp/info:ndljp/pid/3438200/3	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/581
+巻11	s1101b	638	https://dl.ndl.go.jp/info:ndljp/pid/3438200/4	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/582
+巻11	s1102a	639	https://dl.ndl.go.jp/info:ndljp/pid/3438200/4	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/583
+巻11	s1102b	640	https://dl.ndl.go.jp/info:ndljp/pid/3438200/5	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/584
+巻11	s1103a	641	https://dl.ndl.go.jp/info:ndljp/pid/3438200/5	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/585
+巻11	s1103b	642	https://dl.ndl.go.jp/info:ndljp/pid/3438200/6	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/586
+巻11	s1104a	643	https://dl.ndl.go.jp/info:ndljp/pid/3438200/6	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/587
+巻11	s1104b	644	https://dl.ndl.go.jp/info:ndljp/pid/3438200/7	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/588
+巻11	s1105a	645	https://dl.ndl.go.jp/info:ndljp/pid/3438200/7	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/589
+巻11	s1105b	646	https://dl.ndl.go.jp/info:ndljp/pid/3438200/8	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/590
+巻11	s1105b	647	https://dl.ndl.go.jp/info:ndljp/pid/3438200/8	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/591
+巻11	s1106b	648	https://dl.ndl.go.jp/info:ndljp/pid/3438200/9	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/592
+巻11	s1107a	649	https://dl.ndl.go.jp/info:ndljp/pid/3438200/9	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/593
+巻11	s1107b	650	https://dl.ndl.go.jp/info:ndljp/pid/3438200/10	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/594
+巻11	s1108a	651	https://dl.ndl.go.jp/info:ndljp/pid/3438200/10	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/595
+巻11	s1108b	652	https://dl.ndl.go.jp/info:ndljp/pid/3438200/11	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/596
+巻11	s1109a	653	https://dl.ndl.go.jp/info:ndljp/pid/3438200/11	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/597
+巻11	s1109b	654	https://dl.ndl.go.jp/info:ndljp/pid/3438200/12	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/598
+巻11	s1110a	655	https://dl.ndl.go.jp/info:ndljp/pid/3438200/12	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/599
+巻11	s1110b	656	https://dl.ndl.go.jp/info:ndljp/pid/3438200/13	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/600
+巻11	s1111a	657	https://dl.ndl.go.jp/info:ndljp/pid/3438200/13	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/601
+巻11	s1111b	658	https://dl.ndl.go.jp/info:ndljp/pid/3438200/14	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/602
+巻11	s1112a	659	https://dl.ndl.go.jp/info:ndljp/pid/3438200/14	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/603
+巻11	s1112b	660	https://dl.ndl.go.jp/info:ndljp/pid/3438200/15	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/604
+巻11	s1113a	661	https://dl.ndl.go.jp/info:ndljp/pid/3438200/15	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/605
+巻11	s1113b	662	https://dl.ndl.go.jp/info:ndljp/pid/3438200/16	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/606
+巻11	s1114a	663	https://dl.ndl.go.jp/info:ndljp/pid/3438200/16	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/607
+巻11	s1114b	664	https://dl.ndl.go.jp/info:ndljp/pid/3438200/17	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/608
+巻11	s1115a	665	https://dl.ndl.go.jp/info:ndljp/pid/3438200/17	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/609
+巻11	s1115b	666	https://dl.ndl.go.jp/info:ndljp/pid/3438200/18	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/610
+巻11	s1116a	667	https://dl.ndl.go.jp/info:ndljp/pid/3438200/18	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/611
+巻11	s1116b	668	https://dl.ndl.go.jp/info:ndljp/pid/3438200/19	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/612
+巻11	s1117a	669	https://dl.ndl.go.jp/info:ndljp/pid/3438200/19	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/613
+巻11	s1117b	670	https://dl.ndl.go.jp/info:ndljp/pid/3438200/20	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/614
+巻11	s1118a	671	https://dl.ndl.go.jp/info:ndljp/pid/3438200/20	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/615
+巻11	s1118b	672	https://dl.ndl.go.jp/info:ndljp/pid/3438200/21	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/616
+巻11	s1119a	673	https://dl.ndl.go.jp/info:ndljp/pid/3438200/21	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/617
+巻11	s1119b	674	https://dl.ndl.go.jp/info:ndljp/pid/3438200/22	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/618
+巻11	s1120a	675	https://dl.ndl.go.jp/info:ndljp/pid/3438200/22	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/619
+巻11	s1120b	676	https://dl.ndl.go.jp/info:ndljp/pid/3438200/23	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/620
+巻11	s1121a	677	https://dl.ndl.go.jp/info:ndljp/pid/3438200/23	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/621
+巻11	s1121b	678	https://dl.ndl.go.jp/info:ndljp/pid/3438200/24	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/622
+巻11	s1122a	679	https://dl.ndl.go.jp/info:ndljp/pid/3438200/24	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/623
+巻11	s1122b	680	https://dl.ndl.go.jp/info:ndljp/pid/3438200/25	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/624
+巻11	s1123a	681	https://dl.ndl.go.jp/info:ndljp/pid/3438200/25	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/625
+巻11	s1123b	682	https://dl.ndl.go.jp/info:ndljp/pid/3438200/26	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/626
+巻11	s1124a	683	https://dl.ndl.go.jp/info:ndljp/pid/3438200/26	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/627
+巻11	s1124b	684	https://dl.ndl.go.jp/info:ndljp/pid/3438200/27	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/628
+巻11	s1125a	685	https://dl.ndl.go.jp/info:ndljp/pid/3438200/27	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/629
+巻11	s1125b	686	https://dl.ndl.go.jp/info:ndljp/pid/3438200/28	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/630
+巻11	s1126a	687	https://dl.ndl.go.jp/info:ndljp/pid/3438200/28	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/631
+巻11	s1126b	688	https://dl.ndl.go.jp/info:ndljp/pid/3438200/29	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/632
+巻11	s1127a	689	https://dl.ndl.go.jp/info:ndljp/pid/3438200/29	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/633
+巻11	s1127b	690	https://dl.ndl.go.jp/info:ndljp/pid/3438200/30	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/634
+巻11	s1128a	691	https://dl.ndl.go.jp/info:ndljp/pid/3438200/30	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/635
+巻11	s1128b	692	https://dl.ndl.go.jp/info:ndljp/pid/3438200/31	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/636
+巻11	s1129a	693	https://dl.ndl.go.jp/info:ndljp/pid/3438200/31	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/637
+巻11	s1129b	694	https://dl.ndl.go.jp/info:ndljp/pid/3438200/32	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/638
+巻11	s1130a	695	https://dl.ndl.go.jp/info:ndljp/pid/3438200/32	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/639
+巻11	s1130b	696	https://dl.ndl.go.jp/info:ndljp/pid/3438200/33	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/640
+巻11	s1131a	697	https://dl.ndl.go.jp/info:ndljp/pid/3438200/33	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/641
+巻11	s1131b	698	https://dl.ndl.go.jp/info:ndljp/pid/3438200/34	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/642
+巻11	s1132a	699	https://dl.ndl.go.jp/info:ndljp/pid/3438200/34	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/643
+巻11	s1132b	700	https://dl.ndl.go.jp/info:ndljp/pid/3438200/35	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/644
+巻11	s1133a	701	https://dl.ndl.go.jp/info:ndljp/pid/3438200/35	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/645
+巻11	s1133b	702	https://dl.ndl.go.jp/info:ndljp/pid/3438200/36	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/646
+巻11	s1134a	703	https://dl.ndl.go.jp/info:ndljp/pid/3438200/36	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/647
+巻11	s1134b	704	https://dl.ndl.go.jp/info:ndljp/pid/3438200/37	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/648
+巻11	s1135a	705	https://dl.ndl.go.jp/info:ndljp/pid/3438200/37	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/649
+巻11	s1135b	706	https://dl.ndl.go.jp/info:ndljp/pid/3438200/38	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/650
+巻11	s1136a	707	https://dl.ndl.go.jp/info:ndljp/pid/3438200/38	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/651
+巻11	s1136b	708	https://dl.ndl.go.jp/info:ndljp/pid/3438200/39	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/652
+巻11	s1137a	709	https://dl.ndl.go.jp/info:ndljp/pid/3438200/39	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/653
+巻11	s1137b	710	https://dl.ndl.go.jp/info:ndljp/pid/3438200/40	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/654
+巻11	s1138a	711	https://dl.ndl.go.jp/info:ndljp/pid/3438200/40	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/655
+巻11	s1138b	712	https://dl.ndl.go.jp/info:ndljp/pid/3438200/41	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/656
+巻11	s1139a	713	https://dl.ndl.go.jp/info:ndljp/pid/3438200/41	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/657
+巻11	s1139b	714	https://dl.ndl.go.jp/info:ndljp/pid/3438200/42	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/658
+巻11	s1140a	715	https://dl.ndl.go.jp/info:ndljp/pid/3438200/42	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/659
+巻11	s1140b	716	https://dl.ndl.go.jp/info:ndljp/pid/3438200/43	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/660
+巻11	s1141a	717	https://dl.ndl.go.jp/info:ndljp/pid/3438200/43	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/661
+巻11	s1141b	718	https://dl.ndl.go.jp/info:ndljp/pid/3438200/44	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/662
+巻11	s1142a	719	https://dl.ndl.go.jp/info:ndljp/pid/3438200/44	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/663
+巻11	s1142b	720	https://dl.ndl.go.jp/info:ndljp/pid/3438200/45	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/664
+巻11	s1143a	721	https://dl.ndl.go.jp/info:ndljp/pid/3438200/45	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/665
+巻11	s1143b	722	https://dl.ndl.go.jp/info:ndljp/pid/3438200/46	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/666
+巻11	#N/A	723	#N/A	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/667
+巻12	#N/A	724	https://dl.ndl.go.jp/info:ndljp/pid/3438200/46	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/673
+巻12	s1201a	725	https://dl.ndl.go.jp/info:ndljp/pid/3438200/47	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/675
+巻12	s1201b	726	https://dl.ndl.go.jp/info:ndljp/pid/3438200/48	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/676
+巻12	s1202a	727	https://dl.ndl.go.jp/info:ndljp/pid/3438200/48	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/677
+巻12	s1202b	728	https://dl.ndl.go.jp/info:ndljp/pid/3438200/49	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/678
+巻12	s1203a	729	https://dl.ndl.go.jp/info:ndljp/pid/3438200/49	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/679
+巻12	s1203a	730	https://dl.ndl.go.jp/info:ndljp/pid/3438200/50	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/680
+巻12	s1204a	731	https://dl.ndl.go.jp/info:ndljp/pid/3438200/50	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/681
+巻12	s1204b	732	https://dl.ndl.go.jp/info:ndljp/pid/3438200/51	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/682
+巻12	s1205a	733	https://dl.ndl.go.jp/info:ndljp/pid/3438200/51	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/683
+巻12	s1205a	734	https://dl.ndl.go.jp/info:ndljp/pid/3438200/52	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/684
+巻12	s1206a	735	https://dl.ndl.go.jp/info:ndljp/pid/3438200/52	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/685
+巻12	s1206b	736	https://dl.ndl.go.jp/info:ndljp/pid/3438200/53	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/686
+巻12	s1207a	737	https://dl.ndl.go.jp/info:ndljp/pid/3438200/53	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/687
+巻12	s1207b	738	https://dl.ndl.go.jp/info:ndljp/pid/3438200/54	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/688
+巻12	s1208a	739	https://dl.ndl.go.jp/info:ndljp/pid/3438200/54	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/689
+巻12	s1208b	740	https://dl.ndl.go.jp/info:ndljp/pid/3438200/55	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/690
+巻12	s1209a	741	https://dl.ndl.go.jp/info:ndljp/pid/3438200/55	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/691
+巻12	s1209b	742	https://dl.ndl.go.jp/info:ndljp/pid/3438200/56	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/692
+巻12	s1210a	743	https://dl.ndl.go.jp/info:ndljp/pid/3438200/56	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/693
+巻12	s1210b	744	https://dl.ndl.go.jp/info:ndljp/pid/3438200/57	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/694
+巻12	s1211a	745	https://dl.ndl.go.jp/info:ndljp/pid/3438200/57	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/695
+巻12	s1211b	746	https://dl.ndl.go.jp/info:ndljp/pid/3438200/58	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/696
+巻12	s1212a	747	https://dl.ndl.go.jp/info:ndljp/pid/3438200/58	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/697
+巻12	s1212b	748	https://dl.ndl.go.jp/info:ndljp/pid/3438200/59	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/698
+巻12	s1213a	749	https://dl.ndl.go.jp/info:ndljp/pid/3438200/59	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/699
+巻12	s1213b	750	https://dl.ndl.go.jp/info:ndljp/pid/3438200/60	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/700
+巻12	s1214a	751	https://dl.ndl.go.jp/info:ndljp/pid/3438200/60	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/701
+巻12	s1214b	752	https://dl.ndl.go.jp/info:ndljp/pid/3438200/61	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/702
+巻12	s1215a	753	https://dl.ndl.go.jp/info:ndljp/pid/3438200/61	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/703
+巻12	s1215b	754	https://dl.ndl.go.jp/info:ndljp/pid/3438200/62	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/704
+巻12	s1216a	755	https://dl.ndl.go.jp/info:ndljp/pid/3438200/62	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/705
+巻12	s1216b	756	https://dl.ndl.go.jp/info:ndljp/pid/3438200/63	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/706
+巻12	s1217a	757	https://dl.ndl.go.jp/info:ndljp/pid/3438200/63	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/707
+巻12	s1217b	758	https://dl.ndl.go.jp/info:ndljp/pid/3438200/64	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/708
+巻12	s1218a	759	https://dl.ndl.go.jp/info:ndljp/pid/3438200/64	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/709
+巻12	s1218b	760	https://dl.ndl.go.jp/info:ndljp/pid/3438200/65	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/710
+巻12	s1218b	761	https://dl.ndl.go.jp/info:ndljp/pid/3438200/65	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/711
+巻12	s1219b	762	https://dl.ndl.go.jp/info:ndljp/pid/3438200/66	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/712
+巻12	s1220a	763	https://dl.ndl.go.jp/info:ndljp/pid/3438200/66	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/713
+巻12	s1220b	764	https://dl.ndl.go.jp/info:ndljp/pid/3438200/67	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/714
+巻12	s1221a	765	https://dl.ndl.go.jp/info:ndljp/pid/3438200/67	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/715
+巻12	s1221b	766	https://dl.ndl.go.jp/info:ndljp/pid/3438200/68	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/716
+巻12	s1221b	767	https://dl.ndl.go.jp/info:ndljp/pid/3438200/68	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/717
+巻12	s1222b	768	https://dl.ndl.go.jp/info:ndljp/pid/3438200/69	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/718
+巻12	s1222b	769	https://dl.ndl.go.jp/info:ndljp/pid/3438200/69	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/719
+巻12	s1223b	770	https://dl.ndl.go.jp/info:ndljp/pid/3438200/70	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/720
+巻12	s1224a	771	https://dl.ndl.go.jp/info:ndljp/pid/3438200/70	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/721
+巻12	s1224b	772	https://dl.ndl.go.jp/info:ndljp/pid/3438200/71	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/722
+巻12	s1224b	773	https://dl.ndl.go.jp/info:ndljp/pid/3438200/71	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/723
+巻12	s1225b	774	https://dl.ndl.go.jp/info:ndljp/pid/3438200/72	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/724
+巻12	s1226a	775	https://dl.ndl.go.jp/info:ndljp/pid/3438200/72	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/725
+巻12	s1226b	776	https://dl.ndl.go.jp/info:ndljp/pid/3438200/73	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/726
+巻12	s1227a	777	https://dl.ndl.go.jp/info:ndljp/pid/3438200/73	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/727
+巻12	s1227b	778	https://dl.ndl.go.jp/info:ndljp/pid/3438200/74	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/728
+巻12	s1228a	779	https://dl.ndl.go.jp/info:ndljp/pid/3438200/74	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/729
+巻12	s1228b	780	https://dl.ndl.go.jp/info:ndljp/pid/3438200/75	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/730
+巻12	s1229a	781	https://dl.ndl.go.jp/info:ndljp/pid/3438200/75	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/731
+巻12	s1229b	782	https://dl.ndl.go.jp/info:ndljp/pid/3438200/76	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/732
+巻12	s1230a	783	https://dl.ndl.go.jp/info:ndljp/pid/3438200/76	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/733
+巻12	s1230b	784	https://dl.ndl.go.jp/info:ndljp/pid/3438200/77	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/734
+巻12	s1231a	785	https://dl.ndl.go.jp/info:ndljp/pid/3438200/77	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/735
+巻12	s1231b	786	https://dl.ndl.go.jp/info:ndljp/pid/3438200/78	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/736
+巻12	s1232a	787	https://dl.ndl.go.jp/info:ndljp/pid/3438200/78	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/737
+巻12	s1232b	788	https://dl.ndl.go.jp/info:ndljp/pid/3438200/79	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/738
+巻12	s1233a	789	https://dl.ndl.go.jp/info:ndljp/pid/3438200/79	https://kotenseki.nijl.ac.jp/biblio/100290337/viewer/739

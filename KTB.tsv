@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.27
+#   Version: 1.1.28
 #   Date published: 17 September 2016
-#   Last modified: 16 May 2022
+#   Last modified: 4 July 2022
 #
 #   Copyright (c) 2016-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -14221,7 +14221,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_005_A32	v22#343	山	崌	Regular		舉餘反。山名。	c013a031	Y22000091-1		351	1713
 6_005_A41	v22#343	山	崐	Regular		古魂反。山名。	c013a032	Y22000092-1		351	1713
 6_005_A42	v22#343	山	崘	Regular		力昆反。山名。	c013a033	Y22000094-1		351	1713
-6_005_A51	v22#343	山	巘	Regular		魚優反。別小山。	c013a034	Y22000094-2		351	1713
+6_005_A51	v22#343	山	巘	Regular		魚偃反。別小山。	c013a034	Y22000094-2	偃：原本《玉篇》作優。	351	1713
 6_005_A52	v22#343	山	𡹮	Regular		猗檢反。山名。	c013a035	Y22000095-1		351	1714
 6_005_A61	v22#343	山	崦	Regular		同上。	c013a041	Y22000096-1		351	1714
 6_005_A62	v22#343	山	嵫	Regular		子辞反。山名。	c013a042	Y22000097-1		351	1714

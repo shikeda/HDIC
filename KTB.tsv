@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.28
+#   Version: 1.1.29
 #   Date published: 17 September 2016
-#   Last modified: 4 July 2022
+#   Last modified: 14 November 2022
 #
 #   Copyright (c) 2016-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -13640,7 +13640,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_135_A33	v21#323	火	𤌋	Embedded_clerical		𤌋：同上。	c006a063		埋字B。	337	1652
 5_135_A41	v21#323	火	燹	Regular		先淺反。火。	c006a065			337	1652
 5_135_A41-Shirafuji	v21#323	火	𤓤	Regular	白		c006a065			337	1652
-5_135_A42	v21#323	火	燬	Regular		𤈦字。大也。	c006a064			337	1652
+5_135_A42	v21#323	火	燬	Regular		𤈦字。大也。	c006a064		大：當作火。	337	1652
 5_135_A51	v21#323	火	焌	Regular		子閏反。然火。	c006a066			337	1653
 5_135_A52	v21#323	火	𤊽	Regular		力弔反。柴也，祭天也。𥛰字。	c006a075		弔：原作即。	337	1653
 5_135_A61	v21#323	火	然	Regular		如仙反。燒也，成。〔燃：同上。〕	c006a082		有埋字B。	337	1653

@@ -9,9 +9,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_definitions.tsv
-#   Version: 1.1.14
+#   Version: 1.1.15
 #   Date published: 28 June 2018
-#   Last modified: 6 December 2022
+#   Last modified: 8 December 2022
 #
 #   Copyright (c) 2018-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -6909,7 +6909,7 @@ s0509b102	彤	古作赨同。徒宗反。舟飾也。丑林反。赤也。
 s0509b103a	蚒⿰丹虫	二上字。	
 s0509b105	𣪂	補姧反。又班音，今鉢音。合也，止也，定也，還也，刾也，樂也，旋也，大也，入也。	
 s0509b201	⿰丹攵	上字。	
-s0509b202	槃	蒲安班。子也，樂也，遊也。	
+s0509b202	槃	蒲安反。子也，樂也，遊也。	
 s0509b203	盤	莫香反。又□(猛)音。在皿部。	
 s0509b204	⿰丹乍	上字，但丹部字。	
 s0509b301	雘	烏郭反。赤也。	
@@ -8174,7 +8174,7 @@ s0605a805b	䜮⿰谷穿	二同。力豪反。《字指》：從穴。
 s0605b101	谿	苦奚反。保良。	
 s0605b301	𤥻	⿱⿰王石王。直連反。日行。	
 s0605b302	𨌥	班字。偏也，般也，住也，列也，賦也。	
-s0605b303	王	正：于方班。平：往也，君也，大也。借：于救反。去。	
+s0605b303	王	正：于方反。平：往也，君也，大也。借：于救反。去。	
 s0605b304	斑	上：布蠻反。平：布也，次也，分也，別也，与也，賜也，授也，周。下：方間反。平：駮也。字行交二形可別也。	
 s0605b401a	璽璽β	同字。思紫反。信也，神器也，字也，封也，苻也。	
 s0605b403	理	良士反。分也，界也，正也，吏也，從也，諦也，性也，事也，治也，媅也。	

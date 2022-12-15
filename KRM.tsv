@@ -6,9 +6,9 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.64
+# Version: 1.1.65
 # Date: 11 March 2022
-# Last update : 14 December 2022
+# Last update : 15 December 2022
 #
 # Copyright (c) 2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -32130,7 +32130,7 @@ F32082	S41665	K1010811	K10108110	Tc406110	僧下	雑	v10#120	凶	〇	音胷　�
 F32083	S41666	K1010812	K10108120	Tc406120	僧下	雑	v10#120	飛	〇	音非(L)　トフ(HL")　和ヒ(L-R)	
 F32084	S41667	K1010813	K10108130	Tc406130	僧下	雑	v10#120	飜	〇	呉音奔(R)「トン」　ヒルカヘル(LLL"LL)　正音番(L)「ハン」　トフ(HL")　カヘス(LLH)　コホス(LL"H)　カケル　オホフ　羽部	
 F32085	S41668	K1010821	K10108210	Tc406210	僧下	雑	v10#120	厸	〇	古潾字　チカシ(LLH)　トナリ(HHH)	
-F32086	S41669	K1010822	K10108221	Tc406221	僧下	雑	v10#120	⿱陟厘	〇	音緾(L)　アヲノリ(LLHL)	
+F32086	S41669	K1010822	K10108221	Tc406221	僧下	雑	v10#120	陟厘	⿱陟厘	音緾(L)　アヲノリ(LLHL)	原文⿱陟厘に作り、正宗索引・草川和訓集成、これに従う。道円本和名抄(巻17菜蔬部)「陟𨤲」に「音緾一本作厘和名阿乎乃利」とあり。「陟厘」二字と判読。
 F32087	S41671	K1010823	K10108230	Tc406230	僧下	雑	v10#120	哥	〇	音謌(L)　ウタフ(HHL)	
 F32088	S41672	K1010824	K10108240	Tc406240	僧下	雑	v10#120	谺	〇	音癡(L)　ホカラカニ(LL"HL@)	
 F32089	S41673	K1010831	K10108310	Tc406310	僧下	雑	v10#120	辰	〇	音晨(L)	

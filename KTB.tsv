@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.33
+#   Version: 1.1.34
 #   Date published: 17 September 2016
-#   Last modified: 16 December 2022
+#   Last modified: 29 December 2022
 #
 #   Copyright (c) 2016-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -11968,7 +11968,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_074_A11	v18#282	車	軭	Regular		區方反。車戾。	b068a084	Y18501020-1		295	1424
 5_074_A12	v18#282	車	輊	Regular		〔𨎌字。〕竹利反。至也。	b068a083	Y18501019-1	有埋字B。	295	1424
 5_074_A121	v18#282	車	𨎌	Embedded_clerical		𨎌字。			埋字B。	295	#N/A
-5_074_A21	v18#282	車	輟	Regular		張衛反。心也，已也。	b068a086	Y18501020-2		295	1424
+5_074_A21	v18#282	車	輟	Regular		張衛反。止也，已也。	b068a086	Y18501020-2		295	1424
 5_074_A22	v18#282	車	䡔	Regular		苦底反。儗也，至也。	b068a105	Y18501021-1		295	1426
 5_074_A31	v18#282	車	轚	Regular		古麗反。經。	b068a087	Y18501021-2	經：原本《玉篇》作絓。	295	1425
 5_074_A32	v18#282	車	軻	Regular		口佐反。接軸也。	b068a091	Y18501024-2		295	1425

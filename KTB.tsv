@@ -7,11 +7,11 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.35
+#   Version: 1.1.36
 #   Date published: 17 September 2016
-#   Last modified: 31 December 2022
+#   Last modified: 2 January 2023
 #
-#   Copyright (c) 2016-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+#   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
 #   LIU Guanwei (Person in charge of image database design and implementation)
 #   Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -4441,7 +4441,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_068_A11	v7#82	肉	膴	Regular		虎吾反。厚也，賞也。	a073a091			108	556
 2_068_A12	v7#82	肉	胥	Regular		思餘反。蟹醢也，相也，皆也。	a071a071			108	540
 2_068_A21	v7#82	肉	胯	Regular		口故反。股也。	a070b022			109	534
-2_068_A22	v7#82	肉	膲	Regular		子姚反。賢(腎)府也，液吐也。	a070b023			109	534
+2_068_A22	v7#82	肉	膲	Regular		子姚反。賢(腎)府也，液也，吐也。	a070b023			109	534
 2_068_A31	v7#82	肉	脽	Regular		之流反。尻也。	a070b024			109	534
 2_068_A32	v7#82	肉	䏐	Regular		古穴反。孔也。	a070b025			109	534
 2_068_A41	v7#82	肉	股	Regular		故戸反。髀也。	a070b031			109	534

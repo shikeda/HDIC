@@ -6,11 +6,11 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.81
+# Version: 1.1.82
 # Date: 11 March 2022
-# Last update : 26 December 2022
+# Last update : 1 January 2023
 #
-# Copyright (c) 2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+# Copyright (c) 2022-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
 # North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan
 # Contact: ikeda.shoju@gmail.com, liyuansapporo@yahoo.co.jp, toyjack@gmail.com
@@ -17226,7 +17226,7 @@ F17179	S21105	K0607823	K06078230	Tb212230	法中	心	v6#57	惜	〇	音昔(S)「�
 F17180	S21106	K0607831	K06078311	Tb212311	法中	心	v6#57	恡／ー（惜）	〇／〇	イナフ(LLH")	
 F17181	S21108	K0607832	K06078321	Tb212321	法中	心	v6#57	可／ー（惜）	〇／〇	アタラ(HH@)	
 F17182	S21110	K0607833	K06078331	Tb212331	法中	心	v6#57	莫／ー（惜）	〇／〇	サマラハレ(LHH@@)	
-F17183	S21112	K0607834	K06078340	Tb212340	法中	心	v6#57	⿱右心	〇	カタシ　イヤシ　ツネニ	
+F17183	S21112	K0607834	K06078340	Tb212340	法中	心	v6#57	怘	⿱右心	カタシ　イヤシ　ツネニ	「怘」は「固」と同字で、万象名義に「居護反。鈍也、堅也、常也、必也」と見える。
 F17184	S21113	K0607841	K06078410	Tb212410	法中	心	v6#57	⿱⿰金占心	〇	オロカナリ	
 F17185	S21114	K0607842	K06078420	Tb212420	法中	心	v6#57	㤑	〇	ヲシム	
 F17186	S21115	K0607843	K06078430	Tb212430	法中	心	v6#57	怙	〇	音戸　タノム(LL@)　タノシ　ヤスシ　質也　ヒレフス(HH@@)　ー歟　シツカナリ(H-L@@@@)　ツク　タヨリ　アナフカナリ　和コ(L)	

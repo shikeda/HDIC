@@ -9,11 +9,11 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_definitions.tsv
-#   Version: 1.1.27
+#   Version: 1.1.28
 #   Date published: 28 June 2018
-#   Last modified: 29 December 2022
+#   Last modified: 2 January 2023
 #
-#   Copyright (c) 2018-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+#   Copyright (c) 2018-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
 #   LIU Guanwei (Person in charge of image database design and implementation)
 #   Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -2689,7 +2689,7 @@ s0215a801	嗼	亡格反。入：靜也，定也。
 s0215a802	叵	普我反。不可也。	
 s0215a803	呬	許器丑致二反。去：息也，呻也。	
 s0215a804	單	直丹反。隻也，薄也，大也。	
-s0215a805	哯	下旋反。乳。久良不。	
+s0215a805	哯	下旋反。乳久良不。	観智院本名義抄「チクラフ」。
 s0215b101	咞	上古文	
 s0215b102	⿱有冋	其虐反。高擧足高也。	
 s0215b103	喬	上字。	

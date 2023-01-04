@@ -6,9 +6,9 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.84
+# Version: 1.1.85
 # Date: 11 March 2022
-# Last update : 3 January 2023
+# Last update : 4 January 2023
 #
 # Copyright (c) 2022-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -2384,7 +2384,7 @@ F02338	S03025	K0200664	K02006641	Ta124641	仏中	女	v2#12	何／ー（如）	�
 F02339	S03027	K0200671	K02006711	Ta124711	仏中	女	v2#12	如／是	〇／〇	カクノコトク(@@@H"@@)	
 F02340	S03029	K0200672	K02006720	Ta124720	仏中	女	v2#12	娣	〇	音弟(R)　*ヒメ　ヨメ　ヲト　*メヒ	「ヨメ」は「*ヒメ」右傍書。
 F02341	S03030	K0200673	K02006730	Ta124730	仏中	女	v2#12	姒	〇	音似　ヒメ　ヨメ　ヤツコ	「ヨメ」は「ヒメ」右傍書。
-F02342	S03031	K0200674	K02006741	Ta124741	仏中	女	v2#12	ー（似）／婦	〇／〇	ヲトヨメ(@@HH)	
+F02342	S03031	K0200674	K02006741	Ta124741	仏中	女	v2#12	ー（似）／婦	〇／〇	ヲトヨメ(@@HH)	蓮成院本「オトヨメ」、高山寺本「オトヨメ(LLHH)」、西念寺本「ヲホヨメ」。道円本和名抄巻2親戚類「似婦」に「和名於保与女」、同「娣婦」に「和名於止与女」とあり、掲出字「娣婦」とすべきか。存疑。
 F02343	S03033	K0200681	K02006810	Ta124810	仏中	女	v2#12	邚	〇	音郊(L)	
 F02344	S03034	K0200682	K02006820	Ta124820	仏中	女	v2#12	孀	〇	音霜(L)　ヤモメ(HHL)	
 F02345	S03035	K0200683	K02006830	Ta124830	仏中	女	v2#12	㜀	〇	俗	

@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.38
+#   Version: 1.1.39
 #   Date published: 17 September 2016
-#   Last modified: 2 January 2023
+#   Last modified: 23 January 2023
 #
 #   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -5522,7 +5522,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_015_A42	v9#91	言	譀	Regular		胡濫反。誕也，話也，調也。〔𧧴：譀字。〕	a084b044	Y09101100-2	有埋字B。	133	667
 3_015_A43	v9#91	言	𧧴	Embedded_clerical		𧧴：譀字。	a084b051	Y09101101-1	埋字B。掲出字：原作⿰言忘。	133	667
 3_015_A51	v9#91	言	詄	Regular		達結反。忘也。	a084b042	Y09101101-2		134	667
-3_015_A52	v9#91	言	諅	Regular		渠記反。忘。	a084b043	Y09101102-1		134	667
+3_015_A52	v9#91	言	諅	Regular		渠記反。忘。	a084b043	Y09101102-1	忘：當作忌。	134	667
 3_015_A61	v9#91	言	誇	Regular		苦華反。滛也，誕也。	a086b036	Y09101102-2		134	695
 3_015_A611	v9#91	言	𧥢	Songben-Yupian		#	a086b041			134	695
 3_015_A62	v9#91	言	誕	Regular		達怛反。斯也，大也，信也，慢也，調也，節也，閣也。	a084b055	Y09101104-1		134	667

@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.40
+#   Version: 1.1.41
 #   Date published: 17 September 2016
-#   Last modified: 24 January 2023
+#   Last modified: 26 January 2023
 #
 #   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -14855,7 +14855,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_029_B42	v23#357	馬	驊	Regular		胡爪反。如華赤也。	c023a041			368	1847
 6_029_B51	v23#357	馬	駥	Regular		如弓反。八尺馬。	c023a044			368	1847
 6_029_B52	v23#357	馬	驗	Regular		午𧰟反。徴也。	c023a045			368	1847
-6_029_B61	v23#357	馬	馶	Regular		至移反。馬也，強也。	c024a072			368	1857
+6_029_B61	v23#357	馬	馶	Regular		至移反。馬也，強也。	c024a072		馬以下四字：當作馬強也。	368	1857
 6_029_B62	v23#357	馬	駁	Regular		補貞反。白黒也。	c023a046			368	1848
 6_030_A11	v23#357	馬	駜	Regular		皮筆反。肥強也。	c023a042			368	1847
 6_030_A12	v23#357	馬	䮡	Regular		同上。	c023a043			368	1847

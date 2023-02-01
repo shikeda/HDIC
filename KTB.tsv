@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.42
+#   Version: 1.1.43
 #   Date published: 17 September 2016
-#   Last modified: 27 January 2023
+#   Last modified: 1 February 2023
 #
 #   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -11945,7 +11945,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_073_A31	v18#282	車	𨋬	Regular		其拯反。軺後登。	b068a052		其拯反：當作「音拯」。	295	1421
 5_073_A311	v18#282	車	䡕	Songben-Yupian		#	b068a053			295	1421
 5_073_A32	v18#282	車	䡾	Regular		牛遏反。載高皃。	b068a054			295	1421
-5_073_A41	v18#282	車	載	Regular		子戴反。永也，舟也，車也，偽也，處設也，行也，成也，爲識也，始也，言也，歲也，乘閣致与。	b068a055			295	1421
+5_073_A41	v18#282	車	載	Regular		子戴反。承也，舟也，車也，偽也，處，設也，行也，成也，爲，識也，始也，言也，歲也，乘，閣，致，与。	b068a055			295	1421
 5_073_A42	v18#282	車	軍	Regular		居云反。衆也，團也。	b069b044			295	1441
 5_073_A51	v18#282	車	轄	Regular		胡瞎反。車端鐵。	b069b013			295	1440
 5_073_A52	v18#282	車	軷	Regular		菩袜反。將行祭。	b069a105			295	1439

@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.43
+#   Version: 1.1.44
 #   Date published: 17 September 2016
-#   Last modified: 1 February 2023
+#   Last modified: 12 February 2023
 #
 #   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -6277,7 +6277,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_042_A301	v10#128	辵	𨑭	Songben-Yupian		#	a099b076			155	844
 3_042_A31	v10#128	辵	𨔀	Regular		斯紫反。移也，從也。	a099b081			155	844
 3_042_A32	v10#128	辵	𨖤	Regular		從字也。	△			155	#N/A
-3_042_A41	v10#128	辵	遷	Regular		且錢反。從也，去也，易也，變，改也。	a098a063			155	830
+3_042_A41	v10#128	辵	遷	Regular		且錢反。徙也，去也，易也，變，改也。	a098a063			155	830
 3_042_A42	v10#128	辵	運	Regular		胡愠反。行，動也，轉也，輸也。	a098a071			155	830
 3_042_A51	v10#128	辵	返	Regular		甫晚反。還也，復也，歸也，避也。	a098a072			155	831
 3_042_A52	v10#128	辵	還	Regular		胡串反。劫也，顧也，退也，返也，旋也。	a098a073			155	831

@@ -6,9 +6,9 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.145
+# Version: 1.1.146
 # Date: 11 March 2022
-# Last update : 20 February 2023
+# Last update : 21 February 2023
 #
 # Copyright (c) 2022-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -20247,7 +20247,7 @@ F20200	S24688	K0703513	K07035131	Tb329131	法下	米	v7#63	⿰米賓／⿰米賔
 F20201	S24690	K0703514	K07035140	Tb329140	法下	米	v7#63	⿱疑米	〇	㝵二俗礙字	
 F20202	S24691	K0703521	K07035210	Tb329210	法下	米	v7#63	⿰米俑	〇	音息	
 F20203	S24692	K0703522	K07035220	Tb329220	法下	米	v7#63	粺	〇	蒲拜(R)反　シラケヨネ(@@L"HL)	
-F20204	S24693	K0703523	K07035230	Tb329230	法下	米	v7#63	糵	⿱薩米	魚(L")竭(S)反　モヤシヨネノ(@@@@@H)　モヤシ(LLL)	
+F20204	S24693	K0703523	K07035230	Tb329230	法下	米	v7#63	糵	⿱薩米	魚(L")竭(S)反　モヤシ　ヨネノモヤシ(@@HLLL)	原文「モヤシヨネノ　モヤシ」とあるが和名抄「糵」に「和名与祢乃毛夜之」と見える。萩原義雄「観智院本『類聚名義抄』和訓語彙から垣間見たことばの運行」『駒澤日本文化』13の例14。
 F20205	S24694	K0703531	K07035310	Tb329310	法下	米	v7#63	糪	〇	博革反　飰半生	
 F20206	S24695	K0703532	K07035320	Tb329320	法下	米	v7#63	⿱艹⿱辟米	〇	モヤシ	
 F20207	S24696	K0703533	K07035330	Tb329330	法下	米	v7#63	䊤	〇	音萏(H)「タム」　糜和ーー糣物滓	

@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.45
+#   Version: 1.1.46
 #   Date published: 17 September 2016
-#   Last modified: 13 February 2023
+#   Last modified: 22 February 2023
 #
 #   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -11055,7 +11055,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_041_B52	v17#263	殳	𣪯	Regular		大惊(悰)反。同上。	b058a105		反切：上田作「大悰」，張同作，呂作「大惊」。	273	1317
 5_041_B61	v17#263	殳	殽	Regular		胡交反。雜乱。	b058a103			273	1317
 5_041_B62	v17#263	殳	毅	Regular		魚既反。致果。	b058b011			273	1317
-5_042_A11	v17#263	殳	㲃	Regular		去流反。㱕屈。	b058b012			273	1317
+5_042_A11	v17#263	殳	㲃	Regular		去流反。㱕屈。	b058b012		㱕：宋本《玉篇》作揉。	273	1317
 5_042_A12	v17#263	殳	毅	Regular		魚既反。忍也。	b058b011		掲出字：原作⿰交殳，宮澤作㱾。	273	1317
 5_042_A12-Miyazawa	v17#263	殳	㱾	Regular	宮		b058b013			273	1318
 5_042_A21	v17#263	殳	伇	Regular		惟辟反。使令也。	△(a094b071)			273	#N/A

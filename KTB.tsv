@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.47
+#   Version: 1.1.48
 #   Date published: 17 September 2016
-#   Last modified: 25 February 2023
+#   Last modified: 28 February 2023
 #
 #   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -13314,7 +13314,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_123_A11	v20#304	日	旰	Regular		柯旦反。晏也，晩也。	b085b092			330	1612
 5_123_A12	v20#304	日	暆	Regular		余支反。日行也。	b085b093			330	1612
 5_123_A21	v20#304	日	𣅦	Regular		阻渉反。日跌。	△(b085b096)		跌：原作趺。	330	#N/A
-5_123_A22	v20#304	日	昏	Regular		呼昆反。暗也，強也，伐也。	b085b062			330	1611
+5_123_A22	v20#304	日	昏	Regular		呼昆反。暗也，強也，伐也。	b085b062		伐：當作代。	330	1611
 5_123_A221	v20#304	日	昬	Songben-Yupian		#	b085b063			330	1611
 5_123_A31	v20#304	日	曀	Regular		於計反。陰而風也。	b085b105			330	1613
 5_123_A32	v20#304	日	𣉘	Regular		奴㮣反。日无光也。	b086a011			330	1613

@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.49
+#   Version: 1.1.50
 #   Date published: 17 September 2016
-#   Last modified: 1 March 2023
+#   Last modified: 2 March 2023
 #
 #   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -2712,7 +2712,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_005_B62	v4#56	耳	𦗳	Regular		女江反。耳中聲也。	a046b102			65	330
 2_005b11-Miyazawa	v4#56	耳	聮	Regular	宮		△(a046b092)			65	#N/A
 2_006_A11	v4#56	耳	聊	Regular		力彫反。願也，樂也，賴也，善也，快也。	a047a011			65	330
-2_006_A12	v4#56	耳	聖	Regular		舒政反。通聲也。	a047a012			66	330
+2_006_A12	v4#56	耳	聖	Regular		舒政反。通，聲也。	a047a012			66	330
 2_006_A201	v4#56	耳	聦	Songben-Yupian		#	a047a022			66	330
 2_006_A21	v4#56	耳	聰	Regular		青公反。聞也，明也，察也，開也。	a047a031			66	330
 2_006_A21-Miyazawa	v4#56	耳	聡	Regular	宮		a047a031			66	330

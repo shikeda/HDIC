@@ -5,7 +5,7 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 平安時代漢字字書綜合數據庫  
 
 Date published: 18 October 2015  
-Last modified: 20 March 2022
+Last modified: 6 March 2023
 
 [HDIC Viewer](https://hdic.chise.org) by Liu Guanwei  
 
@@ -141,6 +141,13 @@ Date: 20 October 2015
 初版公開日  
 Ikeda Shoju 池田 証壽  
 
+* KRM_definition.tsv  
+Kanchiinbon Ruiju Myogisho (KRM): Kazama Shobo edition, Tenri Zempon Sosho edition and National Diet Library Digital Collections.  
+Date: 6 March 2023  
+初版公開日  
+Ikeda Shoju 池田 証壽  
+
+
 ## Project Members
 
 The Editorial Committee of HDIC Database Project
@@ -153,7 +160,7 @@ Ikeda Shoju (Professor Emeritus, Hokkaido University) 池田 証壽 (北海道�
 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)  
 Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences  
 North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan  
-Contact: hdic_info@let.hokudai.ac.jp  
+Contact: ikeda.shoju@gmail.com, liyuansapporo@yahoo.co.jp, toyjack@gmail.com 
 
 ## Data License Information and Access Rights
 

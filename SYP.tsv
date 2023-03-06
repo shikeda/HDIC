@@ -3,11 +3,11 @@
 #
 # SYP: Songben Yupian 宋本玉篇 database
 #
-# Version: 1.1.11
+# Version: 1.1.12
 # Date: 20 October 2015
-# Last update : 25 February 2023
+# Last update : 6 March 2023
 #
-# Copyright (c) 2014-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+# Copyright (c) 2014-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # LI Yuan (Person in charge of text data proofreading)
 # LIU Guanwei (Person in charge of image database design and implementation)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -22,15 +22,15 @@
 #
 # TSV Format information:
 #
-# SYID: Book, leaf, recto-verso, line and number (Zecuntang edition)
-# SY_vol_radical: Volume and radical number
-# SY_radical: Radical of Chinese character
-# Entry : Headword
-# Entry_original: Original headword (option)
-# SY_def: Definition of pronunciation, meaning and variant(s)
-# Zang_page: Zhong gu Han zi liu bian
-# KSY_diff: Differences of SYID with Kunaicho Shoryobu edition
-# SY_remarks: Editor's notes
+# SYID              Book, leaf, recto-verso, line and number (Zecuntang edition)
+# SY_vol_radical    Volume and radical number
+# SY_radical        Radical of Chinese character
+# Entry             Headword
+# Entry_original    Original headword (option)
+# SY_def            Definition of pronunciation, meaning and variant(s)
+# Zang_page         Zhong gu Han zi liu bian
+# KSY_diff          Differences of SYID with Kunaicho Shoryobu edition
+# SY_remarks        Editor's notes
 #
 # References:
 #

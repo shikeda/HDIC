@@ -22,19 +22,18 @@
 # Open access
 #
 # KRM Format information:
-# ----------------------
-# KRID_n: Item  serial number
-# KRID_sn: Entry  serial number
-# KR2ID: Kazama edition item ID number, K, Book(ww), page(xxx),line(y) and column(zz), in the case of plural items appeared in column, entry rankings are also recorded as 1,2,…,n.
-# KRID: Kazama edition entry ID number, K, Book(ww), page(xxx),line(y) and column(zz), in occasion of the headword with single character form, entry ranking is recorded as 0. While, in occasion of the headword with plural character form, entry rankings are recorded as 1,2,…,n. Moreover, in the case of plural items appeared in column, entry rankings are also recorded as 1,2,…,n.
-# KR_Tenri_p: Tenri editon item ID number, T, volume(a/b/c), page(xxx),line(y) and column(zz)
-# KR_vol_name: Volume name, from 仏上 to 僧下
-# KR_radical: Radical name, from 人 to 雑
-# KR_vol_radical: Volune and radical number, from v1#1(第1帖第1) to v10#120(第10帖第120)
-# Entry: Headword
-# Entry_original: Original character form
-# Def: Definition of pronunciation, meaning and variant(s)
-# Remarks: Editor's notes
+#   KRID_n            Item serial number
+#   KRID_sn           Entry serial number
+#   KR2ID             Kazama edition item ID number, K, Book(ww), page(xxx),line(y) and column(zz), in the case of plural items appeared in column, entry rankings are also recorded as 1,2,…,n.
+#   KRID              Kazama edition entry ID number, K, Book(ww), page(xxx),line(y) and column(zz), in occasion of the headword with single character form, entry ranking is recorded as 0. While, in occasion of the headword with plural character form, entry rankings are recorded as 1,2,…,n. Moreover, in the case of plural items appeared in column, entry rankings are also recorded as 1,2,…,n.
+#   KR_Tenri_p        Tenri editon item ID number, T, volume(a/b/c), page(xxx),line(y) and column(zz)
+#   KR_vol_name       Volume name, from 仏上 to 僧下
+#   KR_radical        Radical name, from 人 to 雑
+#   KR_vol_radical    Volune and radical number, from v1#1(第1帖第1) to v10#120(第10帖第120)
+#   Entry             Headword
+#   Entry_original    Original character form
+#   Def               Definition of pronunciation, meaning and variant(s)
+#   Remarks           Editor's notes
 #
 # Acknowledgments:
 # We are grateful to Tenri Central Library and Yagi Shoten for permission to publish the decipherment text of KRM.

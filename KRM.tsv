@@ -6,9 +6,9 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.181
+# Version: 1.1.182
 # Date: 11 March 2022
-# Last update : 7 March 2023
+# Last update : 8 March 2023
 #
 # Copyright (c) 2022-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -450,7 +450,7 @@ F00405	S00563	K0101782	K01017820	Ta039820	仏上	人	v1#1	伲	〇	俗眤字
 F00406	S00564	K0101783	K01017831	Ta039831	仏上	人	v1#1	僁／𠋱	〇／〇	二正　屑音　小声也	
 F00407	S00566	K0101784	K01017840	Ta039840	仏上	人	v1#1	倔	〇	コハシ	
 F00408	S00567	K0101811	K01018110	Ta040110	仏上	人	v1#1	𠌸	偋	蒲定(R)反　僻也	西念寺本掲出字を「併」に作り右に小字「偋」あり、西念寺本の増補、誤記の訂正（小林恭治「異本注記の有無(2)」例4）。
-F00409	S00568	K0101812	K01018120	Ta040120	仏上	人	v1#1	偏	〇	音篇(L)　ヒトヘニ(LLHL)　カタハラ(LLLH)　カタツカタ(LL@@@)　カタオ□モテ(@@L@H@)　アマネシ-ク　サカル(HHL)　マツ(LH)　ハムヘリ(@H@@)　マカル(HH"@)〈曲〉　タクヒ(LL"L)　トモカラ(HH@@)　ヤキアク　ヒトツ　タスク　ヒトリ　カタフク　イヤシ　ムサホル(HH@@)　	
+F00409	S00568	K0101812	K01018120	Ta040120	仏上	人	v1#1	偏	〇	音篇(L)　ヒトヘニ(LLHL)　カタハラ(LLLH)　カタツカタ(LL@@@)　カタオモテ(@@LH@)　アマネシ-ク　サカル(HHL)　マツ(LH)　ハムヘリ(@H@@)　マカル(HH"@)〈曲〉　タクヒ(LL"L)　トモカラ(HH@@)　ヤキアク　ヒトツ　タスク　ヒトリ　カタフク　イヤシ　ムサホル(HH@@)　	
 F00410	S00569	K0101821	K01018211	Ta040211	仏上	人	v1#1	ー（偏）／孤	〇／〇	カタミナシコ(LLLHLL")	
 F00411	S00571	K0101822	K01018221	Ta040221	仏上	人	v1#1	㑦／㑦	〇／〓	下俗　力計(R)反　モトル(ト-チ)　ソムク　タカフ　イタル　ユカム　イカル	
 F00412	S00573	K0101824	K01018240	Ta040240	仏上	人	v1#1	侲	〇	振音　之仁反　ワラハヘ(LLLH)　奴䔍反	

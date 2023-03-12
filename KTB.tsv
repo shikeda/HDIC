@@ -7,7 +7,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.54
+#   Version: 1.1.55
 #   Date published: 17 September 2016
 #   Last modified: 12 March 2023
 #
@@ -17705,7 +17705,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_137_A11	v27#425	糸	繫	Regular		古𧨜反。連綴也。	c058a012	Y27100376-1	繫：原作繋。	437	2182
 6_137_A112	v27#425	糸	𦃇	Omitted		Omitted	c058a013	Y27100378-1		437	2182
 6_137_A12	v27#425	糸	絘	Regular		且利反。續所緝。	c058a014	Y27100379-1	揭出字：原作■。	437	2182
-6_137_A21	v27#425	糸	緝	Regular		且入反。續也，明光也。	c058a022	Y27100379-2		437	2183
+6_137_A21	v27#425	糸	緝	Regular		且入反。續也，明，光也。	c058a022	Y27100379-2		437	2183
 6_137_A22	v27#425	糸	紨	Regular		豐扶反。布也，粗紬也。	c058a021	Y27100382-1		437	2182
 6_137_A31	v27#425	糸	績	Regular		子秋反。緝也，緝也，継也，事也，業也，成。	c058a023	Y27100383-1		437	2183
 6_137_A32	v27#425	糸	纑	Regular		力胡反。紵也，綆也，布縷。	c058a024	Y27100385-1		437	2183

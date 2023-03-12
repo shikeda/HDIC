@@ -7,7 +7,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.53
+#   Version: 1.1.54
 #   Date published: 17 September 2016
 #   Last modified: 12 March 2023
 #
@@ -1664,7 +1664,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_067_A12-Miyazawa	v3#24	儿	兊	Regular	宮		a031a013			39	200
 1_067_A121	v3#24	儿	兌	Songben-Yupian		#	a031a021			39	200
 1_067_A21	v3#24	儿	充	Regular		齒戎反。足也，居也，滿也，肥也，䨱也，行也，塞也。	a031a022			39	200
-1_067_A22	v3#24	儿	亮	Regular		力尚反。信也，佐也，相也，導，估也。或諒。	a031a023			39	200
+1_067_A22	v3#24	儿	亮	Regular		力尚反。信也，佐也，相也，導，佑也。或諒。	a031a023		佑：原作估。	39	200
 1_067_A31	v3#24	儿	兗	Regular		瑜褊反。養也。	a031a024			39	200
 1_067_A31-Miyazawa	v3#24	儿	兖	Regular	宮		a031a024			39	200
 1_067_A32	v3#24	儿	免	Regular		靡蹇反。攻也，脫也，去也，歸也，自止也。	a031a025			39	200

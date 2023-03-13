@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.55
+#   Version: 1.1.56
 #   Date published: 17 September 2016
-#   Last modified: 12 March 2023
+#   Last modified: 13 March 2023
 #
 #   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -7045,7 +7045,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_072_A22-Miyazawa	v11#145	尾	𡲘	Regular	宮		b007a103			175	894
 3_072_A41	v11#146	尺	尺	Regular		齒亦反。	b007b021			175	895
 3_072_A42	v11#146	尺	咫	Regular		之你反。八寸曰咫也。	b007b022			175	895
-3_072_A61	v11#147	履	履	Regular		力指反。祿也，礼幸也，行也，福也，踐也，禮。	b007b031			175	895
+3_072_A61	v11#147	履	履	Regular		力指反。祿也，礼，幸也，行也，福也，踐也，禮。	b007b031			175	895
 3_072_A611	v11#147	履	𡳐	Songben-Yupian		#	b007b032		掲出字：宮澤作屧，非。	175	895
 3_072_A62	v11#147	履	屨	Regular		俱芋反。鞮也。	b007b033		芋：原作䓁：據《新撰字鏡》改。	176	895
 3_072_B11	v11#147	履	𡳸	Regular		力的反。履下也。	b007b041			176	895

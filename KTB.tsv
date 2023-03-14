@@ -7,7 +7,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.56
+#   Version: 1.1.57
 #   Date published: 17 September 2016
 #   Last modified: 13 March 2023
 #
@@ -6264,7 +6264,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_041_B41	v10#128	辵	迎	Regular		宜京反。逢也，逆也。	a098a051			155	829
 3_041_B42	v10#128	辵	遭	Regular		祖遨反。邐行也，遭家不造，遇也。	a098a052			155	829
 3_041_B51	v10#128	辵	遇	Regular		娛勾(句)反。見也，偶也，遻(遌)也，逢也，遇也。	a098a053			155	830
-3_041_B52	v10#128	辵	遘	Regular		古候反。遇也，遻(遌)也。姤字或覯。	a098a054			155	830
+3_041_B52	v10#128	辵	遘	Regular		古候反。遇也，遻也。姤字或覯。	a098a054			155	830
 3_041_B61	v10#128	辵	逢	Regular		扶恭反。遇也，迎也，大，見也，相遭也。	a098a055			155	830
 3_041_B62	v10#128	辵	遞	Regular		達礼反。失也，更易也。递遞字。	a099b074		有埋字B。	155	844
 3_041_B62-Shirafuji	v10#128	辵	逓	Regular	白		a099b074			155	844

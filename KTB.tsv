@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.57
+#   Version: 1.1.58
 #   Date published: 17 September 2016
-#   Last modified: 13 March 2023
+#   Last modified: 15 March 2023
 #
 #   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -5895,7 +5895,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_029_A22	v9#112	欠	歂	Regular		視專反。口氣引也。	a089b094	Y09202144-1		145	737
 3_029_A31	v9#112	欠	歕	Regular		普悶反。吐也，潠也，噴也。	a089b101	Y09202144-2		145	737
 3_029_A32	v9#112	欠	㰟	Regular		居乞反。幸也。	a089b102	Y09202147-1	揭出字形異	145	738
-3_029_A41	v9#112	欠	歇	Regular		虛竭反。書也，匂也，竭涸也，息清也。	a089b103	Y09202147-2		145	738
+3_029_A41	v9#112	欠	歇	Regular		虛竭反。書也，匂也，竭，涸也，息清也。	a089b103	Y09202147-2		145	738
 3_029_A42	v9#112	欠	歡	Regular		呼官反。樂也。懽古文。	a089b104	Y09202149-1		145	738
 3_029_A51	v9#112	欠	𣢑	Regular		充之反。詞也，无漸也，相共㗛也。	a090a011	Y09202150-1		145	738
 3_029_A52	v9#112	欠	欣	Regular		忻欣反。樂也。	a090a012	Y09202150-2		145	739

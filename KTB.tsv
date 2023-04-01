@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.58
+#   Version: 1.1.59
 #   Date published: 17 September 2016
-#   Last modified: 15 March 2023
+#   Last modified: 1 April 2023
 #
 #   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -7737,7 +7737,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_008_B51	v12#158	木	根	Regular		柯恩反。株也，始也。	b015b082			193	966
 4_008_B52	v12#158	木	㮨	Regular		子力反。似松有刺，細理也。	b015b084			193	966
 4_008_B61	v12#158	木	𣖾	Regular		皮秘反。七八月吐穂如塩状，可食酢美也。	b015b085			193	967
-4_008_B62	v12#158	木	果	Regular		古禍反。克也，遂也，定决也，濟也，信也，勝也，能也。	b015b091			193	967
+4_008_B62	v12#158	木	果	Regular		古禍反。克也，遂也，定，决也，濟也，信也，勝也，能也。	b015b091		克：呂作堯。	193	967
 4_009_A11	v12#158	木	杈	Regular		楚加反。枝也。	b015b092			194	967
 4_009_A12	v12#158	木	槮	Regular		所錦反。水積柴補魚也，冈(網)林又森也。	b015b093			194	967
 4_009_A21	v12#158	木	枝	Regular		之移反。子也，樤也。	b015b083			194	966

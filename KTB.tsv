@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.63
+#   Version: 1.1.64
 #   Date published: 17 September 2016
-#   Last modified: 3 May 2023
+#   Last modified: 5 May 2023
 #
 #   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -4268,7 +4268,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_061_B521	v7#80	骨	𩪦	Omitted		Omitted	a069a012			104	521
 2_061_B61	v7#80	骨	䯜	Regular		丑歴反。骨閒莫(黄)汁也。	a069a013			104	521
 2_061_B62	v7#80	骨	體	Regular		他礼反。形也，分也，生也，親也，身連結也，接納也。	a069a014		納：原作此字，確認了。呂云"《禮·中庸》體羣臣也。《註》猶接納也。"	104	521
-2_062_A11	v7#80	骨	髍	Regular		亡何反。漏病也，水也，病也。	a069a015			104	521
+2_062_A11	v7#80	骨	髍	Regular		亡何反。漏病也，水病也。	a069a015			104	521
 2_062_A12	v7#80	骨	骪	Regular		郁詭反。曲也。	a069b041			104	526
 2_062_A12-Miyazawa	v7#80	骨	骫	Regular	宮		a069b041			104	526
 2_062_A21	v7#80	骨	骼	Regular		柯頟反。禽獸骨也。	a069a016			104	521

@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.66
+#   Version: 1.1.67
 #   Date published: 17 September 2016
-#   Last modified: 5 May 2023
+#   Last modified: 7 May 2023
 #
 #   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -16890,7 +16890,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_106_B21	v25#408	貝	𧷞	Regular		始羊反。商字。	c048a082		掲出字：原作𧷮。	416	2072
 6_106_B22	v25#408	貝	買	Regular		王(亡)蟹反。市也。	c048a083			416	2072
 6_106_B31	v25#408	貝	賤	Regular		徐箭反。卑也，價少。	c048a084			416	2072
-6_106_B32	v25#408	貝	賦	Regular		甫務反。敷也，布班也，斂也，税也，兵量。	c048a091			416	2072
+6_106_B32	v25#408	貝	賦	Regular		甫務反。敷也，布，班也，斂也，税也，兵，量。	c048a091			416	2072
 6_106_B41	v25#408	貝	貪	Regular		吐含反。欲也，惏也。古𤘯也。	c048a093		𤘯:原文似此字形，呂作𣢌。	416	2073
 6_106_B42	v25#408	貝	貧	Regular		皮斌反。无財也。	c048a092			416	2073
 6_106_B51	v25#408	貝	貶	Regular		碑檢反。減也，墜，摩，損也。	c048a094			416	2073

@@ -6,9 +6,9 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.219
+# Version: 1.1.220
 # Date: 11 March 2022
-# Last update : 8 May 2023
+# Last update : 9 May 2023
 #
 # Copyright (c) 2022-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -2805,7 +2805,7 @@ F02760	S03517	K0202143	K02021430	Ta139430	仏中	女	v2#12	婁	𡝤	力(S)珠(L)
 F02761	S03518	K0202151	K02021510	Ta139510	仏中	女	v2#12	𡞔	⿳母口女	正	
 F02762	S03519	K0202152	K02021521	Ta139521	仏中	女	v2#12	婁／婁	⿳中一安／⿱串女	二俗	
 F02763	S03521	K0202153	K02021530	Ta139530	仏中	女	v2#12	㜢	〇	下女也　音樓(L)　婦人所律　マモル	「下女也」は小字補入。高山寺本・蓮成院本になし。「婦人　所律」は高山寺本・蓮成院本ともに「婦人所諱」に作る。
-F02764	S03522	K0202154	K02021540	Ta139540	仏中	女	v2#12	毐	〇	烏亥(H)反　無行	「無行」は高山寺本・蓮成院本ともに「人無行」に作る。
+F02764	S03522	K0202154	K02021540	Ta139540	仏中	女	v2#12	毐	〇	烏亥(H)反　無行	「無行」は高山寺本・蓮成院本ともに「人無行」に作る。説文・宋本玉篇・広韻「人無行也」とあり、観智院本の脱落であろう。
 F02765	S03523	K0202161	K02021610	Ta139610	仏中	女	v2#12	毒	〇	在雜部	
 F02766	S03524	K0202162	K02021620	Ta139620	仏中	女	v2#12	毒	〇	戸圭(L)反　姓	
 F02767	S03525	K0202163	K02021630	Ta139630	仏中	女	v2#12	毋	〇	音無(L")　ナシ　ツクス	編入部首「母」7行23項(酒井字順15頁)。

@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.69
+#   Version: 1.1.70
 #   Date published: 17 September 2016
-#   Last modified: 7 May 2023
+#   Last modified: 22 May 2023
 #
 #   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -7514,7 +7514,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_089_A51	v11#157	屮	屯	Regular		陟倫切。享也，難也，始生也。	b013b032			187	945
 3_089_A52	v11#157	屮	𡴋	Regular		莫戴反。雖也，屢也，豈也，詞也。	b013b043			187	946
 3_089_A61	v11#157	屮	㞣	Regular		芳去反。和也，草初生香分也。	b013b044			187	946
-3_089_A62	v11#157	屮	毒	Regular		徒篤反。毒害也，苦也，惡也，安也，治也，極也，⿰⺅𠬛(沒)也，痛也，憎也，惡也，急。	b013b051		字体差。	187	946
+3_089_A62	v11#157	屮	毒	Regular		徒篤反。毒害也，苦也，惡也，安也，治也，極也，伇也，痛也，憎也，惡也，急。	b013b051		字体差。	187	946
 3_089_A62-Miyazawa	v11#157	屮	𡴛	Regular	宮		b013b051		宋「今作毒」。	187	946
 3_089_B11	v11#157	屮	熏	Regular		詡軍反。熱也。⿰酉重(醺)字。	b013b052		字体差。	187	946
 3_089_B12	v11#157	屮	𡴆	Regular		力□(竹)反。地蕈也。宍字。	b013b041		G38尾。	187	945

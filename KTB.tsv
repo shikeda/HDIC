@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.70
+#   Version: 1.1.71
 #   Date published: 17 September 2016
-#   Last modified: 22 May 2023
+#   Last modified: 24 May 2023
 #
 #   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -14671,7 +14671,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_022_B52	v22#354	阜	隔	Regular		[　　　]。寒也。	c020a094	Y22000547-1	三字分空白。	363	1817
 6_022_B61	v22#354	阜	障	Regular		之楊反。累也。	c020a101	Y22000547-2		363	1818
 6_022_B62	v22#354	阜	隩	Regular		於報反。限也，蔵也。	c020a102	Y22000550-1		363	1818
-6_023_A11	v22#354	阜	隱	Regular		於謹反。私也，安也，去也，思也，徵也，古也，度也。	c020b011	Y22000551-1		363	1819
+6_023_A11	v22#354	阜	隱	Regular		於謹反。私也，安也，去也，思也，微也，古也，度也。	c020b011	Y22000551-1		363	1819
 6_023_A12	v22#354	阜	隈	Regular		於逥反。水曲也。	c020b012	Y22000558-1		363	1819
 6_023_A21	v22#354	阜	𠳋	Regular		丘善反。小塊也。	c019b063	Y22000559-1		363	1807
 6_023_A22	v22#354	阜	𨼬	Regular		胡灑反。	c020b013	Y22000559-2		363	1819

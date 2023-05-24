@@ -6,9 +6,9 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.228
+# Version: 1.1.229
 # Date: 11 March 2022
-# Last update : 24 May 2023
+# Last update : 25 May 2023
 #
 # Copyright (c) 2022-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -23911,7 +23911,7 @@ F23863	S29819	K0803624	K08036240	Tc042240	僧上	艸	v8#81	芌	〇	正
 F23864	S29820	K0803631	K08036311	Tc042311	僧上	艸	v8#81	芋／柄	〇／〇	イモシ	
 F23865	S29822	K0803632	K08036321	Tc042321	僧上	艸	v8#81	ー（芋）／莖	〇／〇	同	
 F23866	S29824	K0803633	K08036331	Tc042331	僧上	艸	v8#81	烏／ー（芋）	〇／〇	クワヰ	
-F23867	S29826	K0803634	K08036341	Tc042341	僧上	艸	v8#81	山／ー（芋）	〇／〇	ヤマツイモ(LLH@@)　俗　山ノイモ	
+F23867	S29826	K0803634	K08036341	Tc042341	僧上	艸	v8#81	山／ー（芋）	〇／〇	ヤマツイモ(LLH@@)　俗_山ノイモ	_は原文空白。「俗云山ノイモ」の意。
 F23868	S29828	K0803641	K08036411	Tc042411	僧上	艸	v8#81	〻（芋）／荇／君	〇／〇／〇	イモ	
 F23869	S29831	K0803642	K08036420	Tc042420	僧上	艸	v8#81	芊	〇	音千　花スヽキ(@L"HL)　スヽキ　ナマヰ(LHH)　サカリナリ(HHH@@)	
 F23870	S29832	K0803644	K08036440	Tc042440	僧上	艸	v8#81	苧	〇	音佇(H)　カラムシ(LLLL")　ーーーー(カラムシ)ノヲ	

@@ -3954,7 +3954,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	SYID	YYID	TB_remarks
 2_050_B31	v6#73	丮	谻	Regular		a064b085		
 2_050_B32	v6#73	丮	𢦚	Regular		a064b092		
 2_050_B41	v6#73	丮	𦘣	Regular		a064b093		
-2_050_B42	v6#73	丮	秇	Regular		a064b091		
+2_050_B42	v6#73	丮	𥝡	Regular		a064b091		
 2_050_B51	v6#74	鬥	鬥	Regular		a064b101		
 2_050_B52	v6#74	鬥	鬨	Regular		a065a012		呂作鬬、又云“鬬”字原訛。
 2_050_B52	v6#74	鬥	閧	Regular	白	a065a012		
@@ -12928,7 +12928,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	SYID	YYID	TB_remarks
 5_109_B12	v20#295	谷	䜱	Regular		b081a065		
 5_109_B21	v20#295	谷	䜯	Regular		b081a081		
 5_109_B22	v20#295	谷	𧮶	Regular		b081a073		
-5_109_B31	v20#295	谷	谼	Regular		b081a083		壑：原作&I-CB04411;
+5_109_B31	v20#295	谷	谼	Regular		b081a083		壑：原作𭐋
 5_109_B32	v20#295	谷	𧮺	Regular		b081a096		
 5_109_B41	v20#295	谷	䜰	Regular		b081a085		
 5_109_B41	v20#295	谷	𧯌	Regular	宮	b081a085		
@@ -16760,7 +16760,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	SYID	YYID	TB_remarks
 6_101_B61	v25#402	䖵	蟁	Regular	宮	c046b082		
 6_101_B62	v25#402	䖵	蝱	Regular		c046b084		
 6_102_A11	v25#402	䖵	蠧	Regular		c046b085		
-6_102_A12	v25#402	䖵	■	Regular		c046b091		掲出字：⿱⿱⿱&CDP-8DDD;冖石⿰風風。
+6_102_A12	v25#402	䖵	■	Regular		c046b091		掲出字：⿱⿱⿱𰀉冖石⿰風風。
 6_102_A12	v25#402	䖵	螙	Regular	宮	c046b091		
 6_102_A21	v25#402	䖵	⿳爪豕炏	Regular		△		掲出字：蠡之異体。呂作⿱⿰豸刂䖵。
 6_102_A22	v25#402	䖵	蠡	Regular		c046b092		

@@ -3,11 +3,11 @@
 #
 # SYP: Songben Yupian 宋本玉篇 database
 #
-# Version: 1.1.10
+# Version: 1.1.14
 # Date: 20 October 2015
-# Last update : 29 December 2022
+# Last update : 7 May 2023
 #
-# Copyright (c) 2014-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+# Copyright (c) 2014-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # LI Yuan (Person in charge of text data proofreading)
 # LIU Guanwei (Person in charge of image database design and implementation)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -22,15 +22,15 @@
 #
 # TSV Format information:
 #
-# SYID: Book, leaf, recto-verso, line and number (Zecuntang edition)
-# SY_vol_radical: Volume and radical number
-# SY_radical: Radical of Chinese character
-# Entry : Headword
-# Entry_original: Original headword (option)
-# SY_def: Definition of pronunciation, meaning and variant(s)
-# Zang_page: Zhong gu Han zi liu bian
-# KSY_diff: Differences of SYID with Kunaicho Shoryobu edition
-# SY_remarks: Editor's notes
+# SYID              Book, leaf, recto-verso, line and number (Zecuntang edition)
+# SY_vol_radical    Volume and radical number
+# SY_radical        Radical of Chinese character
+# Entry             Headword
+# Entry_original    Original headword (option)
+# SY_def            Definition of pronunciation, meaning and variant(s)
+# Zang_page         Zhong gu Han zi liu bian
+# KSY_diff          Differences of SYID with Kunaicho Shoryobu edition
+# SY_remarks        Editor's notes
 #
 # References:
 #
@@ -1933,7 +1933,7 @@ a032b085	v3#35	女	䶒		阻皆切。有䶒季女。《説文》：子奚切。�
 a032b091	v3#35	女	嬥		徒了徒聊二切。嬥嬥往來也。	214		
 a032b092	v3#35	女	嫢		衢癸娶惟二切。盛皃。《説文》云：媞也。秦晉謂細𦝫曰嫢。	215		
 a032b093	v3#35	女	媞		徒奚切。安詳也。《説文》：承旨切。諦也。一曰江淮之間謂母曰媞。	215		
-a032b101	v3#35	女	婺		亡句切。婦人母。	215		
+a032b101	v3#35	女	婺		亡句切。婦人皃。	215		
 a032b102	v3#35	女	娛		魚俱切。樂也。	215		
 a032b103	v3#35	女	嫺		胡閒切。嫺雅也。	215		
 a032b104	v3#35	女	媐		呼基切。善也。	215		
@@ -7747,7 +7747,7 @@ a098b102	v10#127	辵	遱		力侯切。連遱也。	836
 a098b103	v10#127	辵	迁		且堅切。行進也。	836		
 a098b104	v10#127	辵	迀		古寒切。進也。	836		
 a098b105	v10#127	辵	䢡		口黠切。又竹季切。前頓也。	836		
-a099a011	v10#127	辵	𨔣		古遐切。𨔣牙令不得進也。	836		
+a099a011	v10#127	辵	𨔣		古遐切。𨔣牙、令不得進也。	836		
 a099a012	v10#127	辵	迦		古牙居伽二切。釋迦如來。	836		
 a099a013	v10#127	辵	𨒋		胡厥切。散走也。	836		
 a099a014	v10#127	辵	逞		丑井切。快也、極也、盡也、解也。《說文》云：通也。楚謂疾行爲逞。《春秋傳》曰：何所不逞。	837		
@@ -9503,7 +9503,7 @@ b020a085	v12#157	木	檞		佳買切。松樠也。	1002
 b020a086	v12#157	木	𣕁		於兮切。𣕁㯕弩楔木也。	1002		
 b020a091	v12#157	木	榯		是之切。樹木立也。	1002		
 b020a092	v12#157	木	桗		都和切。木枺也。	1002		
-b020a093	v12#157	木	𣚀		子移切。𣚀欈木、實可食。	1002		
+b020a093	v12#157	木	𣚀		子移切。𣚀欈、木、實可食。	1002		
 b020a094	v12#157	木	欈		兪規切。𣚀欈也。	1002		
 b020a095	v12#157	木	𣖇		池力切。古直字。	1002		
 b020a101	v12#157	木	𣠺		且接切。飯喿也。	1002		

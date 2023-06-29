@@ -3958,7 +3958,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_050_B31	v6#73	丮	谻	Regular		記逆反。相踦谻也。	a064b085			97	487
 2_050_B32	v6#73	丮	𢦚	Regular		胡瓦反。擊踝也。	a064b092			97	488
 2_050_B41	v6#73	丮	𦘣	Regular		竹角反。斫也，削也。齗字。	a064b093			97	488
-2_050_B42	v6#73	丮	秇	Regular		朱立反。執字。慘也，拘也，持也。	a064b091			97	488
+2_050_B42	v6#73	丮	𥝡	Regular		朱立反。執字。慘也，拘也，持也。	a064b091			97	488
 2_050_B51	v6#74	鬥	鬥	Regular		當候反。鬪也。	a064b101			97	488
 2_050_B52	v6#74	鬥	鬨	Regular		胡棟反。構也，⿵鬥𠁁也。	a065a012		呂作鬬，又云“鬬”字原訛。	97	488
 2_050_B52-Shirafuji	v6#74	鬥	閧	Regular	白		a065a012			97	488
@@ -12932,7 +12932,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_109_B12	v20#295	谷	䜱	Regular		莫桓反。亭名。	b081a065			321	1567
 5_109_B21	v20#295	谷	䜯	Regular		渠陸反。谷。	b081a081			321	1567
 5_109_B22	v20#295	谷	𧮶	Regular		下溝反。谷名。	b081a073			321	1567
-5_109_B31	v20#295	谷	谼	Regular		胡東反。大壑。	b081a083		壑：原作&I-CB04411;	321	1568
+5_109_B31	v20#295	谷	谼	Regular		胡東反。大壑。	b081a083		壑：原作𭐋	321	1568
 5_109_B32	v20#295	谷	𧮺	Regular		仕晏反。谷。	b081a096		仕：原作丘。據《新撰字鏡》訂。	321	1568
 5_109_B41	v20#295	谷	䜰	Regular		呼勞反。深谷。	b081a085			321	1568
 5_109_B41-Miyazawa	v20#295	谷	𧯌	Regular	宮		b081a085			321	1568
@@ -16765,7 +16765,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_101_B61-Miyazawa	v25#402	䖵	蟁	Regular	宮		c046b082			413	2061
 6_101_B62	v25#402	䖵	蝱	Regular		莫衡反。似蚫大。	c046b084			413	2061
 6_102_A11	v25#402	䖵	蠧	Regular		丁胡反。白虫也。	c046b085			413	2061
-6_102_A12	v25#402	䖵	■	Regular		同上。有木間。	c046b091		掲出字：⿱⿱⿱&CDP-8DDD;冖石⿰風風。	413	2061
+6_102_A12	v25#402	䖵	■	Regular		同上。有木間。	c046b091		掲出字：⿱⿱⿱𰀉冖石⿰風風。	413	2061
 6_102_A12-Miyazawa	v25#402	䖵	螙	Regular	宮		c046b091			413	2061
 6_102_A21	v25#402	䖵	⿳爪豕炏	Regular		力西反。瓢也，箄也。	△		掲出字：蠡之異体。呂作⿱⿰豸刂䖵。	413	#N/A
 6_102_A22	v25#402	䖵	蠡	Regular		同上。	c046b092			413	2061

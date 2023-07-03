@@ -6,9 +6,9 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.256
+# Version: 1.1.257
 # Date: 11 March 2022
-# Last update : 1 July 2023
+# Last update : 3 July 2023
 #
 # Copyright (c) 2022-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -2679,8 +2679,8 @@ F02634	S03386	K0201734	K02017340	Ta135340	仏中	女	v2#12	嫥	〇	正
 F02635	S03387	K0201741	K02017410	Ta135410	仏中	女	v2#12	𡞤	〇	或　或叀字	
 F02636	S03388	K0201742	K02017420	Ta135420	仏中	女	v2#12	嫧	〇	策(S)音　鮮好	
 F02637	S03389	K02017431	K02017431	Ta135431	仏中	女	v2#12	娕	〇	楚角(S)反　謹	
-F02638	S03390	K02017432	K02017432	Ta135432	仏中	女	v2#12	⿱娕来	〇	或	
-F02639	S03391	K0201744	K02017440	Ta135440	仏中	女	v2#12	婡	⿰女来	ツヽシム　ヨシ	
+F02638	S03390	K02017432	K02017432	Ta135432	仏中	女	v2#12	𡣒	⿱娕来	或	
+F02639	S03391	K0201744	K02017440	Ta135440	仏中	女	v2#12	婡	⿰女来	ツヽシム　ヨシ	「婡」は集韻「女字」（平声咍韻、來：郎才切）、「娕」は広韻「恭謹皃」（入声覚韻、娖：測角切）とあり、両者を混同。
 F02640	S03392	K0201751	K02017510	Ta135510	仏中	女	v2#12	嬐	〇	纖(L)儼(H")二音　敏疾	
 F02641	S03393	K0201752	K02017520	Ta135520	仏中	女	v2#12	𡠗	〇	至(R)執(T)二音　イタル	
 F02642	S03394	K0201753	K02017530	Ta135530	仏中	女	v2#12	㛥	〇	他合(S)反　安	

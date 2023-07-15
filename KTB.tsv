@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.76
+#   Version: 1.1.77
 #   Date published: 17 September 2016
-#   Last modified: 13 July 2023
+#   Last modified: 16 July 2023
 #
 #   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -6352,7 +6352,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_045_A22	v10#128	辵	遼	Regular		力條反。遠也。	a099a021			157	837
 3_045_A31	v10#128	辵	遠	Regular		胡阮反。遐也，極也，違也，離也，大也。	a099a022		⿺辶麦：呂作違。《新撰字鏡》作違(正借音部分)。	157	837
 3_045_A32	v10#128	辵	𨖸	Regular		遠字。	a099a023			157	837
-3_045_A41	v10#128	辵	逖	Regular		託歷反。遏遠也，往來也，疾也，皃也。	a099a024			157	837
+3_045_A41	v10#128	辵	逖	Regular		託歷反。遏，遠也，往來也，疾也，皃也。	a099a024		遏：當作「逷」。	157	837
 3_045_A42	v10#128	辵	逷	Regular		逖字。	a099a031			157	837
 3_045_A51	v10#128	辵	迥	Regular		胡炯反。遠也，遐也。	a099a032			157	837
 3_045_A52	v10#128	辵	逴	Regular		敕角反。遠也，驚也，蹇也，略也，絕也。	a099a033			157	837

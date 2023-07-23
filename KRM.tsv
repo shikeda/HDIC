@@ -6,9 +6,9 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.262
+# Version: 1.1.263
 # Date: 11 March 2022
-# Last update : 19 July 2023
+# Last update : 23 July 2023
 #
 # Copyright (c) 2022-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -1541,7 +1541,7 @@ F01496	S01944	K0106231	K01062310	Ta084310	仏上	辵	v1#3	⿺辶屲	〇	或
 F01497	S01945	K0106232	K01062321	Ta084321	仏上	辵	v1#3	⿺辶&CDP-8C66;／𨒌	〇／〓	俗	
 F01498	S01947	K0106233	K01062330	Ta084330	仏上	辵	v1#3	𨕇	〇	ムシロ　シキ物　ホヒコル	
 F01499	S01948	K0106234	K01062341	Ta084341	仏上	辵	v1#3	蔓／莚	〇／⿺辶⿱艹正	ハヒコル	
-F01500	S01950	K0106241	K01062411	Ta084411	仏上	辵	v1#3	ー（莚）／䝯	〇／〇	同	
+F01500	S01950	K0106241	K01062411	Ta084411	仏上	辵	v1#3	ー（蔓）／䝯	〇／〇	同	
 F01501	S01952	K0106242	K01062420	Ta084420	仏上	辵	v1#3	筵	⿺辶⿱竹正	ナカムシロ	
 F01502	S01953	K0106243	K01062430	Ta084430	仏上	辵	v1#3	𨒌	〇	𨒌並征字	
 F01503	S01954	K0106251	K01062510	Ta084510	仏上	匚	v1#4	匚	〇	方音　受物之器　《玉ー》云甫玉切	

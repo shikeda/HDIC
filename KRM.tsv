@@ -6,9 +6,9 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.264
+# Version: 1.1.265
 # Date: 11 March 2022
-# Last update : 25 July 2023
+# Last update : 27 July 2023
 #
 # Copyright (c) 2022-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -6368,7 +6368,7 @@ F06323	S07868	K0301351	K03013510	Ta275510	仏下本	角	v3#23	甬	〇	音勇　�
 F06324	S07869	K0301352	K03013520	Ta275520	仏下本	角	v3#23	觵	〇	サカツキ	
 F06325	S07870	K0301361	K03013610	Ta275610	仏下本	貝	v3#24	貝	〇	音拜(R)　和名カヒ(LL)　一云カヒツ物(LLL@)	道円本和名抄巻19鱗介部亀貝体第「貝　尚書注云貝［音拝和名加比］水物也」。
 F06326	S07871	K0301363	K03013630	Ta275630	仏下本	貝	v3#24	貝	〇	（無）	
-F06327	S07872	K0301364	K03013641	Ta275641	仏下本	貝	v3#24	紫／ー（貝）	〇／〇	ウマノイホカヒ(LLLHH"HL)	
+F06327	S07872	K0301364	K03013641	Ta275641	仏下本	貝	v3#24	紫／ー（貝）	〇／〇	ウマノイホカヒ(LLLHH"HL)	「ウマノイホカヒ」は「ウマノクホカヒ」の誤り。道円本和名抄(巻19鱗介部)「紫貝」に「和名宇万乃久保加比」。
 F06328	S07874	K0301371	K03013711	Ta275711	仏下本	貝	v3#24	大／ー（貝）	〇／〇	同	
 F06329	S07876	K0301372	K03013721	Ta275721	仏下本	貝	v3#24	錦／ー（貝）	〇／〇	ヤクノ(LHL)	
 F06330	S07878	K0301373	K03013731	Ta275731	仏下本	貝	v3#24	ー（貝）／母	〇／〇	ハヽクリ	

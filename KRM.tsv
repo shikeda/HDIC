@@ -6,9 +6,9 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.266
+# Version: 1.1.267
 # Date: 11 March 2022
-# Last update : 29 July 2023
+# Last update : 1 August 2023
 #
 # Copyright (c) 2022-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -25080,7 +25080,7 @@ F25032	S31469	K0808042	K08080420	Tc086420	僧上	竹	v8#82	簻	〇	ムチウツ(
 F25033	S31470	K0808043	K08080430	Tc086430	僧上	竹	v8#82	⿱竹搞	〇	サヲ(LL)	
 F25034	S31471	K0808044	K08080440	Tc086440	僧上	竹	v8#82	𮇀	〇	エヒラ(LH"@)	
 F25035	S31472	K0808051	K08080510	Tc086510	僧上	竹	v8#82	𥳢	〓	ハラフ(LH@)	
-F25036	S31473	K0808052	K08080520	Tc086520	僧上	竹	v8#82	𥫥	〇	シタミ	
+F25036	S31473	K0808052	K08080520	Tc086520	僧上	竹	v8#82	𥫥	〇	シタミ	「𥫥」は「𥫱」と同字。新撰字鏡「𥫱」に「志太弥」。
 F25037	S31474	K0808053	K08080530	Tc086530	僧上	竹	v8#82	⿱竹⿵戊臣	〇	サス	
 F25038	S31475	K0808054	K08080540	Tc086540	僧上	竹	v8#82	⿱竹洦	〇	スタレ	
 F25039	S31476	K0808061	K08080610	Tc086610	僧上	竹	v8#82	簒	〇	ハフ	

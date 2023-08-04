@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.78
+#   Version: 1.1.79
 #   Date published: 17 September 2016
-#   Last modified: 21 July 2023
+#   Last modified: 4 August 2023
 #
 #   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -4847,7 +4847,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_082_B42	v8#88	心	悈	Regular		居力反。急也 ，鰓老也，飾也，質也，謹也。	a076a014			117	580
 2_082_B42-Shirafuji	v8#88	心	惐	Regular	白		a080a016			117	616
 2_082_B51	v8#88	心	㥯	Regular		於近反。急病也，痛也，憂也，慬也，哀也。	a081a075			117	628
-2_082_B52	v8#88	心	慶	Regular		杜敬反。喜也，美也，賜善也，乃也，賀也，福也。	a080b052			117	622
+2_082_B52	v8#88	心	慶	Regular		杜敬反。喜也，美也，賜，善也，乃也，賀也，福也。	a080b052			117	622
 2_082_B61	v8#88	心	愃	Regular		呼遠反。寬也。	a077a094			117	593
 2_082_B62	v8#88	心	惀	Regular		力均反。欲知也。	a077a101			117	594
 2_083_A11	v8#88	心	愻	Regular		蘇寸反。從恭也，慎也，謹也。	△			117	635

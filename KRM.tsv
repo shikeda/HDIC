@@ -6,9 +6,9 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.269
+# Version: 1.1.270
 # Date: 11 March 2022
-# Last update : 19 August 2023
+# Last update : 1 October 2023
 #
 # Copyright (c) 2022-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -25980,7 +25980,7 @@ F25933	S32804	K0811862	K08118620	Tc124620	僧上	金	v8#88	𨭗	〇	譮儈三正
 F25934	S32805	K0811863	K08118630	Tc124630	僧上	金	v8#88	錜	〇	奴業反　ネリ	
 F25935	S32806	K0811864	K08118640	Tc124640	僧上	金	v8#88	鐱	〇	俗	
 F25936	S32807	K0811871	K08118710	Tc124710	僧上	金	v8#88	鎗	〇	楚庚反　アシカナヘ(LL@@@)　アシナへ　鍾声　亦鐺　ユカナヘ　サスナヘ　大カナへ	
-F25937	S32808	K0811873	K08118730	Tc124730	僧上	金	v8#88	鐺	〇	音當(L)　銀ー鎻也　又音倉(L)　アシカナヘ　アシナへ(LLHH")　カナシキ　ミヽカネ　コシリ	
+F25937	S32808	K0811873	K08118730	Tc124730	僧上	金	v8#88	鐺	〇	音當(L)　銀ー鎻也　又音倉(L)　アシカナヘ　アシナへ(LLHH")　カナシキ　ミヽカネ　コシリ	「銀ー鎻也」の「銀」は「鋃」の誤り。
 F25938	S32809	K0811881	K08118811	Tc124811	僧上	金	v8#88	鐺／子	〇／〇	サスナヘ(LLHL")	
 F25939	S32811	K0811882	K08118820	Tc124820	僧上	金	v8#88	鋃	〇	音郎　ー鐺鎻	
 F25940	S32812	K0811883	K08118831	Tc124831	僧上	金	v8#88	ー（鋃）／鐺	〇／〇	クサリ(HHH)	

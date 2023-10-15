@@ -6,9 +6,9 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.278
+# Version: 1.1.279
 # Date: 11 March 2022
-# Last update : 14 October 2023
+# Last update : 15 October 2023
 #
 # Copyright (c) 2022-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -13294,8 +13294,8 @@ F13247	S16371	K0506381	K05063810	Tb069810	法上	言	v5#43	詎	〇	音巨　タ�
 F13248	S16372	K0506384	K05063840	Tb069840	法上	言	v5#43	⿰言強	〇	俗強字	
 F13249	S16373	K0506411	K05064110	Tb070110	法上	言	v5#43	謶	〇	音灼(S)　謫也　俗又度音誤	
 F13250	S16374	K0506412	K05064120	Tb070120	法上	言	v5#43	䚳	〇	支豉反　快也　只知何為也	
-F13251	S16375	K0506413	K05064130	Tb070130	法上	言	v5#43	諕	〇	呉音逆(S")　虐約反　タハフル-レ(HHH"L-H)　ワラフ　アサケル(HH"@@)　イツハリ　樂也　讃惡也　和又客	
-F13252	S16376	K0506421	K05064210	Tb070210	法上	言	v5#43	〓	〇	正	
+F13251	S16375	K0506413	K05064130	Tb070130	法上	言	v5#43	謔	諕	呉音逆(S")　虐約反　タハフル-レ(HHH"L-H)　ワラフ　アサケル(HH"@@)　イツハリ　樂也　讃惡也　和又客	掲出字「諕」とあるるが、「諕」は広韻「虎伯切」（入声陌韻、謋）で音が合わない。「謔」は広韻「虚約切」（入声薬韻）とあり、これを誤ったもの。
+F13252	S16376	K0506421	K05064210	Tb070210	法上	言	v5#43	𧫪	〇	正	
 F13253	S16377	K0506422	K05064220	Tb070220	法上	言	v5#43	譃	〇	俗虚字	
 F13254	S16378	K0506423	K05064231	Tb070231	法上	言	v5#43	調／謔	〇／〇	タハフレ	
 F13255	S16380	K0506424	K05064240	Tb070240	法上	言	v5#43	謐	〇	音密　シツカナリ(LH"L@@、ナ-ニ)　ヒラク　トヽノフ	

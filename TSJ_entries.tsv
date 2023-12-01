@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.5
+#   Version: 1.1.4
 #   Date published: 23 June 2018
-#   Last modified: 23 November 2022
+#   Last modified: 1 December 2022
 #
 #   Copyright (c) 2018-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -828,7 +828,7 @@ s0113a102	s0113a102	新39-12	v1#4	肉部第四	𦛛	◯	出所不詳
 s0113a103	s0113a103	新39-13	v1#4	肉部第四	⿰肉棘	◯	出所不詳			
 s0113a104	s0113a104	新39-14	v1#4	肉部第四	䐲	◯	出所不詳		2_072_B61	a072a096
 s0113a201	s0113a201	新39-21	v1#4	肉部第四	肌	◯	出所不詳		2_064_B211	a070a023
-s0113a202	s0113a202	新39-22	v1#4	肉部第四	𦢚	◯	出所不詳			
+s0113a202	s0113a202	新39-22	v1#4	肉部第四	𦟛	◯	出所不詳			
 s0113a203	s0113a203	新39-23	v1#4	肉部第四	肊	◯	出所不詳		2_065_A51	a070a073
 s0113a301	s0113a301	新39-31	v1#4	肉部第四	脪	⿰肉肴	出所不詳	字頭：原作「⿰肉肴」。	2_069_A62	a070b093
 s0113a302	s0113a302	新39-32	v1#4	肉部第四	胜	◯	出所不詳		2_067_B22	a071a093

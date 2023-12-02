@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.4
+#   Version: 1.1.5
 #   Date published: 23 June 2018
-#   Last modified: 2 December 2022
+#   Last modified: 3 December 2022
 #
 #   Copyright (c) 2018-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -8384,8 +8384,8 @@ s0515a702	s0515a701a	新291-72	v5#52	瓦部第五十三	𤭓	◯	玉篇		5_026_A
 s0515a703	s0515a703	新291-73	v5#52	瓦部第五十三	㼺	◯	玉篇		5_026_A32	b053a056
 s0515a704	s0515a704a	新291-74	v5#52	瓦部第五十三	缻	◯	小學篇	小學篇，存疑例。	5_026_A51	b053a092
 s0515a705	s0515a704a	新291-75	v5#52	瓦部第五十三	瓼	◯	小學篇	小學篇，存疑例。		
-s0515a706	s0515a706b	新291-76	v5#52	瓦部第五十三	𤭮	◯	小學篇	小學篇，存疑例。		
-s0515a707	s0515a706b	新291-77	v5#52	瓦部第五十三	罇	◯	小學篇	小學篇，存疑例。		b053b055
+s0515a706	s0515a706b	新291-76	v5#52	瓦部第五十三	𬎮	◯	小學篇	小學篇，存疑例。		
+s0515a707	s0515a706b	新291-77	v5#52	瓦部第五十三	罇	◯	小學篇	小學篇，存疑例。		
 s0515a708	s0515a706b	新291-78	v5#52	瓦部第五十三	⿺瓦缶	◯	小學篇	小學篇，存疑例。		
 s0515a709	s0515a709c	新291-79	v5#52	瓦部第五十三	⿺瓦厶	◯	小學篇	小學篇，存疑例。		
 s0515a801	s0515a709c	新291-81	v5#52	瓦部第五十三	𪼼	◯	小學篇	小學篇，存疑例。		

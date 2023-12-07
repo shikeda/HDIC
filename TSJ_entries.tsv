@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.5
+#   Version: 1.1.6
 #   Date published: 23 June 2018
-#   Last modified: 3 December 2022
+#   Last modified: 7 December 2022
 #
 #   Copyright (c) 2018-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -7216,7 +7216,7 @@ s0424a801	s0424a801a	新255-81	v4#43	酉部第四十四	⿰酉𠂢	◯	小學篇
 s0424a802	s0424a801a	新255-82	v4#43	酉部第四十四	⿰酉〓	◯	小學篇			
 s0424a803	s0424a803	新255-83	v4#43	酉部第四十四	醀	◯	小學篇			c078b032
 s0424a804	s0424a804	新255-84	v4#43	酉部第四十四	⿰酉裏	◯	小學篇			
-s0424a805	s0424a805	新255-85	v4#43	酉部第四十四	⿰酉裏	◯	小學篇			
+s0424a805	s0424a805	新255-85	v4#43	酉部第四十四	⿰酉井	◯	小學篇			
 s0424a806	s0424a806a	新255-86	v4#43	酉部第四十四	𨠤	◯	小學篇			
 s0424a807	s0424b101a	新255-87	v4#43	酉部第四十四	𫑵	◯	小學篇			
 s0424b101	s0424b101a	新256-11	v4#43	酉部第四十四	⿰酉囙	◯	小學篇			

@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.18
+#   Version: 1.1.19
 #   Date published: 23 June 2018
-#   Last modified: 15 December 2022
+#   Last modified: 16 December 2022
 #
 #   Copyright (c) 2018-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -11358,7 +11358,7 @@ s0702b301	s0702b301	新390-31	v7#68	木部第六十八	桯	◯	出所不詳		4_0
 s0702b302	s0702b302	新390-32	v7#68	木部第六十八	櫝	◯	出所不詳		4_013_B61	b017b013
 s0702b303	s0702b303	新390-33	v7#68	木部第六十八	樚	◯	出所不詳		4_013_B61	0
 s0702b304	s0702b304a	新390-34	v7#68	木部第六十八	椔	◯	出所不詳		4_017_A51	b021a033
-s0702b305	s0702b304a	新390-35	v7#68	木部第六十八	椔	◯	出所不詳		4_017_A51	b021a033
+s0702b305	s0702b304a	新390-35	v7#68	木部第六十八	⿰木⿱𠀐田	◯	出所不詳		4_017_A51	b021a033
 s0702b401	s0702b401	新390-41	v7#68	木部第六十八	椓	◯	一切經音義		4_018_B11_13	b019a011
 s0702b402	s0702b402	新390-42	v7#68	木部第六十八	杙	◯	一切經音義		4_004_B43	b014b074
 s0702b403	s0702b403	新390-43	v7#68	木部第六十八	榛	◯	一切經音義		4_002_A121	b014a042

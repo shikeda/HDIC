@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.19
+#   Version: 1.1.20
 #   Date published: 23 June 2018
-#   Last modified: 16 December 2022
+#   Last modified: 17 December 2022
 #
 #   Copyright (c) 2018-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -23370,7 +23370,7 @@ s1221b803	s1221b803s	新766-83	v12#159	連字第百五十九	泫	◯
 s1222a101	s1221b803s	新767-11	v12#159	連字第百五十九	沄	◯				
 s1222a102	s1222a102t	新767-12	v12#159	連字第百五十九	漭	◯				
 s1222a103	s1222a102t	新767-13	v12#159	連字第百五十九	湎	◯			5_098_A12	
-s1222a104	s1222a104u	新767-14	v12#159	連字第百五十九	峾	㴈		字頭：原作「㴈」。		
+s1222a104	s1222a104u	新767-14	v12#159	連字第百五十九	㴈	◯				
 s1222a105	s1222a104u	新767-15	v12#159	連字第百五十九	淪	◯				
 s1222a201	s1222a201a	新767-21	v12#159	連字第百五十九	溛	⿰氵⿱宀爪		字頭：原作「⿰氵⿱宀爪」。		
 s1222a202	s1222a201a	新767-22	v12#159	連字第百五十九	瀤	◯				

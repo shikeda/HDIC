@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.20
+#   Version: 1.1.21
 #   Date published: 23 June 2018
-#   Last modified: 17 December 2022
+#   Last modified: 21 December 2022
 #
 #   Copyright (c) 2018-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -16564,7 +16564,7 @@ s0913a301	s0913a301	新539-31	v9#92	阝部第九十三	鄙	◯	出所不詳		1_0
 s0913a302	s0913a302a	新539-32	v9#92	阝部第九十三	邵β	◯	出所不詳			
 s0913a303	s0913a30２a	新539-33	v9#92	阝部第九十三	邵	◯	出所不詳		1_043_A41	a020b011
 s0913a304	s0913a304	新539-34	v9#92	阝部第九十三	都	◯	出所不詳		1_041_B41	a019b072
-s0913a501	s0913a501	新539-51	v9#92	阝部第九十三	䘏	◯	出所不詳		2_064_A22	
+s0913a501	s0913a501	新539-51	v9#92	阝部第九十三	䘏	𨜧	出所不詳		2_064_A22	
 s0913a502	s0913a502	新539-52	v9#92	阝部第九十三	鄣	◯	出所不詳		1_047_A12	a021b063
 s0913a503	s0913a503	新539-53	v9#92	阝部第九十三	那β	◯	出所不詳		1_045_B32	a021a062
 s0913a504	s0913a504	新539-54	v9#92	阝部第九十三	那	◯	出所不詳		1_045_B32	a021a062

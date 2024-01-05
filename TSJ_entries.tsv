@@ -10,11 +10,11 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.27
+#   Version: 1.1.28
 #   Date published: 23 June 2018
-#   Last modified: 28 December 2023
+#   Last modified: 6 January 2024
 #
-#   Copyright (c) 2018-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+#   Copyright (c) 2018-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
 #   LIU Guanwei (Person in charge of image database design and implementation)
 #   Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -22979,7 +22979,7 @@ s1217b101	s1217b101a	新758-11	v12#159	連字第百五十九	罔	𠔿	一切經�
 s1217b102	s1217b101a	新758-12	v12#159	連字第百五十九	然	◯	一切經音義			
 s1217b103	s1217b103b	新758-13	v12#159	連字第百五十九	傪	◯			1_059_A22	a027b064
 s1217b104	s1217b103b	新758-14	v12#159	連字第百五十九	然	◯				
-s1217b105	s1217b105c	新758-15	v12#159	連字第百五十九	喟	◯			2_010_B32	a049a052
+s1217b105	s1217b105c	新758-15	v12#159	連字第百五十九	喟	𭈭			2_010_B32	a049a052
 s1217b106	s1217b105c	新758-16	v12#159	連字第百五十九	然	◯				
 s1217b201	s1217b201d	新758-21	v12#159	連字第百五十九	悄	◯			2_090_B31	a078a054
 s1217b202	s1217b201d	新758-22	v12#159	連字第百五十九	然	◯				

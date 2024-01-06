@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.28
+#   Version: 1.1.29
 #   Date published: 23 June 2018
-#   Last modified: 6 January 2024
+#   Last modified: 7 January 2024
 #
 #   Copyright (c) 2018-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -16049,7 +16049,7 @@ s0905a607	s0905a606a	新523-67	v9#86	魚部第八十七	鮒	◯	出所不詳		6_
 s0905a701	s0905a701	新523-71	v9#86	魚部第八十七	鮓	◯	出所不詳		6_078_A314	c039a071
 s0905b101	s0905b101	新524-11	v9#86	魚部第八十七	鱕	◯	小學篇	前，有「次小學篇字」。		c040a105
 s0905b102	s0905b102	新524-12	v9#86	魚部第八十七	𩵓	◯	小學篇			
-s0905b103	s0905b103	新524-13	v9#86	魚部第八十七	𩶾	⿰魚囙	小學篇	字頭：原作「⿰魚囙」。埋字（特殊例）。		
+s0905b103	s0905b103	新524-13	v9#86	魚部第八十七	𩶾	𬵈	小學篇	字頭：原作「𬵈」。埋字（特殊例）。		
 s0905b104	s0905b104	新524-14	v9#86	魚部第八十七	𬵪	⿰魚恵	小學篇			
 s0905b105	s0905b105	新524-15	v9#86	魚部第八十七	𩼁	◯	小學篇			
 s0905b106	s0905b106	新524-16	v9#86	魚部第八十七	𬵍	◯	小學篇			

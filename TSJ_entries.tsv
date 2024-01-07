@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.29
+#   Version: 1.1.30
 #   Date published: 23 June 2018
-#   Last modified: 7 January 2024
+#   Last modified: 8 January 2024
 #
 #   Copyright (c) 2018-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -5601,7 +5601,7 @@ s0325b301	s0325b301	新200-31	v3#34	髟部第卅四	鬢	◯	玉篇		2_026_B22	a0
 s0325b302	s0325b302	新200-32	v3#34	髟部第卅四	鬗	◯	玉篇		2_026_B31	a056a053
 s0325b303	s0325b303	新200-33	v3#34	髟部第卅四	䰓	◯	玉篇		2_026_B42	a056a056
 s0325b304	s0325b304	新200-34	v3#34	髟部第卅四	髾	◯	切韻D		2_028_B11	
-s0325b401	s0325b401	新200-41	v3#34	髟部第卅四	⿱髟尚	◯	切韻N			
+s0325b401	s0325b401	新200-41	v3#34	髟部第卅四	𬴬	◯	切韻N			
 s0325b402	s0325b402	新200-42	v3#34	髟部第卅四	𩭦	◯	切韻N			a056b082
 s0325b403	s0325b403	新200-43	v3#34	髟部第卅四	䰒	◯	切韻N			
 s0325b501	s0325b501	新200-51	v3#34	髟部第卅四	髶	◯	切韻D			

@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.31
+#   Version: 1.1.32
 #   Date published: 23 June 2018
-#   Last modified: 8 January 2024
+#   Last modified: 10 January 2024
 #
 #   Copyright (c) 2018-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -3141,7 +3141,7 @@ s0214a601	s0214a601	新115-61	v2#18	口部第十八	啤	◯	出所不詳
 s0214a602	s0214a602	新115-62	v2#18	口部第十八	吥	◯	出所不詳			a053a023
 s0214a603	s0214a603a	新115-63	v2#18	口部第十八	噌	◯	出所不詳			a052b074
 s0214a604	s0214a603a	新115-64	v2#18	口部第十八	吰	◯	出所不詳			a052b075
-s0214a605	s0214a605	新115-65	v2#18	口部第十八	𠽁	◯	出所不詳	參看阪倉1967:372。		
+s0214a605	s0214a605	新115-65	v2#18	口部第十八	噱	◯	出所不詳	參看阪倉1967:372。		
 s0214a701	s0214a701	新115-71	v2#18	口部第十八	唭	◯	出所不詳		2_018_A121	a051b034
 s0214a702	s0214a702	新115-72	v2#18	口部第十八	咹	◯	玉篇		2_018_A22	a051a102
 s0214a703	s0214a703	新115-73	v2#18	口部第十八	𠷂	◯	玉篇		2_018_A32	a051b043

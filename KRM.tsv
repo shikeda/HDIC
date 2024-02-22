@@ -6,11 +6,11 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.280
+# Version: 1.1.281
 # Date: 11 March 2022
-# Last update : 17 October 2023
+# Last update : 23 February 2024
 #
-# Copyright (c) 2022-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+# Copyright (c) 2022-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
 # North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan
 # Contact: ikeda.shoju@gmail.com, liyuansapporo@yahoo.co.jp, toyjack@gmail.com
@@ -38,7 +38,7 @@
 # Acknowledgments:
 # We are grateful to Tenri Central Library and Yagi Shoten for permission to publish the decipherment text of KRM.
 #
-# This work was supported by JSPS KAKENHI Grant Number 16H03422, 19H00526.
+# This work was supported by JSPS KAKENHI Grant Number 16H03422, 19H00526, 23K17500.
 #
 KRID_n	KRID_sn	KR2ID	KRID	KR_Tenri_p	KR_vol_name	KR_radical	KR_vol_radical	Entry	Entry_original	Def	Remarks
 F00001	S00001	K0100131	K01001310	Ta023310	仏上	人	v1#1	人	〇	音仁(L")「ニン」　ヒト(HL)　ワレ(LL)　サネ　マホル　ユク	
@@ -11668,7 +11668,7 @@ F11621	S14492	K05008742	K05008742	Tb014742	法上	水	v5#41	沋	〇	俗
 F11622	S14493	K0500881	K05008810	Tb014810	法上	水	v5#41	浝	〇	莫江反　水名	
 F11623	S14494	K0500882	K05008820	Tb014820	法上	水	v5#41	沈	〇	直深反　シツム　ヤトル　ツク　トヽム　オツ　和チム(LL)チム(L"L)	
 F11624	S14495	K0500883	K05008831	Tb014831	法上	水	v5#41	沉／泬	〇／〇	上俗下正	
-F11625	S14497	K0500884	K05008841	Tb014841	法上	水	v5#41	沇／中	〇／〇	ナカコロ(LLH"L)	
+F11625	S14497	K0500884	K05008841	Tb014841	法上	水	v5#41	沇／中	〇／〇	ナカコロ(LLH"L)	字類抄「沈中ナカコロ」、次に「中古同」（ナ・畳字、略注662頁）。
 F11626	S14499	K0501311	K05013110	Tb015110	法上	水	v5#41	㲹	〇	ソヽク(HH@)	
 F11627	S14500	K0501312	K05013120	Tb015120	法上	水	v5#41	沈	〇	式甚反　姓	
 F11628	S14501	K0501313	K05013130	Tb015130	法上	水	v5#41	洸	〇	音光(L)　水涌也　ヒロシ　タケシ	

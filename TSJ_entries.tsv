@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.36
+#   Version: 1.1.37
 #   Date published: 23 June 2018
-#   Last modified: 28 February 2024
+#   Last modified: 5 March 2024
 #
 #   Copyright (c) 2018-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -9197,7 +9197,7 @@ s0601a703	s0601a703a	新319-73	v6#60	山部第六十一	雟	◯	出所不詳		6_
 s0601a704	s0601a703a	新319-74	v6#60	山部第六十一	𡻎	◯	出所不詳			
 s0601a705	s0601a703a	新319-75	v6#60	山部第六十一	嶲	◯	出所不詳			
 s0601a801	s0601a801	新319-81	v6#60	山部第六十一	𡷐	◯	出所不詳			
-s0601a802	s0601a802	新319-82	v6#60	山部第六十一	峭	⿰山省	出所不詳	字頭：原作「⿰山省」，誤。當作「峭」。	6_004_A41	c012b082
+s0601a802	s0601a802	新319-82	v6#60	山部第六十一	峭	⿰山省	出所不詳	字頭：原作「𭖶」，誤。當作「峭」。	6_004_A41	c012b082
 s0601a803	s0601a803	新319-83	v6#60	山部第六十一	嵿	◯	出所不詳			c013b052
 s0601b101	s0601b101a	新320-11	v6#60	山部第六十一	𡸳	◯	出所不詳			
 s0601b102	s0601b101a	新320-12	v6#60	山部第六十一	𡸳β	◯	出所不詳			

@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.37
+#   Version: 1.1.38
 #   Date published: 23 June 2018
-#   Last modified: 5 March 2024
+#   Last modified: 6 March 2024
 #
 #   Copyright (c) 2018-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -11387,8 +11387,8 @@ s0703a201	s0703a201	新391-21	v7#68	木部第六十八	桁	◯	一切經音義		
 s0703a202	s0703a202	新391-22	v7#68	木部第六十八	棟	◯	一切經音義	「棟」「楝」併合例。	4_011_A51	b016b051
 s0703a301	s0703a301	新391-31	v7#68	木部第六十八	𣟵	◯	一切經音義		4_019_A51	b019b091
 s0703a302	s0703a302	新391-32	v7#68	木部第六十八	桸	◯	一切經音義		4_022_B32	b020b052
-s0703a303	s0703a303a	新391-33	v7#68	木部第六十八	柵	◯	一切經音義		4_013_A32	b017a074
-s0703a304	s0703a303a	新391-34	v7#68	木部第六十八	栅	◯	一切經音義			
+s0703a303	s0703a303a	新391-33	v7#68	木部第六十八	𣑭	◯	一切經音義		4_013_A32	b017a074
+s0703a304	s0703a303a	新391-34	v7#68	木部第六十八	栅β	◯	一切經音義			
 s0703a401	s0703a401	新391-41	v7#68	木部第六十八	槿	◯	一切經音義		4_023_A61	b018a063
 s0703a402	s0703a402	新391-42	v7#68	木部第六十八	橑	◯	一切經音義	「橑」「撩」併合例。	4_011_B61	b016b094
 s0703a403	s0703a403	新391-43	v7#68	木部第六十八	柲	◯	一切經音義N		4_016_B41	b021b103

@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.42
+#   Version: 1.1.43
 #   Date published: 23 June 2018
-#   Last modified: 14 March 2024
+#   Last modified: 24 March 2024
 #
 #   Copyright (c) 2018-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -19306,7 +19306,7 @@ s1033b702	s1033b702	新632-72	v10#118	文尻廾部第百十九	弆	◯	辨別不
 s1033b703	s1033b703	新632-73	v10#118	文尻廾部第百十九	㢢	◯	辨別不能	字頭：疑爲「弊」之異體字。		
 s1033b801	s1033b801	新632-81	v10#118	文尻廾部第百十九	㢡	◯	辨別不能		2_049_B22	a064a092
 s1033b802	s1033b802	新632-82	v10#118	文尻廾部第百十九	𥸭	◯	辨別不能			
-s1033b803	s1033b803	新632-83	v10#118	文尻廾部第百十九	⿱⿰米攵廾	◯	辨別不能			
+s1033b803	s1033b803	新632-83	v10#118	文尻廾部第百十九	⿱⿰米攵廾	◯	辨別不能	字頭：享和本作“弊”。		
 s1034a101	s1034a101	新633-11	v10#118	文尻廾部第百十九	弃	◯	辨別不能		2_049_B21	a064a091
 s1034a102	s1034a102	新633-12	v10#118	文尻廾部第百十九	⿱衣廾	◯	辨別不能			
 s1034a103	s1034a103	新633-13	v10#118	文尻廾部第百十九	𢍮	◯	辨別不能		5_069_A41	b067a052

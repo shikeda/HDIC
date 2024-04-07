@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.44
+#   Version: 1.1.45
 #   Date published: 23 June 2018
-#   Last modified: 29 March 2024
+#   Last modified: 8 April 2024
 #
 #   Copyright (c) 2018-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -15448,7 +15448,7 @@ s0821b801	s0821b801c	新504-81	v8#83	虫部第八十三	蟁	◯	出所不詳		6_
 s0821b802	s0821b801c	新504-82	v8#83	虫部第八十三	𧓹	◯	出所不詳		6_101_B61	c046b083
 s0821b803	s0821b803	新504-83	v8#83	虫部第八十三	蚋	◯	出所不詳			
 s0821b804	s0821b804a	新504-84	v8#83	虫部第八十三	虻	◯	出所不詳			
-s0821b805	s0821b804a	新504-85	v8#83	虫部第八十三	⿰虫𠔿	◯	出所不詳			
+s0821b805	s0821b804a	新504-85	v8#83	虫部第八十三	⿰虫冈	◯	出所不詳			
 s0821b806	s0821b804a	新504-86	v8#83	虫部第八十三	䗈	◯	出所不詳			
 s0821b807	s0821b807	新504-87	v8#83	虫部第八十三	蜋	◯	出所不詳		6_089_A31	c042b083
 s0821b808	s0821b808a	新504-88	v8#83	虫部第八十三	螳	◯	出所不詳		6_089_A32	c042b082

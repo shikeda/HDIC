@@ -1195,7 +1195,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_049_B30	v2#22	士	士	Omitted		Omitted	a023b011			25	133
 1_049_B31	v2#22	士	壯	Regular		俎亮反。大也，健也，害也。	a023b023			25	133
 1_049_B32	v2#22	士	墫	Regular		七旬反。喜也。〔伺：胥釐反。先志反。〕	a023b022		有埋字A。	25	133
-1_049_B33	v2#22	士	伺	Embedded_clerical		伺：胥釐反。先志反。	a023a092	釐：原作⿱秋厘。先：原作光。參看諸氏校釋。	埋字A。	25	132
+1_049_B33	v2#22	士	伺	Embedded_clerical		伺：胥釐反。先志反。	a023a092		埋字A。釐：原作⿱秋厘。先：原作光。參看諸氏校釋。	25	132
 1_049_B44	v2#22	士	壻	Regular		桑計反。女子之夫也。	a023b021		G06尾	26	133
 1_049_B44-Shirafuji	v2#22	士	聟	Regular	白		a023b021			26	133
 1_049_B61	v3#23	人	人	Regular		如真反。萬物靈也。	a023b091		G07首。	26	134
@@ -16214,7 +16214,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_081_A12	v24#397	魚	鮩	Regular		蒲古反。白魚。	c039b075	Y24200002-1		400	2000
 6_081_A21	v24#397	魚	鱐	Regular		思陸反。鮐母。	c039b076			400	2000
 6_081_A22	v24#397	魚	䰴	Regular		居迄反。䉼魚。	c039b081			400	2000
-6_081_A31	v24#397	魚	䱣	Regular		子律反。鯈。	c039b082	鯈：原作鰴。宋本《玉篇》・《新撰字鏡》作鯈。		400	2000
+6_081_A31	v24#397	魚	䱣	Regular		子律反。鯈。	c039b082		鯈：原作鰴。宋本《玉篇》・《新撰字鏡》作鯈。	400	2000
 6_081_A32	v24#397	魚	䱝	Regular		薄涯反。	c039b083			400	2000
 6_081_A41	v24#397	魚	鮋	Regular		直流反。	c039b084			400	2000
 6_081_A42	v24#397	魚	𩹉	Regular		甫違反。似鮒。	c039b085			400	2000

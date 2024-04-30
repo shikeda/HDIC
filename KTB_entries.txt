@@ -43,7 +43,7 @@
 #
 #	Group b -- Embedded headword
 #	3 Embedded_clerical		: 埋字 隷書字体
-#	4 Embedded_omitted		: 埋字 脱落
+#	4 Embedded-omitted		: 埋字 脱落
 #	5 Embedded_seal			: 埋字 篆書字体
 #
 #	Group c -- Omitted headword

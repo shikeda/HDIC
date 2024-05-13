@@ -7,11 +7,11 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.81
+#   Version: 1.1.82
 #   Date published: 17 September 2016
-#   Last modified: 28 November 2023
+#   Last modified: 14 May 2024
 #
-#   Copyright (c) 2016-2023 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+#   Copyright (c) 2016-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
 #   LIU Guanwei (Person in charge of image database design and implementation)
 #   Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -17461,7 +17461,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_127_B32	v27#425	糸	絍	Regular		如深反。繒布。	c055b083	Y27100049-3		431	2139
 6_127_B41	v27#425	糸	䋕	Regular		維(絍)字。	c055b084	Y27100051-1		431	2139
 6_127_B42	v27#425	糸	綜	Regular		子宋反。列。機繢(縷)絲交者也。	c055b085	Y27100051-2	列：疑《列女傳》，参看原本《玉篇》残巻。	431	2139
-6_127_B51	v27#425	糸	綹	Regular		力九反。䋖十絲為絡。	c055b086	Y27100052-1	掲出字：原作絡，誤。	431	2139
+6_127_B51	v27#425	糸	綹	Regular		力九反。䋖十絲為絡。	c055b086	Y27100052-1	掲出字：原作絡，誤。䋖：當作緯。	431	2139
 6_127_B52	v27#425	糸	繢	Regular		胡憒反。織餘也。	c055b091	Y27100053-1		431	2139
 6_127_B61	v27#425	糸	緯	Regular		禹畏反。束也，橫織絲。	c055b092	Y27100054-1		431	2140
 6_127_B62	v27#425	糸	緷	Regular		古混反。緯也，束也。	c055b094	Y27100057-1		431	2140

@@ -7,7 +7,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.82
+#   Version: 1.1.83
 #   Date published: 17 September 2016
 #   Last modified: 14 May 2024
 #
@@ -17513,7 +17513,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_129_B32	v27#425	糸	締	Regular		從計反。結。	c056a073	Y27100137-1		432	2149
 6_129_B41	v27#425	糸	繃	Regular		彼萠反。束也。	c056a074	Y27100137-2		432	2149
 6_129_B42	v27#425	糸	縛	Regular		扶瞿反。束也。	c056a075	Y27100138-1		432	2149
-6_129_B51	v27#425	糸	絿	Regular		渠周反。色也，求也。	c056a076	Y27100139-1		432	2149
+6_129_B51	v27#425	糸	絿	Regular		渠周反。色也，求也。	c056a076	Y27100139-1	色：當作急。	432	2149
 6_129_B52	v27#425	糸	絅	Regular		苦營反。引忽也。	c056a081	Y27100140-1		432	2150
 6_129_B61	v27#425	糸	䌴	Regular		力卧反。不勾也。	c056a082	Y27100140-2		432	2150
 6_129_B62	v27#425	糸	給	Regular		居及反。供也，及也，足也，備也。	c056a083	Y27100140-3		432	2150

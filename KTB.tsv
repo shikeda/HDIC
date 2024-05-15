@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.83
+#   Version: 1.1.84
 #   Date published: 17 September 2016
-#   Last modified: 14 May 2024
+#   Last modified: 15 May 2024
 #
 #   Copyright (c) 2016-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -9989,7 +9989,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_004_A22	v15#200	米	粗	Regular		在古反。麁也，大也，毗也，疏也。	b045b103			248	1208
 5_004_A31	v15#200	米	糵	Regular		魚列反。麴也，牙米也。	b046a011			248	1208
 5_004_A32	v15#200	米	粒	Regular		良及反。米顒也，糂也。	b045b105			248	1208
-5_004_A41	v15#200	米	𥼶	Regular		式亦反。清米也。	b046a012			248	1208
+5_004_A41	v15#200	米	𥼶	Regular		式亦反。清米也。	b046a012		清：當作漬。	248	1208
 5_004_A42	v15#200	米	糪	Regular		妨亦反。禾熟飯半生。	b046a013			248	1208
 5_004_A51	v15#200	米	糂	Regular		先感反。米柔羹也，雜也。	b046a014			248	1208
 5_004_A52	v15#200	米	糝	Regular		同上也。	b046a015			248	1208

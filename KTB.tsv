@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.84
+#   Version: 1.1.85
 #   Date published: 17 September 2016
-#   Last modified: 15 May 2024
+#   Last modified: 19 May 2024
 #
 #   Copyright (c) 2016-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -6019,7 +6019,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_033_A42	v9#113	食	餈	Regular		徐梨反。稻餅也。	a092a104	Y09203247-1		148	778
 3_033_A421	v9#113	食	𩜴	Songben-Yupian		#	a092b011			148	778
 3_033_A422	v9#113	食	䭣	Omitted		Omitted	△	Y09203248-1	宮澤無△。	148	#N/A
-3_033_A51	v9#113	食	餱	Regular		胡溝反。乾	a091a081	Y09203248-2		148	760
+3_033_A51	v9#113	食	餱	Regular		胡溝反。乾食也。	a091a081	Y09203248-2		148	760
 3_033_A52	v9#113	食	饘	Regular		之延反。糜也。	a091a082	Y09203249-1		148	760
 3_033_A521	v9#113	食	𩜾	Songben-Yupian		#	a091a083			148	760
 3_033_A61	v9#113	食	餥	Regular		甫鬼反。食麦饘也，餱也。	a091a084	Y09203250-1		148	761

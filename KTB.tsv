@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.85
+#   Version: 1.1.86
 #   Date published: 17 September 2016
-#   Last modified: 19 May 2024
+#   Last modified: 20 May 2024
 #
 #   Copyright (c) 2016-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -4692,7 +4692,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_077_A41	v7#84	力	助	Regular		鉏據反。佐也，迴也，益也。	a074a103			114	565
 2_077_A42	v7#84	力	𠣊	Regular		呂庶反。助也。	a074a104			114	565
 2_077_A421	v7#84	力	𠢻	Omitted		Omitted	a074a105			114	565
-2_077_A51	v7#84	力	勅	Regular		𦔺力反。正也，固也，勞也，備也，謹也，進也，理也，書也，急也，貝也。	a074b013			114	566
+2_077_A51	v7#84	力	勅	Regular		𦔺力反。正也，固也，勞也，備也，謹也，進也，理也，書也，急也，貝也。	a074b013		貝：観智院本《名義抄》作「具」。	114	566
 2_077_A51-Miyazawa	v7#84	力	勑	Regular	宮		a074b013			114	566
 2_077_A52	v7#84	力	劼	Regular		古八反。固也，勤也。	a074b011			114	566
 2_077_A61	v7#84	力	務	Regular		莫句反。海也，強也，趣也，遽也。	a074b012		句：原作勾。	114	566

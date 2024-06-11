@@ -22,16 +22,14 @@
 # Open access
 #
 # KRM Format information:
-# KRID_wakun_no	Item serial number and anotation serial number. If there are two or more Japanese readings (wakun), add branch numbers (b, c, d, ...).
+# KRID_wakun_no	Item serial number and anotation serial number. When there are two or more Japanese readings (wakun), add branch numbers (b, c, and d).
 # KR2ID	Kazama edition item ID number
-# Entry	Headword
+# Entry	Hanzi glyph of the headword
 # Def	Definition of Japanese reading (wakun)
-# Def_code	Definition code number
-# Def_name	Japanese reading: from 417 to 434
-# Word_form	Normalized form
-# Wakun_Hanzi	Wakun is written in Katakana, followed by the Hanzi in parentheses
-# Wakun_variant	Shown if there is Katakana written on the right or left side
-# Hanzi_variant	Shown if there are Hanzi variant characters
+# Word_form	The normalized form of a Japanese reading (wakun)
+# Wakun_Hanzi	Wakun is written in katakana, followed by the Hanzi in parentheses
+# Wakun_variant	Shown when Katakana is written on either the right or left side, described in a different word form than the normalized form.
+# Hanzi_variant	Shown when there is one or more Hanzi variant glyphs
 # JK_ID	Nihon Kokugo Daijiten, Shogakukan Japanese dictionary, Japanknowledge
 # Remarks	Editor's notes
 #
@@ -49,5 +47,5 @@
 #
 # This work was supported by JSPS KAKENHI Grant Number 16H03422, 19H00526, 23K17500.
 #
-KRID_no	KRID_wakun_no	KR2ID	Entry	Def	Def_code	Def_name	Word_form	Wakun_Hanzi	Wakun_variant	Hanzi_variant	JK_ID	Remarks
-F00001_02	F00001_02	K0100131	人	ヒト(HL)	411	和訓声点有	ひと	ヒト（人）			2002038b2b0dSG3SH587	この項目から数項目の和訓の声点の位置に言及（佐藤栄作「カタカナの字体から見た声点とその位置」『論集』13、31頁、2017年）。詩・秦風・黃鳥「人百其身」、静嘉堂文庫本毛詩鄭箋巻6・288行「人ヒト(左)ヒトヽヽ其の身を百モヽチニセン」。
+KRID_no	KRID_wakun_no	KR2ID	Entry	Def	Word_form	Wakun_Hanzi	Wakun_variant	Hanzi_variant	JK_ID	Remarks
+F00001_02	F00001_02	K0100131	人	ヒト(HL)	ひと	ヒト（人）			2002038b2b0dSG3SH587	この項目から数項目の和訓の声点の位置に言及（佐藤栄作「カタカナの字体から見た声点とその位置」『論集』13、31頁、2017年）。詩・秦風・黃鳥「人百其身」、静嘉堂文庫本毛詩鄭箋巻6・288行「人ヒト(左)ヒトヽヽ其の身を百モヽチニセン」。

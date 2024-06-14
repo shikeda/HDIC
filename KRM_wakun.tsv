@@ -23,15 +23,15 @@
 #
 # KRM Format information:
 # KRID_wakun_no	Item serial number and anotation serial number. When there are two or more Japanese readings (wakun), add branch numbers (b, c, and d).
-# KR2ID	Kazama edition item ID number
-# Entry	Hanzi glyph of the headword
-# Def	Definition of Japanese reading (wakun)
-# Word_form	The normalized form of a Japanese reading (wakun)
-# Wakun_Hanzi	Wakun is written in katakana, followed by the Hanzi in parentheses
-# Wakun_variant	Shown when Katakana is written on either the right or left side, described in a different word form than the normalized form.
-# Hanzi_variant	Shown when there is one or more Hanzi variant glyphs
-# JK_ID	Nihon Kokugo Daijiten, Shogakukan Japanese dictionary, Japanknowledge
-# Remarks	Editor's notes
+# KR2ID	Kazama edition item ID number.
+# Entry	Hanzi glyph of the headword.
+# Def	Definition of Japanese reading (wakun).
+# Word_form	The normalized form of a Japanese reading (wakun).
+# Wakun_Hanzi	Wakun is written in katakana, followed by the Hanzi in parentheses.
+# Wakun_variant	Shown when Katakana is written on either the right or left side, described in a different word form than the normalized form. Furthermore, when the editor corrects incorrect wakun(Japanese readings), an arrow (←) is placed before the incorrect wakun.
+# Hanzi_variant	Shown when there is one or more Hanzi variant glyphs.
+# JK_ID	Nihon Kokugo Daijiten, Shogakukan Japanese dictionary, Japanknowledge.
+# Remarks	Editor's notes.
 #
 # Abbreviations:
 # 正宗索引	正宗敦夫編, 類聚名義抄 仮名索引, 日本古典全集刊行会, 1939-1940

@@ -6,9 +6,9 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.305
+# Version: 1.1.306
 # Date: 11 March 2022
-# Last update : 15 June 2024
+# Last update : 16 June 2024
 #
 # Copyright (c) 2022-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -15397,8 +15397,8 @@ F15344	S18898	K0601331	K06013310	Tb147310	法中	玉	v6#52	玉	〇	音獄(S")　
 F15345	S18899	K0601332	K06013320	Tb147320	法中	玉	v6#52	王	〇	正　与王字同而義異	広韻に「《說文》本作王隸加點以別王字。」とあり、「与」以下は案語と判断。字様書によるか。
 F15346	S18900	K0601333	K06013330	Tb147330	法中	玉	v6#52	𤣪	〇	古	
 F15347	S18901	K0601334	K06013340	Tb147340	法中	玉	v6#52	玊	〇	今	
-F15348	S18902	K0601341	K06013411	Tb147411	法中	玉	v6#52	白／王	〇／〇	シラタマ(LL@@)	
-F15349	S18904	K0601342	K06013421	Tb147421	法中	玉	v6#52	水／ー（王）	〇／〇	水トルタマ(@LH@@)	
+F15348	S18902	K0601341	K06013411	Tb147411	法中	玉	v6#52	白／玉	〇／王	シラタマ(LL@@)	
+F15349	S18904	K0601342	K06013421	Tb147421	法中	玉	v6#52	水／ー（玉）	〇／ー（王）	水トルタマ(@LH@@)	
 F15350	S18906	K0601343	K06013430	Tb147430	法中	玉	v6#52	玊	〇	音夙(T)「シク」　又栗(T)「リク」　又欣救反　琢「ミカク」玉工也	池田按：「栗」は「粟」の誤り。「玉」の朱点はヲコト点「ヲ」か。「工也」は小字に作るが、『広韻』に「琢玉工」の義注があり、大字に翻刻した。
 F15351	S18907	K0601351	K06013510	Tb147510	法中	玉	v6#52	王	〇	禹方反　キミ(HH)　ユク(HL)　サカユ　オホイナリ(LLL@@、イ-キ)	
 F15352	S18908	K0601352	K06013521	Tb147521	法中	玉	v6#52	親／ー（王）	〇／〇	ミコ(HH)	

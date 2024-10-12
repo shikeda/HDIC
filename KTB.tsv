@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.88
+#   Version: 1.1.89
 #   Date published: 17 September 2016
-#   Last modified: 26 May 2024
+#   Last modified: 12 October 2024
 #
 #   Copyright (c) 2016-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -3555,7 +3555,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_035_B61	v6#67	手	抯	Regular		壯加反。取也，挹也，捾也，撃也。	a062a073			87	463
 2_035_B62	v6#67	手	㩴	Regular		九篗反。扟也，摶也。	△			87	#N/A
 2_036_A101	v6#67	手	摭	Omitted		Omitted	a059b021			87	439
-2_036_A11	v6#67	手	拓	Regular		之石反。取也，捨也。	a059b022			87	439
+2_036_A11	v6#67	手	拓	Regular		之石反。取也，捨也。	a059b022		捨：當作“拾”。	87	439
 2_036_A12	v6#67	手	攈	Regular		居運反。捨穂也，取也。	a059a091			87	437
 2_036_A12-Shirafuji	v6#67	手	攟	Regular	白		a059a091			87	437
 2_036_A21	v6#67	手	擐	Regular		胡慢反。貫也，衣甲也。	a059b044			87	440
@@ -5402,7 +5402,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_011_A13	v9#91	言	諈	Regular		竹恚反。累也，諉也。	a083b025	Y09101002-1		130	649
 3_011_A21	v9#91	言	諉	Regular		女恚反。累也，託也，語也。	a083b031	Y09101003-1		130	649
 3_011_A22	v9#91	言	警	Regular		居影反。戒也，起也，衆也。	a083b032	Y09101003-2		130	649
-3_011_A31	v9#91	言	謐	Regular		莫橘反。靜也，尞也。	a083b034	Y09101005-1		130	650
+3_011_A31	v9#91	言	謐	Regular		莫橘反。靜也，尞也。	a083b034	Y09101005-1	尞：當作“昚”。	130	650
 3_011_A32	v9#91	言	謙	Regular		去嫌反。輕也，敬，虚也。	a083b035	Y09101006-1		130	650
 3_011_A41	v9#91	言	誼	Regular		宜寄反。理也，善也，義也，宜也。	a083b033	Y09101008-1		130	650
 3_011_A42	v9#91	言	誐	Regular		魚何反。喜善也。	a087a102	Y09101009-1		130	704

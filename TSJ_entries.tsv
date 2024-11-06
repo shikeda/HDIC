@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.48
+#   Version: 1.1.49
 #   Date published: 23 June 2018
-#   Last modified: 3 November 2024
+#   Last modified: 6 November 2024
 #
 #   Copyright (c) 2018-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -3054,7 +3054,7 @@ s0213a104	s0213a104	新113-14	v2#18	口部第十八	嗻	◯	玉篇		2_013_B32	a0
 s0213a105	s0213a105	新113-15	v2#18	口部第十八	嗙	◯	玉篇		2_013_B51	a050a072
 s0213a201	s0213a201	新113-21	v2#18	口部第十八	噧	◯	玉篇		2_013_B52	a050a073
 s0213a202	s0213a202	新113-22	v2#18	口部第十八	叴	◯	玉篇		2_013_B61	a050a074
-s0213a203	s0213a203	新113-23	v2#18	口部第十八	吒	◯	玉篇		2_014_A21	a050a085
+s0213a203	s0213a203	新113-23	v2#18	口部第十八	喥	◯	玉篇		2_014_A21	a050a085
 s0213a204	s0213a204	新113-24	v2#18	口部第十八	嘮	◯	玉篇		2_014_A31	a050a094
 s0213a301	s0213a301	新113-31	v2#18	口部第十八	啐	◯	玉篇		2_014_A32	a050a095
 s0213a302	s0213a302	新113-32	v2#18	口部第十八	唇	◯	玉篇		2_014_A41	a050a101

@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.89
+#   Version: 1.1.90
 #   Date published: 17 September 2016
-#   Last modified: 12 October 2024
+#   Last modified: 11 November 2024
 #
 #   Copyright (c) 2016-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -10757,7 +10757,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_032_A51	v16#251	曲	⿻門盖	Regular		丘玉[反]。	△			267	#N/A
 5_032_A51-Shirafuji	v16#251	曲	曲	Regular	白		b055a041			267	1285
 5_032_A52	v16#251	曲	曲	Regular		丘玉反。不直也。〔曲β：古曲。〕	b055a041		有埋字B。	267	1285
-5_032_A53	v16#251	曲	曲β	Embedded_clerical		曲β：古曲。	b055a042		埋字B。	267	1285
+5_032_A53	v16#251	曲	𱍫	Embedded_clerical		𱍫：古曲。	b055a042		埋字B。	267	1285
 5_032_A61	v16#251	曲	𠚡	Regular		勅高反。	b055a044			267	1285
 5_032_A61-Shirafuji	v16#251	曲	𠚘	Regular	白		b055a044			267	1285
 5_032_B11	v16#252	壷	壺	Regular		戸徒反。酒器。	b055a051			267	1287

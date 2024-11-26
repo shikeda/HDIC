@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.65
+#   Version: 1.1.66
 #   Date published: 23 June 2018
-#   Last modified: 25 November 2024
+#   Last modified: 26 November 2024
 #
 #   Copyright (c) 2018-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -12317,8 +12317,8 @@ s0716b109	s0716b109d	新418-19	v7#69	小学篇及本草木異名第六十九	甘
 s0716b110	s0716b109d	新418-1A	v7#69	小学篇及本草木異名第六十九	橘	◯	本草木			
 s0716b201	s0716b201e	新418-21	v7#69	小学篇及本草木異名第六十九	占	◯	本草木		5_069_B31	
 s0716b202	s0716b201e	新418-22	v7#69	小学篇及本草木異名第六十九	斯	◯	本草木			
-s0716b203	s0716b203f	新418-23	v7#69	小学篇及本草木異名第六十九	菌	◯	本草木			
-s0716b204	s0716b203f	新418-24	v7#69	小学篇及本草木異名第六十九	芉	◯	本草木			
+s0716b203	s0716b203f	新418-23	v7#69	小学篇及本草木異名第六十九	茵	菌	本草木			
+s0716b204	s0716b203f	新418-24	v7#69	小学篇及本草木異名第六十九	芋	芉	本草木			
 s0716b205	s0716b205g	新418-25	v7#69	小学篇及本草木異名第六十九	惡	◯	本草木			
 s0716b206	s0716b205g	新418-26	v7#69	小学篇及本草木異名第六十九	實	◯	本草木			
 s0716b301	s0716b301g	新418-31	v7#69	小学篇及本草木異名第六十九	杜	◯	本草木			

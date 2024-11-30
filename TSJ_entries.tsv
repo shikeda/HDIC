@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.67
+#   Version: 1.1.68
 #   Date published: 23 June 2018
-#   Last modified: 28 November 2024
+#   Last modified: 30 November 2024
 #
 #   Copyright (c) 2018-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -12253,7 +12253,7 @@ s0716a206	s0716a203e	新417-26	v7#69	小学篇及本草木異名第六十九	花
 s0716a207	s0716a207f	新417-27	v7#69	小学篇及本草木異名第六十九	恒	◯	本草木			
 s0716a208	s0716a207f	新417-28	v7#69	小学篇及本草木異名第六十九	山	◯	本草木		6_001_A31	
 s0716a301	s0716a301g	新417-31	v7#69	小学篇及本草木異名第六十九	蜀	◯	本草木			
-s0716a302	s0716a301g	新417-32	v7#69	小学篇及本草木異名第六十九	染	◯	本草木			
+s0716a302	s0716a301g	新417-32	v7#69	小学篇及本草木異名第六十九	柒	◯	本草木			
 s0716a303	s0716a303h	新417-33	v7#69	小学篇及本草木異名第六十九	石	◯	本草木		6_013_B51	
 s0716a304	s0716a303h	新417-34	v7#69	小学篇及本草木異名第六十九	南	◯	本草木			
 s0716a305	s0716a303h	新417-35	v7#69	小学篇及本草木異名第六十九	草	◯	本草木			

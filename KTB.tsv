@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.95
+#   Version: 1.1.96
 #   Date published: 17 September 2016
-#   Last modified: 10 December 2024
+#   Last modified: 11 December 2024
 #
 #   Copyright (c) 2016-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -123,7 +123,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_017_A33	v1#3	示	祗β	Embedded_clerical		祗β：古文。			埋字B。宮澤無此字。祇β：原作⿰⿱水幵⿱入⿰｜𡿨。	1	#N/A
 1_017_A41	v1#3	示	祭	Regular_seal		子裔反。察也，至也，薦也，享也，祀也。〔祭λ：古文。〕	a006b013		有埋字B。裔：原文似𧜟。	1	4
 1_017_A411	v1#3	示	祭λ	Embedded_clerical		祭λ：古文。			埋字B。祭λ：呂作⿰月𡭕，臧作䏡。	1	#N/A
-1_017_A43	v1#3	示	祀	Regular_seal		徐理反。祭也，歳也。〔裸衣(禩β)：上文。〕〔䃾：俾利反。〕〔又祼大(禩γ)。〕	a006b022		有埋字A・B。裸衣(禩β)，祼大(禩γ):一字誤作二字歟。祼大(禩γ)。	1	5
+1_017_A43	v1#3	示	祀	Regular_seal		徐理反。祭也，歲也。〔裸衣(禩β)：上文。〕〔䃾：俾利反。〕〔又祼大(禩γ)。〕	a006b022		有埋字A・B。裸衣(禩β)，祼大(禩γ):一字誤作二字歟。祼大(禩γ)。	1	5
 1_017_A44	v1#3	示	禩	Embedded_clerical		裸衣(禩β)：上文。	a006b023		埋字B(禩β)。裸衣：禩之誤。	1	5
 1_017_A45	v1#3	示	䃾	Embedded_clerical		䃾：俾利反。	a006b021		埋字A。次項同。宮澤無△印。	1	5
 1_017_A46	v1#3	示	禩	Embedded_clerical		裸大(禩γ)：上文。	a006b023		埋字B(禩γ)。裸大：禩之誤。	1	5
@@ -1125,8 +1125,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_047_B61	v2#20	邑	酀	Regular		於田反。	a022a033			24	123
 1_047_B62	v2#20	邑	𨚑	Regular		去牛反。	a022a034			24	123
 1_047_B621	v2#20	邑	邱	Songben-Yupian		#	a022a035			24	123
-1_048_A11	v2#20	邑	𨝴	Regular		胡光反。〔郷：虛良反。方也。〕	a022a022		有埋字A。	24	123
-1_048_A12	v2#20	邑	郷	Embedded_clerical		虛良反。方也。	a022a032		埋字A。	24	123
+1_048_A11	v2#20	邑	𨝴	Regular		胡光反。〔鄕：虛良反。方也。〕	a022a022		有埋字A。	24	123
+1_048_A12	v2#20	邑	鄕	Embedded_clerical		虛良反。方也。	a022a032		埋字A。	24	123
 1_048_A13	v2#20	邑	𨚴	Regular		讓諸反。	a022a036			24	123
 1_048_A21	v2#20	邑	𨙺	Regular		女九反。	a022a042			24	123
 1_048_A211	v2#20	邑	䢳	Omitted		Omitted	a022a043			24	123
@@ -2106,8 +2106,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_082_B53	v4#36	頁	顆	Regular		口火反。小頭也。	a038a061			51	258
 1_082_B61	v4#36	頁	頢	Regular		古活反。短面也。	a038a062			51	258
 1_082_B62	v4#36	頁	頲	Regular		他泠反。正直也。	△(a038a063)			51	#N/A
-1_083_A11	v4#36	頁	𩕾	Regular		魚怨反。毎也，思也，顛也	a037b032			49	253
-1_083_A12	v4#36	頁	願	Regular		願欲也，思也，念也。毎也。同上。	a037b033			49	253
+1_083_A11	v4#36	頁	𩕾	Regular		魚怨反。每也，思也，顛也	a037b032			49	253
+1_083_A12	v4#36	頁	願	Regular		願欲也，思也，念也。每也。同上。	a037b033			49	253
 1_083_A21	v4#36	頁	顚	Regular		多堅反。顙也，頂也，上也，山頂也。	a037b034			50	253
 1_083_A22	v4#36	頁	顙	Regular		息朗反。頟也。	a037b041			50	253
 1_083_A31	v4#36	頁	題	Regular		達奚反。頭也，累也。	a037b042			50	253
@@ -4024,7 +4024,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_052_B52	v7#77	足	踧	Regular		徒的反。不進敬也。	a065b091			99	495
 2_052_B61	v7#77	足	踄	Regular		蒲閣反。蹈也。	a065b084			99	495
 2_052_B62	v7#77	足	躣	Regular		渠倶反。疾行也。	a065b092			99	495
-2_053_A11	v7#77	足	踖	Regular		子石反。如也，長脛行也。	a065b101		如也：論語郷党「君在。踧踖如也。與與如也。」之誤引。	99	495
+2_053_A11	v7#77	足	踖	Regular		子石反。如也，長脛行也。	a065b101		如也：論語鄕党「君在。踧踖如也。與與如也。」之誤引。	99	495
 2_053_A12	v7#77	足	躤	Regular		似亦反。踐也，敏也。	a065b102		掲出字：誤。	99	495
 2_053_A21	v7#77	足	𨄚	Regular		七羊反。集也，敬也，行也。	a065b103			99	495
 2_053_A211	v7#77	足	蹡	Songben-Yupian		#	a065b104			99	495
@@ -4422,7 +4422,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_067_A51	v7#82	肉	𦞦	Regular		呼各反。肉羹也。	a071b015			108	542
 2_067_A52	v7#82	肉	䐞	Regular		如灼反。肉表革裏也。	a071b021			108	542
 2_067_A601	v7#82	肉	脃	Songben-Yupian		#	a071b022			108	542
-2_067_A61	v7#82	肉	脆	Regular		清歳反。愞弱也。	a071b023			108	542
+2_067_A61	v7#82	肉	脆	Regular		清歲反。愞弱也。	a071b023			108	542
 2_067_A611	v7#82	肉	膬	Songben-Yupian		#	a071b024			108	542
 2_067_A62	v7#82	肉	膎	Regular		核佳反。膎肉也，食者也。	a071b031			108	543
 2_067_B11	v7#82	肉	𢿨	Regular		蘇但反。歡也，雜肉也。	a071b025			108	542
@@ -6677,7 +6677,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_058_A31	v10#131	步	步	Regular		蒲故反。行也，惟也，補。	a100a101			166	849
 3_058_A32	v10#131	步	歲	Regular		思惠反。	a100a102			166	849
 3_058_A41	v10#131	步	嵗	Regular		古文。〔嵗β(空白)：古文。〕	△		有埋字B。	166	#N/A
-3_058_A41-Shirafuji	v10#131	步	歳	Regular	白		△			166	#N/A
+3_058_A41-Shirafuji	v10#131	步	歲	Regular	白		△			166	#N/A
 3_058_A61	v10#132	止	止	Regular		之視反。輟也，煞也，礼也，住也，至也，脚也，足也，辞也，居也，小也，待也，獲也，留也，息也，逗也。	a100b011			166	#N/A
 3_058_B11	v10#132	止	歱	Regular		之勇反。踵也，亦也。	a100b013			166	#N/A
 3_058_B12	v10#132	止	𣦟	Regular		歱字。	△			166	#N/A
@@ -8182,7 +8182,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_022_A41	v12#158	木	櫧	Regular		之餘反。䡤字。似採木也。	b020b035			204	1004
 4_022_A42	v12#158	木	檽	Regular		乃豆反。皮可染赤絮。	b020b036			204	1004
 4_022_A51	v12#158	木	櫞	Regular		尹令反。實似橘也，可食。	b020b041			204	1004
-4_022_A52	v12#158	木	椿	Regular		恥倫反。八百歳爲一春，八百歳爲一秋，八千歳爲大椿也。	b014b044		八百歳爲一秋八千：大字書写。	204	955
+4_022_A52	v12#158	木	椿	Regular		恥倫反。八百歲爲一春，八百歲爲一秋，八千歲爲大椿也。	b014b044		八百歲爲一秋八千：大字書写。	204	955
 4_022_A61	v12#158	木	楉	Regular		如婌反。石榴也，榛屬也。	b020b042		婌：據《校釋》。上田作灼。	204	1004
 4_022_B11	v12#158	木	榴	Regular		力周反。安石榴。	b020b043			204	1004
 4_022_B12	v12#158	木	棿	Regular		牛雞反。輗車，轅端，横木也。	b021b041			204	1012
@@ -8209,7 +8209,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_023_A42	v12#158	木	柉	Regular		扶廉反。木皮中索也，疲枯也。	b020b085			204	1006
 4_023_A51	v12#158	木	杺	Regular		思林反。車鈎心也。	b020b091			204	1006
 4_023_A52	v12#158	木	棦	Regular		叉耕反。刺也。	b020b082		掲出字：原作⿰木争，呂・臧同作，上田作⿰木爭。叉：原作又。	204	1006
-4_023_A61	v12#158	木	槿	Regular		渠巾反。八千歳爲春，秋也，似李。為矜字。	b018a063		秋：大字書写。矜：呂作柃。	204	985
+4_023_A61	v12#158	木	槿	Regular		渠巾反。八千歲爲春，秋也，似李。為矜字。	b018a063		秋：大字書写。矜：呂作柃。	204	985
 4_023_B11	v12#158	木	朲	Regular		如神反。屋上間人也。	b020b092			205	1006
 4_023_B12	v12#158	木	𣖵	Regular		才戈反。麦李。	b020b093			205	1006
 4_023_B21	v12#158	木	榤	Regular		奇列反。戈(弋)也。桀字。	b018a074			205	986
@@ -9858,7 +9858,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_081_A51	v15#195	禾	䅭	Regular		蒲唐反。穄也。	b043b033			244	1186
 4_081_A52	v15#195	禾	䅣	Regular		胡唐反。青麻也。	b043b034			244	1186
 4_081_A61	v15#195	禾	秦	Regular		似津反。禾名也。	b043b042			244	1186
-4_081_A62	v15#195	禾	秊	Regular		奴堅反。載歳也，進前也，穀也，孰年。	b043b043			245	1186
+4_081_A62	v15#195	禾	秊	Regular		奴堅反。載歲也，進前也，穀也，孰年。	b043b043			245	1186
 4_081_A621	v15#195	禾	年	Songben-Yupian		#	b043b044			245	1186
 4_081_B11	v15#195	禾	稔	Regular		如枕反。年也，熟。	b043b045			245	1187
 4_081_B12	v15#195	禾	穀	Regular		古禄反。九穀也，稷，黍，秫，養也，生也，全也，禄，稻，麻，大豆，小豆，大麥，小麥。	b043b051		稻，注文大字。「養也，生也，全也，禄，」位置不正。例示適切。	245	1187
@@ -11444,7 +11444,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_054_B61	v18#269	金	鏦	Regular		楚江反。矛。〔䤸：同上。〕	b062a075		有埋字B。	282	1354
 5_054_B62	v18#269	金	䤸	Embedded_clerical		䤸：同上。	b062a081		埋字B。	282	1354
 5_054_B63	v18#269	金	銒	Regular		胡經反。似鍾頸長。	△			282	#N/A
-5_055_A11	v18#269	金	錟	Regular		大甘勅甘囚冉反。長矛利。	b062a082		冉：原作毎。	282	1354
+5_055_A11	v18#269	金	錟	Regular		大甘勅甘囚冉反。長矛利。	b062a082		冉：原作每。	282	1354
 5_055_A12	v18#269	金	𨦟	Regular		孚恭反。刃。〔鏠：同上。〕	b063b073		孚恭：原作“季恭”，誤。《新撰字鏡・玉篇群》作“孚共”。有埋字B。	282	1368
 5_055_A12-Miyazawa	v18#269	金	鏠	Regular	宮		b063b073			282	1368
 5_055_A13	v18#269	金	鏠	Embedded_clerical		鏠：同上。	▽		埋字B。	282	#N/A
@@ -13972,7 +13972,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_146_A31	v21#329	黒	黥	Regular		渠京反。黒形在面。	c009b071			344	1681
 5_146_A32	v21#329	黒	䵞	Regular		同上。	c009b072			344	1681
 5_146_A41	v21#329	黒	䵱	Regular		虚極反。赤皃。	c009b064			345	1681
-5_146_A42	v21#329	黒	黓	Regular		余職反。大歳在壬。	c009b073			345	1681
+5_146_A42	v21#329	黒	黓	Regular		余職反。大歲在壬。	c009b073			345	1681
 5_146_A51	v21#329	黒	䵨	Regular		莫江反。暗也，私也。	c009b074		呂云「此字頭原誤」。	345	1682
 5_146_A52	v21#329	黒	𪒄	Regular		亡耿反。草木藂生。	c009b075			345	1682
 5_146_A61	v21#329	黒	𪒐	Regular		同上。	c009b081			345	1682
@@ -14779,11 +14779,11 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_026_B62	v23#357	馬	𢒗	Embedded_clerical		𢒗：古馬也。	c022a102		埋字B。	366	1841
 6_026_B621	v23#357	馬	𢒠	Embedded_clerical		𢒠：馬字。	c022a103		埋字B。	366	1841
 6_027_A11	v23#357	馬	騭	Regular		之逸反。定也，升也。	c022a104		掲出字：原作⿰阝駦。	366	1841
-6_027_A12	v23#357	馬	䭴	Regular		為簡反。辨也，一歳馬也。	c022b012		辨也：未勘。	366	1842
+6_027_A12	v23#357	馬	䭴	Regular		為簡反。辨也，一歲馬也。	c022b012		辨也：未勘。	366	1842
 6_027_A12-Shirafuji	v23#357	馬	𩡧	Regular	白		c022b012			366	1842
-6_027_A21	v23#357	馬	駒	Regular		句虞反。二歳也。	c022b013		句：原作勾。	366	1842
-6_027_A22	v23#357	馬	駣	Regular		徒高反。四歳馬也。	c022b021			366	1842
-6_027_A31	v23#357	馬	𩡩	Regular		補戛反。八歳馬也。	c022b011			366	1841
+6_027_A21	v23#357	馬	駒	Regular		句虞反。二歲也。	c022b013		句：原作勾。	366	1842
+6_027_A22	v23#357	馬	駣	Regular		徒高反。四歲馬也。	c022b021			366	1842
+6_027_A31	v23#357	馬	𩡩	Regular		補戛反。八歲馬也。	c022b011			366	1841
 6_027_A32	v23#357	馬	𩦂	Regular		胡艱反。一目白也。	c022b022		目：原作囙。	366	1842
 6_027_A41	v23#357	馬	驪	Regular		力支反。純黄也。	c022b023			366	1842
 6_027_A42	v23#357	馬	駽	Regular		胡眄反。青也。	c022b014		眄：原作⿰日号。上田作眄。呂作昡。	366	1842
@@ -14989,9 +14989,9 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_035_A21	v23#358	牛	特	Regular		徒徳反。獨也，雄也。	c025a023			371	1865
 6_035_A22	v23#358	牛	犆	Regular		同上。馳陟反。	c025a024		掲出字：原作⿰牜員。	371	1865
 6_035_A31	v23#358	牛	犢	Regular		徒皷反。牛子。	c025a022			371	1864
-6_035_A32	v23#358	牛	㸬	Regular		補盖反。二歳牛。	c025a025			371	1865
-6_035_A41	v23#358	牛	犙	Regular		且含反。三歳牛。	c025a031		含：原作合。	371	1865
-6_035_A42	v23#358	牛	牭	Regular		思貳反。很也，四歳牛。	c025a032		貳：呂作貣。	371	1865
+6_035_A32	v23#358	牛	㸬	Regular		補盖反。二歲牛。	c025a025			371	1865
+6_035_A41	v23#358	牛	犙	Regular		且含反。三歲牛。	c025a031		含：原作合。	371	1865
+6_035_A42	v23#358	牛	牭	Regular		思貳反。很也，四歲牛。	c025a032		貳：呂作貣。	371	1865
 6_035_A51	v23#358	牛	㹑	Regular		同上。	c025a033			371	1865
 6_035_A52	v23#358	牛	犗	Regular		哿敗反。騰也。	c025a034			371	1865
 6_035_A61	v23#358	牛	牻	Regular		邈江反。雜毛牛。	c025a035			371	1865
@@ -15086,7 +15086,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_038_B32	v23#360	羊	𦎦	Regular		亡具反。六月生羊。	c026a103		具：原作其。《新撰字鏡》作具。	373	1876
 6_038_B41	v23#360	羊	𦍒	Regular		恥達反。羊子。	c026a105			373	1876
 6_038_B42	v23#360	羊	𦍐	Regular		亦𦍒也。	c026a106		亦：原作赤。	373	1876
-6_038_B51	v23#360	羊	䍮	Regular		雉矯反。二歳羊。	c026b011			373	1877
+6_038_B51	v23#360	羊	䍮	Regular		雉矯反。二歲羊。	c026b011			373	1877
 6_038_B52	v23#360	羊	羝	Regular		都奚反。雄也。	c026a107			373	1877
 6_038_B61	v23#360	羊	羒	Regular		扶云反。牡羊。	c026b012		扶：原作⿰牜夫，誤。	373	1877
 6_038_B62	v23#360	羊	牂	Regular		午唐反。牡羊。	c026b013			373	1877
@@ -15323,9 +15323,9 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_047_B114	v23#366	豕	𧱆	Songben-Yupian		#	c029b042			379	1905
 6_047_B12	v23#366	豕	豰	Regular		許卜反。小豕。	c029b043		許：原作評。	379	1905
 6_047_B21	v23#366	豕	豯	Regular		胡雞反。豚。	c029b044		掲出字：原作𤠓。雞：原作𧳞。	379	1905
-6_047_B22	v23#366	豕	豵	Regular		子公反。豕一歳。	c029b045			379	1905
+6_047_B22	v23#366	豕	豵	Regular		子公反。豕一歲。	c029b045			379	1905
 6_047_B31	v23#366	豕	豝	Regular		博家反。牝豕。	c029b046		掲出字：原作𤜱。	379	1905
-6_047_B32	v23#366	豕	豣	Regular		公妍反。三歳獸。	c029b051		妍：原作⿺反⿰女刃。上田云「名下字不明」。《新撰字鏡》作妍。呂作延。	379	1905
+6_047_B32	v23#366	豕	豣	Regular		公妍反。三歲獸。	c029b051		妍：原作⿺反⿰女刃。上田云「名下字不明」。《新撰字鏡》作妍。呂作延。	379	1905
 6_047_B41	v23#366	豕	𧱚	Regular		同上。	c029b052			379	1905
 6_047_B42	v23#366	豕	豭	Regular		古瑕反。牡豕也，辞也。	c029b054		掲出字：原作猳。	379	1906
 6_047_B51	v23#366	豕	豶	Regular		扶云反。駭也，犗也。	c029b053		g	379	1905
@@ -16334,7 +16334,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_085_B41	v25#401	虫	螣	Regular		徒曽反。神虵龍類。	c042a022			403	2019
 6_085_B42	v25#401	虫	蚺	Regular		餘酣反。大虵。	c042a023			403	2020
 6_085_B42-Shirafuji	v25#401	虫	蚦	Regular	白		c042a023			403	2020
-6_085_B51	v25#401	虫	螼	Regular		丘忍反。寒⿰虫歳。	c042a024		⿰虫歳：呂作𧕼。	403	2020
+6_085_B51	v25#401	虫	螼	Regular		丘忍反。寒⿰虫歲。	c042a024		⿰虫歲：呂作𧕼。	403	2020
 6_085_B52	v25#401	虫	螾	Regular		餘忍反。同上。	c042a031			403	2020
 6_085_B61	v25#401	虫	蚯	Regular		去牛反。蚓也。	c042a032			403	2020
 6_085_B62	v25#401	虫	螉	Regular		於公反。蜂也。	c042a033			403	2020
@@ -16535,7 +16535,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_093_A22	v25#401	虫	蜮	Regular		胡國反。短孤三足。	c043b072			407	2035
 6_093_A31	v25#401	虫	蟈	Regular		古獲反。蟆也。	c043b073			407	2035
 6_093_A32	v25#401	虫	𧊜	Regular		五各反。似蜴一丈。	c043b074		掲出字：原作蛢。	407	2035
-6_093_A41	v25#401	虫	蝄	Regular		武強反。如三歳兒赤黒。	c043b075			408	2035
+6_093_A41	v25#401	虫	蝄	Regular		武強反。如三歲兒赤黒。	c043b075			408	2035
 6_093_A41-Shirafuji	v25#401	虫	蛧	Regular	白		c043b075			408	2035
 6_093_A42	v25#401	虫	蜽	Regular		力掌反。蝄。	c043b081			408	2035
 6_093_A51	v25#401	虫	蝯	Regular		禹蕃反。猨。	c043b082		掲出字：原作螇。禹：原作⿱二内。《新撰字鏡》作禺。呂作丐。	408	2035

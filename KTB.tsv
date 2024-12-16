@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.99
+#   Version: 1.1.100
 #   Date published: 17 September 2016
-#   Last modified: 15 December 2024
+#   Last modified: 16 December 2024
 #
 #   Copyright (c) 2016-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -376,7 +376,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_024_B31	v1#7	玉	珈	Regular_seal		古遐反。加也，笳也。	a009a093			7	36
 1_024_B32	v1#7	玉	璪	Regular_seal		作道反。雜文玉也。	a009a103		双隷(1)。掲出字：原作𤩨璪。呂按「此處字頭雙出，𤨵同璪。」	7	37
 1_024_B41	v1#7	玉	瑚	Regular_seal		珊瑚也。后都反。璉也，簠簋也。	a009a104		李云有埋字A。呂為「珊」注文。宮澤不立項。今從宮澤。珊瑚也：大字。	7	37
-1_024_B42	v1#7	玉	璉	Regular		后都反。璉：力辰反。器也。珊瑚樹有枝无葉。	a009b011		埋字A。池田按，掲出字作瑚，非。「后都反。珊瑚樹有枝无葉。」，疑係後人増訂。参看宮澤一覧表・呂《校釋》。	7	37
+1_024_B42	v1#7	玉	璉	Regular		后都反。璉：力辰反。器也。珊瑚樹有枝无葉。	a009b011		埋字A。池田按，掲出字作瑚，非。「后都反。珊瑚樹有枝无葉。」，疑係後人增訂。参看宮澤一覧表・呂《校釋》。	7	37
 1_024_B51	v1#7	玉	琩	Regular_seal		齒楊反。蠻充耳也。	a009b012			7	37
 1_024_B52	v1#7	玉	璩	Regular_seal		秬於反。	a009b021			7	38
 1_024_B61	v1#7	玉	瑋	Regular		禹鬼反。珍奇也。同上字。	a009b013		珍：原作玲，誤。	7	37
@@ -600,7 +600,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_031_A51	v2#9	土	基	Regular_seal		居期反。本也，始也，經也，營也，說也，業也。	a013a092			12	61
 1_031_A52	v2#9	土	址	Regular_seal		諸耳[反]。基也。塖𦩱字。	a013a093			12	61
 1_031_A61	v2#9	土	坴	Regular_seal		力竹反。梁也。	a013a103			12	62
-1_031_A62	v2#9	土	封	Regular_seal		甫龍反。厚也，長也，國也，爵也，増也。	a013b011			12	62
+1_031_A62	v2#9	土	封	Regular_seal		甫龍反。厚也，長也，國也，爵也，增也。	a013b011			12	62
 1_031_A621	v2#9	土	𡉘	Songben-Yupian		#	a013b021			12	62
 1_031_B11	v2#9	土	壐	Regular_seal		胥紫反。印也。〔𡊆：坵字也。〕	a013b041		有埋字B。	12	62
 1_031_B12	v2#9	土	𡊆	Embedded_clerical		𡊆：坵字也	a013a101		埋字B。	12	61
@@ -614,7 +614,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_031_B32	v2#9	土	墨	Regular_seal		莫得反。痗也，黥也。	a013b091			12	63
 1_031_B40	v2#9	土	埻	Songben-Yupian		#	a013b043			12	62
 1_031_B41	v2#9	土	𡓑	Regular_seal		之困反。的也。	a013b051			12	62
-1_031_B42	v2#9	土	増	Regular_seal		作恒反。益也，加也，重也，壘也。	a013b071			12	63
+1_031_B42	v2#9	土	增	Regular_seal		作恒反。益也，加也，重也，壘也。	a013b071			12	63
 1_031_B51	v2#9	土	埤	Regular_seal		避移反。厚也，附也，助也，補也。	a013b052			12	62
 1_031_B52	v2#9	土	坿	Regular_seal		扶付反。益也。	a013b092			12	64
 1_031_B61	v2#9	土	垐	Regular_seal		才即反。疾也。	a013b072			12	63
@@ -854,7 +854,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_038_B41	v2#13	田	㽘	Regular		古莽反。境也，道也，竟也。	a017b092			18	90
 1_038_B42	v2#13	田	畍	Regular		耕薤反。境也。〔界：同上。〕	a017b102		有埋字B。	18	90
 1_038_B43	v2#13	田	界	Embedded_clerical		同上。	a017b101		埋字B。	18	90
-1_038_B51	v2#13	田	畷	Regular		豬衛反。表也。〔𤱥：𤱏字也。〕	a017b093		有埋字B。	18	90
+1_038_B51	v2#13	田	畷	Regular		豬衞反。表也。〔𤱥：𤱏字也。〕	a017b093		有埋字B。	18	90
 1_038_B52	v2#13	田	𤱥	Embedded_clerical		𤱥：：𤱏字也。	a018a011		埋字B。	18	91
 1_038_B53	v2#13	田	畛	Regular		諸亥反。場也。〔甽：古泫反。畎字。〕	a017b103		有埋字A。	18	91
 1_038_B54	v2#13	田	甽	Embedded_clerical		甽：古泫反。畎字。	a018a013		埋字A。	18	91
@@ -1575,7 +1575,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_063_A31	v3#23	人	僪	Regular		渠出反。狂也，兀頭鬼也。	a028b101			36	180
 1_063_A32	v3#23	人	倥	Regular		口并反。侗也，無知皃也。	a028b102			36	180
 1_063_A41	v3#23	人	偬	Regular		子弁反。困也。	a028b103			36	180
-1_063_A42	v3#23	人	𠏀	Regular		苦和反。寛大也。	△			36	#N/A
+1_063_A42	v3#23	人	𠏀	Regular		苦和反。寬大也。	△			36	#N/A
 1_063_A51	v3#23	人	𠈇	Regular		古夙字。𠉦，同上。	a028b092			36	180
 1_063_A52	v3#23	人	𤴞	Regular		遐嘏反。复（夏）也。	△(a029a104)			36	#N/A
 1_063_A61	v3#23	人	偡	Regular		文減反。𠢫也。	a029a013			36	181
@@ -1611,7 +1611,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_064_B52	v3#23	人	伄	Regular		丁𥅟反。當不當也。	a024a053			37	136
 1_064_B61	v3#23	人	倖	Regular		胡耿反。大也，見親也。	a029a085			37	185
 1_064_B62	v3#23	人	𠌫	Regular		卑䛑反。或䟆。止行也。	a029a091			37	185
-1_065_A11	v3#23	人	仠	Regular		胡旦反。蔽也，衛也。	a029a083			37	184
+1_065_A11	v3#23	人	仠	Regular		胡旦反。蔽也，衞也。	a029a083			37	184
 1_065_A12	v3#23	人	俈	Regular		口篤反。急暴也。或嚳。	a029a093			37	185
 1_065_A21	v3#23	人	㑳	Regular		壯救反。任身也。或媰。	a029a094		反切：上田作「壯救」，張同作，呂作「扗救」。又呂云「扗同在」。臧作「柱救」。	37	185
 1_065_A22	v3#23	人	僯	Regular		力軫反。暫𦔺也。或類。	a029a092		暫𦔺：《新撰字鏡》作慙耻。類：當作𩕔。	37	185
@@ -2824,7 +2824,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_009_B62	v5#57	口	嘰	Regular_seal		居祈反。唏也，啼也，哀也。	a049a012			68	344
 2_010_A11	v5#57	口	㗘	Regular_seal		逋洛反。呑滅也。	a049a013			68	344
 2_010_A12	v5#57	口	呑	Regular_seal		他田反。唯也，滅亠(也)。	a049a014			68	344
-2_010_A21	v5#57	口	含	Regular_seal		戸躭反。銜也，哺也，寛也，呑也。	a049a021			68	345
+2_010_A21	v5#57	口	含	Regular_seal		戸躭反。銜也，哺也，寬也，呑也。	a049a021			68	345
 2_010_A22	v5#57	口	哺	Regular_seal		薄路反。口中嚼食也。	a049a022			68	345
 2_010_A31	v5#57	口	味	Regular_seal		莫貴反。滋也，甘也。	a049a024			68	345
 2_010_A32	v5#57	口	嚛	Regular_seal		力沃反。食辛樂也。	a049a023			68	345
@@ -3574,7 +3574,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_036_B12	v6#67	手	擣	Regular		丁道反。刺也，築也。	a059a075			87	437
 2_036_B21	v6#67	手	攣	Regular		力令反。病也，恭也，係也。	a057b064			87	421
 2_036_B22	v6#67	手	探	Regular		勅合反。取也，試也。	a059b063			87	441
-2_036_B31	v6#67	手	挺	Regular		徒鼎反。出也，寛也，動也，挽也，竟也，緩也。	a059b062			87	441
+2_036_B31	v6#67	手	挺	Regular		徒鼎反。出也，寬也，動也，挽也，竟也，緩也。	a059b062			87	441
 2_036_B32	v6#67	手	撢	Regular		他紺反。引也，捐也，探也，揗也。	a059b064		探：呂作捈。	87	441
 2_036_B41	v6#67	手	捼	Regular		而和反。摧也，兩手相也，切也。	a059b071			87	441
 2_036_B42	v6#67	手	撋	Regular		捼字。	a059b072			87	441
@@ -3589,7 +3589,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_037_A22	v6#67	手	揮	Regular		詡歸反。揃也，灑也，竭也，動也。	a059b095			88	442
 2_037_A31	v6#67	手	攪	Regular		古巧反。乱也，撓也。	a059b101			88	442
 2_037_A311	v6#67	手	捁	Songben-Yupian		#	a059b102			88	442
-2_037_A32	v6#67	手	扞	Regular		胡旦反。衛也，蔽也，拾也，枝也。	a059b103			88	442
+2_037_A32	v6#67	手	扞	Regular		胡旦反。衞也，蔽也，拾也，枝也。	a059b103			88	442
 2_037_A321	v6#67	手	捍	Songben-Yupian		#	a059b104			88	442
 2_037_A41	v6#67	手	揅	Regular		吾堅反。摩也，熟也。	a057b072			88	421
 2_037_A42	v6#67	手	摩	Regular		莫羅反。近也，隱也，迫也，滅也，藏也，從也，壘也。	a057b073			88	421
@@ -4108,7 +4108,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_055_B61	v7#77	足	趹	Regular		古穴反。疾也，行也，奔也。	a066b063			101	502
 2_055_B62	v7#77	足	趼	Regular		魚見反。獸足也。	a066b064			101	502
 2_055_B62-Shirafuji	v7#77	足	趼	Regular	白		a066b064			101	502
-2_056_A11	v7#77	足	躛	Regular		禹快反。過也，衛也。	a066b071			101	502
+2_056_A11	v7#77	足	躛	Regular		禹快反。過也，衞也。	a066b071			101	502
 2_056_A12	v7#77	足	蹼	Regular		補木反。鳧鴈足也。	a066b072			101	503
 2_056_A21	v7#77	足	路	Regular		呂故反。長道也，大應也，正也。輅字。	a066b073			101	503
 2_056_A22	v7#77	足	䟷	Regular		勅厲反。踰也，跳也。	a066b074			101	503
@@ -4842,7 +4842,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_082_B31	v8#88	心	慒	Regular		似冬反。慮也，謀也。悰也字也。	a077a093			117	593
 2_082_B32	v8#88	心	憖	Regular		宜覲反。𡙇也，且也，致也，聞謹敬也。	a081a052			117	627
 2_082_B32-Miyazawa	v8#88	心	憗	Regular	宮		a081a052			117	627
-2_082_B41	v8#88	心	懬	Regular		口浪反。闊也，大也，寛也，忽也，寬也。	a081a061		寛也：重出，未勘。	117	627
+2_082_B41	v8#88	心	懬	Regular		口浪反。闊也，大也，寬也，忽也，寬也。	a081a061		寬也：重出，未勘。	117	627
 2_082_B411	v8#88	心	懭	Songben-Yupian		#	a081a062			117	627
 2_082_B42	v8#88	心	悈	Regular		居力反。急也 ，鰓老也，飾也，質也，謹也。	a076a014			117	580
 2_082_B42-Shirafuji	v8#88	心	惐	Regular	白		a080a016			117	616
@@ -6789,7 +6789,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_063_A11	v11#139	宀	定	Regular		達聽反。止也，安也，□(星)也。	b003b084		□：據《校釋》補。	169	863
 3_063_A12	v11#139	宀	寔	Regular		是職反。實也，止也。	b003b085			169	863
 3_063_A21	v11#139	宀	安	Regular		於韓反。寧也，安也，徐也，平也，止也，靜也，定也。	b003b091			169	863
-3_063_A22	v11#139	宀	宓	Regular		明筆反。止也，近也，安也，審也，正也，黙也，厚也，寧也。	b003b092			169	863
+3_063_A22	v11#139	宀	宓	Regular		明筆反。止也，近也，安也，審也，正也，默也，厚也，寧也。	b003b092			169	863
 3_063_A31	v11#139	宀	㝣	Regular		於細反。安也，靜也。	b003b093			169	863
 3_063_A32	v11#139	宀	宴	Regular		於見反。安也，息也。	b003b094			169	863
 3_063_A41	v11#139	宀	𡧯	Regular		徐的反。靜也。	b003b095			169	864
@@ -6876,7 +6876,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_065_B51	v11#139	宀	䢓	Regular		禹俱反。床為窓䢓是也。	b004b085		床：原文模糊。	171	873
 3_065_B52	v11#139	宀	寀	Regular		且改反。官也，僚也。	b004b084			171	873
 3_065_B61	v11#140	宮	宮	Regular		居雄反。宮室禹司空<堯>，廣棺也。	b004b101		<堯>：割注。	171	873
-3_065_B62	v11#140	宮	營	Regular		胡瓊反。部也，治也，或也，衛也，度也，上也，得也。	b004b102			171	873
+3_065_B62	v11#140	宮	營	Regular		胡瓊反。部也，治也，或也，衞也，度也，上也，得也。	b004b102			171	873
 3_066_A11	v11#141	宁	宁	Regular		治居反。門屏之間曰宁。	b005a011			171	874
 3_066_A12	v11#141	宁	䍆	Regular		竹与反。貯，𢝺也，所以盛米也。	b005a013			171	874
 3_066_A21	v11#141	宁	𤲑	Regular		䍆字。紵字。	b005a012		G35尾。	171	874
@@ -7743,7 +7743,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_009_A21	v12#158	木	枝	Regular		之移反。子也，樤也。	b015b083			194	966
 4_009_A22	v12#158	木	朴	Regular		普木反。大也，本也，皮也，卒也。	b015b101			194	967
 4_009_A31	v12#158	木	條	Regular		徒彫反。長也，稻也，書也，數也。	b013b103		書 (五字空白):   疑先做空白，後補齊之。	194	948
-4_009_A32	v12#158	木	枚	Regular		武來反。衛也，一分也，數也，几。	b015b102			194	967
+4_009_A32	v12#158	木	枚	Regular		武來反。衞也，一分也，數也，几。	b015b102			194	967
 4_009_A41	v12#158	木	𣓁	Regular		可寒反。通道也。	b016a011			194	967
 4_009_A411	v12#158	木	栞	Omitted		Omitted	b016a012			194	967
 4_009_A42	v12#158	木	欇	Regular		時葉反。虎豆也，楓木也。	b016a013			194	967
@@ -8226,7 +8226,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_024_A11	v12#158	木	朽	Regular		虚柳反。腐也，木壞也。	b018a076			205	986
 4_024_A12	v12#158	木	㯋	Regular		居影反。檠枕也。篋也，篋也。	b018a083			205	986
 4_024_A21	v12#158	木	椴	Regular		徒館反。𣐋(杙）也。	b018a092			205	986
-4_024_A22	v12#158	木	杭	Regular		苦益(盎)反。衛也，杅。伉字。衛也。	b018a093			205	987
+4_024_A22	v12#158	木	杭	Regular		苦益(盎)反。衞也，杅。伉字。衞也。	b018a093			205	987
 4_024_A31	v12#158	木	杌	Regular		牛茇反。椹也。	b019a032		掲出字：呂作杬。茇：呂作爰。	205	992
 4_024_A31-Miyazawa	v12#158	木	杬	Regular	宮		b020b021			205	1003
 4_024_A32	v12#158	木	柭	Regular		蒲葛反。矢末也，疾盡也，栝也。	b018a094			205	987
@@ -8266,7 +8266,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_025_A51	v12#158	木	桭	Regular		之仁反。櫩也，柍中央也。	b018b046			206	989
 4_025_A512	v12#158	木	栕	Songben-Yupian		#	b018b051			206	989
 4_025_A52	v12#158	木	柍	Regular		於兩反。木實也。	b018b052			206	989
-4_025_A61	v12#158	木	槬	Regular		胡覇反。寛也。	▽			206	#N/A
+4_025_A61	v12#158	木	槬	Regular		胡覇反。寬也。	▽			206	#N/A
 4_025_A62	v12#158	木	朮	Regular		時聿反。黏粟也。秫字。	b018b053			206	989
 4_025_B11	v12#158	木	榏	Regular		牛狄反。鷁首，天子舟。	b018b054			206	989
 4_025_B12	v12#158	木	𣘨	Regular		於可反。⿻衣可字也。木茂盛皃也。	b018b055			206	989
@@ -9038,7 +9038,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_052_A41	v13#162	艸	葿	Regular		妄悲反。䒲葿也。	b030a051			225	1080
 4_052_A42	v13#162	艸	䓚	Regular		材餘反。𦱃似韭也，生塞下。	b030a052		掲出字：原作“𦯣”。據宋本《玉篇》改。材餘：原作“林餘”，誤。宋本《玉篇》作“材餘”。𦱃：原文模糊，似“蓋”。宋本《玉篇》作“𦱃”。塞：當作“寒”。	225	1080
 4_052_A51	v13#162	艸	𦱃	Regular		禹俱反。𦱃草，葅𦱃。	b030a053		𦱃：原文模糊，似蓋。宋本《玉篇》・呂作𦱃。	225	1080
-4_052_A52	v13#162	艸	䕞	Regular		「音良。」力盎反。𦿆毒也。	b030a054		音良：傍書。疑此是増注。盎：原作⿱米皿。上田及呂作盎。薚：原作⿱艹𥓘。注文大字。	225	1080
+4_052_A52	v13#162	艸	䕞	Regular		「音良。」力盎反。𦿆毒也。	b030a054		音良：傍書。疑此是增注。盎：原作⿱米皿。上田及呂作盎。薚：原作⿱艹𥓘。注文大字。	225	1080
 4_052_A61	v13#162	艸	菝	Regular		蒲秣反。香也。	b029b094		注文大字。	225	1078
 4_052_A62	v13#162	艸	藤	Regular		達曾反。藟也。	b030a056			225	1080
 4_052_B11	v13#162	艸	苰	Regular		胡肱反。胡麻也。	b030a061			225	1080
@@ -9334,7 +9334,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_062_A62	v14#166	竹	策	Regular		楚革反。馬檛也，詩(謀)也。	b036a015		掲出字：原作筞。	232	1128
 4_062_A62-Shirafuji	v14#166	竹	筞	Regular	白		b036a015			232	1128
 4_062_B11	v14#166	竹	箠	Regular		時蘂反。筞也，撃馬也，捶也。	b036a021			232	1128
-4_062_B12	v14#166	竹	笍	Regular		徵衛反。杖頭有䥫也，鍛也。	b035b063			232	1126
+4_062_B12	v14#166	竹	笍	Regular		徵衞反。杖頭有䥫也，鍛也。	b035b063			232	1126
 4_062_B21	v14#166	竹	籣	Regular		力單反。盛弓矢人所負也，䪍也。	b036a022			232	1128
 4_062_B22	v14#166	竹	箙	Regular		扶福反。矢噐也。	b036a023			232	1128
 4_062_B31	v14#166	竹	䇬	Regular		齒倶反。雙也，篰也。	b036a024			232	1128
@@ -10446,7 +10446,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_021_A42	v16#240	皿	𥃃	Regular		同上。	b050a083			259	1245
 5_021_A51	v16#240	皿	𥁑	Regular		亡質反。械器。	b050b064			259	1249
 5_021_A52	v16#240	皿	盉	Regular		胡卧反。咊。調也。	b050a084			259	1245
-5_021_A61	v16#240	皿	益	Regular		於亦反。増也，進也，加也，饒也。	b050a085			259	1245
+5_021_A61	v16#240	皿	益	Regular		於亦反。增也，進也，加也，饒也。	b050a085			259	1245
 5_021_A62	v16#240	皿	盅	Regular		除隆反。器虚。	b050a086			259	1245
 5_021_B11	v16#240	皿	盈	Regular		余成反。滿也，受也，充也，怒。	b050a091			259	1246
 5_021_B12	v16#240	皿	盦	Regular		於含反。䨱盖，器也。	b050a092			259	1246
@@ -11682,7 +11682,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_063_A31	v18#270	攴	𣿊	Regular		力見反。激䥫。	△			288	#N/A
 5_063_A32	v18#270	攴	攽	Regular		補貧反。分也，减也。	b065a094			288	1385
 5_063_A41	v18#270	攴	孜	Regular		子辞反。不怠。	b065a096			288	1385
-5_063_A42	v18#270	攴	㪋	Regular		何旦反。敬也，衛也。	b066b025			288	1399
+5_063_A42	v18#270	攴	㪋	Regular		何旦反。敬也，衞也。	b066b025			288	1399
 5_063_A51	v18#270	攴	敱	Regular		五哀反。有治。	b065a095			288	1385
 5_063_A52	v18#270	攴	敞	Regular		齒掌反。昌兩反。高顯。	b065a101			288	1385
 5_063_A61	v18#270	攴	敒	Regular		時升反。理，治也。	b066b051			288	1400
@@ -11968,7 +11968,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_074_A11	v18#282	車	軭	Regular		區方反。車戾。	b068a084	Y18501020-1		295	1424
 5_074_A12	v18#282	車	輊	Regular		〔𨎌字。〕竹利反。至也。	b068a083	Y18501019-1	有埋字B。	295	1424
 5_074_A121	v18#282	車	𨎌	Embedded_clerical		𨎌字。			埋字B。	295	#N/A
-5_074_A21	v18#282	車	輟	Regular		張衛反。止也，已也。	b068a086	Y18501020-2		295	1424
+5_074_A21	v18#282	車	輟	Regular		張衞反。止也，已也。	b068a086	Y18501020-2		295	1424
 5_074_A22	v18#282	車	䡔	Regular		苦底反。儗也，至也。	b068a105	Y18501021-1		295	1426
 5_074_A31	v18#282	車	轚	Regular		古麗反。經。	b068a087	Y18501021-2	經：原本《玉篇》作絓。	295	1425
 5_074_A32	v18#282	車	軻	Regular		口佐反。接軸也。	b068a091	Y18501024-2		295	1425
@@ -13573,7 +13573,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_132_B21	v21#319	玄	玅	Regular		弥照反。古妙。精好也。	c005a101		古妙：據原文顛倒符訂。	336	1646
 5_132_B31	v21#320	丏	丏	Regular		亡殄反。不見也。	c005b011			336	1646
 5_132_B41	v21#321	奢	奢	Regular		舒耶反。侈也，後也，泰也，勝也，張也。	c006a041			336	1652
-5_132_B51	v21#321	奢	奲	Regular		丁可反。大也，寛也。	c006a042			336	1652
+5_132_B51	v21#321	奢	奲	Regular		丁可反。大也，寬也。	c006a042			336	1652
 5_132_B61	v21#322	大	大	Regular		達頼反。巨也，徧也，巨也，泰也。	c005b021			336	1647
 5_133_A11	v21#322	大	奎	Regular		苦圭反。兩髀間也。	▽			336	#N/A
 5_133_A12	v21#322	大	𡗷	Regular		胡公反。大。	c005b022			336	1647
@@ -14772,7 +14772,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_026_B32	v22#355	𨺅	𨽡	Regular		似季反。近道。	c021b072	Y22000652-1		366	1838
 6_026_B33	v22#355	𨺅	𤓫	Regular		燧字。	△	Y22000652-2		366	#N/A
 6_026_B41	v22#356	厽	厽	Regular		力捶反。參字。音含。	c021b091	Y22000655-1		366	1839
-6_026_B42	v22#356	厽	絫	Regular		力捶反。重也，増也，積也。	△	Y22000655-2	捶：原文訛。	366	#N/A
+6_026_B42	v22#356	厽	絫	Regular		力捶反。重也，增也，積也。	△	Y22000655-2	捶：原文訛。	366	#N/A
 6_026_B51	v22#356	厽	垒	Regular		力揆反。塹也，亦也。	c021b101	Y22000658-1		366	1840
 6_026_B52	v22#356	厽	參	Regular		虐躭反。分也。	c021b092	Y22000658-2	虐：残卷作廣。躭：原作𨈣。Z22尾(Z22:616字)。	366	1839
 6_026_B61	v23#357	馬	馬	Regular		莫雅反。武也，怒也。〔𢒗：古馬也。〕〔𢒠：馬字。〕	c022a101		有埋字B二字。Z23首。雅：原作推。	366	1841
@@ -15026,7 +15026,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_036_A62-Shirafuji	v23#358	牛	𤛿	Regular	白		c025a091			372	1868
 6_036_B11	v23#358	牛	㹗	Regular		去有反。无牛羊也。	c025a092			372	1868
 6_036_B12	v23#358	牛	牴	Regular		丁礼反。觸也，至也，歸也，畧也，會也。	c025a093			372	1868
-6_036_B21	v23#358	牛	𤜂	Regular		飢綴反。牛踶𤜂。	c025a094		掲出字・𤜂：原作衛。	372	1868
+6_036_B21	v23#358	牛	𤜂	Regular		飢綴反。牛踶𤜂。	c025a094		掲出字・𤜂：原作衞。	372	1868
 6_036_B22	v23#358	牛	㹂	Regular		胡結反。牛佷不從引。	c025a101			372	1868
 6_036_B31	v23#358	牛	牼	Regular		胡耕反。牛膝下骨。	c025a102			372	1868
 6_036_B32	v23#358	牛	𤘡	Regular		渠蔭反。牛舌病也。	c025a103			372	1868
@@ -16860,7 +16860,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_105_A61	v25#408	貝	貸	Regular		吐載反。施也，假也，借也，予也。	c048a014			416	2069
 6_105_A62	v25#408	貝	貣	Regular		徒得反。從官借本賈。	c048a021			416	2069
 6_105_B11	v25#408	貝	貱	Regular		方髪反。移与也，施也，益也。	c048a022			416	2070
-6_105_B12	v25#408	貝	贈	Regular		作㔁反。送也，増也。	c048a023			416	2070
+6_105_B12	v25#408	貝	贈	Regular		作㔁反。送也，增也。	c048a023			416	2070
 6_105_B21	v25#408	貝	贛	Regular		古送反。賜也。	c048a024			416	2070
 6_105_B22	v25#408	貝	𧹉	Regular		同上。	▽			416	#N/A
 6_105_B31	v25#408	貝	賞	Regular		詩掌反。賜有功。	c048a031			416	2070
@@ -17221,7 +17221,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_118_B211	v26#421	皮	皽	Songben-Yupian		#	c052b061			425	2110
 6_118_B22	v26#421	皮	皰	Regular		蒲教反。面生氣。	c052b063			425	2110
 6_118_B31	v26#421	皮	皹	Regular		居雲反。𤿚也。	c052b062			425	2110
-6_118_B32	v26#421	皮	𥀰	Regular		力闔反。皮瘦寛。	c052b064			425	2110
+6_118_B32	v26#421	皮	𥀰	Regular		力闔反。皮瘦寬。	c052b064			425	2110
 6_118_B41	v26#421	皮	㿴	Regular		丁闔反。	c052b065			425	2110
 6_118_B42	v26#421	皮	皵	Regular		思亦反。横(棤)字。腊字。	c052b066		掲出字：⿰荀皮。	425	2110
 6_118_B51	v26#421	皮	㿺	Regular		補卓反。𦢊字。皵也，均也	c052b071		𦢊：原文似曝。	425	2111
@@ -17402,7 +17402,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_125_A62	v26#424	韋	韎	Regular		莫概反。万物裏末。	c054b101			429	2129
 6_125_B11	v26#424	韋	𣝖	Regular		上韋(韎)字。	c054b102		掲出字：原文似⿰韋戈。《新撰字鏡》類似此字形。	429	2129
 6_125_B12	v26#424	韋	韢	Regular		尤芮反。囊細也。	c054b103		細：《新撰字鏡》同。呂云：《名義》誤。	429	2129
-6_125_B21	v26#424	韋	韜	Regular		吐勞反。藏也，寛也，劒衣。	c054b104			430	2129
+6_125_B21	v26#424	韋	韜	Regular		吐勞反。藏也，寬也，劒衣。	c054b104			430	2129
 6_125_B22	v26#424	韋	韝	Regular		古侯反。射臂沓。	c055a011			430	2129
 6_125_B31	v26#424	韋	韘	Regular		戸渉反。抉也。	c055a012			430	2129
 6_125_B32	v26#424	韋	韔	Regular		杜亮反。弓衣也。	c055a013			430	2129
@@ -17828,7 +17828,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_141_B51	v27#425	糸	𦄐	Regular		丘損反。束縛也，羣也。	c059a011	Y27200503-1		440	2201
 6_141_B52	v27#425	糸	緗	Regular		所梁反。𦁎也，桒。	c059a012	Y27200504-1		440	2201
 6_141_B61	v27#425	糸	纜	Regular		力蹔反。維舩也。	c059a013	Y27200505-1		440	2201
-6_141_B62	v27#425	糸	𦁕	Regular		呼骨反。衛微。	c059a014	Y27200505-2		440	2201
+6_141_B62	v27#425	糸	𦁕	Regular		呼骨反。衞微。	c059a014	Y27200505-2		440	2201
 6_142_A11	v27#425	糸	縲	Regular		力追反。落。	c059a015	Y27200505-3		440	2202
 6_142_A12	v27#425	糸	𥿆	Regular		齊咨反。補。	c059a016	Y27200506-1	齊咨：原作“齊洛”，誤。原本《玉篇》作“齊咨”，《新撰字鏡・玉篇群》作“齊次”。	440	2202
 6_142_A21	v27#425	糸	䋪	Regular		遏何反。細繒。	c059a017	Y27200506-2		440	2202
@@ -18682,7 +18682,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_175_A51	v30#496	四	𦉭	Regular		古四字。	c073a062			463	2312
 6_175_A52	v30#496	四	亖	Regular		四字。	c073a063			463	2312
 6_175_A61	v30#497	叕	叕	Regular		猪劣反。連也。	c073a071			463	2312
-6_175_A62	v30#497	叕	綴	Regular		張衛反。雜采也，連也。	△(c056b04)			463	#N/A
+6_175_A62	v30#497	叕	綴	Regular		張衞反。雜采也，連也。	△(c056b04)			463	#N/A
 6_175_B11	v30#498	亞	亞	Regular		鴉訶反。次也，就也，醜也。	c073a081			463	2312
 6_175_B12	v30#498	亞	𣇩	Regular		烏訶反。■，姓也。	c073a082		■：原作⿱⿳一⿰口口一貝，呂作𣇩。	463	2313
 6_175_B21	v30#499	五	五	Regular		五皷反。	c073a101			463	2313
@@ -18694,7 +18694,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_175_B61	v30#502	八	分	Regular		甫墳反。隔也，羊(半)也，施也，遍也，別也，賦也，与也，限也，軄也。	c073b033			463	2314
 6_175_B62	v30#502	八	尓	Regular		如紙反。別也。	c073b041			463	2314
 6_176_A11	v30#502	八	曾	Regular		子恒反。重也，甞也。	c073b043		掲出字：原作曽。	463	2315
-6_176_A12	v30#502	八	尚	Regular		時亮反。飾也，估也，上也，且也，増也，曽也，加也。	c073b051			463	2315
+6_176_A12	v30#502	八	尚	Regular		時亮反。飾也，估也，上也，且也，增也，曽也，加也。	c073b051			463	2315
 6_176_A21	v30#502	八	介	Regular		居薤反。微也，助也，界也，間也，因也，副也，閲也，估也，細也，畫也。	c073b042			463	2315
 6_176_A22	v30#502	八	詹	Regular		之鹽反。至也。	c073b064			463	2316
 6_176_A31	v30#502	八	𠔁	Regular		補徹反。分。別字也。離也，解也，明也。	c073b065			463	2316

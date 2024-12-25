@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.104
+#   Version: 1.1.105
 #   Date published: 17 September 2016
-#   Last modified: 22 December 2024
+#   Last modified: 25 December 2024
 #
 #   Copyright (c) 2016-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -13126,7 +13126,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_116_A42	v20#298	雲	靆	Regular		徒戴反。	b083a091			325	1588
 5_116_A51	v20#298	雲	靆	Regular		他愛反。不明也。	△(b083a091)			325	#N/A
 5_116_A51-Miyazawa	v20#298	雲	⿰雲連	Regular	宮		△			325	#N/A
-5_116_A61	v20#299	風	風	Regular		甫融反。〔凬：古文。〕〔飌：古文。〕〔𠙈：古文。〕教也，放告也，衆也，聲也。	b083b011		有埋字B三字。	325	1589
+5_116_A61	v20#299	風	風	Regular		甫融反。〔凬：古文。〕〔飌：古文。〕〔𠙈：古文。〕教也，放，告也，衆也，聲也。	b083b011		有埋字B三字。	325	1589
 5_116_A62	v20#299	風	凬	Embedded_clerical		凬：古文。	b083b012		埋字B。	325	1589
 5_116_A63	v20#299	風	飌	Embedded_clerical		飌：古文。	b083b021		埋字B。	325	1589
 5_116_A64	v20#299	風	𠙈	Embedded_clerical		𠙈：古文。	b083b022		埋字B。	325	1589

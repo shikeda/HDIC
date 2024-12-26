@@ -6,9 +6,9 @@
 # Ruiju myogishō 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. 
 # anonymous Buddhist monk, the latter half of the 12th century.
 #
-# Version: 1.1.323
+# Version: 1.1.324
 # Date: 11 March 2022
-# Last update : 21 December 2024
+# Last update : 26 December 2024
 #
 # Copyright (c) 2022-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -4035,7 +4035,7 @@ F03983	S05052	K0206583	K02065830	Ta183830	仏中	目	v2#15	眹	〇	（無）
 F03984	S05053	K0206584	K02065840	Ta183840	仏中	目	v2#15	眩	〇	音懸　メクル　*メヽクル　カヽヤク　クルヘク　マトフ　クラシ(HHH)　ミタル(LL"H)　カヽル　モコヨフ(HH"H@)　メクルヘクヤマヒ(LL@@@@@@)　マクレ　和券	
 F03985	S05054	K0206613	K02066131	Ta184131	仏中	目	v2#15	蚩／ー（眩）	⿱山虫／〇	アサムキカヽヤカス	
 F03986	S05056	K0206614	K02066141	Ta184141	仏中	目	v2#15	ー（眩）／轉	〇／〇	トメクル(@LH"@)	
-F03987	S05058	K0206621	K02066210	Ta184210	仏中	目	v2#15	⿰目互	〇	俗𣅥字　竹尸反　ミル	
+F03987	S05058	K0206621	K02066210	Ta184210	仏中	目	v2#15	⿰目互	〇	俗𣅥(眡)字　竹尸反　ミル	「𣅥」は「眡」の誤り。「眡」は「視」の古文。
 F03988	S05059	K0206622	K02066220	Ta184220	仏中	目	v2#15	𭾤	〇	ミル(LH)	
 F03989	S05060	K0206623	K02066230	Ta184230	仏中	目	v2#15	瞖	〇	音⿰⿳止夫日殳(R)　与翳通用　俗云ヒメクラシ(R@@@@)　又音琰	「俗云」、原文は「俗ー」とする。高山寺本・蓮成院本「俗云」とする。
 F03990	S05061	K0206631	K02066310	Ta184310	仏中	目	v2#15	𪾼	〇	音同　呉音翳　メシヒタリ	

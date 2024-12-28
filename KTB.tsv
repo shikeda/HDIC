@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.105
+#   Version: 1.1.106
 #   Date published: 17 September 2016
-#   Last modified: 25 December 2024
+#   Last modified: 28 December 2024
 #
 #   Copyright (c) 2016-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -9838,7 +9838,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_080_B22	v15#195	禾	稞	Regular		胡瓦反。無皮穀也。	▽			244	#N/A
 4_080_B31	v15#195	禾	秳	Regular		胡栝反。舂粟不潰也。	b043a105			244	1185
 4_080_B32	v15#195	禾	𥝖	Regular		才雪反。音紇也。秳也，舂粟不潰也。	b043a106			244	1185
-4_080_B41	v15#195	禾	𥢶	Regular		公外反。穅也，粗⿰米糜也。	b043b011			244	1185
+4_080_B41	v15#195	禾	𥢶	Regular		公外反。穅也，粗𥽰也。	b043b011			244	1185
 4_080_B42	v15#195	禾	䅵	Regular		之弱反。禾皮也。	b043b012			244	1185
 4_080_B51	v15#195	禾	穅	Regular		口郎反。米皮也。	b044a045			244	1191
 4_080_B52	v15#195	禾	秕	Regular		俾似反。稗也，擇也，穀不成也。	b043b013			244	1185

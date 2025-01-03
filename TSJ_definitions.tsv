@@ -9,11 +9,11 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_definitions.tsv
-#   Version: 1.1.210
+#   Version: 1.1.211
 #   Date published: 28 June 2018
-#   Last modified: 30 December 2024
+#   Last modified: 3 January 2025
 #
-#   Copyright (c) 2018-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+#   Copyright (c) 2018-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
 #   LIU Guanwei (Person in charge of image database design and implementation)
 #   Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -1913,7 +1913,7 @@ s0203a701	頁	下結反。頭也。首字，古文。
 s0203a702	頿	子之反。平：口上毛。加美豆比介。	
 s0203a703	䫀	古斤反。上：頰後也。加波知。	
 s0203a704	𩑺	而廉反。平：頰毛也。	
-s0203a705	顚	丁年反。平：頂也，顙也。伊支支。又作領。	伊支支：享和本作“伊太〻支”。
+s0203a705	顚	丁年反。平：頂也，顙也。伊支支。又作領。	伊支支：享和本作“伊太〻支”。領：疑當作“傎”。参看張磊校注。
 s0203a801	顏	牛年反。平：眉間也，色也，顙也，頟也。万与安比也。	色：享和本作“包”非。顙：享和本作“⿰⿱上示頁”非。頟：享和本作“額”。万与安比也：享和本作“万安比”。
 s0203a802	顏(項)	上正作。學講反。上：頸後也。	字頭：當作“項”。“顏”和“項”形近混同。
 s0203a803	𩓙	以頂反。上：秀也，光也，明也，勝也。	
@@ -14660,7 +14660,7 @@ s0925a301a	従β従從從β	四形作。正：字龍反。平：隨也，遂也�
 s0925a401	㣫	正：之勇反。上：相迹也。借：徒薫反。動字古文。	
 s0925a402	徧	甫見反。去：匝也，廣也，單也，周也，宣也。又遍字。又從人。	
 s0925a501	徐	冈於似居二反。緩也，容正也，安行也，漸〻也，遅也。	
-s0925a502	待	豆亥反。上：⿰登頁也，候也，擬也，給也，須也。	
+s0925a502	待	豆亥反。上：𩓣也，候也，擬也，給也，須也。	
 s0925a601a	徙β徙	同作。息尓反。上：移也，見迻者徙也。	
 s0925a603b	徒β徒⿰彳𧺆	三形作。豆具反。衆也，類也，失也，直也，空也，獨也，黨也，抯也，使也，餘。	
 s0925a701	偫	大起反。上：有所望而往。又思指往。	

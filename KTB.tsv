@@ -9,9 +9,9 @@
 #
 #   Version: 1.1.106
 #   Date published: 17 September 2016
-#   Last modified: 28 December 2024
+#   Last modified: 3 January 2025
 #
-#   Copyright (c) 2016-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+#   Copyright (c) 2016-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
 #   LIU Guanwei (Person in charge of image database design and implementation)
 #   Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -2268,7 +2268,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_088_B61	v4#41	面	面	Regular		亡戰反。向也，前也。	a040b021		亡：台湾本作三。G12首。	54	275
 1_088_B62	v4#41	面	䩉	Regular		快矩反。頰也。	a040b031			54	275
 1_089_A11	v4#41	面	靨	Regular		於協反。醜也。	a040b032			54	275
-1_089_A12	v4#41	面	靦	Regular		他殄反。厚顔也，始也。	a040b041			54	276
+1_089_A12	v4#41	面	靦	Regular		他殄反。厚顔也，始(姡)也。	a040b041		始：當作姡。	54	276
 1_089_A21	v4#41	面	𩈍	Regular		靦字也，同上。〔𩉊，同上。〕〔𡆎，同上。〕	a040b042		有埋字B二字。	54	276
 1_089_A22	v4#41	面	𩉊	Embedded_clerical		同上	a040b044		埋字B。	54	276
 1_089_A23	v4#41	面	𡆎	Embedded_clerical		同上	a040b043		埋字B。	54	276

@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.106
+#   Version: 1.1.107
 #   Date published: 17 September 2016
-#   Last modified: 3 January 2025
+#   Last modified: 6 January 2025
 #
 #   Copyright (c) 2016-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -785,8 +785,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_037_A11	v2#9	土	埫	Regular		⿱兀工冢反。不安也。〔墿：餘石反。道也。〕	a016a034		有埋字A。	16	78
 1_037_A12	v2#9	土	墿	Embedded_clerical		墿：餘石反。道也。	a016a031		埋字A。	16	77
 1_037_A13	v2#9	土	塎	Regular		餘冢反。埫也。	a016a041			16	78
-1_037_A21	v2#9	土	墁	Regular		莫旦反。杵也。〔埋：莫階反。𤷄也。〕	a016a052		有埋字A。	16	78
-1_037_A22	v2#9	土	埋	Embedded_clerical		埋：莫階反。𤷄也。	a016a015		埋字A。	16	77
+1_037_A21	v2#9	土	墁	Regular		莫旦反。杵也。〔埋：莫階反。瘞也。〕	a016a052		有埋字A。	16	78
+1_037_A22	v2#9	土	埋	Embedded_clerical		埋：莫階反。瘞也。	a016a015		埋字A。瘞：原作𤷄。	16	77
 1_037_A23	v2#9	土	㘨	Regular		乃篋反。莫也。	a016a042			16	78
 1_037_A31	v2#9	土	𡊁	Regular		乙力反。	a016a043			16	78
 1_037_A311	v2#9	土	塷	Songben-Yupian		#	a016a044			16	78

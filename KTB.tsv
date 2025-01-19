@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.107
+#   Version: 1.1.108
 #   Date published: 17 September 2016
-#   Last modified: 6 January 2025
+#   Last modified: 19 January 2025
 #
 #   Copyright (c) 2016-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -15313,7 +15313,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_047_A41	v23#364	犬	猋	Regular		俾饒反。疾步。	c028b045		次項，《校釋》補狁字。	379	1896
 6_047_A411	v23#365	㹜	犾	Omitted		Omitted	c029b011			379	1904
 6_047_A51	v23#365	㹜	㺇	Regular		胥記反。候也，視也。伺字。	c029b012			379	1904
-6_047_A52	v23#365	㹜	獄	Regular		虞縁反。訟也，确也，縁。	c029b013			379	1904
+6_047_A52	v23#365	㹜	獄	Regular		虞縁反。訟也，确也，縁。	c029b013		縁:當作緑。	379	1904
 6_047_A61	v23#366	豕	豕	Regular		式尓反。猪也，竭也。	c029b031			379	1904
 6_047_A62	v23#366	豕	𢁓	Regular		古文。	c029b032			379	1904
 6_047_B11	v23#366	豕	豬	Regular		徵居反。䐗字。	c029b033			379	1905
@@ -18843,7 +18843,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_182_A42	v30#529	孨	𡥨	Regular		上字。𣈆字。進也，晝也。	c076a081			468	2335
 6_182_A51	v30#530	𠫓	𠫓	Regular		徒骨反。突字。	c076a091			468	2336
 6_182_A52	v30#530	𠫓	𡿮	Regular		上字，犬從穴中出也。	c076a092			468	2336
-6_182_A61	v30#530	𠫓	育	Regular		餘税反。稚也，長也，生也，遂也，養也。	c076a093			468	2336
+6_182_A61	v30#530	𠫓	育	Regular		餘税反。稚也，長也，生也，遂也，養也。	c076a093		税：當作祝。	468	2336
 6_182_A62	v30#530	𠫓	𣫺	Regular		上字。	c076a101			468	2336
 6_182_B11	v30#530	𠫓	疏	Regular		所居反。麁也，徹也，除也，分也，通也，遅也，遠也，識也。	c076a102		掲出字：原作䟽。	468	2336
 6_182_B21	v30#531	丑	丑	Regular		勅九反。紐。	c076b011			468	2336

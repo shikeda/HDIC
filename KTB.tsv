@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.108
+#   Version: 1.1.109
 #   Date published: 17 September 2016
-#   Last modified: 19 January 2025
+#   Last modified: 20 January 2025
 #
 #   Copyright (c) 2016-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -16865,7 +16865,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 6_105_B22	v25#408	貝	𧹉	Regular		同上。	▽			416	#N/A
 6_105_B31	v25#408	貝	賞	Regular		詩掌反。賜有功。	c048a031			416	2070
 6_105_B32	v25#408	貝	賚	Regular		力載反。与，賜也。勑字。	c048a032			416	2070
-6_105_B41	v25#408	貝	賜	Regular		思瀆反。命也，施也，惠，索也。	c048a033			416	2070
+6_105_B41	v25#408	貝	賜	Regular		思瀆反。命也，施也，惠，索也。	c048a033		瀆：當作漬。	416	2070
 6_105_B42	v25#408	貝	貤	Regular		餘豉反。貱也，益也。	c048a034			416	2070
 6_105_B51	v25#408	貝	贏	Regular		餘成反。緩也，■(利)，曷，益也，過。	c048a041		■：原文似⿰虫刂。	416	2070
 6_105_B52	v25#408	貝	負	Regular		浮否反。擔也，持也，後也。	c048a042			416	2070

@@ -10,11 +10,11 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.69
+#   Version: 1.1.70
 #   Date published: 23 June 2018
-#   Last modified: 2 December 2024
+#   Last modified: 23 January 2025
 #
-#   Copyright (c) 2018-2024 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+#   Copyright (c) 2018-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
 #   LIU Guanwei (Person in charge of image database design and implementation)
 #   Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -21741,7 +21741,7 @@ s1206a502	s1206a502a	新735-52	v12#157	雑字第百五十七	川	◯	出所不�
 s1206a503	s1206a502a	新735-53	v12#157	雑字第百五十七	川β	◯	出所不詳			
 s1206a504	s1206a504	新735-54	v12#157	雑字第百五十七	𡿦	川	出所不詳	字頭：原作「川」。		
 s1206a505	s1206a505	新735-55	v12#157	雑字第百五十七	帶	◯	出所不詳		6_144_B61	c060b071
-s1206a601	s1206a601	新735-61	v12#157	雑字第百五十七	擧	舉	出所不詳	字頭：原作「舉」。	2_034_B52	a057b053
+s1206a601	s1206a601	新735-61	v12#157	雑字第百五十七	舉	◯	出所不詳		2_034_B52	a057b053
 s1206a602	s1206a602a	新735-62	v12#157	雑字第百五十七	凢	◯	出所不詳			
 s1206a603	s1206a602a	新735-63	v12#157	雑字第百五十七	凡	◯	出所不詳		1_021_A61	a008a021
 s1206a604	s1206a604	新735-64	v12#157	雑字第百五十七	⿰𡿪𡿪	◯	出所不詳			

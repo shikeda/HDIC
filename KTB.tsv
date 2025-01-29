@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.110
+#   Version: 1.1.111
 #   Date published: 17 September 2016
-#   Last modified: 23 January 2025
+#   Last modified: 29 January 2025
 #
 #   Copyright (c) 2016-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -6545,7 +6545,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_052_B31	v10#127	走	走	Regular		子后反。奔也，往也，出也，至也，趍也，去。	a096a031			162	811
 3_052_B41	v10#127	走	趨	Regular		且瑜反。疾行也，走也，步也。	a096a033			162	811
 3_052_B42	v10#127	走	趫	Regular		綺驕反。善走也，舉足也。	a096a043			162	811
-3_052_B51	v10#127	走	赴	Regular		匹賦反。告也，至也，䞯也， 奔也。訃也字。	a096a051			162	812
+3_052_B51	v10#127	走	赴	Regular		匹賦反。告也，至也，䞯也，奔也。訃也字。	a096a051			162	812
 3_052_B52	v10#127	走	趣	Regular		倉屢反。趍也，疾也，遽也。	a096a052			162	812
 3_052_B61	v10#127	走	䞚	Regular		渠支反。行也。	a096a053			163	812
 3_052_B62	v10#127	走	超	Regular		恥驕反。越也，出前也，遠也，踰，跳也，怡也，躁也，疾也，■(度)也。	a096a061		■(度)：吕作「渡」。	163	812

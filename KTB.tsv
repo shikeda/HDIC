@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.111
+#   Version: 1.1.112
 #   Date published: 17 September 2016
-#   Last modified: 29 January 2025
+#   Last modified: 12 February 2025
 #
 #   Copyright (c) 2016-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -2822,9 +2822,9 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_009_B52	v5#57	口	啗	Regular		徒濫反。食也，噉也。				68	#N/A
 2_009_B61	v5#57	口	嗒	Regular_seal		吐合反。或啗唅也。又榻字。	a048b104		原作哈。呂同作。	68	344
 2_009_B62	v5#57	口	嘰	Regular_seal		居祈反。唏也，啼也，哀也。	a049a012			68	344
-2_010_A11	v5#57	口	㗘	Regular_seal		逋洛反。呑滅也。	a049a013			68	344
-2_010_A12	v5#57	口	呑	Regular_seal		他田反。唯也，滅亠(也)。	a049a014			68	344
-2_010_A21	v5#57	口	含	Regular_seal		戸躭反。銜也，哺也，寬也，呑也。	a049a021			68	345
+2_010_A11	v5#57	口	㗘	Regular_seal		逋洛反。吞滅也。	a049a013			68	344
+2_010_A12	v5#57	口	吞	Regular_seal		他田反。喉也，滅亠(也)。	a049a014			68	344
+2_010_A21	v5#57	口	含	Regular_seal		戸躭反。銜也，哺也，寬也，吞也。	a049a021			68	345
 2_010_A22	v5#57	口	哺	Regular_seal		薄路反。口中嚼食也。	a049a022			68	345
 2_010_A31	v5#57	口	味	Regular_seal		莫貴反。滋也，甘也。	a049a024			68	345
 2_010_A32	v5#57	口	嚛	Regular_seal		力沃反。食辛樂也。	a049a023			68	345
@@ -2962,7 +2962,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_014_B42	v5#57	口	哤	Regular		麥江反。雜語也，異言也，乱也。	a050b034			72	359
 2_014_B51	v5#57	口	唌	Regular_seal		天安反。歎也。	a052b061			72	377
 2_014_B52	v5#57	口	嘅	Regular_seal		苦戴反。歎息也，滿也。	a050b041			72	359
-2_014_B61	v5#57	口	吪	Regular_seal		五戈反。動也，呑歎也。	a050b042			72	359
+2_014_B61	v5#57	口	吪	Regular_seal		五戈反。動也，吞歎也。	a050b042			72	359
 2_014_B62	v5#57	口	嘆	Regular_seal		勅旦反。况也，吟傷也。	a050b043			72	359
 2_015_A11	v5#57	口	喝	Regular_seal		乙芥反。咽痛也，噎也。	a050b044			72	360
 2_015_A111	v5#57	口	𡀽	Omitted		Omitted	a050b051			72	360
@@ -6766,7 +6766,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_062_A32	v11#139	宀	宅	Regular		除格反。居也。	b003b034			168	861
 3_062_A321	v11#139	宀	𡧪	Omitted		Omitted	b033b035			168	1109
 3_062_A41	v11#139	宀	室	Regular		舒逸反。宮也，由也，巢也，客也，舍也。	b003b042			168	861
-3_062_A42	v11#139	宀	宣	Regular		思緣反。布示也，顯也，楊也，明也，通也，法也，偏也，散也，用也。	b003b036			168	861
+3_062_A42	v11#139	宀	宣	Regular		思緣反。布，示也，顯也，楊也，明也，通也，法也，偏也，散也，用也。	b003b036		偏：當作徧。	168	861
 3_062_A421	v11#139	宀	𡩦	Songben-Yupian		#	b003b041			168	861
 3_062_A51	v11#139	宀	向	Regular		許亮反。窓也，對也。	b003b043			169	861
 3_062_A52	v11#139	宀	𡧮	Regular		於鳥反。闇也。	b003b052			169	862
@@ -13786,8 +13786,8 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_139_A62	v21#323	火	燠	Regular		於六反。煖也。〔𤈰：同上。〕	c007a106		有埋字B。	340	1663
 5_139_A63	v21#323	火	𤈯	Embedded_clerical		𤈯：同上。	c007a107		埋字B。掲出字：原作烑。	340	1663
 5_139_B11	v21#323	火	煖	Regular		奴管反。温。	c007a102			340	1663
-5_139_B12	v21#323	火	炅	Regular		古惠反。見也。〔炔：同上。呑字。〕	c007b012		有埋字B。	340	1663
-5_139_B13	v21#323	火	炔	Embedded_clerical		炔：同上。呑字。	c007b011		埋字B。	340	1663
+5_139_B12	v21#323	火	炅	Regular		古惠反。見也。〔炔：同上。吞字。〕	c007b012		有埋字B。	340	1663
+5_139_B13	v21#323	火	炔	Embedded_clerical		炔：同上。吞字。	c007b011		埋字B。	340	1663
 5_139_B21	v21#323	火	熇	Regular		口老反。𤍜。	c007b014		掲出字：原作熇。當作燺。	340	1663
 5_139_B21-Miyazawa	v21#323	火	燺	Regular	宮		c007b014		掲出字：原作熇。	340	1663
 5_139_B22	v21#323	火	熭	Regular		禹厥反。暴乾。	c007b016		厥：原文糢糊。《新撰字鏡》作厥。上田作厥。呂作𡙇。	340	1663

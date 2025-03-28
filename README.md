@@ -5,7 +5,7 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 平安時代漢字字書綜合數據庫  
 
 Date published: 18 October 2015  
-Last modified: 6 March 2023
+Last modified: 28 March 2025
 
 [HDIC Viewer](https://hdic.chise.org) by Liu Guanwei  
 
@@ -135,6 +135,7 @@ Date: 11 March 2022
 初版公開日  
 Ikeda Shoju 池田 証壽  
 
+
 * KRM_ndl.txt  
 Kanchiinbon Ruiju Myogisho (KRM): Kazama Shobo edition, Tenri Zempon Sosho edition and National Diet Library Digital Collections.  
 Date: 20 October 2015  
@@ -147,6 +148,13 @@ Date: 6 March 2023
 初版公開日  
 Ikeda Shoju 池田 証壽  
 
+* v2/krm_main.tsv
+Date: 28 March 2025  
+初版公開日  
+Ikeda Shoju 池田 証壽
+
+KRM.tsvを仕様変更したものである。v2のフォルダーに置いてある。
+これは一時的なものである。
 
 ## Project Members
 

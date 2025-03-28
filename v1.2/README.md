@@ -1,5 +1,9 @@
 # Overview of Public Data
 
+Ikeda Shoju
+
+28 March, 2025
+
 This document provides an overview of the data from the Kanchi-in manuscript of the Ruiju Myogisho, which is publicly available at [https://github.com/shikeda/HDIC](https://github.com/shikeda/HDIC).
 
 - krm_main

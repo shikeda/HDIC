@@ -2,9 +2,9 @@
 #	HDIC is an abbreviation of the Integrated Database of Hanzi Dictionaries in Early Japan
 #
 #	Kanchiinbon Ruiju-myogi-sho (KRM) : Kazama-shobo edition, Tenri-zenpon-sosho edition and National Diet Library Digital Collections
-#	Version: 1.1.3
+#	Version: 1.1.4
 #	Date: 20 October 2015
-#	Last update : 16 March 2022
+#	Last update : 29 March 2025
 #
 #	Copyright (c) 2014-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #	Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -430,11 +430,11 @@ Book	Radical	Kazama	Tenri	NDL_url
 仏下末	儿	20	426	https://dl.ndl.go.jp/info:ndljp/pid/2586894/14
 仏下末	儿	21	427	https://dl.ndl.go.jp/info:ndljp/pid/2586894/14
 仏下末	儿	22	428	https://dl.ndl.go.jp/info:ndljp/pid/2586894/15
-仏下末	収	22	428	https://dl.ndl.go.jp/info:ndljp/pid/2586894/15
-仏下末	収	23	429	https://dl.ndl.go.jp/info:ndljp/pid/2586894/15
-仏下末	収	24	430	https://dl.ndl.go.jp/info:ndljp/pid/2586894/16
-仏下末	収	25	431	https://dl.ndl.go.jp/info:ndljp/pid/2586894/16
-仏下末	収	26	432	https://dl.ndl.go.jp/info:ndljp/pid/2586894/17
+仏下末	𠬞	22	428	https://dl.ndl.go.jp/info:ndljp/pid/2586894/15
+仏下末	𠬞	23	429	https://dl.ndl.go.jp/info:ndljp/pid/2586894/15
+仏下末	𠬞	24	430	https://dl.ndl.go.jp/info:ndljp/pid/2586894/16
+仏下末	𠬞	25	431	https://dl.ndl.go.jp/info:ndljp/pid/2586894/16
+仏下末	𠬞	26	432	https://dl.ndl.go.jp/info:ndljp/pid/2586894/17
 仏下末	八	26	432	https://dl.ndl.go.jp/info:ndljp/pid/2586894/17
 仏下末	八	27	433	https://dl.ndl.go.jp/info:ndljp/pid/2586894/17
 仏下末	八	28	434	https://dl.ndl.go.jp/info:ndljp/pid/2586894/18
@@ -1060,10 +1060,10 @@ Book	Radical	Kazama	Tenri	NDL_url
 僧中	亼	2	156	https://dl.ndl.go.jp/info:ndljp/pid/2586899/5
 僧中	亼	3	157	https://dl.ndl.go.jp/info:ndljp/pid/2586899/5
 僧中	亼	4	158	https://dl.ndl.go.jp/info:ndljp/pid/2586899/6
-僧中	瓜	4	158	https://dl.ndl.go.jp/info:ndljp/pid/2586899/6
-僧中	瓜	5	159	https://dl.ndl.go.jp/info:ndljp/pid/2586899/6
-僧中	瓜	6	160	https://dl.ndl.go.jp/info:ndljp/pid/2586899/7
-僧中	瓜	7	161	https://dl.ndl.go.jp/info:ndljp/pid/2586899/7
+僧中	爪	4	158	https://dl.ndl.go.jp/info:ndljp/pid/2586899/6
+僧中	爪	5	159	https://dl.ndl.go.jp/info:ndljp/pid/2586899/6
+僧中	爪	6	160	https://dl.ndl.go.jp/info:ndljp/pid/2586899/7
+僧中	爪	7	161	https://dl.ndl.go.jp/info:ndljp/pid/2586899/7
 僧中	网	7	161	https://dl.ndl.go.jp/info:ndljp/pid/2586899/7
 僧中	网	8	162	https://dl.ndl.go.jp/info:ndljp/pid/2586899/8
 僧中	网	9	163	https://dl.ndl.go.jp/info:ndljp/pid/2586899/8
@@ -1088,10 +1088,10 @@ Book	Radical	Kazama	Tenri	NDL_url
 僧中	弓	26	180	https://dl.ndl.go.jp/info:ndljp/pid/2586899/17
 僧中	弓	27	181	https://dl.ndl.go.jp/info:ndljp/pid/2586899/17
 僧中	弓	28	182	https://dl.ndl.go.jp/info:ndljp/pid/2586899/18
-僧中	方	28	182	https://dl.ndl.go.jp/info:ndljp/pid/2586899/18
-僧中	方	29	183	https://dl.ndl.go.jp/info:ndljp/pid/2586899/18
-僧中	方	30	184	https://dl.ndl.go.jp/info:ndljp/pid/2586899/19
-僧中	方	31	185	https://dl.ndl.go.jp/info:ndljp/pid/2586899/19
+僧中	㫃	28	182	https://dl.ndl.go.jp/info:ndljp/pid/2586899/18
+僧中	㫃	29	183	https://dl.ndl.go.jp/info:ndljp/pid/2586899/18
+僧中	㫃	30	184	https://dl.ndl.go.jp/info:ndljp/pid/2586899/19
+僧中	㫃	31	185	https://dl.ndl.go.jp/info:ndljp/pid/2586899/19
 僧中	矢	32	186	https://dl.ndl.go.jp/info:ndljp/pid/2586899/20
 僧中	矢	33	187	https://dl.ndl.go.jp/info:ndljp/pid/2586899/20
 僧中	斤	33	187	https://dl.ndl.go.jp/info:ndljp/pid/2586899/20
@@ -1120,17 +1120,17 @@ Book	Radical	Kazama	Tenri	NDL_url
 僧中	又	52	206	https://dl.ndl.go.jp/info:ndljp/pid/2586899/30
 僧中	又	53	207	https://dl.ndl.go.jp/info:ndljp/pid/2586899/30
 僧中	又	54	208	https://dl.ndl.go.jp/info:ndljp/pid/2586899/31
-僧中	支	54	208	https://dl.ndl.go.jp/info:ndljp/pid/2586899/31
-僧中	支	55	209	https://dl.ndl.go.jp/info:ndljp/pid/2586899/31
-僧中	支	56	210	https://dl.ndl.go.jp/info:ndljp/pid/2586899/32
-僧中	支	57	211	https://dl.ndl.go.jp/info:ndljp/pid/2586899/32
-僧中	支	58	212	https://dl.ndl.go.jp/info:ndljp/pid/2586899/33
-僧中	支	59	213	https://dl.ndl.go.jp/info:ndljp/pid/2586899/33
-僧中	支	60	214	https://dl.ndl.go.jp/info:ndljp/pid/2586899/34
-僧中	支	61	215	https://dl.ndl.go.jp/info:ndljp/pid/2586899/34
-僧中	支	62	216	https://dl.ndl.go.jp/info:ndljp/pid/2586899/35
-僧中	支	63	217	https://dl.ndl.go.jp/info:ndljp/pid/2586899/35
-僧中	支	64	218	https://dl.ndl.go.jp/info:ndljp/pid/2586899/36
+僧中	攴	54	208	https://dl.ndl.go.jp/info:ndljp/pid/2586899/31
+僧中	攴	55	209	https://dl.ndl.go.jp/info:ndljp/pid/2586899/31
+僧中	攴	56	210	https://dl.ndl.go.jp/info:ndljp/pid/2586899/32
+僧中	攴	57	211	https://dl.ndl.go.jp/info:ndljp/pid/2586899/32
+僧中	攴	58	212	https://dl.ndl.go.jp/info:ndljp/pid/2586899/33
+僧中	攴	59	213	https://dl.ndl.go.jp/info:ndljp/pid/2586899/33
+僧中	攴	60	214	https://dl.ndl.go.jp/info:ndljp/pid/2586899/34
+僧中	攴	61	215	https://dl.ndl.go.jp/info:ndljp/pid/2586899/34
+僧中	攴	62	216	https://dl.ndl.go.jp/info:ndljp/pid/2586899/35
+僧中	攴	63	217	https://dl.ndl.go.jp/info:ndljp/pid/2586899/35
+僧中	攴	64	218	https://dl.ndl.go.jp/info:ndljp/pid/2586899/36
 僧中	殳	64	218	https://dl.ndl.go.jp/info:ndljp/pid/2586899/36
 僧中	殳	65	219	https://dl.ndl.go.jp/info:ndljp/pid/2586899/36
 僧中	殳	66	220	https://dl.ndl.go.jp/info:ndljp/pid/2586899/37

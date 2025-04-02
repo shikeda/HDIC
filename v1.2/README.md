@@ -49,7 +49,7 @@ Here are the key points of the specification change:
 - The half-width parentheses "()" indicating a correction proposal for a typo have been changed to full-width square brackets "〔〕".
 - The half-width square brackets "[]", which indicate missing characters, have been changed to full-width square brackets "［］".
 
-### ER diagram
+### ER Diagram
 
 The following ER diagram shows the relationship between the three tables: krm_main, krm_notes, and krm_wakun.
 
@@ -68,7 +68,7 @@ This section describes information common to all data files published here.
 Date published: 30 March 30 2025  
 Last modified: 30 March 2025
 
-### Version history
+### Version History
 
 #### krm_main 
 - Version: 1.2.0 (latest)  
@@ -208,17 +208,42 @@ Considering krm_notes.tsv as the new file and KRM_definitions.tsv as the old fil
 | definition_type_name     | Def_name                   |
 | remarks_definition       | Remarks                    |
 
+Furthermore, we decided to incorporate the contents of KRM.tsv into krm_notes. Comparing the column names of both will result in the following.
+
+| New Column Name (v1.2.1) | Old Column Name (v1.1.347) |
+|--------------------------|----------------------------|
+| entry_id        | KRID_n                    |
+| tenri_location    | KR_Tenri_p                      |
+| volume_name            | KR_vol_name                      |
+| radical_name      | KR_radical                        |
+| volume_radical_index     | KR_vol_radical                |
+| original_entry     | Entry_original                   |
+
+
+As mentioned earlier, the internal structure of krm_notes has the following nested format.
+
+
+![ER_notes diagram](/images/krm_notes_er.drawio.png)
+
 Next, the content of the column names will be explained.
 
-| New Column Name (v1.2.0) | Explanation              |
-|--------------------------|------------|
+
+| New Column Name (v1.2.1) | English explanation              |
+|--------------------------|---------------------------|
+| entry_id                 | A heading item ID formed by a 5-digit numeric ID starting with 'F'.    |
 | definition_seq_id        | 5-digit numeric ID starting with 'F', sequentially assigned to heading entries. Definition components under each heading are ordered based on their appearance, and order indicators like _01, _02, etc., are appended accordingly. The heading itself is appended with _00.                      |
 | kazama_entry_location    | ID including location information (Kazama edition: K, Book(volume), page(xxx), line(y), column(zz)), ranked 1, 2, ..., n for multiple entries in a column. Where Book(volume) represents the volume number, page(xxx) the page number, line(y) the line number, and column(zz) the column number. |
-| hanzi_entry              | Collated Hanzi characters, standardized to the Kangxi dictionary form, including Unicode-representable variant forms.      |
-| definition_elements      | Extracted components from the full definition, classified into 5 categories: glyph annotations, pronunciation annotations, meaning annotations, Japanese readings (wakun), and others, one component per entry. |
-| definition_type_code     | 3-digit numeric code representing the definition type.       |
-| definition_type_name     | Indicates which of the following five categories the definition type belongs to: glyph annotation, pronunciation annotation, meaning annotation, wakun, and others.  |
-| remarks_definition       | Editor's notes providing additional context or information.  |
+| tenri_location           | Location information from the Tenri edition (T, volume(volume letters), page(xxx), line(y), column(zz)). Where volume(volume letters) represents the volume letters, page(xxx) the page number, line(y) the line number, and column(zz) the column number.                                        |
+| volume_name              | Name of the volume, consisting of 10 volumes: 仏上, 仏中, 仏末本, 仏末下, 法上, 法中, 法下, 僧上, 僧中, and 僧下.                                                                                                                                                                                                       |
+| radical_name             | Hanzi name of the radical, consisting of 160 radicals ranging from 人 to 雑, used to classify Hanzi characters.                                                                                                                                                                                     |
+| volume_radical_index     | Volume and radical number, ranging from v1#1 to v10#120, indicating the location of the entry within the text.                                                                                                                                                                                    |
+| hanzi_entry              | Collated Hanzi characters, standardized to the Kangxi dictionary form, including Unicode-representable variant forms.                                                                                                                                                                             |
+| original_entry           | Original Hanzi character representations, retaining errors from the original text, with non-Unicode variants expressed using IDS or 〓.                                                                                                                                                            |
+| definition_elements      | Extracted components from the full definition, classified into 5 categories: glyph annotations, pronunciation annotations, meaning annotations, Japanese readings (wakun), and others, one component per entry.                                                                                   |
+| definition_type_code     | 3-digit numeric code representing the definition type.                                                                                                                                                                                                                                            |
+| definition_type_name     | Indicates which of the following five categories the definition type belongs to: glyph annotation, pronunciation annotation, meaning annotation, wakun, and others.                                                                                                                               |
+| remarks                  | Editor's notes providing additional context or information.      |
+
 
 ## krm_wakun
 This data is derived by extracting wakun from the KRM.tsv file of the Myogisho database, organizing variant forms of the wakun, and adjusting their correspondence with variant characters (itai-ji).

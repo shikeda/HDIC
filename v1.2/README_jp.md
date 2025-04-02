@@ -188,17 +188,17 @@ Remarksは次のkrm_notesにまとめることとして、省略した。
 
 
 
-KRM_def.tsvファイルに詳細な注釈情報を追加したファイルkrm_notes.tsvを作成した。
+**KRM_definitions.tsv**ファイルに詳細な注釈情報を追加したファイル
+**krm_notes.tsv**および**krm_json**を作成した。
 これは、TSV形式とJSON形式で用意した。
 2025年3月の仕様変更後のファイル名であることを明示的に示すため、
 大文字のKRMではなく小文字のkrmを用いて
 krm_notes.tsvとkrm_notes.jsonという名称とした。
 
-krm_notes.tsvを新とし、KRM_definitions.tsvを旧として、両者のカラム名を対照すれば次のようになる。
+krm_notesを新とし、KRM_definitionsを旧として、両者のカラム名を対照すれば次のようになる。
 
 
-
-| New Column Name (v1.2.0) | Old Column Name (v1.1.55) |
+| New Column Name (v1.2.1) | Old Column Name (v1.1.55) |
 |--------------------------|----------------------------|
 | definition_seq_id        | KRID_no                    |
 | kazama_entry_location    | KR2ID                      |
@@ -206,20 +206,43 @@ krm_notes.tsvを新とし、KRM_definitions.tsvを旧として、両者のカラ
 | definition_elements      | Def                        |
 | definition_type_code     | Def_code                   |
 | definition_type_name     | Def_name                   |
-| remarks_definition       | Remarks                    |
+| remarks       | Remarks                    |
+
+さらに**KRM.tsv**の内容をkrm_notesに取り込むことにした。両者のカラム名を対照すれば次のようになる。
+
+| New Column Name (v1.2.1) | Old Column Name (v1.1.347) |
+|--------------------------|----------------------------|
+| entry_id        | KRID_n                    |
+| tenri_location    | KR_Tenri_p                      |
+| volume_name            | KR_vol_name                      |
+| radical_name      | KR_radical                        |
+| volume_radical_index     | KR_vol_radical                |
+| original_entry     | Entry_original                   |
+
+
+前述したように、krm_notesの内部は次のような入れ子構造となっている。
+
+![ER_notes図](/images/krm_notes_er.drawio.png)
 
 
 次に、カラム名の内容を英語と日本語で説明する。
 
-| New Column Name (v1.2.0) | English explanation          | Japanese explanation             |
-|--------------------------|-----------------------------------|----------------|
-| definition_seq_id        | 5-digit numeric ID starting with 'F', sequentially assigned to heading entries. Definition components under each heading are ordered based on their appearance, and order indicators like _01, _02, etc., are appended accordingly. The heading itself is appended with _00.                      | 連番で与えられるFで始まる5桁の見出しの数値IDに加えて、見出しの下に記される注文の各要素を出現順に区分し、出現の順番に_01、_02のように追加したもの。見出しには_00を追加する。 |
-| kazama_entry_location    | ID including location information (Kazama edition: K, Book(volume), page(xxx), line(y), column(zz)), ranked 1, 2, ..., n for multiple entries in a column. Where Book(volume) represents the volume number, page(xxx) the page number, line(y) the line number, and column(zz) the column number. | 位置情報（風間版：K、冊子（巻）、ページ（xxx）、行（y）、列（zz））を含むID。列に複数のエントリがある場合は、1、2、...、n の順位になる。                 |
-| hanzi_entry              | Collated Hanzi characters, standardized to the Kangxi dictionary form, including Unicode-representable variant forms.                | 原文の漢字を校訂したもの。康熙字典体とするのを原則としたが、Unicodeで入力できる新字体（通用字体、俗字体）を残すこともある。                            |
-| definition_elements      | Extracted components from the full definition, classified into 5 categories: glyph annotations, pronunciation annotations, meaning annotations, Japanese readings (wakun), and others, one component per entry.                 | 注文の全文から、字体注、音注、意義注、和訓、その他の５種に区分し、それぞれの要素を一つずつ抜き出したもの。         |
-| definition_type_code     | 3-digit numeric code representing the definition type.         | 注文の種類を分類した3桁の数値。               |
-| definition_type_name     | Indicates which of the following five categories the definition type belongs to: glyph annotation, pronunciation annotation, meaning annotation, wakun, and others.                                                                                                                               | 注文の種類を字体注、音注、意義注、和訓、その他の５種に区分して、そのいずれに該当するかをしめしたもの。                                          |
-| remarks_definition       | Editor's notes providing additional context or information.           | 編集者による追加の文脈や情報を提供する注記。 |
+
+| New Column Name (v1.2.1) | English explanation                                                                                                                                                                                                                                                                               | Japanese explanation                                                                                    |
+|--------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------|
+| entry_id                 | A heading item ID formed by a 5-digit numeric ID starting with 'F'.                                                                                                                                                                                                                               | Fで始まる5桁の数値に_00を加えた見出し項目ID。                                                                              |
+| definition_seq_id        | 5-digit numeric ID starting with 'F', sequentially assigned to heading entries. Definition components under each heading are ordered based on their appearance, and order indicators like _01, _02, etc., are appended accordingly. The heading itself is appended with _00.                      | 連番で与えられるFで始まる5桁の見出しの数値IDに加えて、見出しの下に記される注文の各要素を出現順に区分し、出現の順番に_01、_02のように追加したもの。見出しには_00を追加する。            |
+| kazama_entry_location    | ID including location information (Kazama edition: K, Book(volume), page(xxx), line(y), column(zz)), ranked 1, 2, ..., n for multiple entries in a column. Where Book(volume) represents the volume number, page(xxx) the page number, line(y) the line number, and column(zz) the column number. | 位置情報（風間版：K、冊子（巻）、ページ（xxx）、行（y）、列（zz））を含むID。列に複数のエントリがある場合は、1、2、...、n の順位になる。                            |
+| tenri_location           | Location information from the Tenri edition (T, volume(volume letters), page(xxx), line(y), column(zz)). Where volume(volume letters) represents the volume letters, page(xxx) the page number, line(y) the line number, and column(zz) the column number.                                        | 八木書店版の掲出字ID。T・巻数（a/b/c）・ページ数（3桁数）・行数（1桁）・段数（1桁）・字順（1桁）を示す。最後の字順の示し方は掲出字IDの場合に同じとする。八木書店『天理図書館善本叢書』に基づく。 |
+| volume_name              | Name of the volume, consisting of 10 volumes: 仏上, 仏中, 仏末本, 仏末下, 法上, 法中, 法下, 僧上, 僧中, and 僧下.                                                                                                                                                                                                       | 巻名。「仏上」「仏中」「仏下本」「仏下末」「法上」「法中」「法下」「僧上」「僧中」「僧下」の10 巻を示す                                                   |
+| radical_name             | Hanzi name of the radical, consisting of 160 radicals ranging from 人 to 雑, used to classify Hanzi characters.                                                                                                                                                                                     | 部首名。「人、彳、辵」から「風、酉、雑」までの120部を示す                                                                          |
+| volume_radical_index     | Volume and radical number, ranging from v1#1 to v10#120, indicating the location of the entry within the text.                                                                                                                                                                                    | 巻。v・巻数（1-10）#・部首番号（1-120）を示す。v1#1(第1帖第1)〜v10#120(第10帖第120)。第1帖(仏上)〜第10帖(僧下)。                            |
+| hanzi_entry              | Collated Hanzi characters, standardized to the Kangxi dictionary form, including Unicode-representable variant forms.                                                                                                                                                                             | 原文の漢字を校訂したもの。康熙字典体とするのを原則としたが、Unicodeで入力できる新字体（通用字体、俗字体）を残すこともある。                                       |
+| original_entry           | Original Hanzi character representations, retaining errors from the original text, with non-Unicode variants expressed using IDS or 〓.                                                                                                                                                            | 原字形に近い見出し文字。池田が必要と判断したものは「原字形に近い掲出字」として入力し、不要な場合は「〇」を入力。                                                |
+| definition_elements      | Extracted components from the full definition, classified into 5 categories: glyph annotations, pronunciation annotations, meaning annotations, Japanese readings (wakun), and others, one component per entry.                                                                                   | 注文の全文から、字体注、音注、意義注、和訓、その他の５種に区分し、それぞれの要素を一つずつ抜き出したもの。                                                   |
+| definition_type_code     | 3-digit numeric code representing the definition type.                                                                                                                                                                                                                                            | 注文の種類を分類した3桁の数値。                                                                                        |
+| definition_type_name     | Indicates which of the following five categories the definition type belongs to: glyph annotation, pronunciation annotation, meaning annotation, wakun, and others.                                                                                                                               | 注文の種類を字体注、音注、意義注、和訓、その他の５種に区分して、そのいずれに該当するかを示したもの。                                                      |
+| remarks                  | Editor's notes providing additional context or information.                                                                                                                                                                                                                                       | 編集者による追加の文脈や情報を提供する注記。                                                                                  |
 
 ## krm_wakun
 

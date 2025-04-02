@@ -53,6 +53,11 @@ krm_main、krm_notes、krm_wakunの三つのテーブルの関係を図示すれ
 
 ![ER図](/images/krmer.drawio.png)
 
+さらにkrm_notes.jsonは次に図示するような入れ子構造を持っている。
+
+![ER_notes図](/images/krm_notes_er.drawio.png)
+
+
 ## 共通情報
 
 ここに公開するデータファイルに共通する情報を記す。
@@ -69,15 +74,13 @@ krm_main、krm_notes、krm_wakunの三つのテーブルの関係を図示すれ
     初版公開日：2025年3月30日 
     最終更新日：2025年3月30日
 - Version: 1.1.347  
-    Date: March 11, 2022  
-    Last modified : 17 March 2025
+    初版公開日：2022年3月1日 
+    最終更新日：2025年3月17日
 
 ### krm_notes
-- Version: 1.2.0 (最新, 仕様変更後に公開)  
-    Date published: March 28, 2025  
-    Last modified: March 28, 2025
+- Version: 1.2.1 (最新, 仕様変更後に公開)  
     初版公開日：2025年3月28日 
-    最終更新日：2025年3月28日
+    最終更新日：2025年4月2日
 
 ### krm_wakun
 - Version: 1.2.0  (最新)  

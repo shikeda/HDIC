@@ -71,17 +71,17 @@ Last modified: 30 March 2025
 ### Version History
 
 #### krm_main 
-- Version: 1.2.1 (latest)  
+- Version: 1.2.3 (latest)  
     Date published: 28 March 2025  
-    Last modified: 7 April 2025
+    Last modified: 12 April 2025
 - Version: 1.1.347  
     Date: 11 March 2022  
     Last modified : 17 March 2025
 
 ### krm_notes
-- Version: 1.2.2 (latest, Newly released after the specification change)  
+- Version: 1.2.4 (latest, Newly released after the specification change)  
     Date published: 28 March  2025  
-    Last modified: 7 April  2025
+    Last modified: 12 April  2025
 
 ### krm_wakun
 - Version: 1.2.0 (latest)  
@@ -185,8 +185,8 @@ Next, the content of the column names will be explained.
 | volume_name              | Name of the volume, consisting of 10 volumes: 仏上, 仏中, 仏末本, 仏末下, 法上, 法中, 法下, 僧上, 僧中, and 僧下.      |
 | radical_name             | Hanzi name of the radical, consisting of 160 radicals ranging from 人 to 雑, used to classify Hanzi characters.   |
 | volume_radical_index     | Volume and radical number, ranging from v1#1 to v10#120, indicating the location of the entry within the text. |
-| hanzi_entry              | Collated Hanzi characters, standardized to the Kangxi dictionary form, including Unicode-representable variant forms.   |
-| original_entry           | Original Hanzi character representations, retaining errors from the original text, with non-Unicode variants expressed using IDS or 〓.       |
+| hanzi_entry              | Corrected hanzi are principally in the Kangxi Dictionary form. Unicode simplified characters (common-use characters, popular variants) may also be retained. Multiple-kanji headwords are separated by / (full-width slash). The abbreviation symbol "｜" is represented by "ー" (long vowel mark), with the corresponding character in parentheses.   |
+| original_entry           | Headword close to original form. Errors as is. Non-Unicode variants: IDS or ■. Like hanzi_entry, "〇" if no original-glyph headword needed. |
 | definition               | Includes glyph annotations, pronunciation annotations, meaning annotations, Japanese readings (wakun), and other relevant notes, separated by spaces. As a general rule, character forms included in the "Kangxi Dictionary style" should be used.  |
 
 

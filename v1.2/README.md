@@ -71,17 +71,17 @@ Last modified: 30 March 2025
 ### Version History
 
 #### krm_main 
-- Version: 1.2.3 (latest)  
+- Version: 1.2.4 (latest)  
     Date published: 28 March 2025  
-    Last modified: 12 April 2025
+    Last modified: 20 April 2025
 - Version: 1.1.347  
     Date: 11 March 2022  
     Last modified : 17 March 2025
 
 ### krm_notes
-- Version: 1.2.4 (latest, Newly released after the specification change)  
+- Version: 1.2.5 (latest, Newly released after the specification change)  
     Date published: 28 March  2025  
-    Last modified: 12 April  2025
+    Last modified: 20 April  2025
 
 ### krm_wakun
 - Version: 1.2.0 (latest)  

@@ -84,9 +84,9 @@ Last modified: 30 March 2025
     Last modified: 20 April  2025
 
 ### krm_wakun
-- Version: 1.2.0 (latest)  
+- Version: 1.2.1 (latest)  
     Date published: 28 March 2025  
-    Last modified: 28 March 2025
+    Last modified: 2 May 2025
 
 - Version: 1.1.97  
     Date published: 11 June 2024  
@@ -296,7 +296,7 @@ Next, the content of the column names will be explained.
 | wakun_standard_hanzi    | Standard wakun notation using standard kanji.      |
 | wakun_variant_in_hanzi  | Variant form of wakun notation using standard Hanzi characters.      |
 | variant_hanzi_for_wakun | Wakun notation using variant Hanzi characters (itai-ji).    |
-| japan_knowledge_id      | The alphanumeric part of the JapanKnowledge URL, from 20020 to the end.    |
+| japan_knowledge_id      | The alphanumeric part of the JapanKnowledge URL for the corresponding entry in the Nihon Kokugo Daijiten 2nd Ed., starting from "20020" to the end, is recorded here if the wakun exists as a headword. If the wakun does not exist as a headword in the JapanKnowledge edition, null is entered.    |
 
 ## krm_definitions
 

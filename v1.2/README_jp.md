@@ -83,9 +83,9 @@ krm_main、krm_notes、krm_wakunの三つのテーブルの関係を図示すれ
     最終更新日：2025年4月20日
 
 ### krm_wakun
-- Version: 1.2.0  (最新)  
+- Version: 1.2.1  (最新)  
     初版公開日：2025年3月30日 
-    最終更新日：2025年3月30日
+    最終更新日：2025年5月2日
 - Version: 1.1.97  
     初版公開日：2024年6月11日 
     最終更新日：2025年3月17日
@@ -303,7 +303,7 @@ Remarksはkrm_notesにまとめることとして、省略した。
 | wakun_standard_hanzi    | Standard wakun notation using standard kanji.             | 標準的な漢字による和訓表記。                            |
 | wakun_variant_in_hanzi  | Variant form of wakun notation using standard Hanzi characters.                 | 標準的な漢字による和訓の異形の表記。                                                                           |
 | variant_hanzi_for_wakun | Wakun notation using variant Hanzi characters (itai-ji).        | 異体字による和訓の表記。                           |
-| japan_knowledge_id      | The alphanumeric part of the JapanKnowledge URL, from 20020 to the end.       | ジャパンナレッジのURLの後半、20020から末尾までの英数字。                   |
+| japan_knowledge_id      | The alphanumeric part of the JapanKnowledge URL for the corresponding entry in the Nihon Kokugo Daijiten 2nd Ed., starting from "20020" to the end, is recorded here if the wakun exists as a headword. If the wakun does not exist as a headword in the JapanKnowledge edition, null is entered.       | ジャパンナレッジ版『日本国語大辞典第二版』にこの和訓が見出しとして存在する場合に、そのURLの後半、20020から末尾までの英数字を記載する。見出しとして存在しない場合は null と入力する。                   |
 
 ## krm_definitions
 

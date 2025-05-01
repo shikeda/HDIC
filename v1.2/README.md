@@ -228,20 +228,20 @@ As mentioned earlier, the internal structure of krm_notes has the following nest
 Next, the content of the column names will be explained.
 
 
-| New Column Name (v1.2.1) | English explanation              |
+| New Column Name (v1.2.1) | English Explanation              |
 |--------------------------|---------------------------|
 | entry_id                 | A heading item ID formed by a 5-digit numeric ID starting with 'F'.    |
 | definition_seq_id        | 5-digit numeric ID starting with 'F', sequentially assigned to heading entries. Definition components under each heading are ordered based on their appearance, and order indicators like _01, _02, etc., are appended accordingly. The heading itself is appended with _00.                      |
 | kazama_entry_location    | ID including location information (Kazama edition: K, Book(volume), page(xxx), line(y), column(zz)), ranked 1, 2, ..., n for multiple entries in a column. Where Book(volume) represents the volume number, page(xxx) the page number, line(y) the line number, and column(zz) the column number. |
 | tenri_location           | Location information from the Tenri edition (T, volume(volume letters), page(xxx), line(y), column(zz)). Where volume(volume letters) represents the volume letters, page(xxx) the page number, line(y) the line number, and column(zz) the column number.                                        |
-| volume_name              | Name of the volume, consisting of 10 volumes: 仏上, 仏中, 仏末本, 仏末下, 法上, 法中, 法下, 僧上, 僧中, and 僧下.                                                                                                                                                                                                       |
-| radical_name             | Hanzi name of the radical, consisting of 160 radicals ranging from 人 to 雑, used to classify Hanzi characters.                                                                                                                                                                                     |
-| volume_radical_index     | Volume and radical number, ranging from v1#1 to v10#120, indicating the location of the entry within the text.                                                                                                                                                                                    |
-| hanzi_entry              | Collated Hanzi characters, standardized to the Kangxi dictionary form, including Unicode-representable variant forms.                                                                                                                                                                             |
-| original_entry           | Original Hanzi character representations, retaining errors from the original text, with non-Unicode variants expressed using IDS or 〓.                                                                                                                                                            |
-| definition_elements      | Extracted components from the full definition, classified into 5 categories: glyph annotations, pronunciation annotations, meaning annotations, Japanese readings (wakun), and others, one component per entry.                                                                                   |
-| definition_type_code     | 3-digit numeric code representing the definition type.                                                                                                                                                                                                                                            |
-| definition_type_name     | Indicates which of the following five categories the definition type belongs to: glyph annotation, pronunciation annotation, meaning annotation, wakun, and others.                                                                                                                               |
+| volume_name              | Name of the volume, consisting of 10 volumes: 仏上, 仏中, 仏末本, 仏末下, 法上, 法中, 法下, 僧上, 僧中, and 僧下.   |
+| radical_name             | Hanzi name of the radical, consisting of 160 radicals ranging from 人 to 雑, used to classify Hanzi characters.          |
+| volume_radical_index     | Volume and radical number, ranging from v1#1 to v10#120, indicating the location of the entry within the text.         |
+| hanzi_entry              | Collated Hanzi characters, standardized to the Kangxi dictionary form, including Unicode-representable variant forms.     |
+| original_entry           | Original Hanzi character representations, retaining errors from the original text, with non-Unicode variants expressed using IDS or ■.          |
+| definition_elements      | Extracted components from the full definition, classified into 5 categories: glyph annotations, pronunciation annotations, meaning annotations, Japanese readings (wakun), and others, one component per entry.           |
+| definition_type_code     | 3-digit numeric code representing the definition type.   |
+| definition_type_name     | Indicates which of the following five categories the definition type belongs to: glyph annotation, pronunciation annotation, meaning annotation, wakun, and others.  |
 | remarks                  | Editor's notes providing additional context or information.      |
 
 

@@ -66,22 +66,22 @@ This section describes information common to all data files published here.
 ### Last Updated Date
 
 Date published: 30 March 30 2025  
-Last modified: 30 March 2025
+Last modified: 5 May 2025
 
 ### Version History
 
 #### krm_main 
-- Version: 1.2.4 (latest)  
+- Version: 1.2.5 (latest)  
     Date published: 28 March 2025  
-    Last modified: 20 April 2025
+    Last modified: 5 May 2025
 - Version: 1.1.347  
     Date: 11 March 2022  
     Last modified : 17 March 2025
 
 ### krm_notes
-- Version: 1.2.5 (latest, Newly released after the specification change)  
+- Version: 1.2.6 (latest, Newly released after the specification change)  
     Date published: 28 March  2025  
-    Last modified: 20 April  2025
+    Last modified: 5 May  2025
 
 ### krm_wakun
 - Version: 1.2.1 (latest)  
@@ -155,12 +155,12 @@ In March 2025, the specifications for column names and the display method of ton
 
 The comparison of the new and old column names is as follows:
 
-| New Column Name (v1.2.0) | Old Column Name (v1.1.347) |
+| New Column Name (v1.2.5) | Old Column Name (v1.1.347) |
 |--------------------------|----------------------------|
 | entry_id                 | KRID_n                     |
 | hanzi_id                 | KRID_sn                    |
-| kazama_entry_location    | KR2ID                      |
-| kazama_hanzi_location    | KRID                       |
+| -     | KR2ID                      |
+| kazama_location    | KRID                       |
 | tenri_location           | KR_Tenri_p                 |
 | volume_name              | KR_vol_name                |
 | radical_name             | KR_radical                 |
@@ -170,23 +170,23 @@ The comparison of the new and old column names is as follows:
 | definition               | Def                        |
 | -                        | Remarks                    |
 
-Remarks have been omitted and will be summarized in the following krm_notes file.
+The 'KR2ID' column was omitted, and the 'kazama_location' column was aligned with the 'KRID' column.
+The 'Remarks' column was omitted and will be summarized in the following `krm_notes` file.
 
 
 Next, the content of the column names will be explained.
 
-| New Column Name (v1.2.0)|Explanation|
+| New Column Name (v1.2.5)|Explanation|
 |--------------------------|----------------------|
-| entry_id                 | A heading item ID formed by a 5-digit numeric ID starting with 'F', followed by '_00'.     |
-| hanzi_id                 | A heading Hanzi ID consisting of a 5-digit numeric ID starting with 'S'.    |
-| kazama_entry_location    | ID including location information (Kazama edition: K, Book(volume), page(xxx), line(y), column(zz)), ranked 1, 2, ..., n for multiple entries in a column. Where Book(volume) represents the volume number, page(xxx) the page number, line(y) the line number, and column(zz) the column number.  |
-| kazama_hanzi_location    | ID including location information (Kazama edition: K, Book(volume), page(xxx), line(y), column(zz)), ranked 0 for single-character headwords, and 1, 2, ..., n for multiple-character headwords or entries in a column. Where Book(volume) represents the volume number, page(xxx) the page number, line(y) the line number, and column(zz) the column number. |
-| tenri_location           | Location information from the Tenri edition (T, volume(volume letters), page(xxx), line(y), column(zz)). Where volume(volume letters) represents the volume letters, page(xxx) the page number, line(y) the line number, and column(zz) the column number.       |
+| entry_id                 | A heading item ID formed by a 5-digit numeric ID starting with 'F'. For some added entry items, a 'b' suffix is appended.     |
+| hanzi_id                 | A heading Hanzi ID consisting of a 5-digit numeric ID starting with 'S'. For some added entry items, a 'b' suffix is appended.   |
+| kazama_location    | An ID indicating K + Volume (2 digits) + Kazama Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + 字順 (1 digit). Details of the rules for assigning 字順 are defined separately.  |
+| tenri_location           | An ID indicating T + Volume (a/b/c) + Tenri Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + 字順 (1 digit). Details of the rules for assigning 字順 are defined separately.   |
 | volume_name              | Name of the volume, consisting of 10 volumes: 仏上, 仏中, 仏末本, 仏末下, 法上, 法中, 法下, 僧上, 僧中, and 僧下.      |
 | radical_name             | Hanzi name of the radical, consisting of 160 radicals ranging from 人 to 雑, used to classify Hanzi characters.   |
 | volume_radical_index     | Volume and radical number, ranging from v1#1 to v10#120, indicating the location of the entry within the text. |
-| hanzi_entry              | Corrected hanzi are principally in the Kangxi Dictionary form. Unicode simplified characters (common-use characters, popular variants) may also be retained. Multiple-kanji headwords are separated by / (full-width slash). The abbreviation symbol "｜" is represented by "ー" (long vowel mark), with the corresponding character in parentheses.   |
-| original_entry           | Headword close to original form. Errors as is. Non-Unicode variants: IDS or ■. Like hanzi_entry, "〇" if no original-glyph headword needed. |
+| hanzi_entry              | The collated headword characters principally use Kangxi Dictionary form, including Unicode simplified characters (common-use forms, popular variants). For characters not included in Unicode, they are represented by the following methods: If representable by combining kanji components, input using IDS (Ideographic Description Sequence). For specific kanji or their components, if representation by IDS or standard Unicode is difficult, use simplified notations based on the entity reference systems of CHISE and GlyphWiki (e.g., CDP-8C55, koseki-00001). Characters not representable by any of the above methods, or characters unreadable in the original text (worm-eaten, etc.), are input as '■' (black square). Headwords consisting of multiple kanji are separated by '／' (full-width slash). The abbreviation symbol '｜' is indicated by 'ー' (long vowel mark), and the corresponding character is appended in full-width parentheses (). |
+| original_entry           | Headword based on the original character form. Errors are left as is. The representation of kanji outside Unicode follows the rules for hanzi_entry. If the original-form headword is not needed, '〇' is used. |
 | definition               | Includes glyph annotations, pronunciation annotations, meaning annotations, Japanese readings (wakun), and other relevant notes, separated by spaces. As a general rule, character forms included in the "Kangxi Dictionary style" should be used.  |
 
 
@@ -198,10 +198,10 @@ This is available in both TSV and JSON formats. To explicitly indicate that thes
 
 Considering krm_notes.tsv as the new file and KRM_definitions.tsv as the old file, the comparison of their column names is as follows:
 
-| New Column Name (v1.2.0) | Old Column Name (v1.1.55) |
+| New Column Name (v1.2.6) | Old Column Name (v1.1.55) |
 |--------------------------|----------------------------|
 | definition_seq_id        | KRID_no                    |
-| kazama_entry_location    | KR2ID                      |
+| kazama_location          | KRID                      |
 | hanzi_entry              | Entry                      |
 | definition_elements      | Def                        |
 | definition_type_code     | Def_code                   |
@@ -210,7 +210,7 @@ Considering krm_notes.tsv as the new file and KRM_definitions.tsv as the old fil
 
 Furthermore, we decided to incorporate the contents of KRM.tsv into krm_notes. Comparing the column names of both will result in the following.
 
-| New Column Name (v1.2.1) | Old Column Name (v1.1.347) |
+| New Column Name (v1.2.6) | Old Column Name (v1.1.347) |
 |--------------------------|----------------------------|
 | entry_id        | KRID_n                    |
 | tenri_location    | KR_Tenri_p                      |
@@ -228,17 +228,17 @@ As mentioned earlier, the internal structure of krm_notes has the following nest
 Next, the content of the column names will be explained.
 
 
-| New Column Name (v1.2.1) | English Explanation              |
+| New Column Name (v1.2.6) | English Explanation              |
 |--------------------------|---------------------------|
-| entry_id                 | A heading item ID formed by a 5-digit numeric ID starting with 'F'.    |
+| entry_id                 |A heading item ID formed by a 5-digit numeric ID starting with 'F'. For some added entry items, a 'b' suffix is appended.  |
 | definition_seq_id        | 5-digit numeric ID starting with 'F', sequentially assigned to heading entries. Definition components under each heading are ordered based on their appearance, and order indicators like _01, _02, etc., are appended accordingly. The heading itself is appended with _00.                      |
-| kazama_entry_location    | ID including location information (Kazama edition: K, Book(volume), page(xxx), line(y), column(zz)), ranked 1, 2, ..., n for multiple entries in a column. Where Book(volume) represents the volume number, page(xxx) the page number, line(y) the line number, and column(zz) the column number. |
-| tenri_location           | Location information from the Tenri edition (T, volume(volume letters), page(xxx), line(y), column(zz)). Where volume(volume letters) represents the volume letters, page(xxx) the page number, line(y) the line number, and column(zz) the column number.                                        |
+| kazama_location    | An ID indicating K + Volume (2 digits) + Kazama Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + 字順 (1 digit). Details of the rules for assigning 字順 are defined separately.|
+| tenri_location           |An ID indicating T + Volume (a/b/c) + Tenri Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + 字順 (1 digit). Details of the rules for assigning 字順 are defined separately.  |
 | volume_name              | Name of the volume, consisting of 10 volumes: 仏上, 仏中, 仏末本, 仏末下, 法上, 法中, 法下, 僧上, 僧中, and 僧下.   |
 | radical_name             | Hanzi name of the radical, consisting of 160 radicals ranging from 人 to 雑, used to classify Hanzi characters.          |
 | volume_radical_index     | Volume and radical number, ranging from v1#1 to v10#120, indicating the location of the entry within the text.         |
-| hanzi_entry              | Collated Hanzi characters, standardized to the Kangxi dictionary form, including Unicode-representable variant forms.     |
-| original_entry           | Original Hanzi character representations, retaining errors from the original text, with non-Unicode variants expressed using IDS or ■.          |
+| hanzi_entry              | The collated headword characters principally use Kangxi Dictionary form, including Unicode simplified characters (common-use forms, popular variants). For characters not included in Unicode, they are represented by the following methods: If representable by combining kanji components, input using IDS (Ideographic Description Sequence). For specific kanji or their components, if representation by IDS or standard Unicode is difficult, use simplified notations based on the entity reference systems of CHISE and GlyphWiki (e.g., CDP-8C55, koseki-00001). Characters not representable by any of the above methods, or characters unreadable in the original text (worm-eaten, etc.), are input as '■' (black square). Headwords consisting of multiple kanji are separated by '／' (full-width slash). The abbreviation symbol '｜' is indicated by 'ー' (long vowel mark), and the corresponding character is appended in full-width parentheses (). |
+| original_entry           | Headword based on the original character form. Errors are left as is. The representation of kanji outside Unicode follows the rules for hanzi_entry. If the original-form headword is not needed, '〇' is used.  |
 | definition_elements      | Extracted components from the full definition, classified into 5 categories: glyph annotations, pronunciation annotations, meaning annotations, Japanese readings (wakun), and others, one component per entry.           |
 | definition_type_code     | 3-digit numeric code representing the definition type.   |
 | definition_type_name     | Indicates which of the following five categories the definition type belongs to: glyph annotation, pronunciation annotation, meaning annotation, wakun, and others.  |

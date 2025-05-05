@@ -65,22 +65,22 @@ krm_main、krm_notes、krm_wakunの三つのテーブルの関係を図示すれ
 ### 最終更新日
 
 初版公開日：2025年3月30日  
-最終更新日：2025年3月30日
+最終更新日：2025年5月5日
 
 ### バージョン履歴
 
 #### krm_main 
-- Version: 1.2.4 (最新)  
+- Version: 1.2.5 (最新)  
     初版公開日：2025年3月30日 
-    最終更新日：2025年4月20日
+    最終更新日：2025年5月5日
 - Version: 1.1.347  
     初版公開日：2022年3月1日 
     最終更新日：2025年3月17日
 
 ### krm_notes
-- Version: 1.2.5 (最新, 仕様変更後に公開)  
+- Version: 1.2.6 (最新, 仕様変更後に公開)  
     初版公開日：2025年3月28日 
-    最終更新日：2025年4月20日
+    最終更新日：2025年5月5日
 
 ### krm_wakun
 - Version: 1.2.1  (最新)  
@@ -148,12 +148,12 @@ ikeda.shoju@gmail.com, liyuansapporo@yahoo.co.jp, toyjack@gmail.com, kleinekuma@
 新旧のカラム名を対照すれば次のようになる。
 
 
-| New Column Name (v1.2.0) | Old Column Name (v1.1.347) |
+| New Column Name (v1.2.5) | Old Column Name (v1.1.347) |
 |--------------------------|----------------------------|
 | entry_id                 | KRID_n                     |
 | hanzi_id                 | KRID_sn                    |
-| kazama_entry_location    | KR2ID                      |
-| kazama_hanzi_location    | KRID                       |
+| -     | KR2ID                      |
+| kazama_location    | KRID                       |
 | tenri_location           | KR_Tenri_p                 |
 | volume_name              | KR_vol_name                |
 | radical_name             | KR_radical                 |
@@ -163,22 +163,23 @@ ikeda.shoju@gmail.com, liyuansapporo@yahoo.co.jp, toyjack@gmail.com, kleinekuma@
 | definition               | Def                        |
 | -                        | Remarks                    |
 
+KR2IDは省略し、kazama_locationをKRIDに対応させた。
+
 Remarksは次のkrm_notesにまとめることとして、省略した。
 
 次に、カラム名の内容を英語と日本語で説明する。
 
-| New Column Name (v1.2.0) | English Explanation           | Japanese Explanation                    |
+| New Column Name (v1.2.5) | English Explanation           | Japanese Explanation                    |
 |--------------------------|-----------------------------|-------------------------------------------|
-| entry_id                 | A heading item ID formed by a 5-digit numeric ID starting with 'F', followed by '_00'.               | Fで始まる5桁の数値に_00を加えた見出し項目ID。     |
+| entry_id                 | A heading item ID formed by a 5-digit numeric ID starting with 'F'.          | Fで始まる5桁の数値からなる見出し項目ID。     |
 | hanzi_id                 | A heading Hanzi ID consisting of a 5-digit numeric ID starting with 'S'.           | Sで始まる5桁の数値からなる見出し漢字ID。         |
-| kazama_entry_location    | ID including location information (Kazama edition: K, Book(volume), page(xxx), line(y), column(zz)), ranked 1, 2, ..., n for multiple entries in a column. Where Book(volume) represents the volume number, page(xxx) the page number, line(y) the line number, and column(zz) the column number.                                                              | 位置情報（風間版：K、冊子（巻）、ページ（xxx）、行（y）、列（zz））を含むID。列に複数のエントリがある場合は、1、2、...、n の順位になる。                 |
-| kazama_hanzi_location    | ID including location information (Kazama edition: K, Book(volume), page(xxx), line(y), column(zz)), ranked 0 for single-character headwords, and 1, 2, ..., n for multiple-character headwords or entries in a column. Where Book(volume) represents the volume number, page(xxx) the page number, line(y) the line number, and column(zz) the column number. | K・巻数(2桁)・風間書房版ページ数(3桁)・行数(1桁)・段数(1桁)・字順(1桁)を示すID。掲出字が単字なら字順は0、複字なら1, 2, ..., n。一段に複数項目あれば単字でも1, 2, ..., n。            |
-| tenri_location           | Location information from the Tenri edition (T, volume(volume letters), page(xxx), line(y), column(zz)). Where volume(volume letters) represents the volume letters, page(xxx) the page number, line(y) the line number, and column(zz) the column number.   | 八木書店版の掲出字ID。T・巻数（a/b/c）・ページ数（3桁数）・行数（1桁）・段数（1桁）・字順（1桁）を示す。最後の字順の示し方は掲出字IDの場合に同じとする。八木書店『天理図書館善本叢書』に基づく。        |
+| kazama_location    | An ID indicating K + Volume (2 digits) + Kazama Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + 字順 (1 digit). Details of the rules for assigning 字順 are defined separately.  | K・巻数（2桁）・風間版頁数（3桁）・行数（1桁）、段数（1桁）、字順（1桁）を示すID。字順付与のルールの詳細は別に定める。    |
+| tenri_location           | An ID indicating T + Volume (a/b/c) + Tenri Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + 字順 (1 digit). Details of the rules for assigning 字順 are defined separately.  |T・巻数（a/b/c）・天理版頁数（3桁）・行数（1桁）・段数（1桁）・字順（1桁）を示す。字順付与のルールの詳細は別に定める。     |
 | volume_name              | Name of the volume, consisting of 10 volumes: 仏上, 仏中, 仏末本, 仏末下, 法上, 法中, 法下, 僧上, 僧中, and 僧下.            | 巻名。「仏上」「仏中」「仏下本」「仏下末」「法上」「法中」「法下」「僧上」「僧中」「僧下」の10 巻を示す。                              |
 | radical_name             | Hanzi name of the radical, consisting of 160 radicals ranging from 人 to 雑, used to classify Hanzi characters.                   | 部首名。「人、彳、辵」から「風、酉、雑」までの120部を示す。       |
 | volume_radical_index     | Volume and radical number, ranging from v1#1 to v10#120, indicating the location of the entry within the text.           | 巻。v・巻数（1-10）#・部首番号（1-120）を示す。v1#1(第1帖第1)〜v10#120(第10帖第120)。第1帖(仏上)〜第10帖(僧下)。            |
-| hanzi_entry              | Corrected hanzi are principally in the Kangxi Dictionary form. Unicode simplified characters (common-use characters, popular variants) may also be retained. Multiple-kanji headwords are separated by / (full-width slash). The abbreviation symbol "｜" is represented by "ー" (long vowel mark), with the corresponding character in parentheses.  | 校訂漢字は原則、康熙字典体。Unicodeの新字体（通用字体・俗字体）は残すことも可。複数漢字の見出しは／で区切る。省略符号「｜」はーで示し、（）に該当字。 |
-| original_entry           | Headword close to original form. Errors as is. Non-Unicode variants: IDS or ■. Like hanzi_entry, "〇" if no original-glyph headword needed.  | 原字形に準拠した見出し字。誤字はそのまま。Unicode外の異体字はIDS/■で表記。hanzi_entryに準じ、原字形の掲出字が不要なら「〇」。   |
+| hanzi_entry              | The collated headword characters principally use Kangxi Dictionary form, including Unicode simplified characters (common-use forms, popular variants). For characters not included in Unicode, they are represented by the following methods: If representable by combining kanji components, input using IDS (Ideographic Description Sequence). For specific kanji or their components, if representation by IDS or standard Unicode is difficult, use simplified notations based on the entity reference systems of CHISE and GlyphWiki (e.g., CDP-8C55, koseki-00001). Characters not representable by any of the above methods, or characters unreadable in the original text (worm-eaten, etc.), are input as '■' (black square). Headwords consisting of multiple kanji are separated by '／' (full-width slash). The abbreviation symbol '｜' is indicated by 'ー' (long vowel mark), and the corresponding character is appended in full-width parentheses (). | 校訂漢字は原則、康熙字典体（Unicodeの新字体（通用字体・俗字体）を含む）を用いる。Unicodeに収録されていない漢字については、以下の方法で表現する。漢字の部品の組み合わせで表現可能な場合は、IDS（漢字構成記述文字列）で入力する。特定の漢字やその部品で、IDSまたは標準Unicodeで表現が困難な場合は、CHISEおよびGlyphWikiの実体参照方式に基づいた簡略表記（例：CDP-8C55, koseki-00001）を用いる。上記のいずれの方法でも表現できない文字や、原典で判読不能な文字（虫損等）は、「■」（黒い四角）で入力する。複数漢字の見出しは「／」（全角スラッシュ）で区切る。省略符号「｜」は「ー」（長音符）で示し、全角括弧（）内に該当字を付記する。 |
+| original_entry           | Headword based on the original character form. Errors are left as is. The representation of kanji outside Unicode follows the rules for hanzi_entry. If the original-form headword is not needed, '〇' is used. | 原字形に準拠した見出し字。誤字はそのまま。Unicode外の漢字の表現はhanzi_entryに準じる。原字形の掲出字が不要なら「〇」。  |
 | definition               | Includes glyph annotations, pronunciation annotations, meaning annotations, Japanese readings (wakun), and other relevant notes, separated by spaces. As a general rule, character forms included in the "Kangxi Dictionary style" should be used.    | 注文は、字体注、音注、義注、和訓、その他からなる。これらをスペース区切りで入力。原則として「康熙字典体」に含まれる字形を入力。                 |
 
 
@@ -198,10 +199,10 @@ krm_notes.tsvとkrm_notes.jsonという名称とした。
 krm_notesを新とし、KRM_definitionsを旧として、両者のカラム名を対照すれば次のようになる。
 
 
-| New Column Name (v1.2.1) | Old Column Name (v1.1.55) |
+| New Column Name (v1.2.6) | Old Column Name (v1.1.55) |
 |--------------------------|----------------------------|
 | definition_seq_id        | KRID_no                    |
-| kazama_entry_location    | KR2ID                      |
+| kazama_location          | KRID                      |
 | hanzi_entry              | Entry                      |
 | definition_elements      | Def                        |
 | definition_type_code     | Def_code                   |
@@ -228,17 +229,18 @@ krm_notesを新とし、KRM_definitionsを旧として、両者のカラム名�
 次に、カラム名の内容を英語と日本語で説明する。
 
 
-| New Column Name (v1.2.1) | English Explanation       | Japanese Explanation                                                                                    |
+
+| New Column Name (v1.2.6) | English Explanation       | Japanese Explanation                                                                                    |
 |--------------------------|--------------|------------------
-| entry_id                 | A heading item ID formed by a 5-digit numeric ID starting with 'F'.   | Fで始まる5桁の数値に_00を加えた見出し項目ID。    |
+| entry_id                 | A heading item ID formed by a 5-digit numeric ID starting with 'F'. For some added entry items, a 'b' suffix is appended.  | Fで始まる5桁の数値に_00を加えた見出し項目ID。一部、追加した掲出項目にはb番号を付す。    |
 | definition_seq_id        | 5-digit numeric ID starting with 'F', sequentially assigned to heading entries. Definition components under each heading are ordered based on their appearance, and order indicators like _01, _02, etc., are appended accordingly. The heading itself is appended with _00.                      | 連番で与えられるFで始まる5桁の見出しの数値IDに加えて、見出しの下に記される注文の各要素を出現順に区分し、出現の順番に_01、_02のように追加したもの。見出しには_00を追加する。            |
-| kazama_entry_location    | ID including location information (Kazama edition: K, Book(volume), page(xxx), line(y), column(zz)), ranked 1, 2, ..., n for multiple entries in a column. Where Book(volume) represents the volume number, page(xxx) the page number, line(y) the line number, and column(zz) the column number. | 位置情報（風間版：K、冊子（巻）、ページ（xxx）、行（y）、列（zz））を含むID。列に複数のエントリがある場合は、1、2、...、n の順位になる。     |
-| tenri_location           | Location information from the Tenri edition (T, volume(volume letters), page(xxx), line(y), column(zz)). Where volume(volume letters) represents the volume letters, page(xxx) the page number, line(y) the line number, and column(zz) the column number.   | 八木書店版の掲出字ID。T・巻数（a/b/c）・ページ数（3桁数）・行数（1桁）・段数（1桁）・字順（1桁）を示す。最後の字順の示し方は掲出字IDの場合に同じとする。八木書店『天理図書館善本叢書』に基づく。 |
+| kazama_location    | An ID indicating K + Volume (2 digits) + Kazama Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + 字順 (1 digit). Details of the rules for assigning 字順 are defined separately. | K・巻数（2桁）・風間版頁数（3桁）・行数（1桁）、段数（1桁）、字順（1桁）を示すID。字順付与のルールの詳細は別に定める。  |
+| tenri_location           | An ID indicating T + Volume (a/b/c) + Tenri Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + 字順 (1 digit). Details of the rules for assigning 字順 are defined separately. | T・巻数（a/b/c）・天理版頁数（3桁）・行数（1桁）・段数（1桁）・字順（1桁）を示す。字順付与のルールの詳細は別に定める。 |
 | volume_name              | Name of the volume, consisting of 10 volumes: 仏上, 仏中, 仏末本, 仏末下, 法上, 法中, 法下, 僧上, 僧中, and 僧下.    | 巻名。「仏上」「仏中」「仏下本」「仏下末」「法上」「法中」「法下」「僧上」「僧中」「僧下」の10 巻を示す                                                   |
 | radical_name             | Hanzi name of the radical, consisting of 160 radicals ranging from 人 to 雑, used to classify Hanzi characters.     | 部首名。「人、彳、辵」から「風、酉、雑」までの120部を示す                                                                          |
 | volume_radical_index     | Volume and radical number, ranging from v1#1 to v10#120, indicating the location of the entry within the text.     | 巻。v・巻数（1-10）#・部首番号（1-120）を示す。v1#1(第1帖第1)〜v10#120(第10帖第120)。第1帖(仏上)〜第10帖(僧下)。                            |
-| hanzi_entry              |Corrected hanzi are principally in the Kangxi Dictionary form. Unicode simplified characters (common-use characters, popular variants) may also be retained. Multiple-kanji headwords are separated by / (full-width slash). The abbreviation symbol "｜" is represented by "ー" (long vowel mark), with the corresponding character in parentheses.   | 校訂漢字は原則、康熙字典体。Unicodeの新字体（通用字体・俗字体）は残すことも可。複数漢字の見出しは／で区切る。省略符号「｜」はーで示し、（）に該当字。  |
-| original_entry           | Headword close to original form. Errors as is. Non-Unicode variants: IDS or ■. Like hanzi_entry, "〇" if no original-glyph headword needed.   | 原字形に準拠した見出し字。誤字はそのまま。Unicode外の異体字はIDS/■で表記。hanzi_entryに準じ、原字形の掲出字が不要なら「〇」。  |
+| hanzi_entry              | The collated headword characters principally use Kangxi Dictionary form, including Unicode simplified characters (common-use forms, popular variants). For characters not included in Unicode, they are represented by the following methods: If representable by combining kanji components, input using IDS (Ideographic Description Sequence). For specific kanji or their components, if representation by IDS or standard Unicode is difficult, use simplified notations based on the entity reference systems of CHISE and GlyphWiki (e.g., CDP-8C55, koseki-00001). Characters not representable by any of the above methods, or characters unreadable in the original text (worm-eaten, etc.), are input as '■' (black square). Headwords consisting of multiple kanji are separated by '／' (full-width slash). The abbreviation symbol '｜' is indicated by 'ー' (long vowel mark), and the corresponding character is appended in full-width parentheses ().  | 校訂漢字は原則、康熙字典体（Unicodeの新字体（通用字体・俗字体）を含む）を用いる。Unicodeに収録されていない漢字については、以下の方法で表現する。漢字の部品の組み合わせで表現可能な場合は、IDS（漢字構成記述文字列）で入力する。特定の漢字やその部品で、IDSまたは標準Unicodeで表現が困難な場合は、CHISEおよびGlyphWikiの実体参照方式に基づいた簡略表記（例：CDP-8C55, koseki-00001）を用いる。上記のいずれの方法でも表現できない文字や、原典で判読不能な文字（虫損等）は、「■」（黒い四角）で入力する。複数漢字の見出しは「／」（全角スラッシュ）で区切る。省略符号「｜」は「ー」（長音符）で示し、全角括弧（）内に該当字を付記する。  |
+| original_entry           | Headword based on the original character form. Errors are left as is. The representation of kanji outside Unicode follows the rules for hanzi_entry. If the original-form headword is not needed, '〇' is used.  | 原字形に準拠した見出し字。誤字はそのまま。Unicode外の漢字の表現はhanzi_entryに準じる。原字形の掲出字が不要なら「〇」。  |
 | definition_elements      | Extracted components from the full definition, classified into 5 categories: glyph annotations, pronunciation annotations, meaning annotations, Japanese readings (wakun), and others, one component per entry.     | 注文の全文から、字体注、音注、意義注、和訓、その他の５種に区分し、それぞれの要素を一つずつ抜き出したもの。    |
 | definition_type_code     | 3-digit numeric code representing the definition type.     | 注文の種類を分類した3桁の数値。                                                                                        |
 | definition_type_name     | Indicates which of the following five categories the definition type belongs to: glyph annotation, pronunciation annotation, meaning annotation, wakun, and others.     | 注文の種類を字体注、音注、意義注、和訓、その他の５種に区分して、そのいずれに該当するかを示したもの。    |

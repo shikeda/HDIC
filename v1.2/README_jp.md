@@ -16,17 +16,18 @@
 [https://github.com/shikeda/HDIC/tree/master/v1.2/README_jp.md](https://github.com/shikeda/HDIC/tree/master/v1.2/README_jp.md)
 
 
-# データファイル一覧
+## データファイル一覧
 
-## 一覧と簡単な説明
+### 一覧と簡単な説明
 
 [https://github.com/shikeda/HDIC/tree/master/v1.2](https://github.com/shikeda/HDIC/tree/master/v1.2)
 で公開している観智院本類聚名義抄のデータは次のとおりである。
 一部公開準備中のものを含む。
 
-- [krm_main](#krm_main): 基本データ。見出字、注文全文、所在などに関する情報を含む。TSVファイルとJSONファイルを公開。
-- [krm_notes](#krm_notes): 注釈データ。見出字、字体注、音注、意義注、和訓、その他に分類し、校勘と出典考証を行ったもの。TSVファイルとJSONファイルを公開
-- [krm_wakun](#krm_wakun): 和訓データ。和訓の異形、漢字の異体字、『日本国語大辞典第二版』の表記欄との対応に関する情報を含む。TSVファイルとJSONファイルを公開
+- [krm_main](#krm_main): 基本データ。掲出字、注文全文、所在などに関する情報を含む。TSVファイルとJSONファイルを公開。
+- [krm_notes](#krm_notes): 注釈データ。掲出字、字体注、音注、意義注、和訓、その他に分類し、校勘と出典考証を行ったもの。TSVファイルとJSONファイルを公開。
+- [krm_headword_chars](#krm_headword_chars): すべての掲出字に関する詳細情報。風間版所在、天理版所在、画像ファイル名など。公開準備中。
+- [krm_wakun](#krm_wakun): 和訓データ。和訓の異形、漢字の異体字、『日本国語大辞典第二版』の表記欄との対応に関する情報を含む。TSVファイルとJSONファイルを公開。
 - [krm_definitions](#krm_definitions): 注文を字体注、音注、意義注、和訓、その他に分類したもの。TSVファイルを公開。公開済みの[KRM_definitions.tsv](https://github.com/shikeda/HDIC/KRM_definitions.tsv)に同じ。
 - [krm_pronunciations](#krm_pronunciations): 音注に関してDHSJRとの連携をとるためのデータ（準備中）。
 - [krm_ndl](#krm_ndl): 国会図書館デジタルコレクションへのリンク。TSVファイルを公開。公開済みの[KRM_ndl.tsv](https://github.com/shikeda/HDIC/KRM_ndl.tsv)に同じ。
@@ -65,22 +66,27 @@ krm_main、krm_notes、krm_wakunの三つのテーブルの関係を図示すれ
 ### 最終更新日
 
 初版公開日：2025年3月30日  
-最終更新日：2025年5月5日
+最終更新日：2025年5月11日
 
 ### バージョン履歴
 
 #### krm_main 
-- Version: 1.2.5 (最新)  
+- Version: 1.2.6 (最新)  
     初版公開日：2025年3月30日 
-    最終更新日：2025年5月5日
+    最終更新日：2025年5月11日
 - Version: 1.1.347  
     初版公開日：2022年3月1日 
     最終更新日：2025年3月17日
 
 ### krm_notes
-- Version: 1.2.6 (最新, 仕様変更後に公開)  
+- Version: 1.2.7 (最新, 仕様変更後に公開)  
     初版公開日：2025年3月28日 
-    最終更新日：2025年5月5日
+    最終更新日：2025年5月11日
+
+### krm_headword_chars
+- Version: 1.2.1 (最新, 仕様変更後に公開) 
+    初版公開日：2025年5月11日 
+    最終更新日：2025年5月11日
 
 ### krm_wakun
 - Version: 1.2.1  (最新)  
@@ -92,7 +98,6 @@ krm_main、krm_notes、krm_wakunの三つのテーブルの関係を図示すれ
 
 
 ### 作成者および著作権情報
-
 
 HDIC プロジェクト
 
@@ -126,10 +131,10 @@ ikeda.shoju@gmail.com, liyuansapporo@yahoo.co.jp, toyjack@gmail.com, kleinekuma@
 ### 謝辞
 
 観智院本類聚名義抄の解読テキストの公開について、御許可を賜った
-天理図書館ならびに八木書店に感謝申し上げます。
+天理図書館ならびに八木書店に感謝申し上げる。
 
 
-この研究は日本学術振興会科学研究費補助金（課題番号16H03422、 19H00526、23K17500）の成果の一部です。記して感謝の意を表します。
+この研究は日本学術振興会科学研究費補助金（課題番号16H03422、 19H00526、23K17500、25K00466）の成果の一部である。記して感謝の意を表す。
 
 
 ## krm_main
@@ -336,3 +341,16 @@ DHSJRの仕様に合わせたデータ公開を検討中である。
 
 KRM_ndl.tsvは2025年3月の仕様変更の影響がほとんどないので
 説明は省略する。
+
+
+巻名（帖名）、部首字、風間版頁数、天理版頁数、国会図書館デジタルコレクションのURL、を示すデータである。
+
+次にサンプルとしてデータの冒頭部分を示す。
+
+| Book | Radical | Kazama | Tenri | NDL_url                                       |
+|------|---------|--------|-------|-----------------------------------------------|
+| 仏上   | 人       | 1      | 23    | https://dl.ndl.go.jp/info:ndljp/pid/2586891/6 |
+| 仏上   | 人       | 2      | 24    | https://dl.ndl.go.jp/info:ndljp/pid/2586891/7 |
+
+
+`krm_main` との連携がとりやすいようするため、改良を加える予定である。

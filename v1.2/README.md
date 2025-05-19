@@ -8,9 +8,6 @@ The Kanchi-in manuscript of the *Ruiju Myōgishō* is a **Hanzi** dictionary com
 
 It was first published in March 2022, and in March 2025, a revised edition with specification changes and detailed explanations will be released.
 
-The link to the GitHub repository is as follows:
-
-[https://github.com/shikeda/HDIC/tree/master/v1.2/README_jp.md](https://github.com/shikeda/HDIC/tree/master/v1.2/README_jp.md)
 
 ## Kanji and Hanzi
 

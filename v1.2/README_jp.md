@@ -11,9 +11,6 @@
 
 2022年3月から公開していたが、2025年3月に、仕様の変更を行い、詳細な説明を施して改訂版を公開するものである。
 
-このファイルのGitHubリポジトリへのリンクは次のとおりである。
-
-[https://github.com/shikeda/HDIC/tree/master/v1.2/README_jp.md](https://github.com/shikeda/HDIC/tree/master/v1.2/README_jp.md)
 
 
 ## データファイル一覧

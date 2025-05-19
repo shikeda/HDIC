@@ -3,8 +3,8 @@
 #
 # Gaoliben Longkan Shoujing (GLS): Zhonghua Book Company edition (中華書局版), Keijo Imperial University edition (京城帝国大学版) and National Diet Library Digital Collections
 # Version: 1.1.4
-# Date: 3 June 2016
-# Last update : 16 March 2022
+# Date: June 3, 2016
+# Last update : March 16, 2022
 #
 #  Longkan Shoujing 龍龕手鏡, Koryo print 高麗本. monk Xingjun of the Liao Dynasty 遼・行均, 997.
 #
@@ -14,8 +14,6 @@
 # Vol.4 Koryo print 高麗本 (京城帝國大學版)
 #
 # Copyright (c) 2014-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
-# Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
-# North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan
 # Contact: Contact: ikeda.shoju@gmail.com, liyuansapporo@yahoo.co.jp, toyjack@gmail.com
 #
 # Data License Information and Access Rights

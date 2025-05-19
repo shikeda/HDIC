@@ -139,26 +139,28 @@ ikeda.shoju@gmail.com, liyuansapporo@yahoo.co.jp, toyjack@gmail.com, kleinekuma@
 
 ## krm_main
 
+### 概要とファイル形式
 
-観智院本類聚名義抄（以下、名義抄）データベースの中核となるファイルを解説する。
-従来公開していたのは、KRM.tsvという名称のTSVファイルである。
+観智院本類聚名義抄（以下、名義抄）デーベースの中核となるファイルを解説する。
+従来公開していたのは、`KRM.tsv` という名称のTSVファイルである。
 
 掲出字、注文、巻、部首、風間書房版と天理善本叢書版の所在などに関する情報を
 収録する。
 
 2025年3月に、カラム名、声点の表示法の仕様を変更した。仕様変更後の
-ファイルであることを明示するために、krm_main.tsvという名称にした。
+ファイルであることを明示するために、`krm_main.tsv` という名称にした。
 これにはJSON形式も用意した。
 
-新旧のカラム名を対照すれば次のようになる。
+### カラム名対照
 
+新旧のカラム名を対照すれば次のようになる。
 
 | New Column Name (v1.2.5) | Old Column Name (v1.1.347) |
 |--------------------------|----------------------------|
 | entry_id                 | KRID_n                     |
 | hanzi_id                 | KRID_sn                    |
-| -     | KR2ID                      |
-| kazama_location    | KRID                       |
+| -                        | KR2ID                      |
+| kazama_location          | KRID                       |
 | tenri_location           | KR_Tenri_p                 |
 | volume_name              | KR_vol_name                |
 | radical_name             | KR_radical                 |
@@ -168,95 +170,196 @@ ikeda.shoju@gmail.com, liyuansapporo@yahoo.co.jp, toyjack@gmail.com, kleinekuma@
 | definition               | Def                        |
 | -                        | Remarks                    |
 
-KR2IDは省略し、kazama_locationをKRIDに対応させた。
+`KR2ID` は省略し、`kazama_location` を `KRID` に対応させた。
 
-Remarksは次のkrm_notesにまとめることとして、省略した。
-
-次に、カラム名の内容を英語と日本語で説明する。
-
-| New Column Name (v1.2.5) | English Explanation           | Japanese Explanation                    |
-|--------------------------|-----------------------------|-------------------------------------------|
-| entry_id                 | A heading item ID formed by a 5-digit numeric ID starting with 'F'.          | Fで始まる5桁の数値からなる見出し項目ID。     |
-| hanzi_id                 | A heading Hanzi ID consisting of a 5-digit numeric ID starting with 'S'.           | Sで始まる5桁の数値からなる見出し漢字ID。         |
-| kazama_location    | An ID indicating K + Volume (2 digits) + Kazama Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + Character order (字順, *jijun*) (1 digit). Details of the rules for assigning Character order are defined separately. | K・巻数（2桁）・風間版頁数（3桁）・行数（1桁）、段数（1桁）、字順（1桁）を示すID。字順付与のルールの詳細は別に定める。    |
-| tenri_location           | An ID indicating T + Volume (a/b/c) + Tenri Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + Character order (字順, *jijun*) (1 digit). Details of the rules for assigning Character order are defined separately.  |T・巻数（a/b/c）・天理版頁数（3桁）・行数（1桁）・段数（1桁）・字順（1桁）を示す。字順付与のルールの詳細は別に定める。     |
-| volume_name              | Name of the volume, consisting of 10 volumes: 仏上, 仏中, 仏末本, 仏末下, 法上, 法中, 法下, 僧上, 僧中, and 僧下.            | 巻名。「仏上」「仏中」「仏下本」「仏下末」「法上」「法中」「法下」「僧上」「僧中」「僧下」の10 巻を示す。                              |
-| radical_name             | Hanzi name of the radical, consisting of 160 radicals ranging from 人 to 雑, used to classify Hanzi characters.                   | 部首名。「人、彳、辵」から「風、酉、雑」までの120部を示す。       |
-| volume_radical_index     | Volume and radical number, ranging from v1#1 to v10#120, indicating the location of the entry within the text.           | 巻。v・巻数（1-10）#・部首番号（1-120）を示す。v1#1(第1帖第1)〜v10#120(第10帖第120)。第1帖(仏上)〜第10帖(僧下)。            |
-| hanzi_entry              | The collated headword characters principally use Kangxi Dictionary form, including Unicode simplified characters (common-use forms, popular variants). For characters not included in Unicode, they are represented by the following methods: If representable by combining kanji components, input using IDS (Ideographic Description Sequence). For specific kanji or their components, if representation by IDS or standard Unicode is difficult, use simplified notations based on the entity reference systems of CHISE and GlyphWiki (e.g., CDP-8C55, koseki-00001). Characters not representable by any of the above methods, or characters unreadable in the original text (worm-eaten, etc.), are input as '■' (black square). Headwords consisting of multiple kanji are separated by '／' (full-width slash). The abbreviation symbol '｜' is indicated by 'ー' (long vowel mark), and the corresponding character is appended in full-width parentheses (). | 校訂漢字は原則、康熙字典体（Unicodeの新字体（通用字体・俗字体）を含む）を用いる。Unicodeに収録されていない漢字については、以下の方法で表現する。漢字の部品の組み合わせで表現可能な場合は、IDS（漢字構成記述文字列）で入力する。特定の漢字やその部品で、IDSまたは標準Unicodeで表現が困難な場合は、CHISEおよびGlyphWikiの実体参照方式に基づいた簡略表記（例：CDP-8C55, koseki-00001）を用いる。上記のいずれの方法でも表現できない文字や、原典で判読不能な文字（虫損等）は、「■」（黒い四角）で入力する。複数漢字の見出しは「／」（全角スラッシュ）で区切る。省略符号「｜」は「ー」（長音符）で示し、全角括弧（）内に該当字を付記する。 |
-| original_entry           | Headword based on the original character form. Errors are left as is. The representation of kanji outside Unicode follows the rules for hanzi_entry. If the original-form headword is not needed, '〇' is used. | 原字形に準拠した見出し字。誤字はそのまま。Unicode外の漢字の表現はhanzi_entryに準じる。原字形の掲出字が不要なら「〇」。  |
-| definition               | Includes glyph annotations, pronunciation annotations, meaning annotations, Japanese readings (wakun), and other relevant notes, separated by spaces. As a general rule, character forms included in the "Kangxi Dictionary style" should be used.    | 注文は、字体注、音注、義注、和訓、その他からなる。これらをスペース区切りで入力。原則として「康熙字典体」に含まれる字形を入力。                 |
+`Remarks` は次の `krm_notes` にまとめることとして、省略した。
 
 
+### 各カラムの説明
+
+次に、カラム名の内容を日本語で説明する。ここでは `v1.2.5`の内容を
+記載する。
+
+| New Column Name (v1.2.5) | Japanese Explanation                    |
+|--------------------------|-------------------------------------------|
+| entry_id                 | Fで始まる5桁の数値からなる見出し項目ID。一部、追加した掲出項目にはb番号を付す。     |
+| hanzi_id                 | Sで始まる5桁の数値からなる見出し漢字ID。一部、追加した掲出項目にはb番号を付す。     |
+| kazama_location    | K・巻数（2桁）・風間版頁数（3桁）・行数（1桁）、段数（1桁）、字順（1桁）を示すID。字順付与のルールの詳細は別に定める。    |
+| tenri_location           | T・巻数（a/b/c）・天理版頁数（3桁）・行数（1桁）・段数（1桁）・字順（1桁）を示す。字順付与のルールの詳細は別に定める。     |
+| volume_name              | 巻名。「仏上」「仏中」「仏下本」「仏下末」「法上」「法中」「法下」「僧上」「僧中」「僧下」の10 巻を示す。                              |
+| radical_name             | 部首名。「人、彳、辵」から「風、酉、雑」までの120部を示す。       |
+| volume_radical_index     | 巻。v・巻数（1-10）#・部首番号（1-120）を示す。v1#1(第1帖第1)〜v10#120(第10帖第120)。第1帖(仏上)〜第10帖(僧下)。            |
+| hanzi_entry              | 校訂漢字は原則、康熙字典体（Unicodeの新字体（通用字体・俗字体）を含む）を用いる。Unicodeに収録されていない漢字については、以下の方法で表現する。漢字の部品の組み合わせで表現可能な場合は、IDS（漢字構成記述文字列）で入力する。特定の漢字やその部品で、IDSまたは標準Unicodeで表現が困難な場合は、CHISEおよびGlyphWikiの実体参照方式に基づいた簡略表記（例：CDP-8C55, koseki-00001）を用いる。上記のいずれの方法でも表現できない文字や、原典で判読不能な文字（虫損等）は、「■」（黒い四角）で入力する。複数漢字の見出しは「／」（全角スラッシュ）で区切る。省略符号「｜」は「ー」（長音符）で示し、全角括弧（）内に該当字を付記する。 |
+| original_entry           | 原字形に準拠した見出し字。誤字はそのまま。Unicode外の漢字の表現はhanzi_entryに準じる。原字形の掲出字が不要なら「〇」。  |
+| definition               | 注文は、字体注、音注、義注、和訓、その他からなる。これらをスペース区切りで入力。原則として「康熙字典体」に含まれる字形を入力。                 |
 
 
 ## krm_notes
 
+### 概要とファイル形式
 
-
-**KRM_definitions.tsv**ファイルに詳細な注釈情報を追加したファイル
-**krm_notes.tsv**および**krm_json**を作成した。
+`KRM_definitions.tsv` ファイルに詳細な注釈情報を追加したファイル `krm_notes.tsv` を作成した。
 これは、TSV形式とJSON形式で用意した。
 2025年3月の仕様変更後のファイル名であることを明示的に示すため、
-大文字のKRMではなく小文字のkrmを用いて
-krm_notes.tsvとkrm_notes.jsonという名称とした。
-
-krm_notesを新とし、KRM_definitionsを旧として、両者のカラム名を対照すれば次のようになる。
+大文字の KRM ではなく小文字の krm を用いて
+`krm_notes.tsv` と `krm_notes.json` という名称とした。
 
 
-| New Column Name (v1.2.6) | Old Column Name (v1.1.55) |
+### カラム名対照
+
+
+#### Comparison with KRM_definitions.tsv (v1.1.55)
+
+`krm_notes.tsv` を新とし、`KRM_definitions.tsv` を旧として、両者のカラム名を対照すれば次のようになる。
+
+| New Column Name (krm_notes v1.2.6) | Old Column Name (KRM_definitions v1.1.55) |
 |--------------------------|----------------------------|
 | definition_seq_id        | KRID_no                    |
-| kazama_location          | KRID                      |
+| kazama_location          | KRID                       |
 | hanzi_entry              | Entry                      |
 | definition_elements      | Def                        |
 | definition_type_code     | Def_code                   |
 | definition_type_name     | Def_name                   |
-| remarks       | Remarks                    |
+| remarks                  | Remarks                    |
 
-さらに**KRM.tsv**の内容をkrm_notesに取り込むことにした。両者のカラム名を対照すれば次のようになる。
+#### KRM.tsv (v1.1.347) の内容の取り込み
 
-| New Column Name (v1.2.1) | Old Column Name (v1.1.347) |
+さらに `KRM.tsv` の内容を `krm_notes` に取り込むことにした。両者のカラム名を対照すれば次のようになる。
+
+
+| New Column Name (krm_notes v1.2.6) | Old Column Name (KRM v1.1.347) |
 |--------------------------|----------------------------|
-| entry_id        | KRID_n                    |
-| tenri_location    | KR_Tenri_p                      |
-| volume_name            | KR_vol_name                      |
-| radical_name      | KR_radical                        |
-| volume_radical_index     | KR_vol_radical                |
-| original_entry     | Entry_original                   |
-
-
-前述したように、krm_notesの内部は次のような入れ子構造となっている。
-
-![ER_notes図](/images/krm_notes_er.drawio.png)
-
-
-次に、カラム名の内容を英語と日本語で説明する。
+| entry_id                 | KRID_n                     |
+| tenri_location           | KR_Tenri_p                 |
+| volume_name              | KR_vol_name                |
+| radical_name             | KR_radical                 |
+| volume_radical_index     | KR_vol_radical             |
+| original_entry           | Entry_original             |
 
 
 
-| New Column Name (v1.2.6) | English Explanation       | Japanese Explanation                                                                                    |
-|--------------------------|--------------|------------------
-| entry_id                 | A heading item ID formed by a 5-digit numeric ID starting with 'F'. For some added entry items, a 'b' suffix is appended.  | Fで始まる5桁の数値に_00を加えた見出し項目ID。一部、追加した掲出項目にはb番号を付す。    |
-| definition_seq_id        | An identifier for each definition component, typically formed by appending a sequential suffix (e.g., _00, _01, _02) to the corresponding entry_id. The _00 suffix often denotes the main heading or an overall entry note, while _01, _02, etc., identify subsequent, ordered definition elements.         | 連番で与えられるFで始まる5桁の見出しの数値IDに加えて、見出しの下に記される注文の各要素を出現順に区分し、出現の順番に_01、_02のように追加したもの。見出しには_00を追加する。            |
-| kazama_location    | An ID indicating K + Volume (2 digits) + Kazama Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + Character order (字順, *jijun*) (1 digit). Details of the rules for assigning Character order are defined separately. | K・巻数（2桁）・風間版頁数（3桁）・行数（1桁）、段数（1桁）、字順（1桁）を示すID。字順付与のルールの詳細は別に定める。  |
-| tenri_location           | An ID indicating T + Volume (a/b/c) + Tenri Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + Character order (字順, *jijun*) (1 digit). Details of the rules for assigning Character order are defined separately. | T・巻数（a/b/c）・天理版頁数（3桁）・行数（1桁）・段数（1桁）・字順（1桁）を示す。字順付与のルールの詳細は別に定める。 |
-| volume_name              | Name of the volume, consisting of 10 volumes: 仏上, 仏中, 仏末本, 仏末下, 法上, 法中, 法下, 僧上, 僧中, and 僧下.    | 巻名。「仏上」「仏中」「仏下本」「仏下末」「法上」「法中」「法下」「僧上」「僧中」「僧下」の10 巻を示す                                                   |
-| radical_name             | Hanzi name of the radical, consisting of 160 radicals ranging from 人 to 雑, used to classify Hanzi characters.     | 部首名。「人、彳、辵」から「風、酉、雑」までの120部を示す                                                                          |
-| volume_radical_index     | Volume and radical number, ranging from v1#1 to v10#120, indicating the location of the entry within the text.     | 巻。v・巻数（1-10）#・部首番号（1-120）を示す。v1#1(第1帖第1)〜v10#120(第10帖第120)。第1帖(仏上)〜第10帖(僧下)。                            |
-| hanzi_entry              | The collated headword characters principally use Kangxi Dictionary form, including Unicode simplified characters (common-use forms, popular variants). For characters not included in Unicode, they are represented by the following methods: If representable by combining kanji components, input using IDS (Ideographic Description Sequence). For specific kanji or their components, if representation by IDS or standard Unicode is difficult, use simplified notations based on the entity reference systems of CHISE and GlyphWiki (e.g., CDP-8C55, koseki-00001). Characters not representable by any of the above methods, or characters unreadable in the original text (worm-eaten, etc.), are input as '■' (black square). Headwords consisting of multiple kanji are separated by '／' (full-width slash). The abbreviation symbol '｜' is indicated by 'ー' (long vowel mark), and the corresponding character is appended in full-width parentheses ().  | 校訂漢字は原則、康熙字典体（Unicodeの新字体（通用字体・俗字体）を含む）を用いる。Unicodeに収録されていない漢字については、以下の方法で表現する。漢字の部品の組み合わせで表現可能な場合は、IDS（漢字構成記述文字列）で入力する。特定の漢字やその部品で、IDSまたは標準Unicodeで表現が困難な場合は、CHISEおよびGlyphWikiの実体参照方式に基づいた簡略表記（例：CDP-8C55, koseki-00001）を用いる。上記のいずれの方法でも表現できない文字や、原典で判読不能な文字（虫損等）は、「■」（黒い四角）で入力する。複数漢字の見出しは「／」（全角スラッシュ）で区切る。省略符号「｜」は「ー」（長音符）で示し、全角括弧（）内に該当字を付記する。  |
-| original_entry           | Headword based on the original character form. Errors are left as is. The representation of kanji outside Unicode follows the rules for hanzi_entry. If the original-form headword is not needed, '〇' is used.  | 原字形に準拠した見出し字。誤字はそのまま。Unicode外の漢字の表現はhanzi_entryに準じる。原字形の掲出字が不要なら「〇」。  |
-| definition_elements      | Extracted components from the full definition, classified into 5 categories: glyph annotations, pronunciation annotations, meaning annotations, Japanese readings (wakun), and others, one component per entry.     | 注文の全文から、字体注、音注、意義注、和訓、その他の５種に区分し、それぞれの要素を一つずつ抜き出したもの。    |
-| definition_type_code     | 3-digit numeric code representing the definition type.     | 注文の種類を分類した3桁の数値。                                                                                        |
-| definition_type_name     | Indicates which of the following five categories the definition type belongs to: glyph annotation, pronunciation annotation, meaning annotation, wakun, and others.     | 注文の種類を字体注、音注、意義注、和訓、その他の５種に区分して、そのいずれに該当するかを示したもの。    |
-| remarks                  | Editor's notes providing additional context or information.   | 編集者による追加の文脈や情報を提供する注記。    |
+### データ構造：ER図とJSONにおける実装
+
+前述したように、
+`krm_notes` の内部は次のような入れ子構造となっている。
+
+![ER_notes diagram](/images/krm_notes_er.drawio.png)
+
+ER図においては、`krm_notes` テーブルは `krm_main` テーブルと `entry_id` によって関連づけられた子テーブルとして表現されている。一方、実際の JSON データでは、この `krm_notes` に相当する情報は平坦なテーブル構造ではなく、各 `krm_main` オブジェクト内に `"definitions"` というキーでまとめられた**入れ子の配列**として実装されている。
+
+この `"definitions"` 配列には、以下のフィールドをもつ定義オブジェクトが複数格納されている：
+
+- definition_seq_id
+- definition_elements
+- definition_type_code
+- definition_type_name
+- remarks
+
+この構造は、ER図において次のように概念的に対応づけることができる。
+
+**`krm_main` テーブル**は、概念上**複数の定義（notes）をもつ一対多の関係**を形成している。
+
+ただし、**実際の JSON 実装では定義項目は別テーブルとして独立しておらず**、`krm_main` の各レコード内に `"definitions"` というキーの下でまとめて**入れ子構造**で保持されている。
+
+#### JSONデータ構造の例
+```
+{
+  "entry_id": "F00001",
+  ...
+  "definitions": [
+    {
+      "definition_seq_id": "F00001_01",
+      "definition_elements": "音仁（LV）「ニン」",
+      "definition_type_code": 215,
+      "definition_type_name": "音注声点有_類音注等",
+      "remarks": "広韻「如鄰切」..."
+    },
+    ...
+  ]
+}
+```
+
+### 各カラムの説明
+
+次に、カラム名の内容を日本語で説明する。
+
+| New Column Name (v1.2.6) | Japanese Explanation                  |
+|--------------------------|---------------------------------------------------------------------------|
+| entry_id                 | Fで始まる5桁の数値からなる見出し項目ID。一部、追加した掲出項目にはb番号を付す。        |
+| definition_seq_id        | 連番で与えられるFで始まる5桁の見出しの数値IDに加えて、見出しの下に記される注文の各要素を出現順に区分し、出現の順番に_01、_02のように追加したもの。見出しには_00を追加する。            |
+| kazama_location          | K・巻数（2桁）・風間版頁数（3桁）・行数（1桁）、段数（1桁）、字順（1桁）を示すID。字順付与のルールの詳細は別に定める。     |
+| tenri_location           | T・巻数（a/b/c）・天理版頁数（3桁）・行数（1桁）・段数（1桁）・字順（1桁）を示す。字順付与のルールの詳細は別に定める。  |
+| volume_name              | 巻名。「仏上」「仏中」「仏下本」「仏下末」「法上」「法中」「法下」「僧上」「僧中」「僧下」の10 巻を示す。     |
+| radical_name             | 部首名。「人、彳、辵」から「風、酉、雑」までの120部を示す。       |
+| volume_radical_index     | 巻。v・巻数（1-10）#・部首番号（1-120）を示す。v1#1（第1帖第1）〜v10#120（第10帖第120）。第1帖（仏上）〜第10帖（僧下）。    |
+| hanzi_entry              | 校訂漢字は原則、康熙字典体（Unicodeの新字体（通用字体・俗字体）を含む）を用いる。Unicodeに収録されていない漢字については、以下の方法で表現する。漢字の部品の組み合わせで表現可能な場合は、IDS（漢字構成記述文字列）で入力する。特定の漢字やその部品で、IDSまたは標準Unicodeで表現が困難な場合は、CHISEおよびGlyphWikiの実体参照方式に基づいた簡略表記（例：CDP-8C55, koseki-00001）を用いる。上記のいずれの方法でも表現できない文字や、原典で判読不能な文字（虫損等）は、「■」（黒い四角）で入力する。複数漢字の見出しは「／」（全角スラッシュ）で区切る。省略符号「｜」は「ー」（長音符）で示し、全角括弧（）内に該当字を付記する。 |
+| original_entry           | 原字形に準拠した見出し字。誤字はそのまま。Unicode外の漢字の表現はhanzi_entryに準じる。原字形の掲出字が不要なら「〇」。    |
+| definition_elements      | 注文の全文から、字体注、音注、意義注、和訓、その他の5種に区分し、それぞれの要素を一つずつ抜き出したもの。       |
+| definition_type_code     | 注文の種類を分類した3桁の数値。      |
+| definition_type_name     | 注文の種類を字体注、音注、意義注、和訓、その他の5種に区分して、そのいずれに該当するかを示したもの。    |
+| remarks                  | 編集者による追加の文脈や情報を提供する注記。  |
+
+
+### Compiler's Remarks (remarks カラム) の内容と意義
+
+この `remarks` カラムに、データベース作成者による注釈（`Compiler's Remarks`）が格納される点に注意してください。
+
+`remarks`カラムは、次の情報を提供している。
+
+- 追加的な文脈 : 名義抄の記述を理解する上で助けとなるような、補足的な背景情報や関連情報。
+- 学術的な考察 : 特定の記述に対する、文献学的、言語学的などの専門的観点からの考察や見解。先行研究の紹介を含む。
+- 本文校勘の結果: 異本や関連資料との比較検討（校勘）を行った結果判明したことや、それに基づく本文解釈など。
+- 出典調査: 名義抄の記述が、どのような文献を典拠としているかの調査結果や、その考察。先行研究での指摘も紹介。
+
+
+そして、これらの注釈は、それぞれ名義抄の次のいずれかの特定の部分に関連付けられている。
+
+- 特定の `definition_element`（注文の個別要素）: `krm_notes` ファイル内で個々の行として扱われる、名義抄の「注文」を構成する具体的な要素（たとえば、ある特定の字体注、音注、義注、和訓など）一つ一つ。
+- または、`Headword`（掲出字）: その項目全体の主題である掲出字そのもの。
+
+つまり、この `remarks` カラムは、名義抄の本文テキストだけでは読み取れない、より深い理解や研究に繋がるような、データベース作成者による専門的な付加情報を提供する役割を持っている。
+
+
+## krm_headword_chars
+
+### 概要とファイル形式
+
+名義抄の掲出字は、単字からなるものと、複字（多字）からなるものがある。
+`krm_headword_chars` は、名義抄のすべての掲出字を、名義抄の項目順および各項目内の文字の出現順に一覧したデータである。
+
+名義抄データベースの基本データとなる `krm_main` はもとより、
+注釈データである `krm_notes`、さらに和訓データである `krm_wakun` は、
+いずれも項目を単位としている。そのため、複数の文字で構成される掲出字の
+2字目以降の文字はこれらのデータからは直接参照できない。
+
+名義抄の掲出字を1字ごとに検索し、その原本画像を表示したり、各文字レベルでの分析を行ったりするには、2字目以降の文字を含めたすべての掲出字のリストが必要である。
+
+このような目的のために作成したのが `krm_headword_chars` である。
+このデータは、TSV 形式と JSON 形式で提供される。各行（またはエントリ）は掲出字1文字に対応し、その文字が属する名義抄の掲出字（見出し語全体）の出現順を示すID (`hanzi_id`)、その文字が属する名義抄の項目を示すID (`entry_id`)、項目内での文字の順序 (`character_order`)、文字そのもの (`constituent_char`)、1文字ごとに切り出された画像ファイルの名称 (`img_file_name`)、そして風間版および天理版それぞれにおけるその文字の所在情報（`kazama_location_id`, `tenri_location_id`）などを含んでいる。これにより、`krm_main` などの項目単位のデータと連携しつつ、個々の文字レベルでの情報アクセスが可能となる。
+
+### 各カラムの説明
+
+`krm_headword_chars` のカラム名とその説明は次のとおりである。
+
+| Column Name | Japanese Explanation           |
+|----------------------|-----------------------------------------------|
+| hanzi_id                | 単字、複字を問わず、名義抄の出現順に与えられたSで始まる5桁の数値からなる掲出字の通しID。     |
+| entry_id               | この文字が属する掲出字（見出し語）の項目（krm_mainにおける項目）のID（Fで始まる5桁の数値）。一部、追加した掲出項目にはb番号を付す。      |
+|  constituent_char              | 見出しを構成する文字そのもの。省略符号（ー）と踊り字（〻）は当該の文字に改める。校訂漢字は原則、康熙字典体。Unicodeの新字体（通用字体・俗字体）の扱いについては別途規定。詳細な校訂注記は krm_notes 参照。         |
+| character_order              | それが属する掲出字（見出し語）内で何字目に出現するかを数値で示す。        |
+| kazama_location_id            | K・巻数（2桁）・風間版頁数（3桁）・行数（1桁）、段数（1桁）、字順（1桁）で構成される、この文字の風間版における所在ID。字順付与ルール詳細は別途定める。        |
+| tenri_location_id              | T・巻数（a/b/c）・天理版頁数（3桁）・行数（1桁）・段数（1桁）、字順（1桁）で構成される、この文字の天理版における所在ID。字順付与ルール詳細は別途定める。       |
+| img_file_name       | 掲出字の画像ファイル名（拡張子.jpgを含む）。ファイル名の本体は、巻1から巻9の画像では7桁の数値、巻10の画像では8桁の数値となる。7桁の場合、最初の1桁が巻数を、8桁の場合、最初の2桁が巻10を示す。下6桁の数値は出現順に基づいているが、その割り当ては独自の規則による。20年以上前の作業のため、詳細な命名規則に関するドキュメントは現存しない。画像がない場合はnull。 |
+
 
 ## krm_wakun
 
-これは、名義抄デーベースのKRM.tsvから和訓を抜き出して、
+### 概要とファイル形式
+
+これは、名義抄デーベースの `KRM.tsv` から和訓を抜き出して、
 和訓の異形を整理し、異体字との対応を調整したデータである。
 
-和訓に関する校勘と出典考証はkrm_notesに記載したので省略している。
+和訓に関する校勘と出典考証は `krm_notes` に記載したので省略している。
 
 和訓には、異なる読み方を傍書して併記する場合がある。
 
@@ -276,8 +379,10 @@ krm_notesを新とし、KRM_definitionsを旧として、両者のカラム名�
 漢字表記を収録しているので、これとの対応をとるための措置である。
 
 2025年3月の仕様変更後のファイル名であることを明示的に示すため、
-大文字のKRMではなく小文字のkrmを用いて
-krm_wakun.tsvとkrm_wakun.jsonという名称とした。
+大文字の KRM ではなく小文字の krm を用いて
+`krm_wakun.tsv` と `krm_wakun.json`という名称とした。
+
+### カラム名対照
 
 新旧のカラム名を対照すれば次のようになる。
 
@@ -295,22 +400,25 @@ krm_wakun.tsvとkrm_wakun.jsonという名称とした。
 | japan_knowledge_id      | JK_URL        |
 | -           | Remarks       |
 
-Remarksはkrm_notesにまとめることとして、省略した。
+`Remarks` は `krm_notes` にまとめることとして、省略した。
 
-次に、カラム名の内容を英語と日本語で説明する。
+### 各カラムの説明
 
-| New Column Name (v1.2.0)            | English Explanation               | Japanese Explanation                                                                         |
-|-------------------------|-------------|--------------------|
-| wakun_id                | Wakun ID, extracted from kr_definition_sequence_id, containing only entries where the type of order is Japanese reading (wakun). Variant forms are appended with 'b', 'c', 'd'.        | 和訓ID。kr_definition_sequence_idから、注文の種類が和訓のものだけを取り出したもの。変異形を追加したものには末尾にa, b, c, dを付した。        |
-| definition_seq_id       | An identifier for each definition component, typically formed by appending a sequential suffix (e.g., _00, _01, _02) to the corresponding entry_id. The _00 suffix often denotes the main heading or an overall entry note, while _01, _02, etc., identify subsequent, ordered definition elements.     | 連番で与えられるFで始まる5桁の見出しの数値IDに加えて、見出しの下に記される注文の各要素を出現順に区分し、出現の順番に_01、_02のように追加したもの。見出しには_00を追加する。 |
-| kazama_location   | An ID indicating K + Volume (2 digits) + Kazama Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + Character order (字順, *jijun*) (1 digit). Details of the rules for assigning Character order are defined separately. | 位置情報（風間版：K、冊子（巻）、ページ（xxx）、行（y）、列（zz））を含むID。列に複数のエントリがある場合は、1、2、...、n の順位になる。                 |
-| hanzi_entry             | Collated Hanzi characters, standardized to the Kangxi dictionary form, including Unicode-representable variant forms.          | 原文の漢字を校訂したもの。康熙字典体とするのを原則としたが、Unicodeで入力できる新字体（通用字体、俗字体）を残すこともある。                            |
-| wakun_elements          | Extracted Japanese reading (wakun) components from the full definition, one component per entry.   | 注文の全文から、和訓の要素を一つずつ抜き出したもの。             |
-| wakun_form              | Form of the Japanese reading (wakun). Inflected words are in dictionary form, excluding particles. The particles 'no' and 'to' from 文選 readings are omitted.      | 和訓の語形。活用のあるものは、助詞助動詞を除いて終止形とする。文選読みの「の」「と」は省略する。            |
-| wakun_standard_hanzi    | Standard wakun notation using standard kanji.             | 標準的な漢字による和訓表記。                            |
-| wakun_variant_in_hanzi  | Variant form of wakun notation using standard Hanzi characters.                 | 標準的な漢字による和訓の異形の表記。                                                                           |
-| variant_hanzi_for_wakun | Wakun notation using variant Hanzi characters (itai-ji).        | 異体字による和訓の表記。                           |
-| japan_knowledge_id      | The alphanumeric part of the JapanKnowledge URL for the corresponding entry in the Nihon Kokugo Daijiten 2nd Ed., starting from "20020" to the end, is recorded here if the wakun exists as a headword. If the wakun does not exist as a headword in the JapanKnowledge edition, null is entered.       | ジャパンナレッジ版『日本国語大辞典第二版』にこの和訓が見出しとして存在する場合に、そのURLの後半、20020から末尾までの英数字を記載する。見出しとして存在しない場合は null と入力する。                   |
+次に、カラム名の内容を説明する。
+
+| New Column Name (v1.2.0)           | Japanese Explanation            |
+|-------------------------|-------------|
+| wakun_id                | 和訓ID。kr_definition_sequence_idから、注文の種類が和訓のものだけを取り出したもの。変異形を追加したものには末尾にb, c, dを付した。        |
+| definition_seq_id        | 連番で与えられるFで始まる5桁の見出しの数値IDに加えて、見出しの下に記される注文の各要素を出現順に区分し、出現の順番に_01、_02のように追加したもの。見出しには_00を追加する。 |
+| kazama_entry_location   | 位置情報（風間版：K、冊子（巻）、ページ（xxx）、行（y）、列（zz））を含むID。列に複数のエントリがある場合は、1、2、...、n の順位になる。                 |
+| hanzi_entry                | 原文の漢字を校訂したもの。康熙字典体とするのを原則としたが、Unicodeで入力できる新字体（通用字体、俗字体）を残すこともある。                            |
+| wakun_elements          | 注文の全文から、和訓の要素を一つずつ抜き出したもの。             |
+| wakun_form           | 和訓の語形。活用のあるものは、助詞助動詞を除いて終止形とする。文選読みの「の」「と」は省略する。            |
+| wakun_standard_hanzi         | 標準的な漢字による和訓表記。                            |
+| wakun_variant_in_hanzi | 標準的な漢字による和訓の異形の表記。                |
+| variant_hanzi_for_wakun    | 異体字による和訓の表記。                           |
+| japan_knowledge_id      | ジャパンナレッジ版『日本国語大辞典第二版』にこの和訓が見出しとして存在する場合に、そのURLの後半、20020から末尾までの英数字を記載する。見出しとして存在しない場合は null と入力する。  |
+
 
 ## krm_definitions
 
@@ -318,8 +426,8 @@ Remarksはkrm_notesにまとめることとして、省略した。
 名義抄の注文には、和訓だけではなく、字体注、音注、意義注などの要素を含んでいる。
 これらの校勘と出典考証を行うために、注文の各要素を出現順に区分し、出現の順番に
 番号を与えたレコードを作成し、注文種類の分類を行ったファイルである。
-従来公開していたのは、KRM_definitions.tsvである。
-2025年3月の仕様変更後は、krm_notesに統合したので、
+従来公開していたのは、`KRM_definitions.tsv` である。
+2025年3月の仕様変更後は、`krm_notes` に統合したので、
 説明は省略する。
 
 
@@ -333,14 +441,10 @@ Remarksはkrm_notesにまとめることとして、省略した。
 DHSJRの仕様に合わせたデータ公開を検討中である。
 
 ## krm_ndl
-
 国会図書館デジタルコレクションで公開している
 観智院本類聚名義抄の画像へのリンクを整理したものである。
 観智院本類聚名義抄の所在と国会図書館デジタルコレクションのURLとを対照させたデータである。
-ファイル名は、KRM_ndl.tsvである。
-
-KRM_ndl.tsvは2025年3月の仕様変更の影響がほとんどないので
-説明は省略する。
+ファイル名は、`KRM_ndl.tsv` である。
 
 
 巻名（帖名）、部首字、風間版頁数、天理版頁数、国会図書館デジタルコレクションのURL、を示すデータである。

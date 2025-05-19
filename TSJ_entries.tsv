@@ -11,14 +11,12 @@
 #
 #   TSJ_entries.tsv
 #   Version: 1.1.71
-#   Date published: 23 June 2018
-#   Last modified: 30 April 2025
+#   Date published: June 23, 2018
+#   Last modified: April 30, 2025
 #
 #   Copyright (c) 2018-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
 #   LIU Guanwei (Person in charge of image database design and implementation)
-#   Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
-#   North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan
 #   Contact: ikeda.shoju@gmail.com, liyuansapporo@yahoo.co.jp, toyjack@gmail.com
 #
 #   Data License Information and Access Rights
@@ -94,7 +92,7 @@
 #   Acknowledgments
 #   ---------------
 #   We are grateful to the Imperial Household Archives 宮内廳書陵部 for permission to publish the decipherment text of TSJ.
-#   This work was supported by JSPS KAKENHI Grant Number 25370506, 16H03422, 23K17500.
+#   This work was supported by JSPS KAKENHI Grant Number 25370506, 16H03422, 23K17500 and 25K00466.
 #
 SJID	SJ2ID	SJ_Rinsen	SJ_vol_radical	SJ_radical	Entry	Entry_original	SJ_source	SJ_entry_remarks	TBID	SYID
 s0104a601	s0104a601	新21-61	v1#1	天部第一	天	◯	出所不詳		1_016_A53	a005b012

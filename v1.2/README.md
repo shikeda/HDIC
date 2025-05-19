@@ -66,37 +66,37 @@ This section describes information common to all data files published here.
 
 ### Last Updated Date
 
-Date published: 30 March 30 2025  
-Last modified: 13 May 2025
+Date published: March 30, 2025  
+Last modified: May 13, 2025
 
 ### Version History
 
 #### krm_main 
 - Version: 1.2.6 (latest)  
-    Date published: 28 March 2025  
-    Last modified: 11 May 2025
+    Date published: March 28, 2025  
+    Last modified: May 11, 2025
 - Version: 1.1.347  
-    Date: 11 March 2022  
-    Last modified : 17 March 2025
+    Date: March 11, 2022  
+    Last modified : March 17, 2025
 
 ### krm_notes
 - Version: 1.2.7 (latest, Newly released after the specification change)  
-    Date published: 28 March  2025  
-    Last modified: 11 May  2025
+    Date published: March 28, 2025  
+    Last modified: May 11, 2025
 
 ### krm_headword_chars
 - Version: 1.2.1 (latest, Newly released after the specification change)  
-    Date published: 11 May  2025  
-    Last modified: 11 May  2025
+    Date published: May 11, 2025  
+    Last modified: May 11, 2025
 
 ### krm_wakun
 - Version: 1.2.2 (latest)  
-    Date published: 28 March 2025  
-    Last modified: 12 May 2025
+    Date published: March 28, 2025  
+    Last modified: May 12, 2025
 
 - Version: 1.1.97  
-    Date published: 11 June 2024  
-    Last modified: 17 March 2025
+    Date published: June 11, 2024  
+    Last modified: March 17, 2025
 
 ### Author and Copyright Information
 
@@ -151,22 +151,30 @@ We would like to express our gratitude to Tenri Central Library and Yagi Booksto
 
 This research is partly supported by JSPS KAKENHI Grant Numbers 16H03422, 19H00526, 23K17500 and 25K00466. We gratefully acknowledge this support.
 
+
 ## krm_main
 
-This section explains the core file of the Kanchi-in manuscript of the *Ruiju Myōgishō* (hereinafter referred to as "*Myōgishō*") database. The file previously made public was a TSV file named `KRM.tsv`.
+### Overview and file formats
 
-It includes information regarding head characters, definitions, volumes, radicals, and the locations in the Kazama Shobo edition and the Tenri Zenpon Sosho edition.
 
-In March 2025, the specifications for column names and the display method of tone marks were changed. To clearly indicate that it is the file after the specification change, it was named `krm_main.tsv`. A JSON format is also available for this file.
+This section describes the core files of the database for the Kanchi-in manuscript of the *Ruiju Myōgishō* (hereinafter "*Myōgishō*").
 
-The comparison of the new and old column names is as follows:
+Previously, the released file was a TSV file named `KRM.tsv`.
+
+It contains information regarding **`Headwords`**, the full content of the **`Definition (Original Glosses)`**, volume, radical, and the locations in the Kazama Shobō edition and the Tenri Central Library/Yōtokusha (Tenri Zenhon Sōsho) edition.
+
+In March 2025, the specifications for column names and the display method for **`Tone marks (*shōten*)`** were updated. To clearly indicate that it is the file with these updated specifications, it was renamed `krm_main.tsv`. A JSON version of this file has also been made available.
+
+### Column name comparison
+
+The correspondence between the old and new column names is as follows:
 
 | New Column Name (v1.2.5) | Old Column Name (v1.1.347) |
 |--------------------------|----------------------------|
 | entry_id                 | KRID_n                     |
 | hanzi_id                 | KRID_sn                    |
-| -     | KR2ID                      |
-| kazama_location    | KRID                       |
+| -                        | KR2ID                      |
+| kazama_location          | KRID                       |
 | tenri_location           | KR_Tenri_p                 |
 | volume_name              | KR_vol_name                |
 | radical_name             | KR_radical                 |
@@ -177,99 +185,199 @@ The comparison of the new and old column names is as follows:
 | -                        | Remarks                    |
 
 The `KR2ID` column was omitted, and the `kazama_location` column was aligned with the `KRID` column.
-The `Remarks` column was omitted and will be summarized in the following `krm_notes` file.
 
+The `Remarks` column was omitted; this information is now consolidated in the `krm_notes` file (which contains data for the **`Compiler's Remarks`**).
 
-Next, the content of the column names will be explained.
+### Description of each column
 
-| New Column Name (v1.2.5)|Explanation|
-|--------------------------|----------------------|
-| entry_id                 | A heading item ID formed by a 5-digit numeric ID starting with 'F'. For some added entry items, a 'b' suffix is appended.     |
-| hanzi_id                 | A heading Hanzi ID consisting of a 5-digit numeric ID starting with 'S'. For some added entry items, a 'b' suffix is appended.   |
-| kazama_location    | An ID indicating K + Volume (2 digits) + Kazama Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + Character order (字順, *jijun*) (1 digit). Details of the rules for assigning Character order are defined separately. |
-| tenri_location           | An ID indicating T + Volume (a/b/c) + Tenri Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + Character order (字順, *jijun*) (1 digit). Details of the rules for assigning Character order are defined separately. |
-| volume_name              | Name of the volume, consisting of 10 volumes: 仏上, 仏中, 仏末本, 仏末下, 法上, 法中, 法下, 僧上, 僧中, and 僧下.      |
-| radical_name             | Hanzi name of the radical, consisting of 160 radicals ranging from 人 to 雑, used to classify Hanzi characters.   |
-| volume_radical_index     | Volume and radical number, ranging from v1#1 to v10#120, indicating the location of the entry within the text. |
-| hanzi_entry              | The collated headword characters principally use Kangxi Dictionary form, including Unicode simplified characters (common-use forms, popular variants). For characters not included in Unicode, they are represented by the following methods: If representable by combining kanji components, input using IDS (Ideographic Description Sequence). For specific kanji or their components, if representation by IDS or standard Unicode is difficult, use simplified notations based on the entity reference systems of CHISE and GlyphWiki (e.g., CDP-8C55, koseki-00001). Characters not representable by any of the above methods, or characters unreadable in the original text (worm-eaten, etc.), are input as '■' (black square). Headwords consisting of multiple kanji are separated by '／' (full-width slash). The abbreviation symbol '｜' is indicated by 'ー' (long vowel mark), and the corresponding character is appended in full-width parentheses (). |
-| original_entry           | Headword based on the original character form. Errors are left as is. The representation of kanji outside Unicode follows the rules for hanzi_entry. If the original-form headword is not needed, '〇' is used. |
-| definition               | Includes glyph annotations, pronunciation annotations, meaning annotations, Japanese readings (wakun), and other relevant notes, separated by spaces. As a general rule, character forms included in the "Kangxi Dictionary style" should be used.  |
+The content of each column (v1.2.5) is explained below.
+
+| New Column Name (v1.2.5) | Explanation     |
+| :----------------------- | :------------------------- |
+| entry_id                 | A heading **`Entry`** ID consisting of a 5-digit numeric ID starting with 'F'. For some added entry items, a 'b' suffix is appended.       |
+| hanzi_id                 | A heading **`Hanzi (Chinese character)`** ID consisting of a 5-digit numeric ID starting with 'S'. For some added entry items, a 'b' suffix is appended.        |
+| kazama_location          | An ID indicating K + Volume (2 digits) + Kazama Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + Character order (字順, *jijun*) (1 digit). Details of the rules for assigning Character order are defined separately.       |
+| tenri_location           | An ID indicating T + Volume (a/b/c) + Tenri Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + Character order (字順, *jijun*) (1 digit). Details of the rules for assigning Character order are defined separately.     |
+| volume_name              | Name of the volume, consisting of 10 volumes: 仏上, 仏中, 仏下本, 仏下末, 法上, 法中, 法下, 僧上, 僧中, and 僧下.      |
+| radical_name             | Name of the radical, consisting of 120 radicals ranging from 人 to 雑, used to classify **`Hanzi (Chinese characters)`**.   |
+| volume_radical_index     | Volume and radical number, ranging from v1#1 (Volume 1, Radical 1) to v10#120 (Volume 10, Radical 120), indicating the location of the **`Entry`** within the text. (Corresponds to 第1帖仏上 to 第10帖僧下).     |
+| hanzi_entry              | The collated **`Headword`** (校訂漢字) principally uses Kangxi Dictionary form, including Unicode simplified **Chinese characters** (common-use forms, popular variants). For **Chinese characters** not included in Unicode, they are represented by the following methods: If representable by combining **Chinese character** components, input using IDS (Ideographic Description Sequence). For specific **Chinese characters** or their components, if representation by IDS or standard Unicode is difficult, use simplified notations based on the entity reference systems of CHISE and GlyphWiki (e.g., CDP-8C55, koseki-00001). **Chinese characters** not representable by any of the above methods, or characters unreadable in the original text (due to damage such as wormholes, etc.), are input as '■' (black square). **`Headwords`** consisting of multiple **Chinese characters** are separated by '／' (full-width slash). The abbreviation symbol '｜' is indicated by 'ー' (long vowel mark), and the corresponding character is appended in full-width parentheses (). |
+| original_entry           | **`Headword`** based on the original character form. Typographical errors in the original are preserved. The representation of **Chinese characters** outside Unicode follows the rules for `hanzi_entry`. If the original-form **`Headword`** is not needed, '〇' is used.  |
+| definition               | The content of this `definition` column represents the **`Definition (Original Glosses)`**. It includes **`Notes on Character Form`**, **`Phonetic Glosses`**, **`Semantic Glosses in Chinese`**, **`Japanese Native Readings (*wakun*)`**, and **Other** relevant information, separated by spaces. As a general rule, character forms included in the "Kangxi Dictionary style" should be used.       |
 
 
 ## krm_notes
 
-A new file, krm_notes.tsv, has been created, containing detailed annotation information added to the `KRM_def.tsv` file.
+### Overview and file formats
+
+A new file, `krm_notes.tsv`, has been created, containing detailed annotation information added to the `KRM_definitions.tsv` file.
 
 This is available in both TSV and JSON formats. To explicitly indicate that these are the filenames after the specification change in March 2025, lowercase "krm" was used instead of uppercase "KRM," resulting in the names `krm_notes.tsv` and `krm_notes.json`.
 
-Considering `krm_notes.tsv` as the new file and `KRM_definitions.tsv` as the old file, the comparison of their column names is as follows:
+### Column name comparison
 
-| New Column Name (v1.2.6) | Old Column Name (v1.1.55) |
+This section compares the column names in the new `krm_notes.tsv` (v1.2.6) with those in the previous files it replaces or incorporates data from.
+
+#### Comparison with KRM_definitions.tsv (v1.1.55)
+
+The following table shows the correspondence between columns primarily related to definition details derived from the previous definitions file:
+
+| New Column Name (krm_notes v1.2.6) | Old Column Name (KRM_definitions v1.1.55) |
 |--------------------------|----------------------------|
 | definition_seq_id        | KRID_no                    |
-| kazama_location          | KRID                      |
+| kazama_location          | KRID                       |
 | hanzi_entry              | Entry                      |
 | definition_elements      | Def                        |
 | definition_type_code     | Def_code                   |
 | definition_type_name     | Def_name                   |
 | remarks                  | Remarks                    |
 
-Furthermore, we decided to incorporate the contents of `KRM.tsv` into `krm_notes`. Comparing the column names of both will result in the following.
+#### Incorporation of KRM.tsv (v1.1.347) content
 
-| New Column Name (v1.2.6) | Old Column Name (v1.1.347) |
+The new `krm_notes.tsv` also incorporates information previously stored in `KRM.tsv`. The corresponding column names are compared below:
+
+| New Column Name (krm_notes v1.2.6) | Old Column Name (KRM v1.1.347) |
 |--------------------------|----------------------------|
-| entry_id        | KRID_n                    |
-| tenri_location    | KR_Tenri_p                      |
-| volume_name            | KR_vol_name                      |
-| radical_name      | KR_radical                        |
-| volume_radical_index     | KR_vol_radical                |
-| original_entry     | Entry_original                   |
+| entry_id                 | KRID_n                     |
+| tenri_location           | KR_Tenri_p                 |
+| volume_name              | KR_vol_name                |
+| radical_name             | KR_radical                 |
+| volume_radical_index     | KR_vol_radical             |
+| original_entry           | Entry_original             |
 
 
-As mentioned earlier, the internal structure of `krm_notes` has the following nested format.
+### Data Structure: ER Diagram and JSON Implementation
 
+
+
+The JSON representation of `krm_notes` utilizes a nested format, as detailed below.
 
 ![ER_notes diagram](/images/krm_notes_er.drawio.png)
+
+
+In the **ER diagram**, the `krm_notes` table is shown as a child table linked to `krm_main` (as detailed in the [krm_main section](./02-01-main)) by `entry_id`. However, in the **actual JSON data**, the equivalent of the `krm_notes` table is not flat: instead, it is implemented as a **nested array of objects** under the key `"definitions"` within each top-level record (referred to as a `krm_main` conceptual record).
+
+Each object inside the `definitions` array corresponds to a definition note and contains the following fields:
+
+* `definition_seq_id`
+* `definition_elements`
+* `definition_type_code`
+* `definition_type_name`
+* `remarks`
+
+This structure can be conceptually represented in the ER diagram as follows:
+
+* The **`krm_main` table** has a **one-to-many relationship** with a conceptual `definitions` or `notes` table.
+* In the JSON representation, the **definitions are embedded as an array of objects** within each `krm_main` object, rather than being stored in a separate flat table.
+
+**Example JSON:**
+
+```
+{
+  "entry_id": "F00001",
+  ...
+  "definitions": [
+    {
+      "definition_seq_id": "F00001_01",
+      "definition_elements": "音仁（LV）「ニン」",
+      "definition_type_code": 215,
+      "definition_type_name": "音注声点有_類音注等",
+      "remarks": "広韻「如鄰切」..."
+    },
+    ...
+  ]
+}
+```
+### Description of each column
 
 Next, the content of the column names will be explained.
 
 
-| New Column Name (v1.2.6) | English Explanation              |
-|--------------------------|---------------------------|
-| entry_id                 |A heading item ID formed by a 5-digit numeric ID starting with 'F'. For some added entry items, a 'b' suffix is appended.  |
-| definition_seq_id        | An identifier for each definition component, typically formed by appending a sequential suffix (e.g., _00, _01, _02) to the corresponding entry_id. The _00 suffix often denotes the main heading or an overall entry note, while _01, _02, etc., identify subsequent, ordered definition elements.         |
-| kazama_location    | An ID indicating K + Volume (2 digits) + Kazama Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + Character order (字順, *jijun*) (1 digit). Details of the rules for assigning Character order are defined separately.|
-| tenri_location           |An ID indicating T + Volume (a/b/c) + Tenri Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + Character order (字順, *jijun*) (1 digit). Details of the rules for assigning Character order are defined separately.  |
-| volume_name              | Name of the volume, consisting of 10 volumes: 仏上, 仏中, 仏末本, 仏末下, 法上, 法中, 法下, 僧上, 僧中, and 僧下.   |
-| radical_name             | Hanzi name of the radical, consisting of 160 radicals ranging from 人 to 雑, used to classify Hanzi characters.          |
-| volume_radical_index     | Volume and radical number, ranging from v1#1 to v10#120, indicating the location of the entry within the text.         |
-| hanzi_entry              | The collated headword characters principally use Kangxi Dictionary form, including Unicode simplified characters (common-use forms, popular variants). For characters not included in Unicode, they are represented by the following methods: If representable by combining kanji components, input using IDS (Ideographic Description Sequence). For specific kanji or their components, if representation by IDS or standard Unicode is difficult, use simplified notations based on the entity reference systems of CHISE and GlyphWiki (e.g., CDP-8C55, koseki-00001). Characters not representable by any of the above methods, or characters unreadable in the original text (worm-eaten, etc.), are input as '■' (black square). Headwords consisting of multiple kanji are separated by '／' (full-width slash). The abbreviation symbol '｜' is indicated by 'ー' (long vowel mark), and the corresponding character is appended in full-width parentheses (). |
-| original_entry           | Headword based on the original character form. Errors are left as is. The representation of kanji outside Unicode follows the rules for hanzi_entry. If the original-form headword is not needed, '〇' is used.  |
-| definition_elements      | Extracted components from the full definition, classified into 5 categories: glyph annotations, pronunciation annotations, meaning annotations, Japanese readings (wakun), and others, one component per definition record (i.e., per object in the definitions array in JSON).  |
-| definition_type_code     | 3-digit numeric code representing the definition type.   |
-| definition_type_name     | Indicates which of the following five categories the definition type belongs to: glyph annotation, pronunciation annotation, meaning annotation, Japanese readings (*wakun*), and others.  |
-| remarks                  | Editor's notes providing additional context or information.      |
+| New Column Name (v1.2.6) | English Explanation (Further Revised)      |
+| :----------------------- | :------------------------------------------------------------ |
+| entry_id                 | A heading **`Entry`** ID consisting of a 5-digit numeric ID starting with 'F'. For some newly added **`Entries`**, a 'b' suffix is appended.    |
+| definition_seq_id        | An identifier for each component of the **`Definition (Original Glosses)`** or for the **`Headword`** itself within an **`Entry`**. It is formed by appending a sequential suffix (e.g., "_00" for the **`Headword`** or overall **`Entry`** note, "_01", "_02" for subsequent elements of the **`Definition (Original Glosses)`** in order of appearance) to the 5-digit numeric part of the corresponding `entry_id`.                                          |
+| kazama_location          | An ID indicating K + Volume (2 digits) + Kazama Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + Character order (字順, *jijun*) (1 digit). Details of the rules for assigning Character order are defined separately.       |
+| tenri_location           | An ID indicating T + Volume (a/b/c) + Tenri Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + Character order (字順, *jijun*) (1 digit). Details of the rules for assigning Character order are defined separately.              |
+| volume_name              | Name of the volume, consisting of 10 volumes: 仏上, 仏中, 仏下本, 仏下末, 法上, 法中, 法下, 僧上, 僧中, and 僧下.     |
+| radical_name             | Name of the radical, consisting of 120 radicals ranging from 人 to 雑, used to classify **`Hanzi (Chinese characters)`**. |
+| volume_radical_index     | Volume and radical number, ranging from v1#1 (Volume 1, Radical 1) to v10#120 (Volume 10, Radical 120), indicating the location of the **`Entry`** within the text. (Corresponds to 第1帖仏上 to 第10帖僧下).       |
+| hanzi_entry              | The collated **`Headword`** (校訂漢字) principally uses Kangxi Dictionary form, including Unicode simplified **Chinese characters** (common-use forms, popular variants). For **Chinese characters** not included in Unicode, they are represented by the following methods: If representable by combining **Chinese character** components, input using IDS (Ideographic Description Sequence). For specific **Chinese characters** or their components, if representation by IDS or standard Unicode is difficult, use simplified notations based on the entity reference systems of CHISE and GlyphWiki (e.g., CDP-8C55, koseki-00001). **Chinese characters** not representable by any of the above methods, or characters unreadable in the original text (due to damage such as wormholes, etc.), are input as '■' (black square). **`Headwords`** consisting of multiple **Chinese characters** are separated by '／' (full-width slash). The abbreviation symbol '｜' is indicated by 'ー' (long vowel mark), and the corresponding character is appended in full-width parentheses (). |
+| original_entry           | **`Headword`** based on the original character form. Typographical errors in the original are preserved. The representation of **Chinese characters** outside Unicode follows the rules for `hanzi_entry`. If the original-form **`Headword`** is not needed, '〇' is used.     |
+| definition_elements      | Extracted individual elements from the full **`Definition (Original Glosses)`**, classified into five types: **`Notes on Character Form`**, **`Phonetic Gloss`**, **`Semantic Gloss in Chinese`**, **`Japanese Native Reading (*wakun*)`**, and **`Other`** information. Each record in `krm_notes` typically corresponds to one such extracted element.     |
+| definition_type_code     | A 3-digit numeric code representing the type of element from the **`Definition (Original Glosses)`**.     |
+| definition_type_name     | Indicates which of the five following categories the element from the **`Definition (Original Glosses)`** belongs to: **`Notes on Character Form`**, **`Phonetic Gloss`**, **`Semantic Gloss in Chinese`**, **`Japanese Native Reading (*wakun*)`**, or **`Other`** information.    |
+| remarks                  | **`Compiler's Remarks`**: Notes by the database compilers providing additional context, scholarly observations, results of textual collation, or source investigations related to the specific `definition_element` or `Headword`.    |
+
+
+### Content and Significance of Compiler's Remarks (the remarks Column)
+
+Please note that this `remarks` column stores the **`Compiler's Remarks`** (annotations by the database creators).
+
+The `remarks` column provides the following types of information:
+
+* **Additional context**: Supplementary background or related information that aids in understanding the *Myōgishō*'s entries.
+* **Scholarly observations**: Philological, linguistic, or other expert perspectives on specific descriptions, including references to previous research.
+* **Results of textual collation**: Findings from comparisons with variant manuscripts or related materials, and textual interpretations based on these collations.
+* **Source investigations**: Results and considerations regarding the textual sources of the *Myōgishō*'s entries, including references to findings from previous studies.
+
+These remarks are each associated with one of the following specific parts of a *Myōgishō* **`Entry`**:
+
+* A specific `definition_element` (an individual component of the **`Definition (Original Glosses)`**): This refers to a distinct element within the *Myōgishō*'s original annotation for an **`Entry`** (such as a particular **`Note on Character Form`**, **`Phonetic Gloss`**, **`Semantic Gloss in Chinese`**, or **`Japanese Native Reading (*wakun*)`**), as itemized in the `krm_notes` file.
+* Or the **`Headword`**: The main character(s) of the **`Entry`**.
+
+In essence, the `remarks` column serves to provide specialized, supplementary information from the database compilers, enabling a deeper understanding and facilitating further research that goes beyond what can be gleaned from the *Myōgishō*'s main text and original glosses alone.
+
+
+## krm_headword_chars
+
+### Overview and file formats
+
+**`Headwords`** in the *Myōgishō* can consist of single **Chinese characters** or multiple **Chinese characters** (multi-character compounds). The `krm_headword_chars` data file provides a list of all **constituent characters that form these `Headwords`** from the *Myōgishō*. The characters are ordered according to the sequence of **`Entries`** (items) in the *Myōgishō* and then by the order of appearance of characters within each **`Headword`**.
+
+In the *Myōgishō* database, the primary data file `krm_main`, the `krm_notes` file (containing data for **`Compiler's Remarks`**), and the `krm_wakun` file (**`Japanese Native Reading (*wakun*)`** data) are all structured on an **`Entry`**-by-**`Entry`** basis. Consequently, for **`Headwords`** composed of multiple **Chinese characters**, any character subsequent to the first cannot be directly referenced from these particular data files.
+
+To search for **`Headwords`** from the *Myōgishō* character by character, display their original manuscript images, or perform analyses at the individual **Chinese character** level, a complete list of all constituent characters of the **`Headwords`**, including those from the second character onwards in multi-character compounds, is necessary.
+
+The `krm_headword_chars` data file was created for this purpose. This data is provided in TSV and JSON formats. Each row (or record) corresponds to a single constituent character of a **`Headword`** and includes information such as: the sequential ID of the **`Headword`** (single or multi-character) in the *Myōgishō* to which the constituent character belongs (`hanzi_id`); the ID of the *Myōgishō* **`Entry`** to which this character's **`Headword`** belongs (`entry_id`); the order of the character within its **`Headword`** (`character_order`); the character itself (`constituent_char`); the file name of the individually cropped image for the character (`img_file_name`); and location information for that character in both the Kazama and Tenri editions (`kazama_location_id`, `tenri_location_id`). This enables information access at the individual character level while allowing linkage with **`Entry`**-based data files such as `krm_main`.
+
+## Description of each column
+
+The column names and their descriptions for `krm_headword_chars` are as follows:
+
+| Column Name          | English Explanation      |
+| :------------------- | :------------------------------------------------------ |
+| hanzi_id             | A sequential ID assigned to each **`Headword`** (whether single or multi-character) in the order of its appearance in the *Myōgishō*. It consists of a 5-digit numeric ID starting with 'S'.   |
+| entry_id             | The ID of the **`Entry`** (from `krm_main`) to which the **`Headword`** (containing this constituent character) belongs. This ID is a 5-digit numeric value starting with 'F'. For some newly added **`Entries`**, a 'b' suffix is appended.      |
+| constituent_char     | The constituent **Chinese character** itself. Abbreviation marks (ー) and iteration marks (〻) are converted to the actual characters they represent. Collated **Chinese characters** are, in principle, Kangxi Dictionary forms; the handling of Unicode new character forms (common-use forms, popular variants) is specified separately. For detailed collation notes, refer to `krm_notes` (for **`Compiler's Remarks`** on collation).       |
+| character_order      | Indicates the numerical order of appearance of the character within its **`Headword`**.     |
+| kazama_location_id   | An ID indicating the location of this constituent character in the Kazama Edition: K + Volume (2 digits) + Page (3 digits) + Line (1 digit) + Segment (1 digit) + Character Order in Segment (1 digit).  |
+| tenri_location_id    | An ID indicating the location of this constituent character in the Tenri Edition: T + Volume (a/b/c) + Page (3 digits) + Line (1 digit) + Segment (1 digit) + Character Order in Segment (1 digit).   |
+| img_file_name        | File name of the image for the constituent **`Headword`** character (including the .jpg extension). The main part of the file name consists of a 7-digit number for images from Volume 1 to Volume 9, and an 8-digit number for images from Volume 10. For 7-digit numbers, the first digit indicates the volume number; for 8-digit numbers, the first two digits indicate Volume 10. The last 6 digits are based on the order of appearance, assigned according to a unique internal rule. Detailed documentation for this naming convention is not available as the work was completed over two decades ago. Null if no image is available. |
 
 
 ## krm_wakun
 
-This data is derived by extracting wakun from the `KRM.tsv` file of the *Myōgishō* database, organizing variant forms of the wakun, and adjusting their correspondence with variant characters (itai-ji).
+### Overview and file formats
 
-Collation and textual research related to wakun are documented in `krm_notes`, so they are omitted here.
+This data file is derived by extracting **`Japanese Native Readings (*wakun*)`** from the `KRM.tsv` file (an older version of `krm_main`) of the *Myōgishō* database, organizing variant forms of these **`wakun`**, and adjusting their correspondence with **`variant characters (*itaiji*)`**.
 
-In wakun, different readings may be written alongside the main reading as annotations.
+Collation notes and source investigations related to **`wakun`** are documented in the `krm_notes` file (which contains data for **`Compiler's Remarks`**), so they are omitted here.
 
-For example, the wakun "マサル" (masaru) is assigned to the character "倍" (bai), but "su" is written in small katakana to the right of "ル" (ru) as an annotation. This indicates that the wakun "マス" (masu) is annotated in addition to "マサル" (masaru).
+In some **`wakun`** entries, different phonetic readings are presented side-by-side as annotations.
+For example, the **`wakun`** "マサル" (masaru) is assigned to the **`Hanzi (Chinese character)`** "倍" (bai), but "ス" (su) is written in small katakana to the right of "ル" (ru) as an additional note. This indicates that the **`wakun`** "マス" (masu) is also noted in addition to "マサル" (masaru).
 
-Since information from the JapanKnowledge version of the *Nihon Kokugo Daijiten* (Second Edition) will be added to the wakun, it is necessary to accommodate cases where variant forms of wakun are written together.
+Since information from the JapanKnowledge version of the *Nihon Kokugo Daijiten* (Second Edition) will be added to the **`wakun`** data, it is necessary to accommodate cases where variant forms of **`wakun`** are presented together.
 
-The handling of variant characters involves cases where variant forms are indicated for the head character, and this data has been adjusted to account for them.
+The correspondence with **`variant characters (*itaiji*)`** has been adjusted because **`Headwords`** in the *Myōgishō* sometimes indicate such variants.
+For example, the **`wakun`** "ヤツカレ" (yatsukare) appears in the **`Definition (Original Glosses)`** for the **`Headword(s)`** "㒒／僕". The **`wakun`** "ヤツカレ" is a **`Japanese Native Reading`** for "僕" (boku) and simultaneously for "㒒". The relationship between standard and variant forms such as "爲" and "為", or "來" and "来" is handled similarly.
 
-For example, the wakun "yatsukare" appears in the definition for the head characters "㒒/僕". The wakun "yatsukare" is a wakun for "僕" (boku) and is simultaneously a wakun for "㒒". The relationship between standard and variant forms such as "爲" and "為", or "來" and "来" is similar.
+The JapanKnowledge version of the *Nihon Kokugo Daijiten* (Second Edition) has a "Notation" (表記) field that includes **`Hanzi (Chinese character)`** notations from the *Myōgishō*; this adjustment is a measure to ensure correspondence with that resource.
 
-The JapanKnowledge version of the *Nihon Kokugo Daijiten* (Second Edition) has a "Notation" field that includes the kanji notations from the Myōgishō, so this adjustment is a measure to ensure correspondence with it.
+To explicitly indicate that these are the filenames after the specification change in March 2025, lowercase "krm" was used instead of uppercase "KRM," resulting in the names `krm_wakun.tsv` and `krm_wakun.json`.
 
-To explicitly indicate that these are the filenames after the specification change in March 2025, lowercase "krm" was used instead of uppercase "KRM," resulting in the names `krm_wakun.tsv` and `krm_wakun.json`."
+
+### Column name comparison
 
 The comparison of the new and old column names is as follows:
 
@@ -277,7 +385,7 @@ The comparison of the new and old column names is as follows:
 |-------------------------|---------------|
 | wakun_id                | KRID_wakun_no |
 | definition_seq_id       | KRID_no       |
-| kazama_location   | KR2ID         |
+| kazama_entry_location   | KR2ID         |
 | hanzi_entry             | Entry         |
 | wakun_elements          | Def           |
 | wakun_form              | Word_form     |
@@ -285,43 +393,95 @@ The comparison of the new and old column names is as follows:
 | wakun_variant_in_hanzi  | Wakun_variant |
 | variant_hanzi_for_wakun | Hanzi_variant |
 | japan_knowledge_id      | JK_URL        |
-| -           | Remarks       |
+| -                       | Remarks       |
+
+`Remarks` have been omitted as this type of information is now consolidated in the `krm_notes` file (data for **`Compiler's Remarks`**).
 
 
-`Remarks` have been omitted and will be summarized in the following `krm_notes` file.
+### Description of each column
+
 
 Next, the content of the column names will be explained.
 
-| New Column Name (v1.2.0)      | Explanation        |
-|-------------------------|------------------|
-| wakun_id                | Wakun ID, extracted from kr_definition_sequence_id, containing only entries where the type of order is Japanese reading (wakun). Variant forms are appended with 'b', 'c', 'd'.  |
-| definition_seq_id       | An identifier for each definition component, typically formed by appending a sequential suffix (e.g., _00, _01, _02) to the corresponding entry_id. The _00 suffix often denotes the main heading or an overall entry note, while _01, _02, etc., identify subsequent, ordered definition elements.  |
-| kazama_location   | An ID indicating K + Volume (2 digits) + Kazama Edition Page (3 digits) + Line (1 digit) + Segment (1 digit) + Character order (字順, *jijun*) (1 digit). Details of the rules for assigning Character order are defined separately. |
-| hanzi_entry             | Collated Hanzi characters, standardized to the Kangxi dictionary form, including Unicode-representable variant forms.         |
-| wakun_elements          | Extracted Japanese reading (wakun) components from the full definition, one component per entry.  |
-| wakun_form        | Form of the Japanese reading (wakun). Inflected words are in dictionary form, excluding particles. The particles 'no' and 'to' from 文選 readings are omitted. |
-| wakun_standard_hanzi    | Standard wakun notation using standard kanji.      |
-| wakun_variant_in_hanzi  | Variant form of wakun notation using standard Hanzi characters.      |
-| variant_hanzi_for_wakun | Wakun notation using variant Hanzi characters (itai-ji).    |
-| japan_knowledge_id      | The alphanumeric part of the JapanKnowledge URL for the corresponding entry in the *Nihon Kokugo Daijiten* 2nd Ed., starting from "20020" to the end, is recorded here if the wakun exists as a headword. If the wakun does not exist as a headword in the JapanKnowledge edition, null is entered.    |
+| New Column Name (v1.2.0)   | English Explanation (Final Revised)                                                                                                                                                                                                                                                           |
+| :------------------------- | :-------------------------------------------------- |
+| wakun_id                   | An ID for each **`Japanese Native Reading (*wakun*)`**. This is derived from `definition_seq_id` by extracting only those elements where the type (from `definition_type_name` in `krm_notes`) is **`Japanese Native Reading (*wakun*)`**. Suffixes 'b', 'c', 'd' are appended for variant forms. |
+| definition_seq_id        | An identifier for each component of the **`Definition (Original Glosses)`** or for the **`Headword`** itself within an **`Entry`**. It is formed by appending a sequential suffix (e.g., "_00" for the **`Headword`** or overall **`Entry`** note, "_01", "_02" for subsequent elements of the **`Definition (Original Glosses)`** in order of appearance) to the 5-digit numeric part of the `entry_id`. (This ID links to records in `krm_notes`). |
+| kazama_entry_location    | ID including location information (Kazama edition: K, Book/volume, page(xxx), line(y), column(zz)), ranked 1, 2, ..., n for multiple **`Entries`** in a column. "Book(volume)" represents the volume number, "page(xxx)" the page number, "line(y)" the line number, and "column(zz)" the column number. |
+| hanzi_entry              | The collated **`Headword`** (using **`Hanzi (Chinese characters)`**) to which this **`Japanese Native Reading (*wakun*)`** pertains. Principally Kangxi Dictionary forms, though Unicode-representable new forms (common-use, popular variants) may be retained.                                |
+| wakun_elements           | Extracted elements of **`Japanese Native Readings (*wakun*)`** from the full **`Definition (Original Glosses)`**. Each record typically corresponds to one such element.                                                                                                            |
+| wakun_form               | The lexical form of the **`Japanese Native Reading (*wakun*)`**. Inflected words are generally given in their dictionary (citation) form, excluding grammatical particles. The particles 'no' and 'to' from *Monzen* (文選) style readings are omitted.                                     |
+| wakun_standard_hanzi     | Notation of the **`Japanese Native Reading (*wakun*)`** using standard **`Hanzi (Chinese characters)`**.        |
+| wakun_variant_in_hanzi   | Notation of a variant form of the **`Japanese Native Reading (*wakun*)`** using standard **`Hanzi (Chinese characters)`**.    |
+| variant_hanzi_for_wakun  | Notation of the **`Japanese Native Reading (*wakun*)`** using **`variant characters (*itaiji*)`** of **`Hanzi (Chinese characters)`**.     |
+| japan_knowledge_id       | If this **`Japanese Native Reading (*wakun*)`** exists as a headword in the JapanKnowledge version of the *Nihon Kokugo Daijiten* (2nd Ed.), the alphanumeric part of its URL (from "20020" to the end) is recorded here. If it does not exist as a headword, "null" is entered.           |
+
 
 ## krm_definitions
 
-The definitions in the *Myōgishō* include not only wakun but also elements such as glyph annotations, pronunciation annotations, and meaning annotations.
+The **`Definition (Original Glosses)`** in the *Myōgishō* is composed not only of **`Japanese Native Readings (*wakun*)`** but also other elements such as **`Notes on Character Form`**, **`Phonetic Glosses`**, and **`Semantic Glosses in Chinese`**.
 
-This file contains records created by categorizing each element of the definitions according to their order of appearance, assigning them numbers based on this order, and classifying the types of definitions. This was done for the purpose of collation and textual research.
+The `KRM_definitions.tsv` file, which was previously released, provided these elements of the **`Definition (Original Glosses)`** categorized by type and ordered by their appearance. This dataset was created to facilitate collation and source investigation.
 
-The file previously made public was `KRM_definitions.tsv`.
+Following the specification changes implemented in March 2025, the data and functionalities previously found in `KRM_definitions.tsv` have been integrated into the `krm_notes` file (which contains data for **`Compiler's Remarks`** and detailed analyses of these original gloss elements). Consequently, a separate detailed explanation for `krm_definitions` is omitted here.
 
-After the specification change in March 2025, this information has been integrated into `krm_notes`, so a separate explanation will be omitted here.
 
 ## krm_pronunciations
 
-The pronunciation annotations (on-chū) in the *Myōgishō* include fanqie, similar-sound annotations, and kana annotations, and these often have tone marks applied to them.
+### Overview and file formats
 
-As a database of Japanese kanji pronunciations, the "Database of Historical Sino-Japanese Readings" (abbreviated DHSJR), created by Professor Daikaku Kato and others, boasts very comprehensive content. Furthermore, its specifications are also published in detail.
+The **`Phonetic Glosses`** in the Kanchi-in manuscript of the *Ruiju Myōgishō* (hereafter *Myōgishō*) include **`Fanqie spellings`** (反切), **`Similar sound notes`** (類音注, *ruion-chū*), and **`Kana glosses`** (仮名注, *kana-chū*). These are often accompanied by **`Tone marks (*shōten*)`**.
+As a database for Sino-Japanese character pronunciations, the **"Database of Historical Sino-Japanese Readings"** (abbreviated as DHSJR), developed by Professor Katō Taitsuru and others, offers exceptionally rich content. Its specifications are also publicly available in detail. We are currently considering releasing data aligned with the DHSJR specifications.
 
-We are currently considering publishing our data in accordance with the DHSJR specifications.
+The DHSJR defines a data structure with 23 column names.
+
+To facilitate linkage with the *Myōgishō* data included in HDIC, it is necessary for HDIC to assign unique column names to its own data files and to establish Primary Keys and Foreign Keys for interoperability between HDIC's internal data files.
+
+For this purpose, `pronunciation_id` (音注ID) has been set as the Primary Key, and `definition_seq_id` (注文ID) as the Foreign Key.
+
+Since the *Myōgishō* features diverse formats for its **`Phonetic Glosses`**, a classification field named `annotation_format` (音注型) has been established to categorize them.
+
+While DHSJR uses Japanese column names, HDIC employs English ones. Therefore, for data processing convenience within HDIC, English column names have been adopted.
+
+### Column name comparison
+
+The current draft, with English and Japanese explanations side-by-side, is as follows. The Japanese explanations are those stipulated by DHSJR. The English explanations are formulated to facilitate correspondence with HDIC. This is a provisional measure until official English explanations are released by DHSJR.
+
+HDIC's original column names are indicated in **bold**.
+
+| DHSJR (Japanese) | HDIC (English)            | Key         | English Explanation                                                                 | Japanese Explanation (from DHSJR)                     |
+| :--------------- | :------------------------ | :---------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------------------------------------------------- |
+| ID               | dhsjr\_id                  |             | DHSJR unique ID for each single **`Hanzi (Chinese character)`** (integrated data only)                                                                                                                                                                                                            | 単字ごとのユニークID（統合データのみ）                            |
+| **音注ID** | **`pronunciation_id`** | Primary Key | ID for each **`Phonetic Gloss`**. This is derived from `definition_seq_id` by extracting only those elements where the type (from `definition_type_name` in `krm_notes`) is **`Phonetic Gloss`**. Suffixes 'b', 'c', 'd' are appended for variant forms.                                           | 音注ID。kr\_definition\_sequence\_idから、注文の種類が音注のものだけを取り出したもの。変異形を追加したものには末尾にxを付した。 *(User indicates 'x' is incorrect, and 'b,c,d' is correct for variants)* |
+| **注文ID** | **`definition_seq_id`** | Foreign Key | An identifier for each component of the **`Definition (Original Glosses)`** or for the **`Headword`** itself within an **`Entry`**. It is formed by appending a sequential suffix (e.g., "\_00" for the **`Headword`**, "\_01", "\_02" for subsequent elements) to the corresponding `entry_id`. | 連番で与えられるFで始まる5桁の見出しの数値IDに加えて、見出しの下に記される注文の各要素を出現順に区分し、出現の順番に\_01、\_02のように追加したもの。見出しには\_00を追加する。 |
+| 資料番号         | material\_id               |             | Material ID                                                                                                                                                                                                                                                                                     | 資料ID                                                |
+| 資料名           | material\_name             |             | Name of the material                                                                                                                                                                                                                                                                            | 資料の名称                                            |
+| 資料内漢字番号   | material\_character\_index  |             | Sequential number of a **`Hanzi (Chinese character)`**'s appearance in the material                                                                                                                                                                                                            | 漢字の資料内出現順の通し番号                                |
+| 資料内漢語番号   | material\_word\_index       |             | Sequential number of a Chinese word's appearance in the material                                                                                                                                                                                                                              | 漢語の資料内出現順の通し番号                                |
+| 単字\_見出し      | character\_headword        |             | **`Headword`** column for **`Hanzi (Chinese characters)`** with **`Phonetic Glosses`** | 音注が付された漢字の見出し列                                  |
+| 単字\_出現形      | character\_form            |             | **`Hanzi (Chinese characters)`** that have **`Phonetic Glosses`** | 音注が付された漢字                                        |
+| 漢語\_見出し      | word\_headword             |             | **`Headword`** column of Chinese words containing **`Hanzi (Chinese characters)`** with **`Phonetic Glosses`** | 音注が付された漢字を含む漢語の見出し列                              |
+| 漢語\_出現形      | word\_form                 |             | Chinese words containing **`Hanzi (Chinese characters)`** with **`Phonetic Glosses`** | 音注が付された漢字を含む漢語                                  |
+| 漢語\_alphabet  | word\_alpha                |             | Entered when there is an alphabetic representation of the Chinese word                                                                                                                                                                                                                          | 欧文による漢語の表記がある場合に入力されている。                                |
+| 語種             | word\_type                 |             | Indicates the word type when there are mixed-language words (e.g., hybrid Sino-Japanese words)                                                                                                                                                                                              | 混種語がある場合に、語種を示す。                                  |
+| 漢語内位置       | word\_position             |             | Position of the single **`Hanzi (Chinese character)`** within the Chinese word                                                                                                                                                                                                                  | 漢語内での単字の位置                                      |
+| 単字長           | character\_mora\_count      |             | Number of morae for the single **`Hanzi (Chinese character)`** | 単字の拍数                                            |
+| 声点             | tone\_marks                |             | **`Tone marks`** for single **`Hanzi (Chinese characters)`**, indicating Four Tones (平上去入), Six Tones (平平軽上去入軽入), and voicing (清濁).                                                                                                                                                     | 単字に対する四声（平上去入）、六声（平平軽上去入軽入）及び清濁。                    |
+| 声点型           | tone\_pattern              |             | Combination of **`Tone marks`** for Chinese words. **`Hanzi (Chinese characters)`** without **`Tone marks`** are represented by a full-width asterisk (＊).                                                                                                                                      | 漢語に対する声点の組合せ。声点がない単字については＊で表す。                        |
+| 仮名注           | kana\_notes                |             | **`Kana glosses`** (仮名注) for **`Hanzi (Chinese characters)`**, including kana-based *fanqie*.                                                                                                                                                                                             | 仮名表記による字音注（仮名反切を含む）                                |
+| 仮名型           | kana\_pattern              |             | Combination of **`Kana glosses`** for Chinese words. **`Hanzi (Chinese characters)`** without **`Kana glosses`** are represented by a full-width asterisk (＊).                                                                                                                                    | 漢語に対する仮名注の組合せ。仮名注がない単字については＊で表す。                      |
+| 反切             | fanqie                    |             | **`Fanqie spellings`** (反切) for single **`Hanzi (Chinese characters)`**.                                                                                                                                                                                                                   | 単字に対する反切注                                        |
+| 類音             | similar\_sound             |             | **`Similar sound notes`** (類音注) for single **`Hanzi (Chinese characters)`**.                                                                                                                                                                                                                | 単字に対する類音注                                        |
+| **音注型** | **`annotation_format`** |             | Pattern of combined phonetic information (e.g., **`Kana glosses`**, **`Fanqie spellings`**, **`Similar sound notes`**, **`Tone marks`**).                                                                                                                                                         | 仮名注、反切、類音、声点などの複数の音注が組み合わさった形式のパターン。                  |
+| 節博士           | fushi\_hakase              |             | **`Fushi-hakase notations`** (melodic or intonational markings) attached to musical materials such as *Shōmyō* (Buddhist chant).                                                                                                                                                              | 声明等音楽資料に付される博士譜など                                |
+| その他           | other\_phonetic\_annotations|             | Other types of **`Phonetic Glosses`**.                                                                                                                                                                                                                                                           | その他の音注                                            |
+| 出現位置         | material\_location         |             | Location of single **`Hanzi (Chinese characters)`** and Chinese words within the material.                                                                                                                                                                                                      | 資料内の単字・漢語の所在                                    |
+| 備考             | remarks\_pronunciation     |             | Matters to be noted regarding these phonetic elements.                                                                                                                                                                                                                                          | 注記すべき事柄                                            |
+
+The `material_location` is indicated in the format: K + Volume (2 digits) + Kazama Edition Page (3 digits) + Line (1 digit) + Segment (1 digit). For example, `K0201474` indicates an appearance in Volume 2, Page 14, Line 7, Segment 4.
+
+Currently, this is under consideration in the case study "[Linkage with DHSJR](/docs/krm/08-case-studies/5-dhsjr/)," which should also be consulted.
+
 
 
 ## krm_ndl
@@ -329,6 +489,7 @@ We are currently considering publishing our data in accordance with the DHSJR sp
 This file compiles links to the images of the Kanchi-in manuscript of the *Ruiju Myōgishō* that are publicly available in the National Diet Library Digital Collections.
 
 This data cross-references the locations within the Kanchi-in manuscript of the *Ruiju Myōgishō* with their corresponding URLs in the National Diet Library Digital Collections. The file name is `KRM_ndl.tsv`.
+
 
 
 This data indicates the volume name, radical character, Kazama edition page number, Tenri edition page number, and the URL for the National Diet Library Digital Collections.
@@ -343,3 +504,6 @@ Next, a sample of the beginning of the data is shown below.
 
 
 We plan to make improvements to facilitate easier integration with `krm_main`.
+
+
+

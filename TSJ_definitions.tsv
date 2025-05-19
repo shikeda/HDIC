@@ -10,14 +10,12 @@
 #
 #   TSJ_definitions.tsv
 #   Version: 1.2.7
-#   Date published: 28 June 2018
-#   Last modified: 14 May 2025
+#   Date published: June 28, 2018
+#   Last modified: May 14, 2025
 #
 #   Copyright (c) 2018-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
 #   LIU Guanwei (Person in charge of image database design and implementation)
-#   Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
-#   North 10, West 7, Kita-ku Sapporo, Hokkaido, 060-0810 Japan
 #   Contact: ikeda.shoju@gmail.com, liyuansapporo@yahoo.co.jp, toyjack@gmail.com
 #
 #   Data License Information and Access Rights
@@ -42,7 +40,7 @@
 # 
 #   Acknowledgments:
 #   We are grateful to the Imperial Household Archives 宮内廳書陵部 for permission to publish the decipherment text of TSJ.
-#   This work was supported by JSPS KAKENHI Grant Number 25370506, 16H03422, 19H00526, 23K17500.
+#   This work was supported by JSPS KAKENHI Grant Number 25370506, 16H03422, 19H00526, 23K17500 and 25K00466.
 #
 TSJ2ID	Entry_word	SJ_def	SJ_remarks	ZhangLei_page
 s0104a601	天	躰年他前二反。平聲：顛也，尊也，頂也，君清輕在上也。		1

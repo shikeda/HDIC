@@ -86,6 +86,12 @@ Last modified: May 13, 2025
     Date published: May 11, 2025  
     Last modified: May 11, 2025
 
+### krm_pronounciations
+- Version: 1.2.1 (latest, DHSJR format)  
+    Date published: May 20, 2025  
+    Last modified: May 20, 2025
+
+
 ### krm_wakun
 - Version: 1.2.2 (latest)  
     Date published: March 28, 2025  

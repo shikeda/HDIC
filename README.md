@@ -5,7 +5,7 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 平安時代漢字字書綜合數據庫  
 
 Date published: October 18, 2015  
-Last modified: March 28, 2025
+Last modified: May 23, 2025
 
 [HDIC Viewer](https://hdic.chise.org) by Liu Guanwei  
 
@@ -92,7 +92,7 @@ Ikeda Shoju 池田　証壽
 ### *Shinsen Jikyō* 新撰字鏡
 #### TSJ: Tenjibon *Shinsen Jikyō* database
 
-*Shinsen jikyō* 新撰字鏡, Tenji copy 天治本. Buddhist monk Shōju 昌住, c. 898-901.
+*Shinsen jikyō* 新撰字鏡, Tenji manuscript 天治本. Buddhist monk Shōju 昌住, c. 898-901.
 
 #### Files
 
@@ -120,16 +120,16 @@ Ikeda Shoju 池田 証壽
 ### Zushoryōbon *Ruiju Myōgishō* 図書寮本類聚名義抄
 #### ZRM: Zushoryōbon *Ruiju Myōgishō* database
 
-*Ruiju Myōgishō* 類聚名義抄, Zushoryō copy 図書寮本, original edition 原撰本. anonymous Buddhist monk, about 1100.
+*Ruiju Myōgishō* 類聚名義抄, Zushoryō manuscript 図書寮本, original edition 原撰本. anonymous Buddhist monk, about 1100.
 
 #### Files
 * ZRM.txt  
 In preparation.
 
-### Kanchi’inbon *Ruiju Myōgishō* 観智院本類聚名義抄
-#### KRM: Kanchi’inbon *Ruiju Myōgishō* database
+### Kanchiinbon *Ruiju Myōgishō* 観智院本類聚名義抄
+#### KRM: Kanchiinbon *Ruiju Myōgishō* database
 
-*Ruiju Myōgishō* 類聚名義抄, Kanchi’in copy 観智院本, reorganized edition 改編本. anonymous Buddhist monk, the latter half of the 12th century.
+*Ruiju Myōgishō* 類聚名義抄, Kanchiin manuscript 観智院本, reorganized edition 改編本. anonymous Buddhist monk, the latter half of the 12th century.
 
 #### Files
 
@@ -140,24 +140,24 @@ Ikeda Shoju 池田 証壽
 
 
 * KRM_ndl.txt  
-Kanchi'inbon *Ruiju Myōgishō* (KRM): Kazama Shobō edition, Tenri Zempon Soshō edition and National Diet Library Digital Collections.  
+Kanchiinbon *Ruiju Myōgishō* (KRM): Kazama Shobō edition, Tenri Zempon Soshō edition and National Diet Library Digital Collections.  
 Date: October 20, 2015  
 初版公開日  
 Ikeda Shoju 池田 証壽  
 
 * KRM_definition.tsv  
-Kanchi'inbon *Ruiju Myōgishō* (KRM): Kazama Shobō edition, Tenri Zempon Soshō edition and National Diet Library Digital Collections.  
+Kanchiinbon *Ruiju Myōgishō* (KRM): Kazama Shobō edition, Tenri Zempon Soshō edition and National Diet Library Digital Collections.  
 Date: March 6, 2023  
 初版公開日  
 Ikeda Shoju 池田 証壽  
 
-* v1.2/krm_main.tsv
-Date: March 28, 2025  
-初版公開日  
-Ikeda Shoju 池田 証壽
+上記の更新は終了し、仕様変更したデータを
+[https://github.com/shikeda/krm](https://github.com/shikeda/krm)にて公開している。
 
-KRM.tsvを仕様変更したものである。v1.2のフォルダーに置いてある。
-これは一時的なものである。
+The above updates have been completed, and the revised data has been made public at [https://github.com/shikeda/krm](https://github.com/shikeda/krm).
+
+以上更新已完成，變更規格後的數據為
+它可以位於 [https://github.com/shikeda/krm](https://github.com/shikeda/krm) 上。
 
 ## Project Members
 

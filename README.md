@@ -5,7 +5,7 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 平安時代漢字字書綜合數據庫  
 
 Date published: October 18, 2015  
-Last modified: May 23, 2025
+Last modified: November 2, 2025
 
 [HDIC Viewer](https://hdic.chise.org) by Liu Guanwei  
 

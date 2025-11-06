@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.71
+#   Version: 1.1.72
 #   Date published: June 23, 2018
-#   Last modified: April 30, 2025
+#   Last modified: Nov 6, 2025
 #
 #   Copyright (c) 2018-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -23183,7 +23183,7 @@ s1219b308	s1219b307i	新762-38	v12#159	連字第百五十九	嶸	◯			6_003_A41
 s1219b401	s1219b401j	新762-41	v12#159	連字第百五十九	嶕	◯				
 s1219b402	s1219b401j	新762-42	v12#159	連字第百五十九	嶢	◯			6_005_B12	
 s1219b403	s1219b403k	新762-43	v12#159	連字第百五十九	隆	◯			6_024_B41	c021a011
-s1219b404	s1219b403k	新762-44	v12#159	連字第百五十九	⿰山宋	◯				
+s1219b404	s1219b403k	新762-44	v12#159	連字第百五十九	崇	⿰山宋				
 s1219b501	s1219b501l	新762-51	v12#159	連字第百五十九	岌	◯			6_005_A31	
 s1219b502	s1219b501l	新762-52	v12#159	連字第百五十九	嶪	◯				
 s1219b503	s1219b503m	新762-53	v12#159	連字第百五十九	𡾔	壘		字頭：原作「壘」。		

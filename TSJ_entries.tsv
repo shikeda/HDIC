@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.73
+#   Version: 1.1.74
 #   Date published: June 23, 2018
-#   Last modified: Nov 9, 2025
+#   Last modified: Nov 12, 2025
 #
 #   Copyright (c) 2018-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -14385,7 +14385,7 @@ s0810a603	s0810a603a	新481-63	v8#75	鳥部第七十五	鷁β	◯	切韻N
 s0810a604	s0810a603a	新481-64	v8#75	鳥部第七十五	鷁	◯	切韻N		6_064_B31	c035a034
 s0810a605	s0810a605b	新481-65	v8#75	鳥部第七十五	鶂	◯	切韻N		6_064_B12	c035a031
 s0810a606	s0810a605b	新481-66	v8#75	鳥部第七十五	鷊	◯	切韻N		6_064_B21	c035a032
-s0810a607	s0810a605b	新481-67	v8#75	鳥部第七十五	〓	◯	切韻N			
+s0810a607	s0810a605b	新481-67	v8#75	鳥部第七十五	𪁌	◯	切韻N			
 s0810a701	s0810a701c	新481-71	v8#75	鳥部第七十五	𪆽	◯	切韻N			
 s0810a702	s0810a701c	新481-72	v8#75	鳥部第七十五	鷺	◯	切韻N		6_058_A41	c033b041
 s0810a703	s0810a701c	新481-73	v8#75	鳥部第七十五	𪇸	◯	切韻N		6_058_A42	c033b042

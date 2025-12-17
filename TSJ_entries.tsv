@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.74
+#   Version: 1.1.75
 #   Date published: June 23, 2018
-#   Last modified: Nov 12, 2025
+#   Last modified: Nov 17, 2025
 #
 #   Copyright (c) 2018-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -16075,7 +16075,7 @@ s0905b405	s0905b405	新524-45	v9#86	魚部第八十七	𫙼	◯	小學篇
 s0905b406	s0905b406	新524-46	v9#86	魚部第八十七	鱥	◯	小學篇			
 s0905b407	s0905b407b	新524-47	v9#86	魚部第八十七	⿰魚惟	◯	小學篇			
 s0905b408	s0905b407b	新524-48	v9#86	魚部第八十七	𮫺	◯	小學篇			
-s0905b409	s0905b407b	新524-49	v9#86	魚部第八十七	⿰魚竟	◯	小學篇			
+s0905b409	s0905b407b	新524-49	v9#86	魚部第八十七	𩺿	◯	小學篇			
 s0905b501	s0905b501	新524-51	v9#86	魚部第八十七	鰆	◯	小學篇			
 s0905b502	s0905b502	新524-52	v9#86	魚部第八十七	鮭	◯	小學篇	傍訓「サケ」。増補字。	6_082_B32	c040a052
 s0905b701	s0905b701a	新524-71	v9#87	走部第八十八	走	赱	玉篇	字頭：原作「赱」。	1_004_B44	a005a032

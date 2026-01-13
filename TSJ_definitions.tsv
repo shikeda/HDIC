@@ -9,11 +9,11 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_definitions.tsv
-#   Version: 1.2.17
+#   Version: 1.2.18
 #   Date published: June 28, 2018
-#   Last modified: December 28, 2025
+#   Last modified: January 14, 2026
 #
-#   Copyright (c) 2018-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+#   Copyright (c) 2018-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
 #   LIU Guanwei (Person in charge of image database design and implementation)
 #   Contact: ikeda.shoju@gmail.com, liyuansapporo@yahoo.co.jp, toyjack@gmail.com
@@ -14218,7 +14218,7 @@ s0916a403	陔	古来反。次也，重也，𨀖也，隴也，殿階次序也�
 s0916a501	阹	去魚反。開也，閇也，谷也。䒧。依山谷為牛馬圏。		786
 s0916a502	𨼊	武夫反。地名。		786
 s0916a503	䧇	於機反。坂也，天䧇也，縣名。		786
-s0916a504	隭	如之仁移二反。坂嶮，地名。	坂嶮：享和本作“坂也”。注文末，享和本有“太加之”。	786
+s0916a504	隭	如之仁移二反。坂嶮，地名。	坂嶮：天治本作“坂嶮”，享和本作“坂也”。注文末，享和本多出“太加之”三字，疑爲“佐加之”之誤。此字義爲坂之嶮峻，當取“佐加之”爲是。	786
 s0916a601	陴	頻卑反。俔也，城上安墻。		786
 s0916a602	陭	於離反。坂也，縣名。		786
 s0916a603a	䧅β䧅	二形作。似脂反。隇䧅。		786

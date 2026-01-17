@@ -5,7 +5,7 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 平安時代漢字字書綜合數據庫  
 
 Date published: October 18, 2015  
-Last modified: November 2, 2025
+Last modified: January 17, 2026
 
 [HDIC Viewer](https://hdic.chise.org) by Liu Guanwei  
 
@@ -116,6 +116,11 @@ Date: January 31, 2022
 初版公開日  
 Ikeda Shoju 池田 証壽
 
+* TSJ_wakun.tsv
+TSJ: Tenjibon Shinsen Jikyo database -- Wakun (Japanese readings)
+Date: January 17, 2026  
+初版公開日  
+Ikeda Shoju 池田 証壽
 
 ### Zushoryōbon *Ruiju Myōgishō* 図書寮本類聚名義抄
 #### ZRM: Zushoryōbon *Ruiju Myōgishō* database

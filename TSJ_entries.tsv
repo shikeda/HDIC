@@ -10,11 +10,11 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.75
+#   Version: 1.1.76
 #   Date published: June 23, 2018
-#   Last modified: Nov 17, 2025
+#   Last modified: February 10, 2026
 #
-#   Copyright (c) 2018-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+#   Copyright (c) 2018-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
 #   LIU Guanwei (Person in charge of image database design and implementation)
 #   Contact: ikeda.shoju@gmail.com, liyuansapporo@yahoo.co.jp, toyjack@gmail.com
@@ -4849,7 +4849,7 @@ s0311a703	s0311a703	新171-73	v3#30	言部第卅	𮘜	◯	出所不詳	字頭：
 s0311a801	s0311a801	新171-81	v3#30	言部第卅	𧮑	◯	出所不詳		3_016_B32	a085a062
 s0311a802	s0311a802	新171-82	v3#30	言部第卅	誩	◯	出所不詳		3_022_B62	a087b031
 s0311b101	s0311b101	新172-11	v3#30	言部第卅	誌	◯	出所不詳			a087a052
-s0311b102	s0311b102	新172-12	v3#30	言部第卅	䚾	◯	出所不詳	字頭：原作「𧥶」，別字。		
+s0311b102	s0311b102	新172-12	v3#30	言部第卅	𧥶	◯	出所不詳			
 s0311b103	s0311b103	新172-13	v3#30	言部第卅	⿰言卛	◯	出所不詳	字頭：未勘。		
 s0311b201	s0311b201	新172-21	v3#30	言部第卅	譥	◯	出所不詳		3_012_B22	a083b103
 s0311b202	s0311b202	新172-22	v3#30	言部第卅	譡	◯	出所不詳		3_019_A421	a085b072

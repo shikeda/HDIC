@@ -9,9 +9,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_definitions.tsv
-#   Version: 1.2.20
+#   Version: 1.2.21
 #   Date published: June 28, 2018
-#   Last modified: February 10, 2026
+#   Last modified: February 14, 2026
 #
 #   Copyright (c) 2018-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -308,7 +308,7 @@ s0108b201	㬅	正音：无願反。去：也(衍)長脩也，廣也，美也，�
 s0108b202	曼	上字。		13
 s0108b203	𣅠	氣字，古文，在气部。		13
 s0108b204	晁	除矯反。縣名。		13
-s0108b301	昈	胡皷反。交米也，赤文也。		13
+s0108b301	昈	胡皷反。交米也，赤文也。	交米；當作“文采”。	13
 s0108b302	曎	阿(何)老反。明也，旰也，晧旰光曜也。		13
 s0108b303	暭	正作。		13
 s0108b304	暆	朱(余)支反。日行也。		13

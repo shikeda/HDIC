@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.76
+#   Version: 1.1.77
 #   Date published: June 23, 2018
-#   Last modified: February 10, 2026
+#   Last modified: February 16, 2026
 #
 #   Copyright (c) 2018-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -1336,7 +1336,7 @@ s0120b702	s0120b702	新54-72	v1#8	火部第八	煠	◯	出所不詳		5_142_A51	c
 s0120b703	s0120b703	新54-73	v1#8	火部第八	𤏙	◯	出所不詳			
 s0120b801	s0120b801	新54-81	v1#8	火部第八	燸	◯	出所不詳		5_139_A51	
 s0120b802	s0120b802	新54-82	v1#8	火部第八	熛	◯	出所不詳		5_136_A31	c006b013
-s0120b803	s0120b803	新54-83	v1#8	火部第八	𤉇	◯	出所不詳			
+s0120b803	s0120b803	新54-83	v1#8	火部第八	𤉇	⿰火◯吴	出所不詳			
 s0120b804	s0120b804	新54-84	v1#8	火部第八	熬	◯	出所不詳		5_137_A41	c006b073
 s0121a101	s0121a101	新55-11	v1#8	火部第八	熄	◯	出所不詳		5_136_B32	c006b042
 s0121a102	s0121a102	新55-12	v1#8	火部第八	炗	⿱𡖋火	出所不詳	字頭：原作「⿱𡖋火」，當作「炗」。		

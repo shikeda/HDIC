@@ -9,9 +9,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_definitions.tsv
-#   Version: 1.2.23
+#   Version: 1.2.24
 #   Date published: June 28, 2018
-#   Last modified: February 16, 2026
+#   Last modified: February 19, 2026
 #
 #   Copyright (c) 2018-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -1520,7 +1520,7 @@ s0130a102	倥	口貮(貢)反。云(去)：窮困也。		86
 s0130a103	侞	人梠反。去：豊也，饒也。由太介之。又尓支波□志。	人梠：享和本作“人招”非。由太介之：享和本作“由太介志”。尓支波□志：享和本作“尓支波〻志”。新撰字鏡攷異17頁。	86
 s0130a201	佶	其乙反。入：正也		86
 s0130a202	㚢	乃好反。平：妻子曰㚢，〻戮汝也。		87
-s0130a203	儜	奴耕二反。平：教也。乃行反。知加良奈志。□也，□力也。		87
+s0130a203	儜	奴耕二反。平：教也。乃行反。知加良奈志。病也，无力也。	教：當作“弱”。	87
 s0130a301	侎	亡婢反。平：安也，儛也。		87
 s0130a302	僤	下昌反。平：傍驚也。又徒旦反。去：作疾也。		87
 s0130a303a	𢔁倰	二同。力恒反。平：長也－。		87

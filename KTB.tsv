@@ -7,11 +7,11 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.112
-#   Date published: 17 September 2016
-#   Last modified: 12 February 2025
+#   Version: 1.1.113
+#   Date published: September 27, 2016
+#   Last modified: February 28, 2026
 #
-#   Copyright (c) 2016-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+#   Copyright (c) 2016-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
 #   LIU Guanwei (Person in charge of image database design and implementation)
 #   Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -2611,7 +2611,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_002_A31	v4#52	𥄎	𥆗	Regular		渠攣反。𥆗也，肥也，大也，視也。	a045b032			63	317
 2_002_A32	v4#53	見	見	Regular		居薦反。見也，禾也。〔亦見β（seal）。〕	a045b041		有埋字B。	63	317
 2_002_A321	v4#53	見	見β	Embedded_seal		亦見β（seal）。			埋字B。篆書字形。	63	#N/A
-2_002_A41	v4#53	見	視	Regular		時有反。觀，比也，明也，語瞻也，効也，察也。	a045b042			63	317
+2_002_A41	v4#53	見	視	Regular		時有反。觀，比也，明也，語，瞻也，効也，察也。	a045b042			63	317
 2_002_A42	v4#53	見	𧡎	Regular		魚計反。旁視也。	a045b043			63	318
 2_002_A51	v4#53	見	覣	Regular		烏皮反。好視也。	a045b051			63	318
 2_002_A52	v4#53	見	䚕	Regular		力計反。求也。	a045b052			63	318

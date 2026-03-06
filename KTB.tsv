@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.113
+#   Version: 1.1.114
 #   Date published: September 27, 2016
-#   Last modified: February 28, 2026
+#   Last modified: March 6, 2026
 #
 #   Copyright (c) 2016-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -5391,7 +5391,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 3_010_B31	v9#91	言	試	Regular		始志反。用也。	a087b014			129	705
 3_010_B32	v9#91	言	䚻	Regular		与周反。從也。	a083a105			129	647
 3_010_B41	v9#91	言	詮	Regular		且全反。具也。	a083b011			129	648
-3_010_B42	v9#91	言	訢	Regular		許殷反。樂喜也。欣字。	a083b012			129	648
+3_010_B42	v9#91	言	訢	Regular		許殷反。樂，喜也。欣字。	a083b012			129	648
 3_010_B51	v9#91	言	說	Regular		始悅反。言也，解也，意也，除也，讀也，告也。	a086b081			129	697
 3_010_B52	v9#91	言	諧	Regular		朝階反。和也，合也，調也。	a083b013			129	648
 3_010_B61	v9#91	言	計	Regular		居詣反。會也，笇也，謀也。	a083b014			129	648

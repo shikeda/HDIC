@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.77
+#   Version: 1.1.78
 #   Date published: June 23, 2018
-#   Last modified: February 16, 2026
+#   Last modified: March 25, 2026
 #
 #   Copyright (c) 2018-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -4349,7 +4349,7 @@ s0303b504	s0303b504	新156-54	v3#29	疒部第廿九	㾫	◯	切韻A		3_076_A32	b
 s0303b505	s0303b505	新156-55	v3#29	疒部第廿九	𤷄	◯	切韻A			b010a032
 s0303b506	s0303b506	新156-56	v3#29	疒部第廿九	𤼙	◯	切韻A			
 s0303b601	s0303b601	新156-61	v3#29	疒部第廿九	痾	◯	切韻A		3_073_B52	b008a054
-s0303b602	s0303b602	新156-62	v3#29	疒部第廿九	㽸	◯	切韻A		3_078_A421	b009a082
+s0303b602	s0303b602	新156-62	v3#29	疒部第廿九	痂	◯	切韻A		3_075_B31	b003b025
 s0303b603	s0303b603	新156-63	v3#29	疒部第廿九	痰	◯	切韻A		4_027_B611	
 s0303b604	s0303b604	新156-64	v3#29	疒部第廿九	癀	◯	切韻A			b010a026
 s0303b701	s0303b701	新156-71	v3#29	疒部第廿九	瘖	◯	切韻A		3_074_B31	b008a064

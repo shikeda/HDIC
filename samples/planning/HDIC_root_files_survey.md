@@ -8,8 +8,10 @@ The repository root mainly contains TSV/TXT datasets for several Hanzi dictionar
 
 - `TSJ*`: Tenjibon *Shinsen Jikyō*.
 - `KRM*`: Kanchiinbon *Ruiju Myōgishō*.
+- `ZRM*`: Zushoryōbon *Ruiju Myōgishō*.
 - `KTB*`: Kōsanji-bon *Tenrei Banshō Meigi*.
 - `SYP*`: Songben *Yupian*.
+- `YYP*`: Yuanben *Yupian* manuscript-fragment data.
 - `GLS*`: *Longkan Shoujing* source-link data.
 - `YQF.tsv`: metadata comments for *Yupian* quoted fragments, but no tabular body is currently present.
 
@@ -78,6 +80,16 @@ Recurring file patterns:
   - Header: `Book`, `Radical`, `Kazama`, `Tenri`, `NDL_url`.
   - Source alignment table linking KRM book/radical positions to print editions and NDL pages.
 
+### ZRM: Zushoryōbon Ruiju Myōgishō
+
+- `ZRM.tsv`
+  - 8 columns, 3,676 data rows.
+  - Header: `entry_id`, `radical_index`, `radical_name`, `page`, `entry`, `definition`, `url`, `remarks`.
+  - Entry-level full-text dataset for the Zushoryōbon manuscript of *Ruiju Myōgishō*.
+  - `entry_id` is a structured identifier encoding page, row, column, and item type.
+  - `definition` preserves mixed note material, including parenthetical `（ ）` notes and bracketed `【 】` editorial or verification notes.
+  - `remarks` is sparse in the current release and mainly carries supplementary editorial notes.
+
 ### KTB: Kōsanji-bon Tenrei Banshō Meigi
 
 - `KTB.tsv`
@@ -112,6 +124,16 @@ Recurring file patterns:
   - Header: `Vol_radical`, `Book`, `Leaf`, `Recto-verso`, `Radical`, `Keio_url`, `Page_iiif`.
   - Link table from SYP positions to Keio IIIF manifests/pages.
 
+### YYP: Yuanben Yupian
+
+- `YYP.tsv`
+  - 10 columns, 2,087 data rows.
+  - Header: `YYID`, `YY_vol_radical`, `Entry`, `Lv_page`, `Yao_page`, `YY_def`, `YY_remarks`, `TBID`, `SYID`, `YY_img_filename`.
+  - Entry-level full-text dataset for the surviving *Yuanben Yupian* manuscript fragments preserved in Japan.
+  - `Lv_page` is the main printed-reference field; `Yao_page` is available only for a small portion of the dataset.
+  - `YY_remarks` contains editorial and structural notes such as duplication markers, re-annotation notes, and original-manuscript supplementation notes.
+  - `YY_img_filename` refers to an internal working image set and should not be assumed to be a public image identifier.
+
 ### Other supporting files
 
 - `GLS_ndl.txt`
@@ -126,9 +148,10 @@ Recurring file patterns:
 ## Practical takeaways for sample scripts
 
 - If a file starts with many `#` lines, the first real header may appear much later in the file.
-- `TSJ_entries.tsv`, `KRM.tsv`, `KTB.tsv`, and `SYP.tsv` are the main starting points for entry-level analysis.
+- `TSJ_entries.tsv`, `KRM.tsv`, `ZRM.tsv`, `KTB.tsv`, `SYP.tsv`, and `YYP.tsv` are the main starting points for entry-level analysis.
 - Wakun analysis should use `TSJ_wakun.tsv` or `KRM_wakun.tsv`, not the full-text files.
 - Image linking tasks should use `TSJ_ndl.tsv`, `KRM_ndl.txt`, `KTB_ndl.txt`, `KTB_ndl_Seal.tsv`, `SYP_keio.tsv`, or `GLS_ndl.txt`.
+- `YYP.tsv` requires extra caution for source verification: consult facsimiles and published transcriptions, especially where `YY_remarks` indicates structural or editorial intervention.
 
 ---
 
@@ -142,8 +165,10 @@ Recurring file patterns:
 
 - `TSJ*`: 天治本『新撰字鏡』
 - `KRM*`: 観智院本『類聚名義抄』
+- `ZRM*`: 図書寮本『類聚名義抄』
 - `KTB*`: 高山寺本『篆隷万象名義』
 - `SYP*`: 宋本『玉篇』
+- `YYP*`: 原本『玉篇』残巻データ
 - `GLS*`: 『龍龕手鏡』の典拠ページ対応データ
 - `YQF.tsv`: 『玉篇』逸文の典拠略号などを説明するコメント群。現状では表形式データ本体は見当たりません
 
@@ -212,6 +237,16 @@ Recurring file patterns:
   - ヘッダ: `Book`, `Radical`, `Kazama`, `Tenri`, `NDL_url`
   - 観智院本の冊・部首位置と版面・NDL 画像を対応づける表です。
 
+### ZRM: 図書寮本『類聚名義抄』
+
+- `ZRM.tsv`
+  - 8 列、3,676 行のデータです。
+  - ヘッダ: `entry_id`, `radical_index`, `radical_name`, `page`, `entry`, `definition`, `url`, `remarks`
+  - 図書寮本『類聚名義抄』の見出し語単位全文テキストデータです。
+  - `entry_id` は頁・行・段・項目種別を埋め込んだ構造化 ID です。
+  - `definition` には、本文注記に加えて `（ ）` や `【 】` の編集注記も現状では保持されています。
+  - `remarks` は現版では疎で、補入や補足的な編集注記が中心です。
+
 ### KTB: 高山寺本『篆隷万象名義』
 
 - `KTB.tsv`
@@ -246,6 +281,16 @@ Recurring file patterns:
   - ヘッダ: `Vol_radical`, `Book`, `Leaf`, `Recto-verso`, `Radical`, `Keio_url`, `Page_iiif`
   - SYP 内の位置と慶應の IIIF マニフェスト・ページ情報の対応表です。
 
+### YYP: 原本『玉篇』
+
+- `YYP.tsv`
+  - 10 列、2,087 行のデータです。
+  - ヘッダ: `YYID`, `YY_vol_radical`, `Entry`, `Lv_page`, `Yao_page`, `YY_def`, `YY_remarks`, `TBID`, `SYID`, `YY_img_filename`
+  - 日本に伝存する原本『玉篇』残巻を対象とする、見出し語単位の全文テキストデータです。
+  - `Lv_page` が主たる刊本参照列で、`Yao_page` は一部の項目にしか入っていません。
+  - `YY_remarks` には、重文・再注・補入・構造上の区切りなどに関する編集注記が入ります。
+  - `YY_img_filename` は内部作業用画像セットに対応するファイル名であり、公開画像 ID とは限りません。
+
 ### その他の補助ファイル
 
 - `GLS_ndl.txt`
@@ -260,6 +305,7 @@ Recurring file patterns:
 ## サンプルスクリプト作成時の実務メモ
 
 - `#` コメント行が多数続くファイルでは、実際のヘッダ行がかなり後ろに現れることがあります。
-- 見出し語・本文レベルの分析は `TSJ_entries.tsv`、`KRM.tsv`、`KTB.tsv`、`SYP.tsv` から始めるのが基本です。
+- 見出し語・本文レベルの分析は `TSJ_entries.tsv`、`KRM.tsv`、`ZRM.tsv`、`KTB.tsv`、`SYP.tsv`、`YYP.tsv` から始めるのが基本です。
 - 和訓分析には全文ファイルではなく、`TSJ_wakun.tsv` または `KRM_wakun.tsv` を使うのが適切です。
 - 画像リンクや紙面参照には `TSJ_ndl.tsv`、`KRM_ndl.txt`、`KTB_ndl.txt`、`KTB_ndl_Seal.tsv`、`SYP_keio.tsv`、`GLS_ndl.txt` を使えます。
+- `YYP.tsv` は校正途上の注記や補入情報を含むため、影印本・翻刻テキストを必ず併用して確認する前提で扱うのが安全です。

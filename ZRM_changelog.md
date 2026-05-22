@@ -26,4 +26,5 @@
 
 ## Notes
 - This changelog records public-facing updates to the HDIC release file `ZRM.tsv`.
+- When a release changes file naming, metadata headers, column meanings, or public usage notes, related documentation such as `README.md` should be reviewed and updated as needed.
 - Working notes, exploratory scripts, and temporary files in the `zrm` workspace are not necessarily listed here unless they directly affect the released dataset.

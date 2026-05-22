@@ -20,12 +20,14 @@ Last modified: May 21, 2026
 *Yupian* 玉篇, original edition 原本. Gu Yewang of the Liang dynasty 梁・顧野王, 543.  
 
 #### Files
-* YYP.txt  
-In preparation.  
+* YYP.tsv  
+Date: May 23, 2026  
+初版公開日  
+Ikeda Shoju 池田 証壽
 *Yuanben Yupian* fragments of vol.8, 9, 18, 19, 22, 24 and 27.  
 原本玉篇残巻.  
 
-* YQF.txt  
+* YQF.tsv    
 In preparation.  
 *Yuanben Yupian* quoted fragments in other books  
 原本玉篇逸文.

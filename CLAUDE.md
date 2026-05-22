@@ -50,6 +50,8 @@ All HDIC datasets follow these conventions:
 | `KRM.tsv` | Kanchiinbon *Ruiju Myōgishō* | 32,607 | `KRID` |
 | `KTB.tsv` | Kōsanji-bon *Tenrei Banshō Meigi* | 18,932 | `TBID` |
 | `SYP.tsv` | Songben *Yupian* | 22,809 | `SYID` |
+| `YYP.tsv` | Yuanben *Yupian* surviving fragments | 2,087 | `YYID` |
+| `ZRM.tsv` | Zushoryōbon *Ruiju Myōgishō* | 3,676 | `entry_id` |
 
 ### Split/specialized tables
 
@@ -60,12 +62,31 @@ All HDIC datasets follow these conventions:
 
 Cross-references between dictionaries are embedded in the main files (e.g., `TSJ_entries.tsv` contains `TBID` and `SYID` columns linking to KTB and SYP).
 
+### YYP-specific notes
+
+- `YYP.tsv` is a fragment-based full-text table for the surviving old manuscript portions of the original *Yupian* preserved in Japan.
+- Key columns are `YYID`, `YY_vol_radical`, `Entry`, `Lv_page`, `Yao_page`, `YY_def`, `YY_remarks`, `TBID`, `SYID`, and `YY_img_filename`.
+- `Lv_page` refers to the reference framework of Lv Hao 呂浩; `Yao_page` refers to Yao Yongming 姚永銘 and is only available for a small portion of the dataset.
+- `YY_img_filename` points to an internal working image set and should not be treated as a public image delivery field.
+- `YY_remarks` contains mixed editorial information such as `重文`, `有再注字`, `字体注`, `原本補入`, and section/radical boundary markers.
+- When using `YYP.tsv` for research, consult facsimile editions and published printed transcriptions in parallel; the transcription is still provisional.
+
+### ZRM-specific notes
+
+- `ZRM.tsv` is an entry-level full-text table for the Zushoryōbon *Ruiju Myōgishō*.
+- Key columns are `entry_id`, `radical_index`, `radical_name`, `page`, `entry`, `definition`, `url`, and `remarks`.
+- `entry_id` encodes page, row, column, and item type information.
+- `definition` currently preserves parenthetical `（ ）` notes and bracketed `【 】` notes in place rather than splitting them into separate annotation fields.
+- `remarks` is sparse and contains only a small number of editorial supplement notes in the current release.
+- If `ZRM.tsv` is updated, also check the release metadata header and `ZRM_changelog.md`.
+
 ## Data Handling Principles
 
 - **Preserve original orthography**: Do not normalize or regularize variant characters (異体字) automatically
 - **Katakana wakun are linguistic data**: Treat them as primary scholarly evidence, not display artifacts
 - **Historical annotations**: Preserve embedded annotations exactly as they appear
 - **IDS notation**: Some `Entry_original` cells contain IDS (Ideographic Description Sequences) like `⿸疒⿱龷天` for unencoded characters — handle these as-is
+- **YYP cross-reference fields may be partial**: In `YYP.tsv`, fields like `Yao_page`, `TBID`, and `SYID` should be treated as scholarly reference aids, not completeness guarantees
 
 ## Analysis Tools and Libraries
 

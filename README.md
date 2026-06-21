@@ -5,7 +5,7 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 平安時代漢字字書綜合數據庫  
 
 Date published: October 18, 2015  
-Last modified: January 17, 2026
+Last modified: May 21, 2026
 
 [HDIC Viewer](https://hdic.chise.org) by Liu Guanwei  
 
@@ -20,12 +20,14 @@ Last modified: January 17, 2026
 *Yupian* 玉篇, original edition 原本. Gu Yewang of the Liang dynasty 梁・顧野王, 543.  
 
 #### Files
-* YYP.txt  
-In preparation.  
+* YYP.tsv  
+Date: May 23, 2026  
+初版公開日  
+Ikeda Shoju 池田 証壽
 *Yuanben Yupian* fragments of vol.8, 9, 18, 19, 22, 24 and 27.  
 原本玉篇残巻.  
 
-* YQF.txt  
+* YQF.tsv    
 In preparation.  
 *Yuanben Yupian* quoted fragments in other books  
 原本玉篇逸文.
@@ -117,7 +119,7 @@ Date: January 31, 2022
 Ikeda Shoju 池田 証壽
 
 * TSJ_wakun.tsv
-TSJ: Tenjibon Shinsen Jikyo database -- Wakun (Japanese readings)
+TSJ: Tenjibon Shinsen Jikyo database -- Wakun (Japanese readings)  
 Date: January 17, 2026  
 初版公開日  
 Ikeda Shoju 池田 証壽
@@ -128,8 +130,18 @@ Ikeda Shoju 池田 証壽
 *Ruiju Myōgishō* 類聚名義抄, Zushoryō manuscript 図書寮本, original edition 原撰本. anonymous Buddhist monk, about 1100.
 
 #### Files
-* ZRM.txt  
-In preparation.
+
+* ZRM.tsv  -- Full text version  
+Date: May 21, 2026  
+初版公開日  
+Ikeda Shoju 池田 証壽
+
+ZRM: Zushoryōbon *Ruiju Myōgishō* database.
+Tab-delimited full-text dataset including entry ID, radical information, page, headword, definition, image URL, and editorial remarks.
+Text creation and proofreading were carried out by IKEDA Shoju and Shin Woongchul.
+
+See also: `ZRM_changelog.md`
+
 
 ### Kanchiinbon *Ruiju Myōgishō* 観智院本類聚名義抄
 #### KRM: Kanchiinbon *Ruiju Myōgishō* database
@@ -184,4 +196,3 @@ Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)
 
 ### Access Rights (Availability)
 Open access  
-

@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.79
+#   Version: 1.1.80
 #   Date published: June 23, 2018
-#   Last modified: May 14, 2026
+#   Last modified: June 23, 2026
 #
 #   Copyright (c) 2018-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -23932,8 +23932,8 @@ s1227a506	s1227a506b	新777-56	v12#160	臨時雑要字第百六十載九章	關	
 s1227a507	s1227a506b	新777-57	v12#160	臨時雑要字第百六十載九章	鑰	◯	臨時雜要字・舎宅章			
 s1227a508	s1227a508c	新777-58	v12#160	臨時雑要字第百六十載九章	竪	◯	臨時雜要字・舎宅章			
 s1227a509	s1227a508c	新777-59	v12#160	臨時雑要字第百六十載九章	柱	◯	臨時雜要字・舎宅章			
-s1227a601	s1227a508c	新777-61	v12#160	臨時雑要字第百六十載九章	麻	◯	臨時雜要字・舎宅章			
-s1227a602	s1227a508c	新777-62	v12#160	臨時雑要字第百六十載九章	桂	◯	臨時雜要字・舎宅章			
+s1227a601	s1227a601	新777-61	v12#160	臨時雑要字第百六十載九章	麻	◯	臨時雜要字・舎宅章			
+s1227a602	s1227a601	新777-62	v12#160	臨時雑要字第百六十載九章	柱	◯	臨時雜要字・舎宅章			
 s1227a603	s1227a603	新777-63	v12#160	臨時雑要字第百六十載九章	𬄺	◯	臨時雜要字・舎宅章			
 s1227a604	s1227a604a	新777-64	v12#160	臨時雑要字第百六十載九章	埿	◯	臨時雜要字・舎宅章			
 s1227a605	s1227a604a	新777-65	v12#160	臨時雑要字第百六十載九章	屋	◯	臨時雜要字・舎宅章			

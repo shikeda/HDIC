@@ -9,8 +9,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_wakun.tsv
-#   Version: 1.1.2
-#   Last modified: May 22, 2026
+#   Version: 1.1.3
+#   Date published: January 17, 2026
+#   Last modified: June 23, 2026
 #
 #   Copyright (c) 2018-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -3687,7 +3688,7 @@ s1227a409	sj_w03609	新777-49	槉	単字	柱奴支	ハシラヌキ（槉）				1
 s1227a501	sj_w03610	新777-51	栭	単字	太〻利	タタリ（栭）				1062	たたり	listed	2002029f33f98Gf4j8zu		名詞
 s1227a502	sj_w03611	新777-52	棭	単字	屋乃比	ヤノヒ（棭）				1062	やのひ	no entry	N/A	名詞（ヤ、屋）＋格助詞（ノ）＋名詞（ヒ、樋・楲）；Head: ヒ；和訓「ヤノヒ」は「屋の樋」であり、家屋に付属する雨樋（あまどい）や懸樋（かけひ）などの排水設備を指す。造字意図としては、雨水（液）を流す木、あるいは家屋の脇（腋・夜）にある木などが推測される。「棭」は小学篇にあり、国訓の可能性が高いが、「棭」は「楲（ひ）」の誤写であれば、「楲」は宋本『玉篇』に「通竇也（水を通す穴・溝）」とあり、字義にかなう。	名詞
 s1227a503a	sj_w03612	新777-53	㭼門扂	熟語	止佐之	トサシ（㭼門扂）				1062	とさし	listed	20020307105cOIdDVlPQ		名詞
-s1227a508c	sj_w03613	新777-58	竪柱麻桂	熟語	阿奈〻比須	アナナヒス（竪柱麻桂）				1062	あななひす	✓あなない［あななひ］	2002001bef4474U4xGdO		名詞
+s1227a601	sj_w03613	新777-61	麻柱	熟語	阿奈〻比須	アナナヒス（麻柱）				1062	あななひす	✓あなない［あななひ］	2002001bef4474U4xGdO		名詞
 s1227a603	sj_w03614	新777-63	𬄺	単字	衣豆利	エツリ（𬄺）				1062	えつり	✓	2002007dae35lW8np4Th		名詞
 s1227a604a	sj_w03615	新777-64	埿屋	熟語	屋奴留	ヤヌル（埿屋）				1062	やぬる				#N/A
 s1227a606b	sj_w03616	新777-66	筒瓦	熟語	男瓦	ヲガハラ（筒瓦）				1062	をがはら	日国表記未収	20020095979bFbVAg77s		名詞

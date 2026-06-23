@@ -9,9 +9,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_definitions.tsv
-#   Version: 1.2.37
+#   Version: 1.2.39
 #   Date published: June 28, 2018
-#   Last modified: April 14, 2026
+#   Last modified: June 23, 2026
 #
 #   Copyright (c) 2018-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -19750,7 +19750,8 @@ s1227a501	栭	太〻利。		1062
 s1227a502	棭	屋乃比。		1062
 s1227a503a	㭼門扂	止佐之。		1062
 s1227a506b	關鑰	上同。		1062
-s1227a508c	竪柱麻桂	阿奈〻比須。		1062
+s1227a508c	竪柱			1062
+s1227a601	麻柱	阿奈〻比須。	麻柱，《箋注和名抄》以為「⿸广枝柱」之通用字，指足場、足代。《日國》《角川古語大辭典》同。字鏡作「阿奈々比須」，未知為動詞用法或傳寫之誤。又與「竪柱」連書，疑共為一訓。	1062
 s1227a603	𬄺	衣豆利。		1062
 s1227a604a	埿屋	屋奴留。		1062
 s1227a606b	筒瓦	男瓦。		1062

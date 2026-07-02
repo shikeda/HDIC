@@ -3,11 +3,11 @@
 #
 # SYP: Songben Yupian 宋本玉篇 database
 #
-# Version: 1.1.26
+# Version: 1.1.27
 # Date: 20 October 2015
-# Last update : 4 March 2025
+# Last update : 2 July 2026
 #
-# Copyright (c) 2014-2025 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
+# Copyright (c) 2014-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 # LI Yuan (Person in charge of text data proofreading)
 # LIU Guanwei (Person in charge of image database design and implementation)
 # Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences
@@ -41,7 +41,7 @@
 #  宮内廳書陵部藏本(南宋版)：大廣益會玉篇 (box 515, no.106, photographic images).
 #  澤存堂本：〔梁〕顧野王著, 大廣益會玉篇, 北京：中華書局, 1987.
 #
-# This work was supported by JSPS KAKENHI Grant Number 25370506, 16H03422, 19H00526, 23K17500.
+# This work was supported by JSPS KAKENHI Grant Number 25370506, 16H03422, 19H00526, 23K17500, 25K00466 and 26K21717.
 #
 SYID	SY_vol_radical	SY_radical	Entry	Entry_original	SY_def	Zang_page	KSY_diff	SY_remarks
 a005a101	v1#1	一	一		於逸切。《說文》曰：惟初太始、道立於一、造分天地、化成萬物。《道德經》云：昔之得一者、天得一以清、地得一以寧、神得一以靈、谷得一以盈、萬物得一以生、侯王得一以爲天下正。王弼曰：一者數之始也、物之極也。又同也、少也、初也。或作壹。	1		
@@ -842,7 +842,7 @@ a017a013	v2#9	土	墌		之亦切。基址也。	84
 a017a014	v2#9	土	坨		羊之切。地名也。	84		
 a017a015	v2#9	土	垹		博尨切。土精也。	84		
 a017a016	v2#9	土	㙡		咨容切。土菌也。	84		
-a017a017	v2#9	土	⿰土宂		而勇切。地名。	84		
+a017a017	v2#9	土	𡊫		而勇切。地名。	84		
 a017a021	v2#9	土	𡓦		鉏減切。𡓦兆名。	85		
 a017a022	v2#9	土	𡎺		側六切。塞也。	85		
 a017a023	v2#9	土	塣		丈井切。通也。	85		
@@ -8253,7 +8253,7 @@ b006a083	v11#141	門	䦔		他旦切。闑也、門傍橛所以止扉也。	884
 b006a084	v11#141	門	閦		初六切。衆也。出《字統》。釋典有阿閦。	884		
 b006a091	v11#141	門	𨴖		同上。	884		
 b006a092	v11#141	門	䦘		戶簡切。俗爲門限字。	884		
-b006a093	v11#141	門	⿵門廛		直連切。市門。	884		
+b006a093	v11#141	門	𨷭		直連切。市門。	884		
 b006a094	v11#141	門	䦌		丑住切。直開也。	884		
 b006a095	v11#141	門	𢠶		胡慣切。古文患。	885		
 b006a096	v11#141	門	𨶈		徒郎切。高門也。	885		
@@ -12506,7 +12506,7 @@ b053a066	v16#242	瓦	甀		池爲切。甖也。	1268
 b053a067	v16#242	瓦	𤭌		徒奚切。瓷也。	1268		
 b053a071	v16#242	瓦	𤭒		勒當切。器也。	1268		
 b053a072	v16#242	瓦	𤭕		呼光切。器也。	1268		
-b053a073	v16#242	瓦	⿰虚瓦		許飢切。	1268		
+b053a073	v16#242	瓦	𤮆		許飢切。	1268		
 b053a074	v16#242	瓦	𤭑		五姑切。甌也。	1269		
 b053a075	v16#242	瓦	㽋		力華切。瓦。	1269		
 b053a076	v16#242	瓦	𤮧		力胡切。酒器。	1269		
@@ -14116,7 +14116,7 @@ b069a075	v18#282	車	𨊡		剔鈴切。	1437
 b069a076	v18#282	車	轖		所力切。	1438		
 b069a077	v18#282	車	𨌮		丁禮切。	1438		
 b069a081	v18#282	車	軓		音范。車軾前。	1438		
-b069a082	v18#282	車	⿰車宂		而勇切。	1438		
+b069a082	v18#282	車	𨋠		而勇切。	1438		
 b069a083	v18#282	車	𨋗		柅夷切。軾。	1438		
 b069a084	v18#282	車	𨍸		力九切。	1438		
 b069a085	v18#282	車	輭		而兖切。柔也。	1438		

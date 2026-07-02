@@ -1,0 +1,32 @@
+# 元データ（読み取り専用・変更禁止）
+krm.db
+
+# NIHU 異体漢字対応テーブル（CC-BY 4.0 第三者データ・別途入手）
+# 入手先: https://www.bridge.nihu.jp/researchdata/file/20221125_ITOBYb
+異体漢字対応テーブル111220版_TSV221111.txt
+
+# ローカル環境変数
+.env
+.env.local
+.env*.local
+
+# OS・エディタ
+.DS_Store
+Thumbs.db
+
+# バックアップファイル（スクリプトが自動生成）
+*.bak
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+my_venv/
+work/
+output
+
+# Jupyter
+
+.ipynb_checkpoints/

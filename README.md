@@ -5,7 +5,7 @@ Integrated Database of Hanzi Dictionaries in Early Japan
 平安時代漢字字書綜合數據庫  
 
 Date published: October 18, 2015  
-Last modified: May 21, 2026
+Last modified: July 8, 2026
 
 [HDIC Viewer](https://hdic.chise.org) by Liu Guanwei  
 
@@ -132,15 +132,7 @@ Ikeda Shoju 池田 証壽
 #### Files
 
 * ZRM.tsv  -- Full text version  
-Date: May 21, 2026  
-初版公開日  
-Ikeda Shoju 池田 証壽
-
-ZRM: Zushoryōbon *Ruiju Myōgishō* database.
-Tab-delimited full-text dataset including entry ID, radical information, page, headword, definition, image URL, and editorial remarks.
-Text creation and proofreading were carried out by IKEDA Shoju and Shin Woongchul.
-
-See also: `ZRM_changelog.md`
+(Currently under development on the sample-dev branch and not yet included in the master branch.)
 
 
 ### Kanchiinbon *Ruiju Myōgishō* 観智院本類聚名義抄

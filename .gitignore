@@ -25,6 +25,7 @@ __pycache__/
 venv/
 my_venv/
 work/
+xlsx/
 output
 
 # Jupyter

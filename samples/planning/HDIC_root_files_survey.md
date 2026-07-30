@@ -31,8 +31,8 @@ Recurring file patterns:
   - Describes intended meanings of many root files, but some details are older than the current file set.
 
 - `LICENSE`
-  - Contains the full text of Creative Commons BY-NC-SA 4.0.
-  - This differs from `README.md`, which says CC BY-SA 4.0. The root documentation and license file are inconsistent on this point.
+  - Contains the full text of Creative Commons BY-SA 4.0.
+  - This now matches `README.md`, which also says CC BY-SA 4.0. The root documentation and license file are consistent on this point.
 
 ### TSJ: Tenjibon Shinsen Jikyō
 
@@ -165,8 +165,8 @@ Recurring file patterns:
   - 直下ファイルの説明もありますが、現状のファイル構成や名称と少しずれている箇所があります。
 
 - `LICENSE`
-  - Creative Commons BY-NC-SA 4.0 の全文です。
-  - 一方で `README.md` では CC BY-SA 4.0 と書かれており、両者の表記は一致していません。
+  - Creative Commons BY-SA 4.0 の全文です。
+  - `README.md` も CC BY-SA 4.0 としており、両者の表記は一致しています。
 
 ### TSJ: 天治本『新撰字鏡』
 

@@ -3,8 +3,8 @@
 #
 # Gaoliben Longkan Shoujing (GLS): Zhonghua Book Company edition (中華書局版), Keijo Imperial University edition (京城帝国大学版) and National Diet Library Digital Collections
 # Version: 1.1.4
-# Date: June 3, 2016
-# Last update : March 16, 2022
+# Date: 2016-06-03
+# Last update : 2022-03-16
 #
 #  Longkan Shoujing 龍龕手鏡, Koryo print 高麗本. monk Xingjun of the Liao Dynasty 遼・行均, 997.
 #

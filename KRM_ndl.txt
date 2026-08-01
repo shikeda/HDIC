@@ -3,8 +3,8 @@
 #
 #	Kanchiinbon Ruiju-myogi-sho (KRM) : Kazama-shobo edition, Tenri-zenpon-sosho edition and National Diet Library Digital Collections
 #	Version: 1.1.4
-#	Date: 20 October 2015
-#	Last update : 29 March 2025
+#	Date: 2015-10-20
+#	Last update : 2025-03-29
 #
 #	Copyright (c) 2014-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #	Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences

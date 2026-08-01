@@ -9,8 +9,8 @@
 #	A Hanzi (Chinese character) dictionary.
 #
 #	Version: 1.4.3
-#	Date: 25 September 1994
-#	Last update : 28 November 2023
+#	Date: 1994-09-25
+#	Last update : 2023-11-28
 #
 #	Copyright (c) 1994-2022 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #	Research group of Linguistics, Hokkaido University Faculty of Humanities and Human Siences

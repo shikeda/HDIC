@@ -35,13 +35,7 @@ If the change touches an ID that other files cross-reference (`SJID`/`SJ2ID`, `T
 
 ## Editing a Single Data Row
 
-For a small, targeted correction (one or a few rows in one file):
-
-1. Locate the row (`grep`) and edit it in place with the `Edit` tool, changing only the cell(s) that need correcting.
-2. Run `count_basic_stats.py` on the changed file (see above).
-3. Run `python3 samples/scripts/finalize_hdic_edit.py` — it auto-detects the changed TSV/TXT files from `git diff` and bumps each file's header `Version` (patch) and `Last update`/`Last modified` date. It never touches data rows and is safe to re-run before committing.
-4. If the edit touched a cross-referenced ID, run `validate_hdic_integrity.py` (see above).
-5. Show the diff and propose a commit message; do not commit without explicit user approval.
+For a small, targeted correction (one or a few rows in one file), use the `hdic-data-edit` skill (`.claude/skills/hdic-data-edit/`), which combines: locate the row, edit it, validate structure and cross-references (`hdic-tsv-validate` skill, wrapping `count_basic_stats.py` and `validate_hdic_integrity.py`), bump the header via `finalize_hdic_edit.py`, then present the diff and a proposed commit message for approval. See that skill for the full checklist, including how to handle ambiguous annotation values (do not guess their meaning — confirm with the user) and how to keep tooling commits separate from data commits.
 
 ## TSV File Conventions
 

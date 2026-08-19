@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.115
+#   Version: 1.1.116
 #   Date published: 2016-09-27
-#   Last modified: 2026-07-02
+#   Last modified: 2026-08-19
 #
 #   Copyright (c) 2016-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -508,7 +508,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_028_B62	v1#7	玉	璯	Embedded_clerical		璯：苦話反。	a011a051		埋字A。	10	49
 1_028_B63	v1#7	玉	𤫊	Regular_seal		力經反。祐也，巫也，神也，福也，善。	a011a042			10	48
 1_028_B631	v1#7	玉	珝	Omitted		Omitted	a011a043			10	49
-1_029_A21	v1#8	玨	𨌥	Regular_seal		扶福反。〔玹：胡蠲反。〕〔珝：吁羽反。〕	△(a011b82)		有埋字A二字。	10	#N/A
+1_029_A21	v1#8	玨	𨌥	Regular_seal		扶福反。〔玹：胡蠲反。〕〔珝：吁羽反。〕	△(a011b082)		有埋字A二字。	10	#N/A
 1_029_A22	v1#8	玨	玹	Embedded_clerical		玹：胡蠲反。	△		埋字A。	10	#N/A
 1_029_A23	v1#8	玨	珝	Embedded_clerical		珝：吁羽反。	△		埋字A。	10	#N/A
 1_029_A24	v1#8	玨	班	Regular		補姦反。別次也，賦也，徧也，位也，列也，賜也，布也，還。〔琙：胡■反。〕〔璯：苦話反。〕	a011b092		有埋字A。■：原文似⿰日血，呂作恤。	10	54
@@ -834,7 +834,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_038_A42	v2#13	田	疇	Regular		直流反。類也，政也，治田也。或壽字。	a017b042			17	89
 1_038_A421	v2#13	田	𤲮	Songben-Yupian		#	a017b043			17	89
 1_038_A51	v2#13	田	甾	Regular		側飢反。業也。〔釐：力之反。理也。〕	a017b031		有埋字A。	17	89
-1_038_A52	v2#13	田	釐	Embedded_clerical		釐：力之反。理也。	△(a017b11)		埋字A。	17	#N/A
+1_038_A52	v2#13	田	釐	Embedded_clerical		釐：力之反。理也。	△(a017b011)		埋字A。	17	#N/A
 1_038_A53	v2#13	田	畬	Regular		与居反。〔畭：同上。〕〔𤰩：同上。〕	a017b032		有埋字B二字。	17	89
 1_038_A54	v2#13	田	畭	Embedded_clerical		畭：同上。	a017b032		埋字B。被注字在宋本《玉篇》畬字注。	17	89
 1_038_A55	v2#13	田	𤰩	Embedded_clerical		𤰩：同上。	a017b041		埋字B。	17	89
@@ -4600,7 +4600,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_073_B32	v7#82	肉	胓	Regular		蒲京反。牛羊脂也。	a072b042			112	550
 2_073_B41	v7#82	肉	䏳	Regular		上列反。舌胓䏳也。	a072b043			112	550
 2_073_B42	v7#82	肉	肚	Regular		徒古反。䐗犬胃也。	a072b044			112	550
-2_073_B51	v7#82	肉	𦝨	Regular		公理反。臞也。	△(II68ウ5)			112	#N/A
+2_073_B51	v7#82	肉	𦝨	Regular		公理反。臞也。	△(a070b061)			112	#N/A
 2_073_B52	v7#82	肉	膕	Regular		過麥反。曲脚中也。	a072b045			112	550
 2_073_B61	v7#82	肉	䏨	Regular		竹罪反。火(大)腫也。	a072b046			112	550
 2_073_B62	v7#82	肉	𦞙	Regular		化罪反。大腫也。	a072b051			112	551
@@ -8409,7 +8409,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 4_030_A22	v13#162	艸	芍	Regular		都歷反。蓮中子也。	b024a063		掲出字：原作芕。呂按：此字頭原誤。掲出字作“菂”。	209	1035
 4_030_A31	v13#162	艸	𦯪	Regular		下了反。鳧𦶉。似如反。苗如龍鬚，根如指，黑可食。	△		掲出字：原作“𦱜”。龍：大字。𦶉：宮澤立項，非。	209	#N/A
 4_030_A31-Miyazawa	v13#162	艸	菞	Regular	宮		△			209	#N/A
-4_030_A32	v13#162	艸	𦶉	Regular			△(IV31ウ5)			209	#N/A
+4_030_A32	v13#162	艸	𦶉	Regular			△(b024b052)		宮澤：△(IV31ウ5)。	209	#N/A
 4_030_A41	v13#162	艸	薂	Regular		下了反。蓮實。	b024a064			209	1035
 4_030_A411	v13#162	艸	菂	Songben-Yupian		#	b024a071			209	1035
 4_030_A42	v13#162	艸	芍	Regular		時灼反。芍藥香草五味也。離草。	b024a063			209	1035

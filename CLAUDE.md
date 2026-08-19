@@ -29,6 +29,8 @@ python3 samples/statistics/count_basic_stats.py KRM.tsv --output report.txt
 
 Run this tool before opening any TSV in Excel or processing it with scripts to detect malformed rows, missing TAB separators, or irregular column counts.
 
+**Before committing any change to a root-level `*.tsv`/`*.txt` dataset file, run `count_basic_stats.py` on each changed file and confirm `irregular_row_count == 0` and `max_column_count_seen` matches `column_count`.** This is not optional — several past corrections (see `samples/logs/`) were only caught after the fact because this check was skipped before committing.
+
 ## TSV File Conventions
 
 All HDIC datasets follow these conventions:
@@ -85,12 +87,31 @@ HDIC/
 ├── *.tsv / *.txt     # Primary dataset files (root level)
 ├── samples/
 │   ├── statistics/   # Analysis scripts (count_basic_stats.py)
+│   ├── scripts/      # Reusable utility scripts (e.g. IDS/UCS matching across dictionaries)
 │   ├── planning/     # Design notes (HDIC_root_files_survey.md is the authoritative file inventory)
 │   ├── agents/       # AGENTS.md — agent guidance
 │   └── logs/         # Change logs for data corrections
+├── work/             # Scratch workspace (gitignored) — intermediate/derived files only,
+│                      # never the only copy of a reusable script; promote reusable scripts
+│                      # to samples/scripts/ instead of leaving them here
 └── v1.2/             # Deprecated; KRM data moved to github.com/shikeda/krm
 ```
 
 ## Key Reference
 
 `samples/planning/HDIC_root_files_survey.md` contains a comprehensive file-by-file inventory with column names, row counts, and structural notes for every dataset in the repository root. Consult it before writing analysis scripts.
+
+## Commands
+
+### Safe to run without asking
+
+Read-only inspection commands can be run freely:
+
+- `git status`, `git diff`, `git log`, `git show` (read-only forms)
+- `python3 samples/statistics/count_basic_stats.py ...` (and other read-only scripts under `samples/`)
+
+### Always confirm before running
+
+- `git push` (sends data externally)
+- `git commit` (unless the user has already approved the specific change)
+- Any destructive filesystem operation (`rm`, overwriting a root-level `*.tsv`/`*.txt` dataset file) on files not created in the current session

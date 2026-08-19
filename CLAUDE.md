@@ -31,6 +31,18 @@ Run this tool before opening any TSV in Excel or processing it with scripts to d
 
 **Before committing any change to a root-level `*.tsv`/`*.txt` dataset file, run `count_basic_stats.py` on each changed file and confirm `irregular_row_count == 0` and `max_column_count_seen` matches `column_count`.** This is not optional — several past corrections (see `samples/logs/`) were only caught after the fact because this check was skipped before committing.
 
+If the change touches an ID that other files cross-reference (`SJID`/`SJ2ID`, `TBID`, `SYID`, `YYID`, `TSJ2ID`), also run `python3 samples/scripts/validate_hdic_integrity.py` to check that cross-file references still resolve (read-only; does not modify data). As of 2026-08 there are known pre-existing broken references unrelated to any single edit — a non-zero exit code only means *some* reference is broken, not necessarily one you just introduced; check whether the IDs you touched appear in the output before treating it as a regression.
+
+## Editing a Single Data Row
+
+For a small, targeted correction (one or a few rows in one file):
+
+1. Locate the row (`grep`) and edit it in place with the `Edit` tool, changing only the cell(s) that need correcting.
+2. Run `count_basic_stats.py` on the changed file (see above).
+3. Run `python3 samples/scripts/finalize_hdic_edit.py` — it auto-detects the changed TSV/TXT files from `git diff` and bumps each file's header `Version` (patch) and `Last update`/`Last modified` date. It never touches data rows and is safe to re-run before committing.
+4. If the edit touched a cross-referenced ID, run `validate_hdic_integrity.py` (see above).
+5. Show the diff and propose a commit message; do not commit without explicit user approval.
+
 ## TSV File Conventions
 
 All HDIC datasets follow these conventions:

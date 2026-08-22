@@ -112,6 +112,14 @@ def rank_candidates(candidates: list[dict], target_readings: set[str]) -> list[d
     return sorted(candidates, key=score)
 
 
+def is_na(value) -> bool:
+    return value is not None and str(value).strip().upper() == "#N/A"
+
+
+def is_blank(value) -> bool:
+    return value in (None, "")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("tsj_wakun_xlsx", type=Path)
@@ -123,6 +131,13 @@ def main() -> None:
     parser.add_argument("--max-candidates", type=int, default=3)
     parser.add_argument("--format", choices=["text", "tsv"], default="text")
     parser.add_argument("--output", type=Path)
+    parser.add_argument(
+        "--na-as-missing",
+        action="store_true",
+        help="Also treat cells whose value is exactly '#N/A' (case-insensitive) as needing candidates, "
+        "in addition to truly blank cells. Use this to double-check rows already marked #N/A "
+        "by prior manual research against the reference sheets.",
+    )
     args = parser.parse_args()
 
     fields = [f.strip() for f in args.fields.split(",") if f.strip()]
@@ -148,10 +163,18 @@ def main() -> None:
     results = []
     for r in tsj_rows:
         missing = []
-        if "対照語彙表" in fields and r[taisho_i] in (None, ""):
-            missing.append("対照語彙表")
-        if "pos" in fields and r[pos_i] in (None, ""):
-            missing.append("pos")
+        if "対照語彙表" in fields:
+            v = r[taisho_i]
+            if is_blank(v):
+                missing.append("対照語彙表(blank)")
+            elif args.na_as_missing and is_na(v):
+                missing.append("対照語彙表(#N/A)")
+        if "pos" in fields:
+            v = r[pos_i]
+            if is_blank(v):
+                missing.append("pos(blank)")
+            elif args.na_as_missing and is_na(v):
+                missing.append("pos(#N/A)")
         if not missing:
             continue
 

@@ -122,6 +122,24 @@ def build_classical_entry(row: dict) -> str:
     return "\n".join(lines)
 
 
+def classical_style_code(bunrui_bangou: str, bunrui_koumoku: str) -> str | None:
+    """modern側の分類番号（例: '2.315'）を、classical側の意味分類と同じ5桁コード
+    書式（例: '23150'）に変換する。
+
+    両ファイルの分類コードは共にNINJAL分類語彙表体系の同じ番号を指しており、
+    小数点を除いて右側を0埋めして5桁にするだけで一致することを実データで確認済み
+    （例: modern '2.3064(測定・計算)' <-> classical '23064(測定・計算)'、
+    modern '2.315(読み)' <-> classical '23150(読み)'）。分類番号が空なら None。
+    """
+    bangou = (bunrui_bangou or "").strip()
+    if not bangou:
+        return None
+    digits = bangou.replace(".", "")
+    code5 = digits.ljust(5, "0")
+    koumoku = (bunrui_koumoku or "").strip()
+    return f"{code5}({koumoku})" if koumoku else code5
+
+
 def build_modern_entry(row: dict) -> str:
     heading = row.get("見出し", "").strip()
     lines = [f"### {heading}"]
@@ -142,7 +160,12 @@ def build_modern_entry(row: dict) -> str:
     if hierarchies:
         lines.append(f"- **階層分類**: {' / '.join(hierarchies)}")
 
-    # 分類番号・段落詳細
+    # classical側の意味分類と直接比較できる形の分類コード（分類番号から導出）
+    code = classical_style_code(row.get("分類番号"), row.get("分類項目"))
+    if code:
+        lines.append(f"- **意味分類**: {code}")
+
+    # 分類番号・段落詳細（modern固有の情報として、元の書式のまま併記）
     cat_num = (row.get("分類番号") or "").strip()
     details = []
     if is_valid_val(row.get("段落番号")):
@@ -236,10 +259,10 @@ def main() -> None:
         title="分類語彙表（現代語）",
         build_entry=build_modern_entry,
         sort_key_field="読み",
-        # か行・さ行はファイルサイズが大きく（約5.5MB）NotebookLM等の1ソース上限に
-        # 抵触しうるため、個々のカナ単位（か・き・く・け・こ / さ・し・す・せ・そ）に
-        # さらに分割する。た行（約3.9MB）は分割不要と確認済み（NotebookLMで読込確認）。
-        fine_split_rows=frozenset({"か", "さ"}),
+        # か・さ・た・は行はファイルサイズが大きく（意味分類フィールド追加後は
+        # 4〜5MB台）NotebookLM等の1ソース上限に抵触しうるため、個々のカナ単位に
+        # さらに分割する。
+        fine_split_rows=frozenset({"か", "さ", "た", "は"}),
     )
 
     convert(

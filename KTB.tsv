@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.116
+#   Version: 1.1.117
 #   Date published: 2016-09-27
-#   Last modified: 2026-08-19
+#   Last modified: 2026-08-24
 #
 #   Copyright (c) 2016-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -4572,7 +4572,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 2_072_B43	v7#82	肉	脕	Regular		無怨反。客也，澤也，脂膏也。	a072a075			111	548
 2_072_B51	v7#82	肉	胺	Regular		一曷反。敗也。	a072a094			111	548
 2_072_B52	v7#82	肉	腅	Regular		達濫反。肴也。⿰口臽字。	a072a095			111	548
-2_072_B61	v7#82	肉	䐲	Regular		治輒反。惀也，生熟半。	a072a096			111	549
+2_072_B61	v7#82	肉	䐲	Regular		治輒反。惀也，生熟半。	a072a096		惀：當作“爚”。	111	549
 2_072_B62	v7#82	肉	䐚	Regular		子力反。膏澤也。	a072a102			111	549
 2_073_A11	v7#82	肉	𦟠	Regular		子六反。膏也。	a072a103			111	549
 2_073_A111	v7#82	肉	𦢑	Songben-Yupian		#	a072a104			111	549

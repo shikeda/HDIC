@@ -9,9 +9,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_definitions.tsv
-#   Version: 1.2.48
+#   Version: 1.2.49
 #   Date published: 2018-06-28
-#   Last modified: 2026-08-24
+#   Last modified: 2026-08-25
 #
 #   Copyright (c) 2018-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -595,7 +595,7 @@ s0113a302	胜	桑丁反。平。奈万久佐志。		29
 s0113a303	胊	近俱反。平：脯也，肴也。布久〻〻志。一曰地名也。		29
 s0113a401	𦙺	古遐反。病也。加佐波太。		29
 s0113a402	䐒	都家反。柧病也，𦙺也，瘡也，𤴾也。		29
-s0113a403	𦡶	古銜反。膽也。伊。		29
+s0113a403	𦡶	古銜反。膽也。伊。	𦡶疑𥌈之誤。𥌈有古銜切“視也”、格懺切“瞻也”。本書疑誤字形，又誤“瞻也”爲“膽也”；訓“伊”乃據“膽也”所加。	29
 s0113a404	㬹	測丁反。脚。支比〻須乃須知。又与保呂乃須知。脚之後大觔。	測：享和本作“側”。脚：享和本作“脚筋也”。新撰字鏡攷異8頁。	30
 s0113a501	脝	許康反。平：張也，脹也。又分脹也。波留。又布止留。又久佐留。又保止去留。	脝：原作“⿰肉亰”，享和本作“⿰肉享”，今改。脹也：享和本作“肛脹也”。新撰字鏡攷異9頁。	30
 s0113a502	胼	敷耕反。平：胷下也，腹也，皮上堅也，胝也。		30

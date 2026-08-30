@@ -9,9 +9,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_definitions.tsv
-#   Version: 1.2.53
+#   Version: 1.2.54
 #   Date published: 2018-06-28
-#   Last modified: 2026-08-29
+#   Last modified: 2026-08-30
 #
 #   Copyright (c) 2018-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -736,7 +736,7 @@ s0115a304	脢	門回反。平：脊傍肉。曽志之ー。	傍：享和本作�
 s0115a401	腩	南音。臛。志布弖。	“志布弖”蓋當義注“臛”，其語構、語源未詳。	37
 s0115a402	胯	苦故反。去：股也。人乃毛〻。		37
 s0115a403	䐺	太南反。平：厚味也。宇万之。	厚味也：享和本作“厚味”。宇万之：音訓篇立同作，享和本作“宇万志”。	37
-s0115a404	胘	下年反。平：肚，牛百𦯧。三介。又三乃。		37
+s0115a404	胘	下年反。平：肚，牛百𦯧。三介。又三乃。	“三介”即みげ，《萬葉集》有“美義”。“三乃”即みの，亦謂牛胃，當非誤寫。今亦有牛胃稱“みの”者。	37
 s0115a501	𦣍	戸康反。平：熟肉也。		37
 s0115a502	䐥	於孔反。氣皃。		37
 s0115a503	脰	大候反。去：項衡駕處也，猶項也。宇奈己不。又宇奈志。		37

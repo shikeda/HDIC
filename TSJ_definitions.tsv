@@ -9,9 +9,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_definitions.tsv
-#   Version: 1.2.58
+#   Version: 1.2.59
 #   Date published: 2018-06-28
-#   Last modified: 2026-09-02
+#   Last modified: 2026-09-03
 #
 #   Copyright (c) 2018-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -2146,7 +2146,7 @@ s0206b803	目λ	上古文。		124
 s0206b804	𥃧	古紹反。上：目重瞼也。波坐目。		124
 s0206b805	睎	虚衣反。視也。		124
 s0207a101	瞼	居儉反。上：目表皮也。万奈不太。		124
-s0207a102	矇	亡紅反。平：有珠子而无所見也。阿支自比。		124
+s0207a102	矇	亡紅反。平：有珠子而无所見也。阿支自比。	“阿支自比”即アキジヒ，疑由“アキ（開・明）”與“シヒ（廢，謂器官失其用）”構成。矇者有眸子而無所見，外形雖存而視用已廢，故以此訓之。	124
 s0207a103	眚	先定反。去：目生醫也。麻介。	醫：當作“翳”或“瞖”。	124
 s0207a104a	𥈾窅	二字同。烏血反。入：深目也。女不可。	享和本無“二字”。烏血：甲本乙本同作享和本作“鳥血”非。女：享和本作“目”。新撰字鏡攷異21頁。	124
 s0207a201	𥋙	口甲反。入：一目閇。須加目。		124

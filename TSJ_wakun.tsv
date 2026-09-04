@@ -9,9 +9,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_wakun.tsv
-#   Version: 1.1.19
+#   Version: 1.1.20
 #   Date published: 2026-01-17
-#   Last modified: 2026-09-03
+#   Last modified: 2026-09-04
 #
 #   Copyright (c) 2018-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -308,8 +308,8 @@ s0120b501	sj_w00225	新54-51	烄	単字	1	2	牟須	ムス（烄）	烄	牟須	07
 s0120b501	sj_w00226	新54-51	烄	単字	1	2	也久	ヤク（烄）	烄	也久	07a21	56	やく	listed	200204325ed5MDCp0c0g		動詞
 s0120b503	sj_w00227	新54-53	㷧	単字	1	2	乃火	ノビ（㷧）				56	のび	✓	2002034bd27a1u9eU14M		名詞
 s0120b601	sj_w00228	新54-61	𤏮	単字	1	5	己志支和良	コシキワラ（𤏮）	𤏮	己志支和良	07a31	56	こしきわら	✓	2002018f3a3aL7U81XAX		名詞
-s0120b602	sj_w00229	新54-62	⿰女廮	単字	1	3	宇牟須	ウムス（⿰女廮）	⿰女廮	宇牟須	07a32	56	うむす	✓	2002006f83d9278hOgFk		動詞
-s0120b602	sj_w00230	新54-62	⿰女廮	単字	1	3	可志久	カシク（⿰女廮）	⿰女廮	可志久	07a32	56	かしく	日国表記未収	200200cf8d20b0Z81w21		動詞
+s0120b602	sj_w00229	新54-62	⿰火廮	単字	1	3	宇牟須	ウムス（⿰火廮）	⿰火廮	宇牟須	07a32	56	うむす	✓	2002006f83d9278hOgFk		動詞
+s0120b602	sj_w00230	新54-62	⿰火廮	単字	1	3	可志久	カシク（⿰火廮）	⿰火廮	可志久	07a32	56	かしく	日国表記未収	200200cf8d20b0Z81w21		動詞
 s0120b702	sj_w00231	新54-72	煠	単字	1	3	奈由豆	ナユヅ（煠）	煠⿰氵⿳口戈日⿰肉⿳口一肉	奈由豆	06a82	57	なゆづ	✓ゆづ	200204492d1b5RA2oxCm		動詞
 s0120b703	sj_w00232	新54-73	𤏙	単字	1	5	阿太ヘ(〻)志	アタタケシ（𤏙）	𤏙燸	阿太〻介志	07a41	57	あたたけし	✓享和本	200200171e7enWNY2g0K		形容詞
 s0120b703	sj_w00233	新54-73	𤏙	単字	1	3	介夫利	ケブリ（𤏙）	𤏙燸	介夫利	07a41	57	けぶり	listed	2002015f03bf10ciA4un		名詞

@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.117
+#   Version: 1.1.118
 #   Date published: 2016-09-27
-#   Last modified: 2026-08-24
+#   Last modified: 2026-09-06
 #
 #   Copyright (c) 2016-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -1923,7 +1923,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_075_B412	v3#35	女	妖	Songben-Yupian		#	a033b023			45	221
 1_075_B42	v3#35	女	𡝩	Regular		於鴞反。小也，巧也。	a033b024		呂按此字頭原訛，p.45。	45	221
 1_075_B51	v3#35	女	嫈	Regular		迂丁反。契清也。	a036b033			45	247
-1_075_B52	v3#35	女	佞	Regular		奴定反。口杖也。	a033b025			45	221
+1_075_B52	v3#35	女	佞	Regular		奴定反。口杖(材)也。	a033b025		杖：當作「材」，宋本《玉篇》「口材也」。	45	221
 1_075_B61	v3#35	女	嫪	Regular		力高反力報二反。姻也，妬也，惜也，戀不去也。	a033b031		力高反：反字之右，有抹消符。	45	221
 1_075_B62	v3#35	女	婟	Regular		胡故反。妬也，孌惜也。	a033b032			45	221
 1_075_B621	v3#35	女	嫭	Songben-Yupian		#	a033b033			45	221

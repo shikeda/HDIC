@@ -28,6 +28,9 @@ work/
 xlsx/
 output
 
+# 作業用の中間生成物
+TSJ_wakun_analysis.tsv
+
 # Jupyter
 
 .ipynb_checkpoints/

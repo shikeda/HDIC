@@ -10,9 +10,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_entries.tsv
-#   Version: 1.1.85
+#   Version: 1.1.86
 #   Date published: 2018-06-23
-#   Last modified: 2026-09-04
+#   Last modified: 2026-09-23
 #
 #   Copyright (c) 2018-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -15767,7 +15767,7 @@ s0901b702	s0901b702a	新516-72	v9#85	鼈部第八十六	⿱宀卄	◯	辨別不�
 s0901b703	s0901b702a	新516-73	v9#85	鼈部第八十六	⿱宀刂	◯	辨別不能			
 s0901b704	s0901b704	新516-74	v9#85	鼈部第八十六	鼈	◯	辨別不能		6_103_B11	c047a093
 s0901b705	s0901b705	新516-75	v9#85	鼈部第八十六	黿	◯	辨別不能		6_103_B12	c047a101
-s0901b801	s0901b801	新516-81	v9#85	鼈部第八十六	𪓸	◯	辨別不能	參看「鼉」字。		
+s0901b801	s0901b801	新516-81	v9#85	鼈部第八十六	鼉	◯	辨別不能		6_103_B21	c047a104
 s0901b802	s0901b802	新516-82	v9#85	鼈部第八十六	鼃	◯	辨別不能		6_103_B22	c047a102
 s0901b803	s0901b803	新516-83	v9#85	鼈部第八十六	䵷	◯	辨別不能		6_103_B31	c047a103
 s0901b804	s0901b804	新516-84	v9#85	鼈部第八十六	𪓰	◯	辨別不能		6_103_B32	c047a105

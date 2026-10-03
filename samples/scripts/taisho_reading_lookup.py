@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """
-読み（カナ）をキーに、日本古典対照分類語彙表.xlsx の2シートから
-`対照語彙表`の候補を検索する（読み取り専用）。
+読み（カナ）をキーに、日本古典対照分類語彙表（bunruigoi_classical.tsv /
+bunruigoi_modern.tsv）の2ファイルから`対照語彙表`の候補を検索する
+（読み取り専用）。
 
 tsj_wakun_ref_candidates.py は entry_text（見出し漢字）の完全一致でしか
 探せないため、「ヤマノミネ（嶼）」のような定義訓・複合的な読みに対しては
@@ -11,9 +12,13 @@ tsj_wakun_ref_candidates.py は entry_text（見出し漢字）の完全一致�
 ——これは読み手の言語知識が必要な作業であり、本スクリプトはあくまで
 「抽出済みの読みで参照表を引く」検索窓の役割に徹する。
 
+元データは ~/Hdic_data/HDIC/xlsx/日本古典対照分類語彙表.xlsx だが、
+openpyxlでの読み込みに数秒かかるため、同内容をTSVに変換した
+~/codex/jisho/bunrui/{classical,modern}/tsv/bunruigoi_*.tsv を代わりに
+読む（読み込みが約30倍速くなる）。
+
 使い方:
   # ひらがな・カタカナどちらでもよい。複数指定すると1回の起動でまとめて引ける
-  # （xlsx読み込みに数秒かかるため、まとめて渡す方が効率的）
   python3 samples/scripts/taisho_reading_lookup.py みね まく つく
 
   # 完全一致で見つからない場合に部分一致（読みの前方一致・部分一致）も試す
@@ -23,13 +28,17 @@ tsj_wakun_ref_candidates.py は entry_text（見出し漢字）の完全一致�
 from __future__ import annotations
 
 import argparse
+import csv
 import sys
 import unicodedata
 from pathlib import Path
 
-import openpyxl
-
-DEFAULT_CLASSICAL_XLSX = Path("xlsx/日本古典対照分類語彙表.xlsx")
+DEFAULT_CLASSICAL_TSV = Path(
+    "~/codex/jisho/bunrui/classical/tsv/bunruigoi_classical.tsv"
+).expanduser()
+DEFAULT_MODERN_TSV = Path(
+    "~/codex/jisho/bunrui/modern/tsv/bunruigoi_modern.tsv"
+).expanduser()
 
 
 def to_hiragana(text: str) -> str:
@@ -40,24 +49,28 @@ def normalize(text: str) -> str:
     return to_hiragana(unicodedata.normalize("NFKC", text)).strip()
 
 
+def load_tsv_rows(path: Path) -> tuple[list[str], list[list[str]]]:
+    with path.open(encoding="utf-8-sig", newline="") as f:
+        reader = csv.reader(f, delimiter="\t")
+        header = next(reader)
+        return header, list(reader)
+
+
 def load_classical(path: Path) -> list[dict]:
-    wb = openpyxl.load_workbook(path, read_only=True, data_only=True)
-    ws = wb["日本古典対照分類語彙表"]
-    rows = ws.iter_rows(values_only=True)
-    header = next(rows)
+    header, rows = load_tsv_rows(path)
     idx = {h: i for i, h in enumerate(header)}
     out = []
     for r in rows:
-        midashi = r[idx["見出し"]]
+        midashi = r[idx["見出し"]] if idx["見出し"] < len(r) else ""
         if not midashi:
             continue
         out.append(
             {
                 "reading": normalize(midashi),
-                "kanji": r[idx["漢字"]] or "",
-                "pos_raw": r[idx["品詞"]] or "",
-                "word_type": r[idx["語種"]] or "",
-                "category": r[idx["意味分類"]] or "",
+                "kanji": (r[idx["漢字"]] if idx["漢字"] < len(r) else "") or "",
+                "pos_raw": (r[idx["品詞"]] if idx["品詞"] < len(r) else "") or "",
+                "word_type": (r[idx["語種"]] if idx["語種"] < len(r) else "") or "",
+                "category": (r[idx["意味分類"]] if idx["意味分類"] < len(r) else "") or "",
                 "source": "classical",
             }
         )
@@ -65,24 +78,21 @@ def load_classical(path: Path) -> list[dict]:
 
 
 def load_modern(path: Path) -> list[dict]:
-    wb = openpyxl.load_workbook(path, read_only=True, data_only=True)
-    ws = wb["bunruidb-fam"]
-    rows = ws.iter_rows(values_only=True)
-    header = next(rows)
+    header, rows = load_tsv_rows(path)
     idx = {h: i for i, h in enumerate(header)}
     out = []
     for r in rows:
-        yomi = r[idx["読み"]]
+        yomi = r[idx["読み"]] if idx["読み"] < len(r) else ""
         if not yomi:
             continue
-        bangou = r[idx["分類番号"]]
-        koumoku = r[idx["分類項目"]]
+        bangou = r[idx["分類番号"]] if idx["分類番号"] < len(r) else ""
+        koumoku = r[idx["分類項目"]] if idx["分類項目"] < len(r) else ""
         out.append(
             {
                 "reading": normalize(yomi),
-                "kanji": r[idx["見出し本体"]] or "",
-                "pos_raw": r[idx["類"]] or "",
-                "word_type": r[idx["部門"]] or "",
+                "kanji": (r[idx["見出し本体"]] if idx["見出し本体"] < len(r) else "") or "",
+                "pos_raw": (r[idx["類"]] if idx["類"] < len(r) else "") or "",
+                "word_type": (r[idx["部門"]] if idx["部門"] < len(r) else "") or "",
                 "category": f"{bangou}({koumoku})" if bangou else "",
                 "source": "modern",
             }
@@ -100,14 +110,16 @@ def search(entries: list[dict], query: str, fuzzy: bool) -> list[dict]:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("queries", nargs="+", help="検索する読み（ひらがな・カタカナ可）")
-    parser.add_argument("--classical-xlsx", type=Path, default=DEFAULT_CLASSICAL_XLSX)
+    parser.add_argument("--classical-tsv", type=Path, default=DEFAULT_CLASSICAL_TSV)
+    parser.add_argument("--modern-tsv", type=Path, default=DEFAULT_MODERN_TSV)
     parser.add_argument("--fuzzy", action="store_true", help="完全一致がない場合に部分一致も試す")
     parser.add_argument("--max-results", type=int, default=20)
     args = parser.parse_args()
 
-    print(f"Loading {args.classical_xlsx} ...", file=sys.stderr)
-    classical = load_classical(args.classical_xlsx)
-    modern = load_modern(args.classical_xlsx)
+    print(f"Loading {args.classical_tsv} ...", file=sys.stderr)
+    classical = load_classical(args.classical_tsv)
+    print(f"Loading {args.modern_tsv} ...", file=sys.stderr)
+    modern = load_modern(args.modern_tsv)
     print(f"Loaded: classical={len(classical)} modern={len(modern)}", file=sys.stderr)
 
     for raw_query in args.queries:

@@ -9,9 +9,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_definitions.tsv
-#   Version: 1.2.73
+#   Version: 1.2.74
 #   Date published: 2018-06-28
-#   Last modified: 2026-10-20
+#   Last modified: 2026-10-30
 #
 #   Copyright (c) 2018-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -1964,7 +1964,7 @@ s0204a301	頸	居郢反。上：項也，頭莖也。		114
 s0204a302	頚	上字。		114
 s0204a303	頲	他鼎反。上：頭狹也，宜也，正直也。		114
 s0204a304	𩕳	乃挺反。上：頂𩕳也。		114
-s0204a305	頩	疋向反。上：艵字，斂容。		114
+s0204a305	頩	疋向(迥)反。上：艵字，斂容。		114
 s0204a401	䭭	書久反。上：人初産。		114
 s0204a402	䪴	之稔反。上：頭骨也。	稔：原作“⿰彳念”。	114
 s0204a403	顩	魚儉反。上：𩑳也，䫡也，狹鋭頥皃。		114

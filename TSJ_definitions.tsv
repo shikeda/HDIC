@@ -9,9 +9,9 @@
 #   A Hanzi (Chinese character) dictionary.
 #
 #   TSJ_definitions.tsv
-#   Version: 1.2.74
+#   Version: 1.2.75
 #   Date published: 2018-06-28
-#   Last modified: 2026-10-30
+#   Last modified: 2026-11-04
 #
 #   Copyright (c) 2018-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -15521,7 +15521,7 @@ s1016b503	授	時留反。予也，与也，付也，數也。		853
 s1016b504a	指β指γ指	三形作同。之死反。上：示也，夫者將指也，斥也。		853
 s1016b603	捺	奴頼反。菓也。又奴曷反。入：楉榴，奈也，木括也。木部。		853
 s1016b604a	拔抜	二形同。蒲八反。入：出也，擢也，引也，輔也。		853
-s1016b701b	⿰扌𠯁捉	二形同。但角反。掘也，捉持也，𥂕也。		853
+s1016b701b	⿰扌𠯁捉	二形同。但角反。掘(握)也，捉持也，𥂕也。	掘：當作“握”。𥂕：疑當作“執”。	853
 s1016b703	摸	並各反。又薄胡反。平：打旅(挨)也，撃也，𠝤。		853
 s1016b704	接	子葉反。支也，持也，引也，跡也，交也，會對也。		853
 s1016b801	誓	制音。約信曰誓，謹也，所以約謹戒。		853

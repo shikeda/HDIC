@@ -7,7 +7,7 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.121
+#   Version: 1.1.122
 #   Date published: 2016-09-27
 #   Last modified: 2026-11-04
 #
@@ -13362,7 +13362,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 5_124_B41	v20#304	日	㫺	Regular		思亦反。夜也，古也，昨也。	b086a061			331	1616
 5_124_B42	v20#304	日	㫘	Regular		亡乙反。不見也。	b086a065			331	1617
 5_124_B51	v20#304	日	晐	Regular		居来反。備感也，皆兼也。	b086a066			331	1617
-5_124_B52	v20#304	日	昆	Regular		孤魂反。後也，弟也，周也，盛也。	b086a071		周：當作同。	331	1617
+5_124_B52	v20#304	日	昆	Regular		孤魂反。後也，弟也，周也，盛也。	b086a071		周：當作“同”。	331	1617
 5_124_B521	v20#304	日	晜	Songben-Yupian		#	b086a072			331	1617
 5_124_B61	v20#304	日	曈	Regular		徒東反。曨也，欲明。	b086a075			331	1618
 5_124_B62	v20#304	日	曨	Regular		力東反。曈也。	b086a081			331	1618

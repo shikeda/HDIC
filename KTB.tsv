@@ -7,9 +7,9 @@
 #   Buddhist monk Kukai of the Heian period 空海, c. 827-835.
 #   A Hanzi (Chinese character) dictionary.
 #
-#   Version: 1.1.122
+#   Version: 1.1.123
 #   Date published: 2016-09-27
-#   Last modified: 2026-11-04
+#   Last modified: 2026-11-20
 #
 #   Copyright (c) 2016-2026 HDIC project, IKEDA Shoju (Chair, Professor Emeritus, Hokkaido University)
 #   LI Yuan (Person in charge of text data proofreading)
@@ -759,7 +759,7 @@ TBID	TB_vol_radical	TB_radical	Entry	Entry_type	Entry_diff	TB_def	SYID	YYID	TB_r
 1_036_A51	v2#9	土	㘳	Regular		區遊反。丘也。〔墟：去餘反。邑也，居也。〕[㘳：]區遊反。共(丘)字也。虚也，空也。	▽		有埋字A・脫字A。	15	#N/A
 1_036_A52	v2#9	土	墟	Embedded_clerical		墟：去餘反。邑也，居也。	a015b074		埋字A。	15	75
 1_036_A521	v2#9	土	㘳	Regular-Omitted		[㘳]：區遊反。共(丘)字也。虚也，空也。			脫字A。	15	#N/A
-1_036_A61	v2#9	土	垂	Regular		時規反。遠，邊也。〔𡍮：同上。〕	a015b075		有埋字B。	15	75
+1_036_A61	v2#9	土	垂	Regular		時規反。遠邊也。〔𡍮：同上。〕	a015b075		有埋字B。	15	75
 1_036_A62	v2#9	土	𡍮	Embedded_clerical		同上。	a015b081		埋字B。	15	75
 1_036_A63	v2#9	土	堆	Regular		都廻反。高也，𨺙也。〔塠：同上。〕	a015b083		有埋字B。	15	76
 1_036_A64	v2#9	土	塠	Embedded_clerical		同上。	a015b084		埋字B。	15	76
